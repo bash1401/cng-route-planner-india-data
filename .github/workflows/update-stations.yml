@@ -1,0 +1,33 @@
+name: Update CNG Stations Dataset
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-dataset:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Overpass extraction
+        run: python scripts/extract_cng_stations.py
+
+      - name: Commit and push if dataset changed
+        run: |
+          if git diff --quiet dataset/stations.json; then
+            echo "No dataset changes."
+            exit 0
+          fi
+          git add dataset/stations.json
+          git commit -m "chore(dataset): refresh stations from overpass"
+          git push
