@@ -72,42 +72,10 @@
     "state": ""
   },
   {
-    "id": "osm-node-2084482683",
-    "name": "Bharat Petroleum",
-    "latitude": 28.563247,
-    "longitude": 77.264743,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-3504368176",
     "name": "Bharat Petroleum",
     "latitude": 18.482702,
     "longitude": 73.826623,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-6499756350",
-    "name": "Bharat Petroleum",
-    "latitude": 31.60096,
-    "longitude": 76.17792,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-10748918307",
-    "name": "Bharat Petroleum",
-    "latitude": 31.389969,
-    "longitude": 76.344562,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-11752969064",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
     "city": "",
     "state": ""
   },
@@ -152,6 +120,38 @@
     "state": ""
   },
   {
+    "id": "osm-node-2084482683",
+    "name": "Bharat Petroleum",
+    "latitude": 28.563247,
+    "longitude": 77.264743,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-6499756350",
+    "name": "Bharat Petroleum",
+    "latitude": 31.60096,
+    "longitude": 76.17792,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-10748918307",
+    "name": "Bharat Petroleum",
+    "latitude": 31.389969,
+    "longitude": 76.344562,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-11752969064",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": ""
+  },
+  {
     "id": "osm-way-920081423",
     "name": "Byco Petrol Pump And Tahir CNG Filling Station",
     "latitude": 33.816885,
@@ -180,6 +180,134 @@
     "name": "CNG Fuel Station",
     "latitude": 28.595924,
     "longitude": 77.029008,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-1444730730",
+    "name": "CNG Station",
+    "latitude": 19.213694,
+    "longitude": 72.837267,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-5393262460",
+    "name": "CNG Station",
+    "latitude": 20.911708,
+    "longitude": 70.362812,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-6992015108",
+    "name": "CNG Station",
+    "latitude": 18.738315,
+    "longitude": 73.857687,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-13313437857",
+    "name": "CNG Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-40734170",
+    "name": "CNG Station",
+    "latitude": 18.985254,
+    "longitude": 72.830855,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-210788895",
+    "name": "CNG Station",
+    "latitude": 18.59839,
+    "longitude": 73.82819,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-220421976",
+    "name": "CNG Station",
+    "latitude": 19.08307,
+    "longitude": 73.001215,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-220926664",
+    "name": "CNG Station",
+    "latitude": 19.011981,
+    "longitude": 73.035811,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-291763577",
+    "name": "CNG Station",
+    "latitude": 19.118038,
+    "longitude": 73.006688,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-640257945",
+    "name": "CNG Station",
+    "latitude": 13.165368,
+    "longitude": 77.62915,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-905418916",
+    "name": "CNG Station",
+    "latitude": 19.044543,
+    "longitude": 72.916476,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1162012633",
+    "name": "CNG Station",
+    "latitude": 18.677292,
+    "longitude": 73.859805,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1210592626",
+    "name": "CNG Station",
+    "latitude": 12.947388,
+    "longitude": 77.5797,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1239012965",
+    "name": "CNG Station",
+    "latitude": 13.057551,
+    "longitude": 77.546644,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1328835914",
+    "name": "CNG Station",
+    "latitude": 12.871422,
+    "longitude": 77.58346,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1363598084",
+    "name": "CNG Station",
+    "latitude": 19.175557,
+    "longitude": 72.864375,
     "city": "",
     "state": ""
   },
@@ -240,14 +368,6 @@
     "state": ""
   },
   {
-    "id": "osm-node-1444730730",
-    "name": "CNG Station",
-    "latitude": 19.213694,
-    "longitude": 72.837267,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-1891103597",
     "name": "CNG Station",
     "latitude": 33.652781,
@@ -280,30 +400,6 @@
     "state": ""
   },
   {
-    "id": "osm-node-3405289054",
-    "name": "CNG Station",
-    "latitude": 22.41874,
-    "longitude": 87.325087,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-4088214489",
-    "name": "CNG Station",
-    "latitude": 23.250805,
-    "longitude": 90.842751,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-4088219867",
-    "name": "CNG Station",
-    "latitude": 23.247843,
-    "longitude": 90.946321,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-4358631802",
     "name": "CNG Station",
     "latitude": 23.057951,
@@ -320,26 +416,10 @@
     "state": ""
   },
   {
-    "id": "osm-node-5393262460",
-    "name": "CNG Station",
-    "latitude": 20.911708,
-    "longitude": 70.362812,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-5743508501",
     "name": "CNG Station",
     "latitude": 28.650427,
     "longitude": 77.268427,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-5783668910",
-    "name": "CNG Station",
-    "latitude": 23.914396,
-    "longitude": 90.258505,
     "city": "",
     "state": ""
   },
@@ -424,14 +504,6 @@
     "state": ""
   },
   {
-    "id": "osm-node-6992015108",
-    "name": "CNG Station",
-    "latitude": 18.738315,
-    "longitude": 73.857687,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-8932878683",
     "name": "CNG Station",
     "latitude": 28.458053,
@@ -448,74 +520,10 @@
     "state": ""
   },
   {
-    "id": "osm-node-13313437857",
-    "name": "CNG Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-40734170",
-    "name": "CNG Station",
-    "latitude": 18.985254,
-    "longitude": 72.830855,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-210788895",
-    "name": "CNG Station",
-    "latitude": 18.59839,
-    "longitude": 73.82819,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-220421976",
-    "name": "CNG Station",
-    "latitude": 19.08307,
-    "longitude": 73.001215,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-220926664",
-    "name": "CNG Station",
-    "latitude": 19.011981,
-    "longitude": 73.035811,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-way-260140440",
     "name": "CNG Station",
     "latitude": 33.643437,
     "longitude": 73.0308,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-291763577",
-    "name": "CNG Station",
-    "latitude": 19.118038,
-    "longitude": 73.006688,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-439377936",
-    "name": "CNG Station",
-    "latitude": 23.718398,
-    "longitude": 90.420914,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-640257945",
-    "name": "CNG Station",
-    "latitude": 13.165368,
-    "longitude": 77.62915,
     "city": "",
     "state": ""
   },
@@ -532,14 +540,6 @@
     "name": "CNG Station",
     "latitude": 28.853685,
     "longitude": 77.124776,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-905418916",
-    "name": "CNG Station",
-    "latitude": 19.044543,
-    "longitude": 72.916476,
     "city": "",
     "state": ""
   },
@@ -568,42 +568,10 @@
     "state": ""
   },
   {
-    "id": "osm-way-1162012633",
-    "name": "CNG Station",
-    "latitude": 18.677292,
-    "longitude": 73.859805,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-way-1174709245",
     "name": "CNG Station",
     "latitude": 28.842084,
     "longitude": 77.101721,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-1210592626",
-    "name": "CNG Station",
-    "latitude": 12.947388,
-    "longitude": 77.5797,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-1239012965",
-    "name": "CNG Station",
-    "latitude": 13.057551,
-    "longitude": 77.546644,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-1267737990",
-    "name": "CNG Station",
-    "latitude": 23.454226,
-    "longitude": 87.471064,
     "city": "",
     "state": ""
   },
@@ -664,18 +632,50 @@
     "state": ""
   },
   {
-    "id": "osm-way-1328835914",
+    "id": "osm-node-3405289054",
     "name": "CNG Station",
-    "latitude": 12.871422,
-    "longitude": 77.58346,
+    "latitude": 22.41874,
+    "longitude": 87.325087,
     "city": "",
     "state": ""
   },
   {
-    "id": "osm-way-1363598084",
+    "id": "osm-node-4088214489",
     "name": "CNG Station",
-    "latitude": 19.175557,
-    "longitude": 72.864375,
+    "latitude": 23.250805,
+    "longitude": 90.842751,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-4088219867",
+    "name": "CNG Station",
+    "latitude": 23.247843,
+    "longitude": 90.946321,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-5783668910",
+    "name": "CNG Station",
+    "latitude": 23.914396,
+    "longitude": 90.258505,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-439377936",
+    "name": "CNG Station",
+    "latitude": 23.718398,
+    "longitude": 90.420914,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1267737990",
+    "name": "CNG Station",
+    "latitude": 23.454226,
+    "longitude": 87.471064,
     "city": "",
     "state": ""
   },
@@ -800,18 +800,18 @@
     "state": ""
   },
   {
-    "id": "osm-node-11817855862",
-    "name": "GAIL Gas",
-    "latitude": 28.940541,
-    "longitude": 77.774445,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-way-1284773488",
     "name": "GAIL Gas",
     "latitude": 13.040554,
     "longitude": 77.61859,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-11817855862",
+    "name": "GAIL Gas",
+    "latitude": 28.940541,
+    "longitude": 77.774445,
     "city": "",
     "state": ""
   },
@@ -880,14 +880,6 @@
     "state": ""
   },
   {
-    "id": "osm-node-5561733975",
-    "name": "HP",
-    "latitude": 28.494525,
-    "longitude": 77.303591,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-node-9132850193",
     "name": "HP",
     "latitude": 19.12805,
@@ -912,6 +904,22 @@
     "state": ""
   },
   {
+    "id": "osm-way-1191572656",
+    "name": "HP",
+    "latitude": 18.436462,
+    "longitude": 73.142262,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-node-5561733975",
+    "name": "HP",
+    "latitude": 28.494525,
+    "longitude": 77.303591,
+    "city": "",
+    "state": ""
+  },
+  {
     "id": "osm-way-348203889",
     "name": "HP",
     "latitude": 28.602123,
@@ -924,14 +932,6 @@
     "name": "HP",
     "latitude": 28.585781,
     "longitude": 77.240414,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-1191572656",
-    "name": "HP",
-    "latitude": 18.436462,
-    "longitude": 73.142262,
     "city": "",
     "state": ""
   },
@@ -1072,6 +1072,62 @@
     "state": ""
   },
   {
+    "id": "osm-way-353148240",
+    "name": "Indian Oil",
+    "latitude": 19.102374,
+    "longitude": 72.919607,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-635317788",
+    "name": "Indian Oil",
+    "latitude": 12.94525,
+    "longitude": 77.618989,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-691897366",
+    "name": "Indian Oil",
+    "latitude": 10.808269,
+    "longitude": 78.681486,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-757974348",
+    "name": "Indian Oil",
+    "latitude": 9.927171,
+    "longitude": 78.099966,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-759984364",
+    "name": "Indian Oil",
+    "latitude": 9.985533,
+    "longitude": 76.248041,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-798300517",
+    "name": "Indian Oil",
+    "latitude": 10.069899,
+    "longitude": 76.33074,
+    "city": "",
+    "state": ""
+  },
+  {
+    "id": "osm-way-1353654972",
+    "name": "Indian Oil",
+    "latitude": 12.904067,
+    "longitude": 77.746729,
+    "city": "",
+    "state": ""
+  },
+  {
     "id": "osm-node-271335830",
     "name": "Indian Oil",
     "latitude": 28.504343,
@@ -1092,14 +1148,6 @@
     "name": "Indian Oil",
     "latitude": 28.564706,
     "longitude": 77.177629,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-node-9835462551",
-    "name": "Indian Oil",
-    "latitude": 23.623407,
-    "longitude": 86.18418,
     "city": "",
     "state": ""
   },
@@ -1160,54 +1208,6 @@
     "state": ""
   },
   {
-    "id": "osm-way-353148240",
-    "name": "Indian Oil",
-    "latitude": 19.102374,
-    "longitude": 72.919607,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-635317788",
-    "name": "Indian Oil",
-    "latitude": 12.94525,
-    "longitude": 77.618989,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-691897366",
-    "name": "Indian Oil",
-    "latitude": 10.808269,
-    "longitude": 78.681486,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-757974348",
-    "name": "Indian Oil",
-    "latitude": 9.927171,
-    "longitude": 78.099966,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-759984364",
-    "name": "Indian Oil",
-    "latitude": 9.985533,
-    "longitude": 76.248041,
-    "city": "",
-    "state": ""
-  },
-  {
-    "id": "osm-way-798300517",
-    "name": "Indian Oil",
-    "latitude": 10.069899,
-    "longitude": 76.33074,
-    "city": "",
-    "state": ""
-  },
-  {
     "id": "osm-way-865695822",
     "name": "Indian Oil",
     "latitude": 26.872674,
@@ -1240,10 +1240,10 @@
     "state": ""
   },
   {
-    "id": "osm-way-1353654972",
+    "id": "osm-node-9835462551",
     "name": "Indian Oil",
-    "latitude": 12.904067,
-    "longitude": 77.746729,
+    "latitude": 23.623407,
+    "longitude": 86.18418,
     "city": "",
     "state": ""
   },
