@@ -1,0 +1,44 @@
+name: Validate New Station Submission
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  validate:
+    # Only run for new-station issues
+    if: contains(github.event.issue.labels.*.name, 'new-station') || contains(github.event.issue.labels.*.name, 'pending-validation')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run validation
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY:   ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:  ${{ github.repository }}
+        run: python scripts/validate_station_issue.py
+
+      - name: Commit updated pending list
+        run: |
+          git config user.name  "CNG Bot"
+          git config user.email "bot@cng-route-planner-india"
+          if git diff --quiet pending/; then
+            echo "No pending changes."
+            exit 0
+          fi
+          git add pending/
+          git commit -m "bot: update pending queue from issue #${{ github.event.issue.number }}"
+          git push

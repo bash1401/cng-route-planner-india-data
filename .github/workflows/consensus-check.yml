@@ -1,0 +1,50 @@
+name: Consensus Check — Auto-approve Stations
+
+on:
+  schedule:
+    # Run every day at 02:00 UTC (7:30 AM IST)
+    - cron: '0 2 * * *'
+  # Also trigger manually
+  workflow_dispatch:
+  # Trigger when a station issue is labeled 'validated'
+  issues:
+    types: [labeled]
+
+jobs:
+  consensus:
+    if: >
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issues' && github.event.label.name == 'validated')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run consensus check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:  ${{ github.repository }}
+        run: python scripts/process_consensus.py
+
+      - name: Commit dataset and pending updates
+        run: |
+          git config user.name  "CNG Bot"
+          git config user.email "bot@cng-route-planner-india"
+          git add dataset/stations.json pending/ || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          ADDED=$(git diff --cached --stat | grep stations.json | head -1)
+          git commit -m "bot(dataset): auto-approve community stations [consensus] — $ADDED"
+          git push

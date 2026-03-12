@@ -1,0 +1,43 @@
+name: Process Station Report (Wrong / Closed)
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  handle-report:
+    if: contains(github.event.issue.labels.*.name, 'station-report')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Record report in queue
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY:   ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO:  ${{ github.repository }}
+        run: python scripts/record_station_report.py
+
+      - name: Commit updated reports queue
+        run: |
+          git config user.name  "CNG Bot"
+          git config user.email "bot@cng-route-planner-india"
+          if git diff --quiet pending/; then
+            echo "No report queue changes."
+            exit 0
+          fi
+          git add pending/
+          git commit -m "bot: record station report from issue #${{ github.event.issue.number }}"
+          git push

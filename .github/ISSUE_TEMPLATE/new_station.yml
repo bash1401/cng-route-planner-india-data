@@ -1,0 +1,96 @@
+name: "Add New CNG Station"
+description: "Report a CNG station missing from the map. It will be added after 3 independent confirmations."
+title: "[NEW_STATION] "
+labels: ["new-station", "pending-validation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Accuracy matters — users depend on this data
+        Your submission goes through automated validation and needs **3 independent reports** of the same location before it is added.
+        Please only submit stations you have personally verified exist.
+
+  - type: input
+    id: station_name
+    attributes:
+      label: Station Name
+      description: Official name if visible on a board, otherwise a description.
+      placeholder: "e.g. GAIL CNG Station, IGL CNG Pump"
+    validations:
+      required: true
+
+  - type: input
+    id: latitude
+    attributes:
+      label: Latitude
+      description: >
+        Get exact coordinates from Google Maps (long-press a location → tap the coordinates).
+        Must be between 6.5 and 37.5 for India.
+      placeholder: "e.g. 28.6139"
+    validations:
+      required: true
+
+  - type: input
+    id: longitude
+    attributes:
+      label: Longitude
+      description: Must be between 68.0 and 97.5 for India.
+      placeholder: "e.g. 77.2090"
+    validations:
+      required: true
+
+  - type: input
+    id: city
+    attributes:
+      label: City / Town
+      placeholder: "e.g. New Delhi"
+    validations:
+      required: false
+
+  - type: input
+    id: state
+    attributes:
+      label: State
+      placeholder: "e.g. Delhi"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: verification_method
+    attributes:
+      label: How did you verify this station exists?
+      options:
+        - "I fuelled my vehicle here personally"
+        - "I visited and confirmed the CNG pump is active"
+        - "I saw it on Google Maps Street View (recent)"
+        - "I saw it listed on the operator's official website"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: station_operator
+    attributes:
+      label: Station Operator (if known)
+      options:
+        - "Unknown"
+        - "IGL (Indraprastha Gas)"
+        - "MGL (Mahanagar Gas)"
+        - "GAIL"
+        - "Adani Gas / AGGL"
+        - "Gujarat Gas"
+        - "Torrent Gas"
+        - "HPCL"
+        - "BPCL"
+        - "Indian Oil"
+        - "Other"
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional details
+      description: Nearby landmark, open hours, or any other useful info.
+      placeholder: "Near XYZ mall, open 24h, on the left side of NH48..."
+    validations:
+      required: false

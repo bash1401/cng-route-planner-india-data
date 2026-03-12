@@ -1,0 +1,73 @@
+name: "Report Wrong / Closed Station"
+description: "Report a station on the map that is wrong, closed, or moved. Needs 5 reports to trigger action."
+title: "[REPORT] "
+labels: ["station-report", "pending-validation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Help keep the map accurate
+        Needs **5 independent reports** before the station is flagged or removed.
+        This prevents good stations from being accidentally removed.
+
+  - type: input
+    id: station_id
+    attributes:
+      label: Station ID or Name
+      description: >
+        Copy the station ID from the app (tap a station → "Report Issue"),
+        or type the station name as shown on the map.
+      placeholder: "e.g. osm-node-123456 or GAIL CNG Station, Dwarka"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: What is wrong?
+      options:
+        - "Station is permanently closed / demolished"
+        - "Station does not dispense CNG (only petrol/diesel)"
+        - "Coordinates are wrong — station is at a different location"
+        - "Duplicate — same station listed twice on the map"
+        - "Station name or details are incorrect"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: verification
+    attributes:
+      label: How did you verify this?
+      options:
+        - "I visited in person and confirmed"
+        - "I called the station and was told it is closed"
+        - "Google Maps / Street View shows it is closed"
+        - "Official operator website shows it as inactive"
+    validations:
+      required: true
+
+  - type: input
+    id: correct_latitude
+    attributes:
+      label: Correct Latitude (if location is wrong)
+      description: Leave blank if location is not the issue.
+      placeholder: "e.g. 28.6200"
+    validations:
+      required: false
+
+  - type: input
+    id: correct_longitude
+    attributes:
+      label: Correct Longitude (if location is wrong)
+      description: Leave blank if location is not the issue.
+      placeholder: "e.g. 77.2100"
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional details
+      description: Date of visit, photo links, source URL, etc.
+    validations:
+      required: false
