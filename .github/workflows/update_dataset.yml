@@ -1,0 +1,127 @@
+name: Rebuild CNG Dataset
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      osm_only:
+        description: 'Only run OSM fetch (faster, for testing)'
+        required: false
+        type: boolean
+        default: false
+      no_geocode:
+        description: 'Skip Nominatim geocoding enrichment'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  build-dataset:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Install Chrome (for Selenium operator scrapers)
+        run: |
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update -q
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create required directories
+        run: mkdir -p raw_sources dataset/india pending
+
+      - name: Run OSM fetch
+        run: python scripts/fetch_osm_cng.py
+        continue-on-error: true
+
+      - name: Run extra OSM targeted queries
+        run: python scripts/fetch_overpass_extra.py
+        continue-on-error: true
+
+      - name: Run GAIL Gas fetch
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_gail_gas.py
+        continue-on-error: true
+
+      - name: Run IGL + MGL (Selenium)
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_operators_selenium.py all
+        continue-on-error: true
+
+      - name: Run ATGL fetch
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_atgl.py
+        continue-on-error: true
+
+      - name: Run Gujarat Gas fetch
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_gujarat_gas.py
+        continue-on-error: true
+
+      - name: Run Wikidata fetch
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_wikidata.py
+        continue-on-error: true
+
+      - name: Build merged dataset
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.no_geocode }}" = "true" ]; then
+            ARGS="--no-geocode"
+          fi
+          python scripts/build_dataset.py $ARGS
+
+      - name: Show dataset stats
+        run: |
+          echo "=== Dataset summary ==="
+          python -c "
+          import json, pathlib
+          meta = pathlib.Path('dataset/meta.json')
+          if meta.exists():
+              m = json.loads(meta.read_text())
+              print(f'  Total stations : {m[\"total_stations\"]}')
+              print(f'  States covered : {m[\"states_covered\"]}')
+              print(f'  Generated at   : {m[\"generated_at\"]}')
+              print('  By source:')
+              for src, count in sorted(m.get(\"sources\",{}).items(), key=lambda x: -x[1]):
+                  print(f'    {src:<20} {count}')
+          "
+
+      - name: Commit and push if dataset changed
+        run: |
+          git config user.name  "cng-dataset-bot"
+          git config user.email "bot@cng-route-planner.in"
+          git add dataset/ raw_sources/
+          if git diff --staged --quiet; then
+            echo "No dataset changes — nothing to commit."
+          else
+            STATION_COUNT=$(python -c "import json; d=json.load(open('dataset/stations.json')); print(len(d))")
+            git commit -m "chore(dataset): auto-refresh — ${STATION_COUNT} stations [skip ci]"
+            git push
+          fi
