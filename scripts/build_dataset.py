@@ -44,7 +44,8 @@ SOURCE_PRIORITY: dict[str, int] = {
     "osm_extra": 4,
     "nominatim_grid": 5,
     "community": 5,     # User submissions from GitHub Issues
-    "cgd_inferred": 9,  # Geographic inference - fuel stations in CGD areas
+    "cgd_inferred": 8,  # Geographic inference - fuel stations in CGD areas
+    "all_india_fuel": 9,  # All OSM fuel stations in India (broadest coverage)
 }
 
 # ─── Known raw source files (discovery order = merge priority) ───────────────
@@ -68,6 +69,8 @@ RAW_SOURCES = [
     "wikidata",
     # Tier 5: Geographic inference (all fuel stations in CGD areas)
     "cgd_inferred",
+    # Tier 6: All-India OSM sweep (broadest coverage, lowest confidence)
+    "all_india_fuel",
     # Community submissions
     "community",
 ]

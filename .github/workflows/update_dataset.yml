@@ -110,6 +110,13 @@ jobs:
         continue-on-error: true
         timeout-minutes: 150
 
+      # ── Tier 6: All-India OSM sweep (broadest coverage) ──────────────────────
+      - name: All-India Fuel — All OSM fuel stations across every state/UT
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_all_india_fuel.py
+        continue-on-error: true
+        timeout-minutes: 180
+
       # ── Legacy scrapers (kept for backwards compatibility) ────────────────────
       - name: GAIL Gas — legacy scraper
         if: ${{ github.event.inputs.osm_only != 'true' }}

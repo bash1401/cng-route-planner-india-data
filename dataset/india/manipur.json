@@ -1,5 +1,77 @@
 [
   {
+    "id": "cng-62a4756f",
+    "name": "Bharat Petroleum",
+    "latitude": 24.74729,
+    "longitude": 93.420629,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-65ad5753",
+    "name": "Cng Station",
+    "latitude": 24.722635,
+    "longitude": 93.84399,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-17d67bdf",
+    "name": "Cng Station",
+    "latitude": 24.260561,
+    "longitude": 94.286385,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ffec8bc4",
+    "name": "Cng Station",
+    "latitude": 25.629206,
+    "longitude": 93.975781,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a47997a9",
+    "name": "Cng Station",
+    "latitude": 25.17767,
+    "longitude": 93.113905,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2cf41c92",
+    "name": "Indian Oil",
+    "latitude": 25.261466,
+    "longitude": 94.015685,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-82d33fdf",
+    "name": "Indian Oil",
+    "latitude": 24.821278,
+    "longitude": 93.638684,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2cb49575",
+    "name": "M/S Bitej Gasoline Centre",
+    "latitude": 24.61282,
+    "longitude": 93.761796,
+    "city": "",
+    "state": "Manipur",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-59b79e7b",
     "name": "Assam Oil",
     "latitude": 24.795362,
@@ -142,5 +214,14 @@
     "city": "Kohima",
     "state": "Manipur",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-43fb2629",
+    "name": "New Lamka Petrol Pump",
+    "latitude": 24.330178,
+    "longitude": 93.693514,
+    "city": "LAMKA",
+    "state": "Manipur",
+    "source": "all_india_fuel"
   }
 ]
