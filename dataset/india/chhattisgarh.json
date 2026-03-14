@@ -1,12 +1,668 @@
 [
   {
+    "id": "cng-f86a7577",
+    "name": "Cng Station",
+    "latitude": 22.049995,
+    "longitude": 82.123463,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7ac14bbf",
+    "name": "Cng Station",
+    "latitude": 22.031483,
+    "longitude": 82.051511,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-780a9578",
+    "name": "Cng Station",
+    "latitude": 22.059398,
+    "longitude": 82.130375,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-73da632a",
+    "name": "Cng Station",
+    "latitude": 22.070777,
+    "longitude": 82.14295,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ff218c48",
+    "name": "Cng Station",
+    "latitude": 22.065634,
+    "longitude": 82.135924,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b4094ae9",
+    "name": "Cng Station",
+    "latitude": 22.098025,
+    "longitude": 82.15931,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e961fb40",
+    "name": "Petrol Ofisi",
+    "latitude": 22.093003,
+    "longitude": 82.123757,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0f6d6c21",
+    "name": "Torwa Petrol Pump",
+    "latitude": 22.06728,
+    "longitude": 82.183321,
+    "city": "Bilaspur CG",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c5d9580a",
+    "name": "Bharat Petroleum",
+    "latitude": 21.210492,
+    "longitude": 81.316265,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eac5d0a1",
+    "name": "Cng Station",
+    "latitude": 21.210532,
+    "longitude": 81.260017,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b44fd929",
+    "name": "Cng Station",
+    "latitude": 21.186756,
+    "longitude": 81.214657,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-dba9e5d5",
+    "name": "Hp Petrol Pump",
+    "latitude": 21.187078,
+    "longitude": 81.33781,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3bb66e21",
+    "name": "Junwani Petrol Pump",
+    "latitude": 21.218187,
+    "longitude": 81.317566,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6e8b1534",
+    "name": "Petrol Pump",
+    "latitude": 21.198816,
+    "longitude": 81.287563,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1d6afb50",
+    "name": "Petrol Pump",
+    "latitude": 21.199122,
+    "longitude": 81.336317,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-02506674",
+    "name": "Indian Oil",
+    "latitude": 21.915562,
+    "longitude": 84.03505,
+    "city": "Jharsuguda",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4992a344",
+    "name": "Cng Station",
+    "latitude": 23.787409,
+    "longitude": 80.352249,
+    "city": "Katni",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06ab6bbc",
+    "name": "Cng Station",
+    "latitude": 22.342391,
+    "longitude": 82.700754,
+    "city": "Korba",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c3da039e",
+    "name": "Hp",
+    "latitude": 22.595843,
+    "longitude": 80.35924,
+    "city": "Mandla",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b84e2a6b",
+    "name": "Iocl Petrol Pump",
+    "latitude": 22.604545,
+    "longitude": 80.370462,
+    "city": "Mandla",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-978e69e6",
+    "name": "Reliance",
+    "latitude": 22.613005,
+    "longitude": 80.369862,
+    "city": "Mandla",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8e4a61e4",
+    "name": "Reliance Petroleum",
+    "latitude": 22.607997,
+    "longitude": 80.370098,
+    "city": "Mandla",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eff942ef",
+    "name": "Cng Station",
+    "latitude": 21.45205,
+    "longitude": 84.02549,
+    "city": "Odisha",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7e5a16da",
+    "name": "Bharat Petroleum",
+    "latitude": 21.334977,
+    "longitude": 81.621838,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-71d30174",
+    "name": "Cng Station",
+    "latitude": 21.226551,
+    "longitude": 81.782145,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-72a3abf5",
+    "name": "Cng Station",
+    "latitude": 21.239705,
+    "longitude": 81.677844,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-44af0609",
+    "name": "Cng Station",
+    "latitude": 21.252821,
+    "longitude": 81.598543,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4d69e97d",
+    "name": "Cng Station",
+    "latitude": 21.218825,
+    "longitude": 81.675944,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-514ba896",
+    "name": "Cng Station",
+    "latitude": 21.304694,
+    "longitude": 81.594932,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1c5e1548",
+    "name": "F R Fuels",
+    "latitude": 21.243064,
+    "longitude": 81.614791,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e89a4926",
+    "name": "Hp",
+    "latitude": 21.230824,
+    "longitude": 81.604288,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15d51ed0",
+    "name": "Hp Petrol Pump",
+    "latitude": 21.237225,
+    "longitude": 81.689161,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bd5a43a9",
+    "name": "Hp Petrol Pump",
+    "latitude": 21.295362,
+    "longitude": 81.636856,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c52802a4",
+    "name": "Indian Oil",
+    "latitude": 21.223971,
+    "longitude": 81.643802,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-617c7449",
+    "name": "Meraj Fuels",
+    "latitude": 21.25712,
+    "longitude": 81.624788,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0bfc7b43",
+    "name": "Reliance Petrol Pump",
+    "latitude": 21.289516,
+    "longitude": 81.625561,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d80c8533",
+    "name": "Suyash Fuels",
+    "latitude": 21.259239,
+    "longitude": 81.608467,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-920466c5",
+    "name": "Vinu Petrol Pump",
+    "latitude": 21.308663,
+    "longitude": 81.636008,
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e138b116",
+    "name": "Abis Petrol Pump",
+    "latitude": 21.100454,
+    "longitude": 81.055807,
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-152ae7d2",
+    "name": "Bharat Petroleum, Petrol Pump - City Fuels",
+    "latitude": 21.094157,
+    "longitude": 81.042692,
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b52d862f",
+    "name": "Cng Station",
+    "latitude": 21.096811,
+    "longitude": 81.025658,
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6ba3ab65",
+    "name": "Cng Station",
+    "latitude": 21.097406,
+    "longitude": 81.033846,
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8a0a9744",
+    "name": "Mansuk Lal Petrol Pump",
+    "latitude": 21.09898,
+    "longitude": 81.045287,
+    "city": "Rajnandgaon",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a3e96b87",
+    "name": "Bharat Petroleum",
+    "latitude": 21.494175,
+    "longitude": 83.982381,
+    "city": "Sambalpur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0a9fc275",
+    "name": "Behera Petrol Pump",
+    "latitude": 21.468718,
+    "longitude": 83.975863,
+    "city": "Sambalpur, Odisha",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3ed3bd4b",
+    "name": "Budharaja Petrol Pump",
+    "latitude": 21.482495,
+    "longitude": 83.981083,
+    "city": "Sambalpur, Odisha",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-39fc3a6c",
+    "name": "Hp",
+    "latitude": 21.465146,
+    "longitude": 83.974345,
+    "city": "Sambalpur, Odisha",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ab49220f",
+    "name": "Bharat Petroleum",
+    "latitude": 18.102133,
+    "longitude": 83.418213,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ad47742f",
+    "name": "Bharat Petroleum",
+    "latitude": 18.109141,
+    "longitude": 83.402776,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-33abae84",
+    "name": "Bharat Petroleum",
+    "latitude": 18.118873,
+    "longitude": 83.388003,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2b652bb8",
+    "name": "Cng Station",
+    "latitude": 18.07422,
+    "longitude": 83.539555,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4ca6e6d8",
+    "name": "Cng Station",
+    "latitude": 18.076655,
+    "longitude": 83.481947,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fb845dfa",
+    "name": "Cng Station",
+    "latitude": 18.144979,
+    "longitude": 83.389894,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-13956709",
+    "name": "Hp",
+    "latitude": 18.08316,
+    "longitude": 83.549978,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c7f5109b",
+    "name": "Hp",
+    "latitude": 18.083501,
+    "longitude": 83.385896,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3b8f87f4",
+    "name": "Hp",
+    "latitude": 18.10787,
+    "longitude": 83.396565,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ef7360b2",
+    "name": "Hp",
+    "latitude": 18.053299,
+    "longitude": 83.400668,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-893a7410",
+    "name": "Hp",
+    "latitude": 18.13649,
+    "longitude": 83.431626,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2279d9e2",
+    "name": "Hp",
+    "latitude": 18.110464,
+    "longitude": 83.407984,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-07eedae4",
+    "name": "Hp",
+    "latitude": 18.114037,
+    "longitude": 83.422865,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ec7d4e31",
+    "name": "Hp",
+    "latitude": 18.103442,
+    "longitude": 83.408316,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7ca833c6",
+    "name": "Hp-Nvr",
+    "latitude": 18.120444,
+    "longitude": 83.401,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b018e0a6",
+    "name": "Indian Oil",
+    "latitude": 18.057065,
+    "longitude": 83.4067,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f03c3775",
+    "name": "Indian Oil",
+    "latitude": 18.125173,
+    "longitude": 83.420486,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-34caf0e7",
+    "name": "Indian Oil",
+    "latitude": 18.207778,
+    "longitude": 83.465397,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fcba63ea",
+    "name": "Indian Oil",
+    "latitude": 18.092603,
+    "longitude": 83.361655,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c938e3a6",
+    "name": "Indian Oil",
+    "latitude": 18.133316,
+    "longitude": 83.387895,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fbf59e46",
+    "name": "Indian Oil",
+    "latitude": 18.101848,
+    "longitude": 83.429462,
+    "city": "Vizianagaram",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06e6ddad",
+    "name": "Police Kalyaan Petrol Pump",
+    "latitude": 22.083558,
+    "longitude": 82.149502,
+    "city": "bilaspur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5062f846",
+    "name": "All India Radio Petrolbunk",
+    "latitude": 21.238618,
+    "longitude": 81.646084,
+    "city": "raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d35943ee",
+    "name": "Bp Petrol Bunk",
+    "latitude": 21.243762,
+    "longitude": 81.636364,
+    "city": "raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-82ccd273",
+    "name": "Hindustan Petroleum",
+    "latitude": 21.233438,
+    "longitude": 81.648917,
+    "city": "raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-24366614",
     "name": "Jet Fuel Supplier Reliance Industries Limited",
     "latitude": 21.186824,
     "longitude": 81.737322,
     "city": "raipur",
     "state": "Chhattisgarh",
-    "source": "osm",
-    "address": "Ramchandi,, raipur, Chhattisgarh"
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-ce1c37cd",
+    "name": "Star Indian Oil",
+    "latitude": 21.231383,
+    "longitude": 81.640024,
+    "city": "raipur",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
   }
 ]

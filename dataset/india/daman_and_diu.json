@@ -4,19 +4,80 @@
     "name": "E. Nasservanji Petrol Pump",
     "latitude": 20.417342,
     "longitude": 72.838998,
-    "city": "",
+    "city": "Daman",
     "state": "Daman and Diu",
-    "source": "osm",
-    "address": "Daman and Diu"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-9b2a7690",
     "name": "Naresh Desai Cng Pump",
     "latitude": 20.321529,
     "longitude": 72.902689,
-    "city": "",
+    "city": "Karembali",
     "state": "Daman and Diu",
-    "source": "osm",
-    "address": "Daman and Diu"
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-b547a324",
+    "name": "Bharat Petroleum",
+    "latitude": 20.545811,
+    "longitude": 72.958113,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2c850529",
+    "name": "Hp Gas Station",
+    "latitude": 20.511241,
+    "longitude": 72.944923,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cbfa4b5c",
+    "name": "Indian Oil",
+    "latitude": 20.589926,
+    "longitude": 72.952037,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8b72e82d",
+    "name": "Bharat Petroleum",
+    "latitude": 20.401034,
+    "longitude": 72.888279,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8206fdfd",
+    "name": "Bharat Petroleum",
+    "latitude": 20.407168,
+    "longitude": 72.8849,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f038aac6",
+    "name": "Hp",
+    "latitude": 20.331125,
+    "longitude": 72.872493,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d43c9d98",
+    "name": "भारत पेटरोल पमप",
+    "latitude": 20.476228,
+    "longitude": 72.930649,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
   }
 ]

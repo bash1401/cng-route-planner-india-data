@@ -22,14 +22,33 @@ import pathlib
 SCRIPTS_DIR = pathlib.Path(__file__).parent
 
 FETCH_SCRIPTS = [
-    ("OSM (OpenStreetMap)",        "fetch_osm_cng.py"),
-    ("OSM Extra (targeted)",       "fetch_overpass_extra.py"),
-    ("GAIL Gas",                   "fetch_gail_gas.py"),
-    ("IGL",                        "fetch_igl.py"),
-    ("MGL",                        "fetch_mgl.py"),
-    ("ATGL",                       "fetch_atgl.py"),
-    ("Gujarat Gas",                "fetch_gujarat_gas.py"),
-    ("Wikidata",                   "fetch_wikidata.py"),
+    # ── Tier 1: Official PDFs and operator websites with exact coordinates ──
+    ("GAIL Gas PDF (220 stations)",     "fetch_gail_gas_pdf.py"),    # S3-hosted PDF
+    ("MNGL Pune (118 stations)",        "fetch_mngl.py"),            # MNGL website
+
+    # ── Tier 2: OSM targeted CNG queries ──
+    ("OSM CNG-tagged (original)",       "fetch_osm_cng.py"),
+    ("OSM All-stations (broad query)",  "fetch_osm_allstations.py"), # fuel:cng + name~CNG + operators
+    ("OSM Extra targeted",              "fetch_overpass_extra.py"),
+
+    # ── Tier 3: Operator websites (geocoded) ──
+    ("Gujarat Gas (343+ stations)",     "fetch_gujarat_gas_v2.py"),  # main + test sites
+    ("IGL + MGL deep zones",            "fetch_igl_mgl_deep.py"),
+    ("ATGL improved",                   "fetch_atgl_v2.py"),
+    ("Wikidata SPARQL",                 "fetch_wikidata.py"),
+
+    # ── Tier 4: City-grid Nominatim/Photon search ──
+    ("Nominatim/Photon city grid",      "fetch_nominatim_grid.py"),  # 200+ cities
+
+    # ── Tier 5: Geographic inference (all fuel in CGD areas) ──
+    ("CGD cities all fuel stations",    "fetch_cgd_cities.py"),      # ~5000+ stations
+
+    # ── Legacy scrapers (kept for backwards compatibility) ──
+    ("GAIL Gas (legacy)",               "fetch_gail_gas.py"),
+    ("IGL (legacy)",                    "fetch_igl.py"),
+    ("MGL (legacy)",                    "fetch_mgl.py"),
+    ("ATGL (legacy)",                   "fetch_atgl.py"),
+    ("Gujarat Gas (legacy)",            "fetch_gujarat_gas.py"),
 ]
 
 

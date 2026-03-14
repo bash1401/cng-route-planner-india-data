@@ -1,147 +1,171 @@
-#!/usr/bin/env python3
 """
-Source 7 — Wikidata SPARQL.
+Wikidata SPARQL — CNG / fuel stations in India.
 
-Queries Wikidata for fuel stations in India that are tagged as CNG or
-operated by known CGD companies. Provides an additional 200–500 stations
-with coordinates.
+Fixes from v1:
+  - Correct WKT Point parsing (lon lat order, not lat lon).
+  - geof: prefix was not recognised; replaced with coordinate string parsing.
+  - Broader queries: filling stations + gas stations + operator-specific items.
+  - Added a third query for items whose name / description contains "CNG".
 """
-
 from __future__ import annotations
 
 import json
+import os
+import re
+import sys
 import time
-from utils import save_raw, http_get, state_from_coords, normalise_name
+import urllib.parse
+import urllib.request
+
+sys.path.insert(0, os.path.dirname(__file__))
+from utils import save_raw, http_get, state_from_coords, normalise_name, INDIA_STATES
 
 SOURCE = "wikidata"
-
 SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
-
-# Query 1: Direct instance of filling station in India
-SPARQL_CNG = """
-SELECT DISTINCT ?item ?itemLabel ?lat ?lon WHERE {
-  ?item wdt:P31 wd:Q44922 .
-  ?item wdt:P17 wd:Q668 .
-  ?item wdt:P625 ?coord .
-  BIND(geof:latitude(?coord) AS ?lat)
-  BIND(geof:longitude(?coord) AS ?lon)
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}
-LIMIT 2000
-"""
-
-# Query 2: Stations operated by known Indian CGD companies
-SPARQL_OPERATORS = """
-SELECT DISTINCT ?item ?itemLabel ?lat ?lon WHERE {
-  ?item wdt:P17 wd:Q668 .
-  ?item wdt:P625 ?coord .
-  BIND(geof:latitude(?coord) AS ?lat)
-  BIND(geof:longitude(?coord) AS ?lon)
-  { ?item wdt:P137 wd:Q6026680 . }  UNION  # IGL
-  { ?item wdt:P137 wd:Q6762556 . }  UNION  # MGL
-  { ?item wdt:P137 wd:Q7872843 . }         # Gujarat Gas
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}
-LIMIT 2000
-"""
-
-_OPERATOR_QIDS = {
-    "Q6026680": "IGL",
-    "Q6762556": "MGL",
-    "Q918225": "GAIL",
-    "Q7872843": "Gujarat Gas",
-    "Q59614028": "ATGL",
-}
+_DELAY = 10  # seconds between SPARQL requests to respect rate limit
 
 
-def _sparql_query(query: str) -> list[dict]:
-    import urllib.parse
-    params = urllib.parse.urlencode({
-        "query": query,
-        "format": "json",
-    })
+def _sparql(query: str) -> list[dict]:
+    params = urllib.parse.urlencode({"query": query.strip(), "format": "json"})
     url = f"{SPARQL_ENDPOINT}?{params}"
-    raw = http_get(
-        url, timeout=30, retries=3,
-        extra_headers={
-            "Accept": "application/sparql-results+json",
-            "User-Agent": "CNG-Route-Planner-India/2.0 (github.com/bash1401/cng-route-planner-india-data)",
-        },
-    )
-    if not raw:
-        return []
     try:
-        data = json.loads(raw.decode("utf-8"))
-        return data.get("results", {}).get("bindings", [])
-    except (json.JSONDecodeError, KeyError):
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "CNG-Route-Planner-India/2.0 (https://github.com/bash1401/cng-route-planner-india-data)",
+                "Accept": "application/sparql-results+json",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=60) as r:
+            data = json.loads(r.read())
+            return data.get("results", {}).get("bindings", [])
+    except Exception as exc:
+        print(f"  [WD] SPARQL error: {exc}")
         return []
 
 
-def _bindings_to_records(bindings: list[dict], source_tag: str) -> list[dict]:
-    records = []
-    seen: set[str] = set()
-
-    for b in bindings:
+def _parse_coord(binding: dict) -> tuple[float, float] | None:
+    """Extract (lat, lon) from a binding that has a 'coord' WKT Point value."""
+    val = binding.get("coord", {}).get("value", "")
+    m = re.match(r"Point\((-?\d+\.?\d*)\s+(-?\d+\.?\d*)\)", val)
+    if m:
+        lon, lat = float(m.group(1)), float(m.group(2))
+        return lat, lon
+    # Some bindings already have lat/lon directly
+    lat_val = binding.get("lat", {}).get("value")
+    lon_val = binding.get("lon", {}).get("value")
+    if lat_val and lon_val:
         try:
-            lat = float(b["lat"]["value"])
-            lon = float(b["lon"]["value"])
-        except (KeyError, ValueError, TypeError):
-            continue
-        if not (6 < lat < 38 and 68 < lon < 98):
-            continue
-        key = f"{round(lat,3)}-{round(lon,3)}"
-        if key in seen:
-            continue
-        seen.add(key)
+            return float(lat_val), float(lon_val)
+        except ValueError:
+            pass
+    return None
 
-        name = b.get("itemLabel", {}).get("value") or "CNG Station"
-        city = b.get("cityLabel", {}).get("value") or ""
-        state = b.get("stateLabel", {}).get("value") or state_from_coords(lat, lon)
-        item_id = b.get("item", {}).get("value", "").split("/")[-1]
 
-        records.append({
-            "id": f"wd-{item_id}",
-            "name": normalise_name(name),
-            "latitude": round(lat, 6),
-            "longitude": round(lon, 6),
-            "city": city,
-            "state": state,
-            "source": source_tag,
-            "address": "",
-            "operator": "",
-        })
+# ── Query 1: All filling stations (Q44922) in India ──────────────────────────
+Q1 = """
+SELECT DISTINCT ?item ?itemLabel ?coord WHERE {
+  ?item wdt:P31 wd:Q44922 ;
+        wdt:P17 wd:Q668 ;
+        wdt:P625 ?coord .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,hi". }
+}
+LIMIT 2000
+"""
 
-    return records
+# ── Query 2: CNG stations / compressed natural gas vehicles ──────────────────
+Q2 = """
+SELECT DISTINCT ?item ?itemLabel ?coord WHERE {
+  ?item wdt:P17 wd:Q668 ;
+        wdt:P625 ?coord .
+  ?item rdfs:label ?label .
+  FILTER(LANG(?label) = "en")
+  FILTER(CONTAINS(LCASE(?label), "cng") || CONTAINS(LCASE(?label), "compressed natural gas"))
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+LIMIT 2000
+"""
+
+# ── Query 3: Stations operated by major Indian CGD companies ─────────────────
+# IGL=Q6026680  MGL=Q6762556  Gujarat Gas=Q7872843  GAIL=Q918225  ATGL=Q59614028
+Q3 = """
+SELECT DISTINCT ?item ?itemLabel ?coord WHERE {
+  VALUES ?op { wd:Q6026680 wd:Q6762556 wd:Q7872843 wd:Q918225 wd:Q59614028 }
+  ?item wdt:P17 wd:Q668 ;
+        wdt:P625 ?coord .
+  { ?item wdt:P137 ?op . } UNION { ?item wdt:P749 ?op . } UNION { ?item wdt:P1158 ?op . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+LIMIT 2000
+"""
+
+# ── Query 4: Gas stations (Q7391294) and service areas ───────────────────────
+Q4 = """
+SELECT DISTINCT ?item ?itemLabel ?coord WHERE {
+  VALUES ?type { wd:Q7391294 wd:Q27551814 wd:Q2545735 }
+  ?item wdt:P31 ?type ;
+        wdt:P17 wd:Q668 ;
+        wdt:P625 ?coord .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,hi". }
+}
+LIMIT 2000
+"""
+
+_QUERIES = [
+    ("Filling stations in India", Q1),
+    ("Items labelled CNG/compressed natural gas", Q2),
+    ("Stations operated by Indian CGD companies", Q3),
+    ("Gas stations / service areas in India", Q4),
+]
 
 
 def main() -> int:
     print("=== Fetching Wikidata CNG stations ===")
+
     all_records: list[dict] = []
-    seen_ids: set[str] = set()
+    seen: set[str] = set()
 
-    # Query 1: CNG-tagged filling stations
-    print("  Query 1: Filling stations tagged CNG …")
-    bindings = _sparql_query(SPARQL_CNG)
-    print(f"  Got {len(bindings)} results")
-    records = _bindings_to_records(bindings, SOURCE)
-    for r in records:
-        if r["id"] not in seen_ids:
-            all_records.append(r)
-            seen_ids.add(r["id"])
+    for label, query in _QUERIES:
+        print(f"  Query: {label}…")
+        bindings = _sparql(query)
+        print(f"  Got {len(bindings)} raw results")
 
-    time.sleep(5)  # Be respectful of Wikidata's rate limits
+        for b in bindings:
+            item_uri = b.get("item", {}).get("value", "")
+            item_id = item_uri.split("/")[-1]
+            if item_id in seen:
+                continue
 
-    # Query 2: Operator-based search
-    print("  Query 2: Stations operated by Indian CGD companies …")
-    bindings2 = _sparql_query(SPARQL_OPERATORS)
-    print(f"  Got {len(bindings2)} results")
-    records2 = _bindings_to_records(bindings2, SOURCE)
-    for r in records2:
-        if r["id"] not in seen_ids:
-            all_records.append(r)
-            seen_ids.add(r["id"])
+            coords = _parse_coord(b)
+            if not coords:
+                continue
 
-    print(f"  Total Wikidata: {len(all_records)} stations")
+            lat, lon = coords
+            if not (6.0 < lat < 38.0 and 68.0 < lon < 98.0):
+                continue
+
+            state = state_from_coords(lat, lon)
+            if not state or state not in INDIA_STATES:
+                continue
+
+            name = normalise_name(b.get("itemLabel", {}).get("value", "") or "CNG Station")
+            seen.add(item_id)
+            all_records.append({
+                "id": f"wd-{item_id}",
+                "name": name,
+                "latitude": round(lat, 6),
+                "longitude": round(lon, 6),
+                "city": "",
+                "state": state,
+                "source": SOURCE,
+                "address": "",
+                "operator": "",
+            })
+
+        print(f"  Running total: {len(all_records)} unique stations")
+        time.sleep(_DELAY)
+
+    print(f"=== Wikidata total: {len(all_records)} ===")
     save_raw(SOURCE, all_records)
     return 0
 

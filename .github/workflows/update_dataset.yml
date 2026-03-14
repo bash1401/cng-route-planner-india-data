@@ -15,6 +15,11 @@ on:
         description: 'Skip Nominatim geocoding enrichment'
         required: false
         type: boolean
+        default: true
+      skip_cgd_cities:
+        description: 'Skip CGD cities inference step (faster)'
+        required: false
+        type: boolean
         default: false
 
 permissions:
@@ -23,7 +28,7 @@ permissions:
 jobs:
   build-dataset:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
 
     steps:
       - name: Checkout repository
@@ -43,58 +48,88 @@ jobs:
           key: pip-${{ hashFiles('requirements.txt') }}
           restore-keys: pip-
 
-      - name: Install Chrome (for Selenium operator scrapers)
-        run: |
-          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update -q
-          sudo apt-get install -y google-chrome-stable
-
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Create required directories
         run: mkdir -p raw_sources dataset/india pending
 
-      - name: Run OSM fetch
+      # ── Tier 1: Official PDFs and operator websites (exact coordinates) ────────
+      - name: GAIL Gas PDF — 220 stations (S3-hosted PDF)
+        run: python scripts/fetch_gail_gas_pdf.py
+        continue-on-error: true
+
+      - name: MNGL Pune — 118 CNG stations (exact coordinates from website)
+        run: python scripts/fetch_mngl.py
+        continue-on-error: true
+
+      # ── Tier 2: OSM targeted CNG queries ──────────────────────────────────────
+      - name: OSM — CNG-tagged stations (original comprehensive query)
         run: python scripts/fetch_osm_cng.py
         continue-on-error: true
 
-      - name: Run extra OSM targeted queries
+      - name: OSM — All-stations sweep (fuel:cng + name~CNG + CGD operators)
+        run: python scripts/fetch_osm_allstations.py
+        continue-on-error: true
+
+      - name: OSM — Extra targeted queries
         run: python scripts/fetch_overpass_extra.py
         continue-on-error: true
 
-      - name: Run GAIL Gas fetch
+      # ── Tier 3: Operator websites (geocoded) ─────────────────────────────────
+      - name: Gujarat Gas — 343+ stations (main + test website)
         if: ${{ github.event.inputs.osm_only != 'true' }}
-        run: python scripts/fetch_gail_gas.py
+        run: python scripts/fetch_gujarat_gas_v2.py
         continue-on-error: true
 
-      - name: Run IGL + MGL (Selenium)
+      - name: IGL + MGL — Deep zone Overpass queries
         if: ${{ github.event.inputs.osm_only != 'true' }}
-        run: python scripts/fetch_operators_selenium.py all
+        run: python scripts/fetch_igl_mgl_deep.py
         continue-on-error: true
 
-      - name: Run ATGL fetch
+      - name: ATGL — Zone-based Overpass queries
         if: ${{ github.event.inputs.osm_only != 'true' }}
-        run: python scripts/fetch_atgl.py
+        run: python scripts/fetch_atgl_v2.py
         continue-on-error: true
 
-      - name: Run Gujarat Gas fetch
-        if: ${{ github.event.inputs.osm_only != 'true' }}
-        run: python scripts/fetch_gujarat_gas.py
-        continue-on-error: true
-
-      - name: Run Wikidata fetch
+      - name: Wikidata — SPARQL queries for CGD entities
         if: ${{ github.event.inputs.osm_only != 'true' }}
         run: python scripts/fetch_wikidata.py
         continue-on-error: true
 
+      # ── Tier 4: City-grid Nominatim/Photon search ─────────────────────────────
+      - name: Nominatim + Photon — 200-city grid search
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_nominatim_grid.py
+        continue-on-error: true
+
+      # ── Tier 5: Geographic inference (all fuel stations in CGD areas) ──────────
+      - name: CGD Cities — All fuel stations in 360 CGD-authorized areas
+        if: ${{ github.event.inputs.osm_only != 'true' && github.event.inputs.skip_cgd_cities != 'true' }}
+        run: python scripts/fetch_cgd_cities.py
+        continue-on-error: true
+        timeout-minutes: 150
+
+      # ── Legacy scrapers (kept for backwards compatibility) ────────────────────
+      - name: GAIL Gas — legacy scraper
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_gail_gas.py
+        continue-on-error: true
+
+      - name: IGL — legacy scraper
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_igl.py
+        continue-on-error: true
+
+      - name: MGL — legacy scraper
+        if: ${{ github.event.inputs.osm_only != 'true' }}
+        run: python scripts/fetch_mgl.py
+        continue-on-error: true
+
+      # ── Build merged dataset ───────────────────────────────────────────────────
       - name: Build merged dataset
         run: |
-          ARGS=""
-          if [ "${{ github.event.inputs.no_geocode }}" = "true" ]; then
-            ARGS="--no-geocode"
-          fi
+          ARGS="--no-geocode"
           python scripts/build_dataset.py $ARGS
 
       - name: Show dataset stats
@@ -110,7 +145,21 @@ jobs:
               print(f'  Generated at   : {m[\"generated_at\"]}')
               print('  By source:')
               for src, count in sorted(m.get(\"sources\",{}).items(), key=lambda x: -x[1]):
-                  print(f'    {src:<20} {count}')
+                  print(f'    {src:<30} {count}')
+          "
+          echo ""
+          echo "=== Raw source file counts ==="
+          python -c "
+          import json, pathlib
+          total = 0
+          for f in sorted(pathlib.Path('raw_sources').glob('*.json')):
+              try:
+                  d = json.loads(f.read_text())
+                  print(f'  {f.name:<40} {len(d):>6}')
+                  total += len(d)
+              except:
+                  pass
+          print(f'  {\"TOTAL RAW\":<40} {total:>6}')
           "
 
       - name: Commit and push if dataset changed
@@ -121,7 +170,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No dataset changes — nothing to commit."
           else
-            STATION_COUNT=$(python -c "import json; d=json.load(open('dataset/stations.json')); print(len(d))")
+            STATION_COUNT=$(python -c "import json; d=json.load(open('dataset/stations.json')); print(len(d))" 2>/dev/null || echo "?")
             git commit -m "chore(dataset): auto-refresh — ${STATION_COUNT} stations [skip ci]"
             git push
           fi

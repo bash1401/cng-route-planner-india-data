@@ -32,24 +32,44 @@ from utils import (
 SOURCE_PRIORITY: dict[str, int] = {
     "igl": 1,
     "mgl": 1,
+    "mngl": 1,          # MNGL - exact coordinates from website
+    "gail_pdf": 1,      # GAIL Gas PDF - exact coordinates
     "gail": 2,
     "atgl": 2,
     "gujarat_gas": 2,
+    "igl_mgl": 2,       # Deep IGL/MGL Overpass
+    "osm_allstations": 3,
     "wikidata": 3,
     "osm": 4,
-    "community": 5,   # User submissions from GitHub Issues
+    "osm_extra": 4,
+    "nominatim_grid": 5,
+    "community": 5,     # User submissions from GitHub Issues
+    "cgd_inferred": 9,  # Geographic inference - fuel stations in CGD areas
 }
 
-# ─── Known raw source files ───────────────────────────────────────────────────
+# ─── Known raw source files (discovery order = merge priority) ───────────────
 RAW_SOURCES = [
-    "osm",
-    "osm_extra",
-    "gail",
+    # Tier 1: Verified exact coordinates from operator websites/official PDFs
+    "gail_pdf",
+    "mngl",
+    # Tier 2: Scraped from operator websites (PIN/address geocoded)
     "igl",
     "mgl",
+    "igl_mgl",
+    "gail",
     "atgl",
     "gujarat_gas",
+    # Tier 3: OSM-tagged CNG stations
+    "osm",
+    "osm_extra",
+    "osm_allstations",
+    # Tier 4: City-grid and Wikidata
+    "nominatim_grid",
     "wikidata",
+    # Tier 5: Geographic inference (all fuel stations in CGD areas)
+    "cgd_inferred",
+    # Community submissions
+    "community",
 ]
 
 

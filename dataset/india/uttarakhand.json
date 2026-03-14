@@ -1,34 +1,1514 @@
 [
   {
-    "id": "cng-988e7671",
-    "name": "Gail Gas",
-    "latitude": 28.940541,
-    "longitude": 77.774445,
-    "city": "",
+    "id": "cng-6bd927a2",
+    "name": "Airwing Service Station",
+    "latitude": 30.058083,
+    "longitude": 78.227804,
+    "city": "Dehradun",
     "state": "Uttarakhand",
-    "source": "osm",
-    "address": "Uttarakhand",
-    "operator": "GAIL"
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-8258c81a",
+    "name": "Bharat Petroleum",
+    "latitude": 30.32624,
+    "longitude": 78.04392,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4f2973bc",
+    "name": "Bharath",
+    "latitude": 30.321427,
+    "longitude": 78.013672,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9e84c4df",
+    "name": "Bp",
+    "latitude": 30.269832,
+    "longitude": 78.080756,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6d7c01e4",
+    "name": "Cng Station",
+    "latitude": 30.328872,
+    "longitude": 78.031115,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-dba40960",
+    "name": "Cng Station",
+    "latitude": 30.330321,
+    "longitude": 78.029839,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cee24cb9",
+    "name": "Cng Station",
+    "latitude": 30.344583,
+    "longitude": 77.930237,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7445fd84",
+    "name": "Cng Station",
+    "latitude": 30.290663,
+    "longitude": 78.061255,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f0426310",
+    "name": "Cng Station",
+    "latitude": 30.260924,
+    "longitude": 78.088318,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e1ddbe86",
+    "name": "Dhebu",
+    "latitude": 30.302422,
+    "longitude": 77.920241,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-e7362f0f",
+    "name": "Diesel Station",
+    "latitude": 30.292075,
+    "longitude": 78.059482,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3a5174c8",
+    "name": "Gas Agency",
+    "latitude": 30.29271,
+    "longitude": 77.999211,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c5b9e1ec",
+    "name": "Hp",
+    "latitude": 30.288137,
+    "longitude": 78.0217,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0a90b312",
+    "name": "Hp Petroleum",
+    "latitude": 30.327811,
+    "longitude": 78.045534,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2a7bef7c",
+    "name": "Ibp Pump",
+    "latitude": 30.326613,
+    "longitude": 78.047522,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d742cbec",
+    "name": "Indian Oil",
+    "latitude": 30.363914,
+    "longitude": 78.069636,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8c967ecd",
+    "name": "Indian Oil",
+    "latitude": 30.281941,
+    "longitude": 77.992097,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-00a74a85",
+    "name": "Indian Oil",
+    "latitude": 30.288115,
+    "longitude": 78.044688,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0c1930d",
+    "name": "Indian Oil",
+    "latitude": 30.329048,
+    "longitude": 78.066098,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-031c4f45",
+    "name": "Indian Oil",
+    "latitude": 30.344689,
+    "longitude": 77.948711,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1c836f66",
+    "name": "Malsi Filling Station",
+    "latitude": 30.385861,
+    "longitude": 78.073833,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-9c4a46db",
+    "name": "Panwar Filling Station",
+    "latitude": 30.295124,
+    "longitude": 78.054742,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-49eba62a",
+    "name": "Sarthak Filling Station",
+    "latitude": 30.180806,
+    "longitude": 78.136667,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-67601bb7",
+    "name": "Sethi Top Filling Station",
+    "latitude": 30.3485,
+    "longitude": 78.076917,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-faa7423a",
+    "name": "Sh Surjan Singh Filling Station",
+    "latitude": 30.303304,
+    "longitude": 78.074956,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-58561943",
+    "name": "Shaktimaan Filling Station",
+    "latitude": 30.305706,
+    "longitude": 78.040421,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8efbac10",
+    "name": "Shaktiman Police Filling Station",
+    "latitude": 30.306161,
+    "longitude": 78.038089,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-1a277dfa",
+    "name": "Shri Krishna Filling Station",
+    "latitude": 30.339319,
+    "longitude": 77.956142,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-76ec7d38",
+    "name": "Abdullah Petrol Pump",
+    "latitude": 29.221124,
+    "longitude": 79.508271,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f8d69de1",
+    "name": "Bharat Petroleum",
+    "latitude": 29.193562,
+    "longitude": 79.514656,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-542c6f1f",
+    "name": "Bharat Petroleum",
+    "latitude": 29.228747,
+    "longitude": 79.530725,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a20ff623",
+    "name": "Bharat Petroleum",
+    "latitude": 29.185081,
+    "longitude": 79.520743,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1838866f",
+    "name": "Bharat Petroleum",
+    "latitude": 29.220149,
+    "longitude": 79.529809,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-10ad7e33",
+    "name": "Bharat Petroleum",
+    "latitude": 29.160825,
+    "longitude": 79.522642,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e6a40633",
+    "name": "Bharat Petroleum",
+    "latitude": 29.218059,
+    "longitude": 79.517196,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fcb588d",
+    "name": "Bharat Petroleum",
+    "latitude": 29.33962,
+    "longitude": 79.484367,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a2eb2b9f",
+    "name": "Bharat Petroleum",
+    "latitude": 29.176344,
+    "longitude": 79.496426,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-63c9a87d",
+    "name": "Cng Station",
+    "latitude": 29.176991,
+    "longitude": 79.527758,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7032902f",
+    "name": "Cng Station",
+    "latitude": 29.218547,
+    "longitude": 79.552344,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-32117bb5",
+    "name": "Hills View Service Station",
+    "latitude": 29.198803,
+    "longitude": 79.525199,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-65cdcd08",
+    "name": "Indian Oil",
+    "latitude": 29.154027,
+    "longitude": 79.478985,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-40116498",
+    "name": "Indian Oil",
+    "latitude": 29.281817,
+    "longitude": 79.545036,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6f3a6e6a",
+    "name": "Indian Oil",
+    "latitude": 29.194308,
+    "longitude": 79.498547,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4e0daddf",
+    "name": "Indian Oil",
+    "latitude": 29.211315,
+    "longitude": 79.525577,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4bbc74f0",
+    "name": "Indian Oil",
+    "latitude": 29.237019,
+    "longitude": 79.533071,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7cfb0b46",
+    "name": "Indian Oil",
+    "latitude": 29.233886,
+    "longitude": 79.557883,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2873b210",
+    "name": "Indian Oil",
+    "latitude": 29.264251,
+    "longitude": 79.54423,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5b245b42",
+    "name": "Indian Oil",
+    "latitude": 29.192032,
+    "longitude": 79.507839,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0d2cd9bf",
+    "name": "Indian Oil",
+    "latitude": 29.175085,
+    "longitude": 79.469807,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-410884a2",
+    "name": "Indian Oil",
+    "latitude": 29.239363,
+    "longitude": 79.528747,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9eca80a1",
+    "name": "Indian Oil",
+    "latitude": 29.220709,
+    "longitude": 79.558678,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6820b2a4",
+    "name": "Janki Energy Filling Station",
+    "latitude": 29.235394,
+    "longitude": 79.477514,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c292f652",
+    "name": "Jio Bp",
+    "latitude": 29.212541,
+    "longitude": 79.458955,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5dfc435e",
+    "name": "Jio Bp Fuel Station",
+    "latitude": 29.151354,
+    "longitude": 79.47694,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2f9c2c4c",
+    "name": "Kant Brother Petrol Pump",
+    "latitude": 29.195491,
+    "longitude": 79.511366,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-08bf3e83",
+    "name": "Ms/Hsd Deewan Filling Station",
+    "latitude": 29.193193,
+    "longitude": 79.472436,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c5e29338",
+    "name": "Ms/Hsd Devpuran Fuel Station",
+    "latitude": 29.214713,
+    "longitude": 79.4791,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0628dc3",
+    "name": "Ms/Hsd Harileela Highway",
+    "latitude": 29.261754,
+    "longitude": 79.543613,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-29800409",
+    "name": "Ms/Hsd Satat Filling Station",
+    "latitude": 29.184423,
+    "longitude": 79.527863,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ec31e197",
+    "name": "Naini Service Station",
+    "latitude": 29.166186,
+    "longitude": 79.52123,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-57f7f35a",
+    "name": "National Fuel",
+    "latitude": 29.208879,
+    "longitude": 79.522946,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3df455e1",
+    "name": "Nayara",
+    "latitude": 29.221557,
+    "longitude": 79.524682,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bdad58b0",
+    "name": "Nayara",
+    "latitude": 29.183789,
+    "longitude": 79.567502,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d6a0d1f7",
+    "name": "Nayara Petrol Pump",
+    "latitude": 29.173681,
+    "longitude": 79.474362,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-983816c7",
+    "name": "Royal Fuel Station",
+    "latitude": 29.22414,
+    "longitude": 79.501061,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-aba67f2d",
+    "name": "Suyal Filling Station",
+    "latitude": 29.234043,
+    "longitude": 79.481361,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-948e7993",
+    "name": "Vijay Hp Fuel Centre",
+    "latitude": 29.218421,
+    "longitude": 79.546385,
+    "city": "Haldwani/Nainital",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0b926904",
+    "name": "Hindustan Petroleum",
+    "latitude": 29.861845,
+    "longitude": 77.889059,
+    "city": "Haridwar/Roorkee",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cae74dee",
+    "name": "Indian Oil",
+    "latitude": 29.863814,
+    "longitude": 77.888907,
+    "city": "Haridwar/Roorkee",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ebd62ebf",
+    "name": "Nayara",
+    "latitude": 29.877764,
+    "longitude": 77.876937,
+    "city": "Haridwar/Roorkee",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-9e6fc83b",
     "name": "Igl",
     "latitude": 29.400173,
     "longitude": 77.700106,
-    "city": "",
+    "city": "Jarauda",
     "state": "Uttarakhand",
-    "source": "osm",
-    "address": "Uttarakhand",
-    "operator": "IGL"
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-e4ee447d",
+    "name": "Ashish Kumar",
+    "latitude": 28.93372,
+    "longitude": 77.7239,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-21204fd6",
+    "name": "Bharat Petroleum",
+    "latitude": 29.034966,
+    "longitude": 77.707223,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3154f71c",
+    "name": "Bharat Petroleum",
+    "latitude": 29.041434,
+    "longitude": 77.686498,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0a23778d",
+    "name": "Bharat Petroleum",
+    "latitude": 29.009251,
+    "longitude": 77.6524,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4d49c528",
+    "name": "Bharat Petroleum",
+    "latitude": 29.062924,
+    "longitude": 77.709072,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-45819110",
+    "name": "Bharat Petroleum",
+    "latitude": 28.962773,
+    "longitude": 77.639867,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9d4b85ce",
+    "name": "Bharat Petroleum",
+    "latitude": 28.965636,
+    "longitude": 77.736098,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9123261e",
+    "name": "Bharat Petroleum",
+    "latitude": 29.003953,
+    "longitude": 77.704323,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-66bc8eb5",
+    "name": "Bharat Petroleum",
+    "latitude": 28.989634,
+    "longitude": 77.757251,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a58b80eb",
+    "name": "Bharat Petroleum",
+    "latitude": 28.973127,
+    "longitude": 77.689088,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c7e7c340",
+    "name": "Bharat Petroleum",
+    "latitude": 28.96304,
+    "longitude": 77.682767,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-27fb3dc6",
+    "name": "Bharat Petroleum",
+    "latitude": 28.933436,
+    "longitude": 77.721311,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-66703ab3",
+    "name": "City Fuel",
+    "latitude": 28.944639,
+    "longitude": 77.67975,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-e7e664f1",
+    "name": "Cng Station",
+    "latitude": 29.04172,
+    "longitude": 77.707291,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6f41f635",
+    "name": "Cng Station",
+    "latitude": 29.042698,
+    "longitude": 77.794643,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06e3c6e7",
+    "name": "Ganga Nagar Cng Station",
+    "latitude": 28.99975,
+    "longitude": 77.748083,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-580deb5c",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.968833,
+    "longitude": 77.689023,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8feb3332",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.936013,
+    "longitude": 77.691887,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9699026a",
+    "name": "Hp",
+    "latitude": 28.921941,
+    "longitude": 77.806674,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-35c0b8f9",
+    "name": "Hp",
+    "latitude": 28.998732,
+    "longitude": 77.698577,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-37e60f93",
+    "name": "Hp",
+    "latitude": 28.997378,
+    "longitude": 77.706037,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-761bace5",
+    "name": "Hp",
+    "latitude": 28.992869,
+    "longitude": 77.72298,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0eec1f92",
+    "name": "Hp",
+    "latitude": 28.985929,
+    "longitude": 77.670513,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c56df0ba",
+    "name": "Hp",
+    "latitude": 28.953719,
+    "longitude": 77.679793,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e1aa5b40",
+    "name": "Indian Oil",
+    "latitude": 28.963595,
+    "longitude": 77.74183,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fac9b5e2",
+    "name": "Indian Oil",
+    "latitude": 28.988806,
+    "longitude": 77.729221,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e742b0d8",
+    "name": "Indian Oil",
+    "latitude": 29.006552,
+    "longitude": 77.65119,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-073cec8c",
+    "name": "Indian Oil",
+    "latitude": 28.988655,
+    "longitude": 77.699818,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-18459156",
+    "name": "Indian Oil",
+    "latitude": 28.986301,
+    "longitude": 77.714277,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-636ba253",
+    "name": "Indian Oil",
+    "latitude": 28.91988,
+    "longitude": 77.640901,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1726e788",
+    "name": "Indian Oil",
+    "latitude": 28.970902,
+    "longitude": 77.689958,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fb0af7c4",
+    "name": "Indian Oil",
+    "latitude": 28.965532,
+    "longitude": 77.687142,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d09d02d8",
+    "name": "Indian Oil",
+    "latitude": 28.934365,
+    "longitude": 77.663563,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9f2abcf2",
+    "name": "Indian Oil",
+    "latitude": 28.921963,
+    "longitude": 77.649886,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ab970810",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 28.978115,
+    "longitude": 77.723431,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-38759876",
+    "name": "Jai Durga Motors",
+    "latitude": 29.036472,
+    "longitude": 77.67675,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-883f7cd0",
+    "name": "Jai Durga Petrol Pump",
+    "latitude": 28.959491,
+    "longitude": 77.748156,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-c3ade43e",
+    "name": "Krishna Cng Station",
+    "latitude": 29.003,
+    "longitude": 77.646778,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-533ba68c",
+    "name": "Lohiya Nagar Cng Station",
+    "latitude": 28.933866,
+    "longitude": 77.728292,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-d1280d08",
+    "name": "Nayara",
+    "latitude": 29.054577,
+    "longitude": 77.707518,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-21c0fbf4",
+    "name": "Nayara",
+    "latitude": 28.916618,
+    "longitude": 77.642066,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-937e9d31",
+    "name": "Ncr Fuel",
+    "latitude": 28.965222,
+    "longitude": 77.591,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-77bc658a",
+    "name": "Rajshree Fuels Hp",
+    "latitude": 28.993251,
+    "longitude": 77.651719,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-ecbd0b15",
+    "name": "Richa Handifabs",
+    "latitude": 28.940814,
+    "longitude": 77.77502,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-dce42799",
+    "name": "Saheed Satpal Service Station",
+    "latitude": 29.030772,
+    "longitude": 77.677064,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-ef20bbb0",
+    "name": "Shatabdi Nagar Cng Station",
+    "latitude": 28.930667,
+    "longitude": 77.659833,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-318a7041",
+    "name": "Singh Filling Station",
+    "latitude": 28.96856,
+    "longitude": 77.73675,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-136acd1c",
+    "name": "Sirohi Cng Station",
+    "latitude": 29.044783,
+    "longitude": 77.697291,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-a1eff4e7",
+    "name": "Vedvyaspuri Cng Station",
+    "latitude": 28.951167,
+    "longitude": 77.641139,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-da7d5279",
+    "name": "Yashveer Filling Station",
+    "latitude": 28.991,
+    "longitude": 77.645694,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "gail_pdf"
+  },
+  {
+    "id": "cng-f4a194c0",
+    "name": "Bharat Petroleum",
+    "latitude": 29.42657,
+    "longitude": 77.718199,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f6b18649",
+    "name": "Cng Station",
+    "latitude": 29.477542,
+    "longitude": 77.697329,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-34d8cc69",
+    "name": "Cng Station",
+    "latitude": 29.540345,
+    "longitude": 77.7297,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d109d915",
+    "name": "Cng Station",
+    "latitude": 29.486172,
+    "longitude": 77.74719,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a7713c55",
+    "name": "Cng Station",
+    "latitude": 29.418537,
+    "longitude": 77.701277,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cf7a6d1a",
+    "name": "Cng Station",
+    "latitude": 29.406372,
+    "longitude": 77.701973,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1afb0513",
+    "name": "Cng Station",
+    "latitude": 29.476685,
+    "longitude": 77.752304,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6dbd0ec5",
+    "name": "Cng Station",
+    "latitude": 29.46552,
+    "longitude": 77.695862,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6816dbb6",
+    "name": "Cng Station",
+    "latitude": 29.373652,
+    "longitude": 77.706261,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-99c311f0",
+    "name": "Essar",
+    "latitude": 29.497007,
+    "longitude": 77.735018,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7ad84b72",
+    "name": "Himalaya Filling Station",
+    "latitude": 29.42162,
+    "longitude": 77.699827,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-903bc314",
+    "name": "Indian Oil",
+    "latitude": 29.452122,
+    "longitude": 77.736979,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-24b4297c",
+    "name": "Indian Oil",
+    "latitude": 29.426342,
+    "longitude": 77.720362,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-95fa71b4",
+    "name": "Indian Oil",
+    "latitude": 29.413932,
+    "longitude": 77.699309,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1d6aa661",
+    "name": "Indian Oil (Cng)",
+    "latitude": 29.53741,
+    "longitude": 77.736739,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "nominatim_grid"
+  },
+  {
+    "id": "cng-70d9d235",
+    "name": "Bharat Petroleum",
+    "latitude": 30.107455,
+    "longitude": 78.299813,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fb48786",
+    "name": "Bp;Jio",
+    "latitude": 30.120286,
+    "longitude": 78.289494,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0cab7d55",
+    "name": "Cng Station",
+    "latitude": 30.091495,
+    "longitude": 78.276081,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2a8884b8",
+    "name": "Cng Station",
+    "latitude": 30.116114,
+    "longitude": 78.285833,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d579bbc3",
+    "name": "Hp",
+    "latitude": 30.112428,
+    "longitude": 78.302684,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fd65aadd",
+    "name": "Indian Oil",
+    "latitude": 30.10236,
+    "longitude": 78.292675,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-40e40aa9",
+    "name": "Indian Oil",
+    "latitude": 30.125994,
+    "longitude": 78.31625,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bfb7fa80",
+    "name": "Indian Oil",
+    "latitude": 30.132283,
+    "longitude": 78.385585,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-28e90795",
+    "name": "Indian Oil",
+    "latitude": 30.114193,
+    "longitude": 78.284342,
+    "city": "Rishikesh",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-b29b6fa1",
     "name": "Indian Oil",
     "latitude": 28.98893,
     "longitude": 79.399639,
-    "city": "",
+    "city": "Rudrapur",
     "state": "Uttarakhand",
-    "source": "osm",
-    "address": "Uttarakhand"
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-6b6b8653",
+    "name": "Bharat Petroleum",
+    "latitude": 29.139573,
+    "longitude": 79.464153,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b84be570",
+    "name": "Bharat Petroleum",
+    "latitude": 28.9786,
+    "longitude": 79.400385,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-225ec7e7",
+    "name": "Bharat Petroleum",
+    "latitude": 29.125395,
+    "longitude": 79.520587,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2804d51f",
+    "name": "Bharat Petroleum",
+    "latitude": 29.072739,
+    "longitude": 79.516228,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3788cba3",
+    "name": "Bharat Petroleum",
+    "latitude": 28.94979,
+    "longitude": 79.440063,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ccab1455",
+    "name": "Cng Station",
+    "latitude": 29.022662,
+    "longitude": 79.492896,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-35e61539",
+    "name": "Cng Station",
+    "latitude": 29.036628,
+    "longitude": 79.386058,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-42010743",
+    "name": "Cng Station",
+    "latitude": 29.037033,
+    "longitude": 79.38247,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7cf4038f",
+    "name": "Hp",
+    "latitude": 28.994623,
+    "longitude": 79.400749,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eb50fdb9",
+    "name": "Hp",
+    "latitude": 28.970886,
+    "longitude": 79.397755,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7926a21b",
+    "name": "Indian Oil",
+    "latitude": 28.982633,
+    "longitude": 79.400271,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a41809f7",
+    "name": "Indian Oil",
+    "latitude": 29.066055,
+    "longitude": 79.516514,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-846f5f07",
+    "name": "Indian Oil",
+    "latitude": 28.974188,
+    "longitude": 79.387389,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d8156267",
+    "name": "Indian Oil",
+    "latitude": 28.957181,
+    "longitude": 79.427821,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f5a2631b",
+    "name": "Indian Oil",
+    "latitude": 29.13398,
+    "longitude": 79.52123,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6e336ef6",
+    "name": "Indian Oil",
+    "latitude": 29.049341,
+    "longitude": 79.352458,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a005aef2",
+    "name": "Jio Bp",
+    "latitude": 29.13626,
+    "longitude": 79.521482,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f7f9b113",
+    "name": "Nagla Petrol Pump",
+    "latitude": 29.018115,
+    "longitude": 79.517036,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6ae890b2",
+    "name": "Prime Service Centre",
+    "latitude": 29.144873,
+    "longitude": 79.469972,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ebd9ff25",
+    "name": "Reliance",
+    "latitude": 28.952823,
+    "longitude": 79.434039,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2bb4cab8",
+    "name": "Shaheed Chandan Filling Station",
+    "latitude": 29.115835,
+    "longitude": 79.519279,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e6c642ed",
+    "name": "Sri Subhash Filling Station",
+    "latitude": 29.129236,
+    "longitude": 79.520005,
+    "city": "Rudrapur/Kashipur",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
   }
 ]
