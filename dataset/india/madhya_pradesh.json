@@ -2934,6 +2934,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-56aab4e7",
+    "name": "Baba Fuel Station",
+    "latitude": 23.09949,
+    "longitude": 76.255999,
+    "city": "Dewas",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-c8721e31",
     "name": "Bharat Petroleum",
     "latitude": 22.965968,
@@ -2970,10 +2979,10 @@
     "source": "gail_pdf"
   },
   {
-    "id": "cng-f3978188",
+    "id": "cng-d72a2b30",
     "name": "Shree Balaji Filling Station",
-    "latitude": 22.80575,
-    "longitude": 76.294041,
+    "latitude": 22.665776,
+    "longitude": 76.748671,
     "city": "Dewas",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -2995,6 +3004,15 @@
     "city": "Dewas",
     "state": "Madhya Pradesh",
     "source": "gail_pdf"
+  },
+  {
+    "id": "cng-224f5cf1",
+    "name": "Shri Sanwariya Filling Center",
+    "latitude": 23.02489,
+    "longitude": 76.360055,
+    "city": "Dewas",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-f15879fb",
@@ -3105,10 +3123,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-99be9cca",
+    "id": "cng-d9c803ae",
     "name": "Bhadoriya Fuel Station",
-    "latitude": 22.720362,
-    "longitude": 75.8682,
+    "latitude": 22.703242,
+    "longitude": 75.754309,
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -3175,6 +3193,15 @@
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-99be9cca",
+    "name": "Choudhary Highway Service",
+    "latitude": 22.720362,
+    "longitude": 75.8682,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-221a6b4f",
@@ -3663,6 +3690,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-3d9afa0d",
+    "name": "Maa Renuka Filling Station",
+    "latitude": 22.723436,
+    "longitude": 75.921728,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-650db826",
     "name": "Madhur Fuel Station",
     "latitude": 22.681914,
@@ -3798,6 +3834,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-59ba1af9",
+    "name": "Shradha Filling Station",
+    "latitude": 22.688433,
+    "longitude": 75.612634,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-8e1f4b5e",
+    "name": "Shree Maruti Kisan Seva Kendra",
+    "latitude": 22.849421,
+    "longitude": 75.543774,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-16292e83",
     "name": "Shukla Brothers",
     "latitude": 22.734371,
@@ -3805,6 +3859,15 @@
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0434643c",
+    "name": "Singh Golden Transport",
+    "latitude": 22.638191,
+    "longitude": 75.895234,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-8162a54d",
@@ -3850,6 +3913,15 @@
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5c387831",
+    "name": "Umiya Fuel Station",
+    "latitude": 22.558673,
+    "longitude": 75.768656,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-cd963baa",
@@ -4149,10 +4221,46 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-908e537a",
+    "id": "cng-6d250f3f",
+    "name": "Aashirwad Automobiles",
+    "latitude": 23.008653,
+    "longitude": 74.577734,
+    "city": "Jhabua",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-5a0e2a82",
     "name": "Bhandari Fuel",
-    "latitude": 22.886965,
-    "longitude": 74.724325,
+    "latitude": 23.020959,
+    "longitude": 74.807135,
+    "city": "Jhabua",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-7a253732",
+    "name": "Bhandari Highway Petroleum",
+    "latitude": 22.770817,
+    "longitude": 74.590424,
+    "city": "Jhabua",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-c9a50615",
+    "name": "Surya Petroleum",
+    "latitude": 22.907662,
+    "longitude": 74.539858,
+    "city": "Jhabua",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-ea94961c",
+    "name": "Varun Multicare Center",
+    "latitude": 22.700147,
+    "longitude": 75.915119,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -4896,10 +5004,37 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-78d2131a",
+    "id": "cng-95cbe0ee",
+    "name": "Friends Automobiles",
+    "latitude": 23.672012,
+    "longitude": 75.497177,
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-8eb5b7df",
     "name": "Gagan Automobiles",
-    "latitude": 23.50222,
-    "longitude": 74.955153,
+    "latitude": 23.467466,
+    "longitude": 75.10276,
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-214630e3",
+    "name": "Rani Singh Automobiles",
+    "latitude": 23.331104,
+    "longitude": 75.036085,
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-80976e19",
+    "name": "Shree Sai Kripa Petroleum",
+    "latitude": 23.610995,
+    "longitude": 75.137585,
     "city": "Ratlam",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -5220,10 +5355,64 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-69296e29",
+    "id": "cng-4c4f7c2d",
     "name": "Arya Fuel Station",
-    "latitude": 23.188513,
-    "longitude": 75.771656,
+    "latitude": 23.16365,
+    "longitude": 75.762494,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-4684e480",
+    "name": "Gaurav Pratap Singh Petroleum",
+    "latitude": 23.332295,
+    "longitude": 76.185492,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-021cfb1e",
+    "name": "Jai Nakoda Filling Station",
+    "latitude": 23.051044,
+    "longitude": 75.379709,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-cd305ea6",
+    "name": "Mohta Surajlal Govindlal",
+    "latitude": 23.457896,
+    "longitude": 75.419111,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-4408cb48",
+    "name": "Patidar Petroleum",
+    "latitude": 23.010089,
+    "longitude": 75.39032,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-45a67e3a",
+    "name": "Shree Sai Sheel Gajanan Filling Station",
+    "latitude": 23.334612,
+    "longitude": 76.044734,
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-83750436",
+    "name": "Vardhaman Petroleum",
+    "latitude": 23.15929,
+    "longitude": 75.68155,
     "city": "Ujjain",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
