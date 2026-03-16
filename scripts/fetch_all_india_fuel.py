@@ -161,9 +161,51 @@ def _fetch_bbox(bbox: str) -> list[dict]:
     return _overpass(query)
 
 
+_CNG_KEYWORDS = {
+    "cng", "compressed natural gas", "city gas",
+    "igl", "indraprastha gas", "mahanagar gas", "mgl",
+    "gail gas", "gujarat gas", "adani total gas", "atgl",
+    "haryana city gas", "green gas", "central up gas",
+    "mngl", "maharashtra natural gas", "torrent gas",
+    "sabarmati gas", "think gas", "avantika gas",
+    "ag&p", "pratham", "bhagyanagar gas", "assam gas",
+    "tripura gas", "charotar gas", "matrix gas",
+    "rajkot gas", "unison enviro", "siti energy",
+}
+
+# Brands that operate CNG by government mandate in all their outlets
+_CNG_MANDATE_BRANDS = {
+    "iocl", "indian oil", "hindustanpetroleum", "hpcl",
+    "bharat petroleum", "bpcl", "essar", "reliance petroleum",
+    "nayara", "shell",
+}
+
+def _is_likely_cng(tags: dict) -> bool:
+    """Return True if the station is likely to dispense CNG."""
+    if tags.get("fuel:cng") == "yes":
+        return True
+    if tags.get("fuel:cng") == "no":
+        return False
+
+    combined = " ".join(str(v) for v in tags.values()).lower()
+
+    # Explicit CNG keyword anywhere in tags
+    if any(kw in combined for kw in _CNG_KEYWORDS):
+        return True
+
+    # Major PSU brands — govt-mandated CNG in CGD zones
+    brand = (tags.get("brand") or tags.get("operator") or "").lower()
+    if any(b in brand for b in _CNG_MANDATE_BRANDS):
+        return True
+
+    # No CNG evidence and NOT a major operator — skip to keep data clean
+    return False
+
+
 def _elem_to_record(e: dict) -> dict | None:
     tags = e.get("tags", {})
-    if tags.get("fuel:cng") == "no":
+
+    if not _is_likely_cng(tags):
         return None
 
     lat = e.get("lat") or (e.get("center") or {}).get("lat")
