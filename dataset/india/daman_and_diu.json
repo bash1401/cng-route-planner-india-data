@@ -27,6 +27,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-50858423",
+    "name": "Ratan Petroleum",
+    "latitude": 20.328918,
+    "longitude": 72.966085,
+    "city": "Dadra and Nagar Haveli",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-b547a324",
     "name": "Bharat Petroleum",
     "latitude": 20.545811,
@@ -34,6 +43,15 @@
     "city": "Valsad",
     "state": "Daman and Diu",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-55a2d1a5",
+    "name": "Gujarat Gas (Vapi Gsrtc Premises)",
+    "latitude": 20.373548,
+    "longitude": 72.908438,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-2c850529",
@@ -45,6 +63,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-b90baa12",
+    "name": "Hpcl Coco (Gundlav)",
+    "latitude": 20.615464,
+    "longitude": 72.930578,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-cbfa4b5c",
     "name": "Indian Oil",
     "latitude": 20.589926,
@@ -52,6 +79,33 @@
     "city": "Valsad",
     "state": "Daman and Diu",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d4378975",
+    "name": "Shree Bhavani Auto Traders",
+    "latitude": 20.513794,
+    "longitude": 72.92422,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-2f4dc34d",
+    "name": "Shree Mohaneshwar Gasoline",
+    "latitude": 20.373658,
+    "longitude": 72.850771,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-b960e131",
+    "name": "Universal Filling",
+    "latitude": 20.555529,
+    "longitude": 72.915895,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-8b72e82d",

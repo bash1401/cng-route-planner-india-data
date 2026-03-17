@@ -1575,6 +1575,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-c8a48b89",
+    "name": "Bhullar Filling Station",
+    "latitude": 31.562222,
+    "longitude": 75.255443,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-c16a429a",
     "name": "Cng Station",
     "latitude": 31.612658,
@@ -1620,10 +1629,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d302f8ec",
+    "id": "cng-ac579193",
     "name": "Ess Pee Filling Station",
-    "latitude": 31.635666,
-    "longitude": 74.87875,
+    "latitude": 31.617008,
+    "longitude": 74.694253,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -1636,6 +1645,42 @@
     "city": "Amritsar",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-44fb13e0",
+    "name": "Goodwill Filling Station",
+    "latitude": 31.702305,
+    "longitude": 74.986324,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-bf2ca87b",
+    "name": "Gujarat Gas (Mehta)",
+    "latitude": 31.673908,
+    "longitude": 75.256994,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-4f63c5ca",
+    "name": "Harsha Automobiles",
+    "latitude": 31.677163,
+    "longitude": 75.254885,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-6b7fd67f",
+    "name": "Highway Filling Station",
+    "latitude": 31.586033,
+    "longitude": 75.050255,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-b58c9885",
@@ -1674,6 +1719,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d302f8ec",
+    "name": "Nihals Petro World",
+    "latitude": 31.635666,
+    "longitude": 74.87875,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-9b96a9af",
     "name": "Petrol Pump",
     "latitude": 31.634484,
@@ -1683,6 +1737,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-be37b317",
+    "name": "Rampal Service Station",
+    "latitude": 31.804114,
+    "longitude": 74.766012,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-5eaec9b3",
     "name": "Relaince",
     "latitude": 31.590829,
@@ -1690,6 +1753,15 @@
     "city": "Amritsar",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-26f69fbf",
+    "name": "Sharda Power Point",
+    "latitude": 31.616753,
+    "longitude": 74.886466,
+    "city": "Amritsar",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-12e3a3f8",
@@ -1782,6 +1854,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-a6180f75",
+    "name": "Bajrang Bali Filling Station",
+    "latitude": 30.344437,
+    "longitude": 74.922926,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-4bdbb78f",
     "name": "Cng Station",
     "latitude": 30.144524,
@@ -1818,6 +1899,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-b3b63ff9",
+    "name": "Devraj Fuels",
+    "latitude": 29.974726,
+    "longitude": 75.089452,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-4fa102c3",
+    "name": "Fill And Fly Service Station",
+    "latitude": 30.270398,
+    "longitude": 75.237354,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-b1d6b77d",
     "name": "Indian Oil",
     "latitude": 29.97248,
@@ -1827,10 +1926,37 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-67b27db7",
+    "id": "cng-8b10e7eb",
+    "name": "Jagdish Hp",
+    "latitude": 30.240676,
+    "longitude": 75.170714,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-b16aef0b",
+    "name": "M M Filling Station",
+    "latitude": 30.206791,
+    "longitude": 74.94637,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-65e84cf6",
     "name": "Seth Hemraj Filling Station",
-    "latitude": 30.179481,
-    "longitude": 75.04711,
+    "latitude": 30.213652,
+    "longitude": 74.946657,
+    "city": "Bathinda",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-de0c7807",
+    "name": "Vijendra Filling Station",
+    "latitude": 30.078259,
+    "longitude": 74.779723,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -1953,6 +2079,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d9b23d05",
+    "name": "Energy Centre - Bpcl Coco",
+    "latitude": 30.640532,
+    "longitude": 74.902808,
+    "city": "Faridkot",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-def0a49f",
     "name": "H P",
     "latitude": 30.684035,
@@ -1962,10 +2097,28 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-88a3d4d0",
+    "id": "cng-166002a6",
+    "name": "Hemkunt Filling Station",
+    "latitude": 30.71677,
+    "longitude": 74.580537,
+    "city": "Faridkot",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-443f26e5",
     "name": "Jain Sons",
-    "latitude": 30.601451,
-    "longitude": 74.795018,
+    "latitude": 30.707738,
+    "longitude": 74.807107,
+    "city": "Faridkot",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-60841bc7",
+    "name": "Jaitu Oil Store",
+    "latitude": 30.469224,
+    "longitude": 74.891969,
     "city": "Faridkot",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -1978,6 +2131,42 @@
     "city": "Faridkot",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6be54e3c",
+    "name": "Sahota Quality Fuels",
+    "latitude": 31.057632,
+    "longitude": 74.813777,
+    "city": "Faridkot",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-dd8b9ba8",
+    "name": "Sarpanch Petro",
+    "latitude": 30.577296,
+    "longitude": 74.81925,
+    "city": "Faridkot",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-12981726",
+    "name": "Ajay Filling Station",
+    "latitude": 29.620776,
+    "longitude": 75.932626,
+    "city": "Fatehabad",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-c922a908",
+    "name": "Godara Hp",
+    "latitude": 29.678017,
+    "longitude": 75.553666,
+    "city": "Fatehabad",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-1c1b1cc1",
@@ -2106,15 +2295,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-02ee6617",
-    "name": "Jai Shiv Motors",
-    "latitude": 30.683973,
-    "longitude": 76.359403,
-    "city": "Ferozepur",
-    "state": "Punjab",
-    "source": "gujarat_gas"
-  },
-  {
     "id": "cng-6f20f07d",
     "name": "Petrol Pump (Bal Mukand And Sons)",
     "latitude": 30.952381,
@@ -2133,11 +2313,74 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e6bde777",
+    "id": "cng-a178da0f",
+    "name": "Bajaj Filling Station",
+    "latitude": 30.919451,
+    "longitude": 74.889618,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-1d60d07f",
+    "name": "Harbir Petro Mart",
+    "latitude": 30.971299,
+    "longitude": 74.98818,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-88d28d1a",
+    "name": "Jai Shiv Motors",
+    "latitude": 30.948667,
+    "longitude": 74.611012,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-bd519408",
+    "name": "Nand Fuel",
+    "latitude": 30.69286,
+    "longitude": 74.399399,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-b7d3266c",
     "name": "Rama Motors",
-    "latitude": 30.400258,
-    "longitude": 74.032775,
-    "city": "Ferozpur",
+    "latitude": 30.905502,
+    "longitude": 74.549403,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-57c0811a",
+    "name": "S K Energy Point",
+    "latitude": 30.788754,
+    "longitude": 74.893784,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-dd009c71",
+    "name": "Samundari Filling Station",
+    "latitude": 30.91604,
+    "longitude": 74.601283,
+    "city": "Firozpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-fad2c277",
+    "name": "Teharia Filling Station",
+    "latitude": 30.967288,
+    "longitude": 74.966004,
+    "city": "Firozpur",
     "state": "Punjab",
     "source": "gujarat_gas"
   },
@@ -2196,10 +2439,46 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-df072d65",
+    "id": "cng-3231ee6b",
+    "name": "Aashirwad Filling Station",
+    "latitude": 31.892056,
+    "longitude": 75.306126,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-14c03ac7",
+    "name": "Apna Service Station",
+    "latitude": 32.011219,
+    "longitude": 75.012625,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-db1f964c",
+    "name": "Aulakh Filling Station",
+    "latitude": 31.819302,
+    "longitude": 75.199994,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-a50ec657",
     "name": "B S Filling Station",
-    "latitude": 31.751131,
-    "longitude": 75.418905,
+    "latitude": 31.795619,
+    "longitude": 75.152752,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-b969d72b",
+    "name": "Best Fuel Centre",
+    "latitude": 32.094333,
+    "longitude": 75.450072,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2221,6 +2500,15 @@
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-df403276",
+    "name": "Gurbaksh Rai Ram Prakash",
+    "latitude": 31.903726,
+    "longitude": 75.227559,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-35524f07",
@@ -2259,10 +2547,55 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-df403276",
+    "id": "cng-6d60ce87",
+    "name": "Madan Filling Station",
+    "latitude": 31.817623,
+    "longitude": 75.211594,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-9c21c6d3",
+    "name": "Master Filling Station",
+    "latitude": 31.783644,
+    "longitude": 75.458938,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-7aecf7e5",
+    "name": "Raja Filling Station",
+    "latitude": 32.041913,
+    "longitude": 75.400168,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-369b8b85",
     "name": "Saraf Service Station",
-    "latitude": 31.903726,
-    "longitude": 75.227559,
+    "latitude": 32.126347,
+    "longitude": 75.470828,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-cfe1d5a5",
+    "name": "Shri Ram Filling Station",
+    "latitude": 31.991033,
+    "longitude": 75.483352,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-facb829e",
+    "name": "Uppal Highway Fuel",
+    "latitude": 31.960951,
+    "longitude": 75.415743,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2304,15 +2637,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c5e5abea",
-    "name": "Hansraj Sudharshan Kumar",
-    "latitude": 29.91406,
-    "longitude": 74.73623,
-    "city": "Haryana",
-    "state": "Punjab",
-    "source": "gujarat_gas"
-  },
-  {
     "id": "cng-d04a8beb",
     "name": "Aggarwal Petrol Pump",
     "latitude": 31.550419,
@@ -2320,6 +2644,24 @@
     "city": "Hoshiarpur",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9eddcfbb",
+    "name": "Alka Service Station",
+    "latitude": 31.903613,
+    "longitude": 75.768313,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-cc8bf959",
+    "name": "Balaji Filling Station",
+    "latitude": 31.94205,
+    "longitude": 75.612191,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-77e12d67",
@@ -2340,6 +2682,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-1bbbb339",
+    "name": "Dashmesh Hp Filling Station",
+    "latitude": 31.19981,
+    "longitude": 76.162417,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-83fd889a",
+    "name": "Gurdeep Service Station",
+    "latitude": 31.532852,
+    "longitude": 75.902548,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-d480bb66",
     "name": "Hp",
     "latitude": 31.527676,
@@ -2358,6 +2718,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-0e7182c1",
+    "name": "Kumar Ajay Hp",
+    "latitude": 31.749007,
+    "longitude": 75.73627,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-18193e21",
+    "name": "Modern Service Station",
+    "latitude": 31.290295,
+    "longitude": 76.086548,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-d689d510",
     "name": "Petrol Pump",
     "latitude": 31.507344,
@@ -2367,10 +2745,46 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c3901b84",
+    "id": "cng-4ae93ba4",
+    "name": "Prime Petro Fills",
+    "latitude": 31.488094,
+    "longitude": 75.910045,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-99bc4ac9",
+    "name": "Royal Auto Service",
+    "latitude": 31.401774,
+    "longitude": 76.016357,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-fc24d965",
     "name": "Saini Petroleum",
-    "latitude": 31.609294,
-    "longitude": 75.845975,
+    "latitude": 31.814321,
+    "longitude": 75.657303,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-e3c4d752",
+    "name": "Sat Prakash Amar Singh",
+    "latitude": 31.529428,
+    "longitude": 75.90461,
+    "city": "Hoshiarpur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-97588b3f",
+    "name": "Thakur Filling Station",
+    "latitude": 31.755864,
+    "longitude": 75.86036,
     "city": "Hoshiarpur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -3636,10 +4050,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-df5917b1",
+    "id": "cng-ff99e31c",
     "name": "Amarnath Surinder Kumar",
-    "latitude": 29.876413,
-    "longitude": 75.488956,
+    "latitude": 29.925559,
+    "longitude": 75.549854,
     "city": "Mansa",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -3672,6 +4086,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-3a16a752",
+    "name": "Jagdish Oil Company",
+    "latitude": 29.994685,
+    "longitude": 75.402222,
+    "city": "Mansa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-242ec4e3",
+    "name": "Jain Hp",
+    "latitude": 29.682486,
+    "longitude": 75.241632,
+    "city": "Mansa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-561f6b1d",
     "name": "Jio Bp",
     "latitude": 29.965208,
@@ -3679,6 +4111,33 @@
     "city": "Mansa",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4add6558",
+    "name": "Krishna Petro",
+    "latitude": 29.835637,
+    "longitude": 75.523882,
+    "city": "Mansa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-867555c4",
+    "name": "M S Auto Fuels",
+    "latitude": 30.062926,
+    "longitude": 75.364152,
+    "city": "Mansa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-f92d55eb",
+    "name": "Tarsen Filling Station",
+    "latitude": 29.944177,
+    "longitude": 75.565213,
+    "city": "Mansa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-3136c75a",
@@ -4158,24 +4617,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-65e84cf6",
-    "name": "Chaudhary Adhoc (Bharat Auto Care)",
-    "latitude": 30.213652,
-    "longitude": 74.946657,
-    "city": "Punjab",
-    "state": "Punjab",
-    "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-26790cfd",
-    "name": "Guru Hargobind Petroleum",
-    "latitude": 31.819,
-    "longitude": 75.665105,
-    "city": "Punjab",
-    "state": "Punjab",
-    "source": "gujarat_gas"
-  },
-  {
     "id": "cng-71c6735c",
     "name": "Indian Oil",
     "latitude": 31.813606,
@@ -4482,6 +4923,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-4e079d41",
+    "name": "Gajraj Petro City",
+    "latitude": 29.560364,
+    "longitude": 75.002789,
+    "city": "Sirsa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-c5e5abea",
+    "name": "Hansraj Sudharshan Kumar",
+    "latitude": 29.91406,
+    "longitude": 74.73623,
+    "city": "Sirsa",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-669e261f",
     "name": "Hp",
     "latitude": 29.605395,
@@ -4518,10 +4977,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-48a5ac14",
-    "name": "Khatu Shyam Filling Station",
-    "latitude": 29.606304,
-    "longitude": 74.903657,
+    "id": "cng-603c1096",
+    "name": "Mohit Petroleum",
+    "latitude": 29.832754,
+    "longitude": 74.636729,
     "city": "Sirsa",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -4536,6 +4995,33 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cb89bff5",
+    "name": "Dhaliwal Filling Station",
+    "latitude": 30.40743,
+    "longitude": 74.524236,
+    "city": "Sri Muktsar Sahib",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-7a299e7e",
+    "name": "Janta Oil Store",
+    "latitude": 30.4692,
+    "longitude": 74.5182,
+    "city": "Sri Muktsar Sahib",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-30827787",
+    "name": "Oasis Hp Oil Station",
+    "latitude": 30.024009,
+    "longitude": 74.602416,
+    "city": "Sri Muktsar Sahib",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
     "id": "cng-f729bf1a",
     "name": "Petrol Pump",
     "latitude": 30.413384,
@@ -4545,10 +5031,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4896721f",
+    "id": "cng-8f0541d2",
+    "name": "Rajora Hp Fuel Junction",
+    "latitude": 30.189061,
+    "longitude": 74.499455,
+    "city": "Sri Muktsar Sahib",
+    "state": "Punjab",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-422ed6c5",
     "name": "Wadhwa Hp Oil Store",
-    "latitude": 30.286716,
-    "longitude": 74.526223,
+    "latitude": 30.266184,
+    "longitude": 74.698834,
     "city": "Sri Muktsar Sahib",
     "state": "Punjab",
     "source": "gujarat_gas"
