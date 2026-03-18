@@ -252,15 +252,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7c3bd0d2",
-    "name": "Bharat Petroleum",
-    "latitude": 12.914711,
-    "longitude": 74.834322,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9b16c73a",
     "name": "Bharat Petroleum",
     "latitude": 12.993894,
@@ -1428,15 +1419,6 @@
     "name": "Nayara",
     "latitude": 13.135358,
     "longitude": 75.980695,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ed11f19a",
-    "name": "Nayara",
-    "latitude": 12.868107,
-    "longitude": 74.901135,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -3369,6 +3351,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-7c3bd0d2",
+    "name": "Bharat Petroleum",
+    "latitude": 12.914711,
+    "longitude": 74.834322,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-f64ad371",
     "name": "Bharat Petroleum",
     "latitude": 12.873611,
@@ -3427,6 +3418,15 @@
     "name": "Cng Station",
     "latitude": 12.924613,
     "longitude": 74.86049,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9f380e5b",
+    "name": "Cng Station",
+    "latitude": 12.882828,
+    "longitude": 74.872535,
     "city": "Mangalore",
     "state": "Karnataka",
     "source": "cgd_inferred"
@@ -3562,6 +3562,15 @@
     "name": "Lpg Godown (Fuel)",
     "latitude": 12.980453,
     "longitude": 74.802124,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ed11f19a",
+    "name": "Nayara",
+    "latitude": 12.868107,
+    "longitude": 74.901135,
     "city": "Mangalore",
     "state": "Karnataka",
     "source": "cgd_inferred"

@@ -6857,8 +6857,8 @@
   },
   {
     "name": "Petrol Pump Ring Road",
-    "latitude": 21.184423,
-    "longitude": 72.834771,
+    "latitude": 21.184464,
+    "longitude": 72.834742,
     "city": "Surat",
     "state": "Gujarat",
     "source": "cgd_inferred"
@@ -6867,6 +6867,22 @@
     "name": "CNG Station",
     "latitude": 21.188581,
     "longitude": 72.882871,
+    "city": "Surat",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 21.221498,
+    "longitude": 72.77495,
+    "city": "Surat",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 21.198077,
+    "longitude": 72.730081,
     "city": "Surat",
     "state": "Gujarat",
     "source": "cgd_inferred"
@@ -11009,8 +11025,8 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 13.089672,
-    "longitude": 77.4011,
+    "latitude": 13.08967,
+    "longitude": 77.401115,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -22681,62 +22697,6 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 25.252768,
-    "longitude": 75.775426,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 25.274568,
-    "longitude": 75.758312,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Reliance Jio Petrol Pump",
-    "latitude": 25.124028,
-    "longitude": 75.857097,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Maharaja Petrol Pump",
-    "latitude": 25.199379,
-    "longitude": 75.860048,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bp Kota",
-    "latitude": 25.153047,
-    "longitude": 75.836455,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp - Kewal Prakash & Company",
-    "latitude": 25.175668,
-    "longitude": 75.84589,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 25.218398,
-    "longitude": 75.871172,
-    "city": "Kota",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
     "latitude": 28.067309,
     "longitude": 73.341242,
     "city": "Bikaner",
@@ -25283,6 +25243,30 @@
     "name": "Indian Oil",
     "latitude": 12.891824,
     "longitude": 74.910454,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Nayara",
+    "latitude": 12.868107,
+    "longitude": 74.901135,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.914711,
+    "longitude": 74.834322,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 12.882828,
+    "longitude": 74.872535,
     "city": "Mangalore",
     "state": "Karnataka",
     "source": "cgd_inferred"
@@ -36776,6 +36760,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "CNG Station",
+    "latitude": 12.964321,
+    "longitude": 77.753034,
+    "city": "Bengaluru East",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "C.M.Hubli Petrol / Gas Station",
     "latitude": 15.365601,
     "longitude": 75.122846,
@@ -42392,14 +42384,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharath Petroleum",
-    "latitude": 9.363881,
-    "longitude": 76.782267,
-    "city": "Pathanamthitta",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Bharat Gas Station",
     "latitude": 9.272509,
     "longitude": 76.792056,
@@ -42491,6 +42475,14 @@
     "name": "Indian Oil",
     "latitude": 9.33404,
     "longitude": 76.933036,
+    "city": "Pathanamthitta",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 9.363825,
+    "longitude": 76.782226,
     "city": "Pathanamthitta",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -48520,38 +48512,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 20.41078,
-    "longitude": 86.012139,
-    "city": "Cuttack",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.423905,
-    "longitude": 85.98585,
-    "city": "Cuttack",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Gail Gas Station",
-    "latitude": 20.444575,
-    "longitude": 85.945404,
-    "city": "Cuttack",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.454656,
-    "longitude": 85.91111,
-    "city": "Cuttack",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 20.497117,
     "longitude": 85.922117,
@@ -51195,14 +51155,6 @@
     "name": "Fuel 12",
     "latitude": 22.241074,
     "longitude": 68.967037,
-    "city": "Dwarka",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 22.244968,
-    "longitude": 68.96415,
     "city": "Dwarka",
     "state": "Gujarat",
     "source": "cgd_inferred"
