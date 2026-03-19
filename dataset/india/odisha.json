@@ -99,15 +99,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-1d359ab1",
-    "name": "Bharat Petroleum",
-    "latitude": 20.41078,
-    "longitude": 86.012139,
-    "city": "",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-34c0abbb",
     "name": "Bharat Petroleum",
     "latitude": 20.740092,
@@ -276,15 +267,6 @@
     "name": "Indian Oil",
     "latitude": 20.312541,
     "longitude": 86.304531,
-    "city": "",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a1a6df43",
-    "name": "Indian Oil",
-    "latitude": 20.423905,
-    "longitude": 85.98585,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -1020,6 +1002,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-1d359ab1",
+    "name": "Bharat Petroleum",
+    "latitude": 20.41078,
+    "longitude": 86.012139,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-6e970727",
     "name": "Haramani Filling Station",
     "latitude": 20.399031,
@@ -1051,6 +1042,24 @@
     "name": "Indian Oil",
     "latitude": 20.478722,
     "longitude": 85.859191,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a1a6df43",
+    "name": "Indian Oil",
+    "latitude": 20.423905,
+    "longitude": 85.98585,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-48bb0de1",
+    "name": "Indian Oil",
+    "latitude": 20.454656,
+    "longitude": 85.91111,
     "city": "Cuttack",
     "state": "Odisha",
     "source": "cgd_inferred"
@@ -1099,15 +1108,6 @@
     "city": "Cuttack",
     "state": "Odisha",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-48bb0de1",
-    "name": "Indian Oil",
-    "latitude": 20.454656,
-    "longitude": 85.91111,
-    "city": "Cuttack",
-    "state": "Odisha",
-    "source": "all_india_fuel"
   },
   {
     "id": "cng-65b8d5b0",
