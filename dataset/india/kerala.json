@@ -4266,6 +4266,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-a1e9c2e2",
+    "name": "Indian Oil",
+    "latitude": 9.756884,
+    "longitude": 76.547585,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-9af94ef3",
     "name": "Indian Oil Adani Cng Pvt Ltd",
     "latitude": 10.817346,
@@ -12987,15 +12996,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-95382808",
-    "name": "Cng Station",
-    "latitude": 11.185329,
-    "longitude": 77.2817,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-745a0c88",
     "name": "Essar Petrol Bunk",
     "latitude": 11.132348,
@@ -13072,6 +13072,15 @@
     "name": "Indian Oil",
     "latitude": 11.096869,
     "longitude": 77.355544,
+    "city": "Tiruppur",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-95382808",
+    "name": "இநதியன ஆயில பஙக",
+    "latitude": 11.185329,
+    "longitude": 77.2817,
     "city": "Tiruppur",
     "state": "Kerala",
     "source": "cgd_inferred"
