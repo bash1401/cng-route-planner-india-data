@@ -45,6 +45,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4e05c880",
+    "name": "Indian Oil",
+    "latitude": 30.838165,
+    "longitude": 76.988698,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-22fc9736",
     "name": "Indian Oil",
     "latitude": 32.545445,
@@ -324,6 +333,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-74134d6e",
+    "name": "Bharat Petroleum",
+    "latitude": 30.889693,
+    "longitude": 77.060051,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-297b0015",
+    "name": "Bharat Petroleum",
+    "latitude": 30.880606,
+    "longitude": 77.079438,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-4dd902b1",
     "name": "Bharat Petroleum",
     "latitude": 30.909535,
@@ -343,7 +370,7 @@
   },
   {
     "id": "cng-1c489ae4",
-    "name": "Cng Station",
+    "name": "Hindustan Petroleum",
     "latitude": 31.03781,
     "longitude": 77.120394,
     "city": "Solan",
@@ -355,6 +382,51 @@
     "name": "Hp Petrol Pump",
     "latitude": 30.963821,
     "longitude": 77.19676,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7fe79e93",
+    "name": "Indian Oil",
+    "latitude": 30.90254,
+    "longitude": 77.017756,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-969a0f7c",
+    "name": "Indian Oil",
+    "latitude": 30.86462,
+    "longitude": 77.001184,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7f1bd56c",
+    "name": "Indian Oil",
+    "latitude": 31.033213,
+    "longitude": 77.117432,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-802bbe58",
+    "name": "Indian Oil",
+    "latitude": 30.912659,
+    "longitude": 77.097117,
+    "city": "Solan",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-83778236",
+    "name": "Indian Oil",
+    "latitude": 30.981475,
+    "longitude": 77.108842,
     "city": "Solan",
     "state": "Himachal Pradesh",
     "source": "cgd_inferred"

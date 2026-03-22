@@ -1022,10 +1022,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1733,6 +1733,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-f9a9f04c",
+    "name": "Petrol Pump",
+    "latitude": 28.607759,
+    "longitude": 77.440891,
+    "city": "Noida/Gr.Noida",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-ba35b47f",
     "name": "एचपी पेटरोल पमप",
     "latitude": 28.45126,
@@ -2349,6 +2358,15 @@
     "name": "Indian Oil",
     "latitude": 28.922564,
     "longitude": 77.10381,
+    "city": "Sonipat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fce60e9",
+    "name": "Indian Oil",
+    "latitude": 29.017976,
+    "longitude": 77.076674,
     "city": "Sonipat",
     "state": "Haryana",
     "source": "cgd_inferred"
