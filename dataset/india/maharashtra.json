@@ -1083,33 +1083,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f33c5938",
-    "name": "Indian Oil",
-    "latitude": 19.903851,
-    "longitude": 73.831651,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c7989615",
-    "name": "Indian Oil",
-    "latitude": 19.941981,
-    "longitude": 73.803533,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-5555b162",
-    "name": "Indian Oil",
-    "latitude": 19.952527,
-    "longitude": 73.768355,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-701199ca",
     "name": "Indian Oil",
     "latitude": 20.847402,
@@ -1654,15 +1627,6 @@
     "name": "Shell",
     "latitude": 18.656361,
     "longitude": 73.7326,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-da1ead23",
-    "name": "Shell",
-    "latitude": 19.948923,
-    "longitude": 73.770741,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -4539,6 +4503,42 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-509dc256",
+    "name": "Hp",
+    "latitude": 19.943129,
+    "longitude": 73.791603,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4bd654ca",
+    "name": "Hp",
+    "latitude": 19.945196,
+    "longitude": 73.77354,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7e6c09a9",
+    "name": "Hp Laxmi Petroleum",
+    "latitude": 19.943076,
+    "longitude": 73.775358,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4bc531f8",
+    "name": "Hp Tulja Bhavani Petrol Pump",
+    "latitude": 19.942807,
+    "longitude": 73.797734,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-54e879da",
     "name": "Indian Oil",
     "latitude": 19.984777,
@@ -4552,6 +4552,33 @@
     "name": "Indian Oil",
     "latitude": 19.972886,
     "longitude": 73.728218,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f33c5938",
+    "name": "Indian Oil",
+    "latitude": 19.903851,
+    "longitude": 73.831651,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c7989615",
+    "name": "Indian Oil",
+    "latitude": 19.941981,
+    "longitude": 73.803533,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5555b162",
+    "name": "Indian Oil",
+    "latitude": 19.952527,
+    "longitude": 73.768355,
     "city": "Nashik",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -4606,6 +4633,15 @@
     "name": "Petrol Pump",
     "latitude": 20.061704,
     "longitude": 73.890934,
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-da1ead23",
+    "name": "Shell",
+    "latitude": 19.948923,
+    "longitude": 73.770741,
     "city": "Nashik",
     "state": "Maharashtra",
     "source": "cgd_inferred"
