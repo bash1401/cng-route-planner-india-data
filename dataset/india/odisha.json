@@ -1200,6 +1200,15 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-06c401e3",
+    "name": "Indian Oil",
+    "latitude": 20.11242,
+    "longitude": 85.869801,
+    "city": "Haripur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-76a6235f",
     "name": "Bharat Petroleum",
     "latitude": 19.473059,
@@ -1317,6 +1326,25 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-fc52ce93",
+    "name": "Reliance Petrol Pump",
+    "latitude": 20.068132,
+    "longitude": 85.986846,
+    "city": "Nimapada",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Reliance"
+  },
+  {
+    "id": "cng-cb2233a6",
+    "name": "Parija Fuels",
+    "latitude": 20.061721,
+    "longitude": 86.010009,
+    "city": "Nimapara",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-35ecac30",
     "name": "Maa Narayani Filling Station",
     "latitude": 20.246748,
@@ -1407,6 +1435,42 @@
     "city": "Puri",
     "state": "Odisha",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-237e9ce8",
+    "name": "Indian Oil",
+    "latitude": 20.084886,
+    "longitude": 85.931044,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0d0a2764",
+    "name": "Maa Santoshi Filling Station",
+    "latitude": 20.100468,
+    "longitude": 85.889641,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-472e877e",
+    "name": "Maa Shakti Kisan Seva Kendra",
+    "latitude": 19.981522,
+    "longitude": 86.087161,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5234c638",
+    "name": "Sai Subhankar Kisan Seva Kendra",
+    "latitude": 20.000434,
+    "longitude": 86.032649,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-ebac4ebb",
