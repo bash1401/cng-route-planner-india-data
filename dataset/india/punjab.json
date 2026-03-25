@@ -81,6 +81,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-5442302b",
+    "name": "Bharat Petroleum",
+    "latitude": 30.74498,
+    "longitude": 76.903405,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-88799832",
     "name": "Bharat Petroleum",
     "latitude": 30.32079,
@@ -535,6 +544,15 @@
     "name": "Indian Oil",
     "latitude": 30.251831,
     "longitude": 76.85379,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-843a2913",
+    "name": "Indian Oil",
+    "latitude": 30.751956,
+    "longitude": 76.905073,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -4383,42 +4401,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-5442302b",
-    "name": "Bharat Petroleum",
-    "latitude": 30.74498,
-    "longitude": 76.903405,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f46aeb03",
-    "name": "Cng Station",
-    "latitude": 30.781991,
-    "longitude": 76.911148,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fbf8f381",
-    "name": "Hp",
-    "latitude": 30.754638,
-    "longitude": 76.905308,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-843a2913",
-    "name": "Indian Oil",
-    "latitude": 30.751956,
-    "longitude": 76.905073,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-cf8463ff",
     "name": "Indian Oil",
     "latitude": 30.672585,
@@ -4993,6 +4975,15 @@
     "city": "Sirsa district",
     "state": "Punjab",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7d3467f5",
+    "name": "Bharat Petroleum",
+    "latitude": 29.876591,
+    "longitude": 73.9224,
+    "city": "Sri Ganganagar",
+    "state": "Punjab",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cb89bff5",

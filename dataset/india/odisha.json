@@ -533,17 +533,8 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d14d316d",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 20.012492,
-    "longitude": 86.175271,
-    "city": "Balara",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-66ae33aa",
-    "name": "Indian Oil Kisan Seva Kendra",
+    "name": "Shree Bateswar Filling Station",
     "latitude": 19.911167,
     "longitude": 86.151966,
     "city": "Balidokan",
@@ -1200,6 +1191,15 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-d05f1879",
+    "name": "Shahroz Trader",
+    "latitude": 19.989724,
+    "longitude": 86.012246,
+    "city": "Gop",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-06c401e3",
     "name": "Indian Oil",
     "latitude": 20.11242,
@@ -1241,6 +1241,15 @@
     "latitude": 20.138366,
     "longitude": 85.520013,
     "city": "KHORDHA",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d14d316d",
+    "name": "Babaji Sahoo Kisan Seva Kendra",
+    "latitude": 20.012492,
+    "longitude": 86.175271,
+    "city": "Kakatour",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -1441,6 +1450,42 @@
     "name": "Indian Oil",
     "latitude": 20.084886,
     "longitude": 85.931044,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d24ba15a",
+    "name": "Indian Oil",
+    "latitude": 19.915743,
+    "longitude": 86.072413,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b8b10a81",
+    "name": "Indian Oil",
+    "latitude": 19.929961,
+    "longitude": 86.165121,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-36fd1bef",
+    "name": "Indian Oil",
+    "latitude": 19.96209,
+    "longitude": 86.192665,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-becb2880",
+    "name": "Maa Rudrani Filling Station",
+    "latitude": 19.926054,
+    "longitude": 86.161344,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"

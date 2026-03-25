@@ -360,6 +360,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-be07e79a",
+    "name": "Indian Oil",
+    "latitude": 26.879557,
+    "longitude": 80.951211,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-b9e73d29",
     "name": "Indian Oil",
     "latitude": 25.545001,
@@ -1768,15 +1777,6 @@
     "name": "Indian Oil",
     "latitude": 26.798648,
     "longitude": 81.008891,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-be07e79a",
-    "name": "Indian Oil",
-    "latitude": 26.879557,
-    "longitude": 80.951211,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

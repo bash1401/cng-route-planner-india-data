@@ -848,14 +848,6 @@
     "source": "igl_mgl"
   },
   {
-    "name": "Mahanagar Gas",
-    "latitude": 19.169822,
-    "longitude": 72.93973,
-    "city": "Mulund (West)",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
     "name": "Cng",
     "latitude": 19.076587,
     "longitude": 72.877234,
@@ -1076,6 +1068,14 @@
     "latitude": 19.349269,
     "longitude": 73.14218,
     "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "name": "Mahanagar Gas",
+    "latitude": 19.169822,
+    "longitude": 72.93973,
+    "city": "Mulund (West)",
     "state": "Maharashtra",
     "source": "igl_mgl"
   },

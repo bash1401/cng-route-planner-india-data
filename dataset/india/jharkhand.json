@@ -261,6 +261,33 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-2eaf3589",
+    "name": "Indian Oil",
+    "latitude": 23.278973,
+    "longitude": 85.415514,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4ad28ef2",
+    "name": "Indian Oil",
+    "latitude": 23.264912,
+    "longitude": 85.36075,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-39858ea0",
+    "name": "Indian Oil",
+    "latitude": 23.266935,
+    "longitude": 85.384095,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-92271930",
     "name": "Indian Oil",
     "latitude": 22.371424,
@@ -1764,33 +1791,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-2eaf3589",
-    "name": "Indian Oil",
-    "latitude": 23.278973,
-    "longitude": 85.415514,
-    "city": "Ranchi",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4ad28ef2",
-    "name": "Indian Oil",
-    "latitude": 23.264912,
-    "longitude": 85.36075,
-    "city": "Ranchi",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-39858ea0",
-    "name": "Indian Oil",
-    "latitude": 23.266935,
-    "longitude": 85.384095,
-    "city": "Ranchi",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-f2243fba",
     "name": "Indian Oil",
     "latitude": 23.363862,
@@ -1813,15 +1813,6 @@
     "name": "Indian Oil",
     "latitude": 23.274599,
     "longitude": 85.306232,
-    "city": "Ranchi",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ff07c4ca",
-    "name": "Jio Bp Petroleum",
-    "latitude": 23.277026,
-    "longitude": 85.416336,
     "city": "Ranchi",
     "state": "Jharkhand",
     "source": "cgd_inferred"
