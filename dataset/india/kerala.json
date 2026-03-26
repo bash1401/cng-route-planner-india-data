@@ -423,24 +423,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-033d3741",
-    "name": "Bharat Petroleum",
-    "latitude": 12.401215,
-    "longitude": 76.78743,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-1df9f123",
-    "name": "Bharat Petroleum",
-    "latitude": 12.333715,
-    "longitude": 76.86854,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-77f51dbc",
     "name": "Bharat Petroleum",
     "latitude": 12.606744,
@@ -949,6 +931,33 @@
     "name": "Bharat Petroleum",
     "latitude": 9.072742,
     "longitude": 77.346057,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4400a5ad",
+    "name": "Bharat Petroleum",
+    "latitude": 12.412854,
+    "longitude": 76.579584,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-033d3741",
+    "name": "Bharat Petroleum",
+    "latitude": 12.401215,
+    "longitude": 76.78743,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-1df9f123",
+    "name": "Bharat Petroleum",
+    "latitude": 12.333715,
+    "longitude": 76.86854,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -3294,6 +3303,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-99958ce5",
+    "name": "Indian Oil",
+    "latitude": 12.312202,
+    "longitude": 76.63973,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2c054e74",
     "name": "Indian Oil",
     "latitude": 9.901712,
@@ -5179,6 +5197,15 @@
     "name": "Nayara",
     "latitude": 8.319219,
     "longitude": 77.196937,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-92c3ae0f",
+    "name": "Nayara",
+    "latitude": 12.41889,
+    "longitude": 76.724841,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -10386,15 +10413,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4400a5ad",
-    "name": "Bharat Petroleum",
-    "latitude": 12.412854,
-    "longitude": 76.579584,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-15ae7843",
     "name": "Bharat Petroleum",
     "latitude": 12.350299,
@@ -10422,10 +10440,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-968a16d6",
+    "id": "cng-74bf9313",
     "name": "Bpcl Petrol Bunk",
-    "latitude": 12.308575,
-    "longitude": 76.669012,
+    "latitude": 12.308463,
+    "longitude": 76.669017,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10498,24 +10516,6 @@
     "name": "Cng Station",
     "latitude": 12.301275,
     "longitude": 76.652158,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b825b57a",
-    "name": "Cng Station",
-    "latitude": 12.317034,
-    "longitude": 76.625554,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4e67d8a2",
-    "name": "Cng Station",
-    "latitude": 12.395816,
-    "longitude": 76.582304,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10854,15 +10854,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-99958ce5",
-    "name": "Indian Oil",
-    "latitude": 12.312202,
-    "longitude": 76.63973,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-32494131",
     "name": "Indian Oil",
     "latitude": 12.363316,
@@ -10908,15 +10899,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-27d8d620",
-    "name": "Mrpl",
-    "latitude": 12.356911,
-    "longitude": 76.580779,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-46c89a7e",
     "name": "Nandi Petrol Bunk",
     "latitude": 12.315748,
@@ -10930,15 +10912,6 @@
     "name": "Nayara",
     "latitude": 12.329265,
     "longitude": 76.686571,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-92c3ae0f",
-    "name": "Nayara",
-    "latitude": 12.41889,
-    "longitude": 76.724841,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
