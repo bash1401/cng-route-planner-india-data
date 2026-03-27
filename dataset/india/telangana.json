@@ -189,10 +189,28 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-462beef6",
+    "name": "Bharat Petroleum",
+    "latitude": 17.994797,
+    "longitude": 79.591076,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8a9c99bb",
     "name": "Bharat Petroleum",
     "latitude": 19.356135,
     "longitude": 79.30845,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-15232fb8",
+    "name": "Bharat Petroleum",
+    "latitude": 18.013077,
+    "longitude": 79.576322,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -405,6 +423,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-91df807f",
+    "name": "Bharat Petroleum",
+    "latitude": 17.980191,
+    "longitude": 79.598848,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d25c2380",
     "name": "Bharat Petroleum",
     "latitude": 18.139322,
@@ -418,6 +445,33 @@
     "name": "Bharat Petroleum",
     "latitude": 18.124906,
     "longitude": 79.220066,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a525116c",
+    "name": "Bharat Petroleum",
+    "latitude": 17.989296,
+    "longitude": 79.616884,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0a72385c",
+    "name": "Bharat Petroleum",
+    "latitude": 17.978824,
+    "longitude": 79.608753,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d67bb931",
+    "name": "Bharat Petroleum",
+    "latitude": 17.988702,
+    "longitude": 79.600731,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1053,10 +1107,28 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-8023ba28",
+    "name": "Indian Oil",
+    "latitude": 17.968411,
+    "longitude": 79.603368,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-82297a5b",
     "name": "Indian Oil",
     "latitude": 17.723695,
     "longitude": 79.171342,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b2eed8a2",
+    "name": "Indian Oil",
+    "latitude": 17.956371,
+    "longitude": 79.601395,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1084,6 +1156,15 @@
     "name": "Indian Oil",
     "latitude": 18.275234,
     "longitude": 79.322505,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e4cce0c9",
+    "name": "Indian Oil",
+    "latitude": 17.989315,
+    "longitude": 79.531747,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -6831,222 +6912,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-eef5be61",
-    "name": "Adalath Petrol Bunk",
-    "latitude": 17.997538,
-    "longitude": 79.553039,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-462beef6",
-    "name": "Bharat Petroleum",
-    "latitude": 17.994797,
-    "longitude": 79.591076,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-15232fb8",
-    "name": "Bharat Petroleum",
-    "latitude": 18.013077,
-    "longitude": 79.576322,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-91df807f",
-    "name": "Bharat Petroleum",
-    "latitude": 17.980191,
-    "longitude": 79.598848,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a525116c",
-    "name": "Bharat Petroleum",
-    "latitude": 17.989296,
-    "longitude": 79.616884,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0a72385c",
-    "name": "Bharat Petroleum",
-    "latitude": 17.978824,
-    "longitude": 79.608753,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fefca0b0",
-    "name": "Cng Station",
-    "latitude": 17.960225,
-    "longitude": 79.601204,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6e883d39",
-    "name": "Cng Station",
-    "latitude": 17.987852,
-    "longitude": 79.60138,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0bad1ca4",
-    "name": "Cng Station",
-    "latitude": 17.980535,
-    "longitude": 79.580052,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-608fcc08",
-    "name": "Cng Station",
-    "latitude": 17.856443,
-    "longitude": 79.674155,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9916d087",
-    "name": "Cng Station",
-    "latitude": 17.850247,
-    "longitude": 79.603688,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bf13a799",
-    "name": "Cng Station",
-    "latitude": 17.974582,
-    "longitude": 79.598264,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1a49f3a6",
-    "name": "Cng Station",
-    "latitude": 17.991395,
-    "longitude": 79.557956,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9a03c18b",
-    "name": "Cng Station",
-    "latitude": 17.961601,
-    "longitude": 79.546274,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-515e8eee",
-    "name": "Cng Station",
-    "latitude": 17.964703,
-    "longitude": 79.515429,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-85b5576e",
-    "name": "Hp",
-    "latitude": 17.98159,
-    "longitude": 79.606328,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d4dab6d1",
-    "name": "Hpcl Petrol Bunk",
-    "latitude": 18.010126,
-    "longitude": 79.56172,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8023ba28",
-    "name": "Indian Oil",
-    "latitude": 17.968411,
-    "longitude": 79.603368,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b2eed8a2",
-    "name": "Indian Oil",
-    "latitude": 17.956371,
-    "longitude": 79.601395,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1e807250",
-    "name": "Petrol Bunk",
-    "latitude": 17.999788,
-    "longitude": 79.55551,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2097ae6e",
-    "name": "Petrol Bunk",
-    "latitude": 17.989658,
-    "longitude": 79.533374,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c131f410",
-    "name": "Petrol Bunk",
-    "latitude": 18.009967,
-    "longitude": 79.559827,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-78326982",
-    "name": "Raja Rajeshwari Petrol Pump",
-    "latitude": 18.004753,
-    "longitude": 79.584378,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-345b7f8f",
-    "name": "Reliance Petrol",
-    "latitude": 18.004535,
-    "longitude": 79.576959,
-    "city": "Warangal",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-3f858f33",
     "name": "Hp Petrol Pump",
     "latitude": 17.501846,
@@ -7063,15 +6928,6 @@
     "city": "gudivada",
     "state": "Telangana",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-60c57f9f",
-    "name": "Hp",
-    "latitude": 18.005426,
-    "longitude": 79.553467,
-    "city": "hanamkonda",
-    "state": "Telangana",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-8e6ef2cd",

@@ -29,10 +29,10 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-06914b08",
+    "id": "cng-7eb2ba10",
     "name": "Bharat Petroleum",
-    "latitude": 20.220063,
-    "longitude": 79.018915,
+    "latitude": 20.21999,
+    "longitude": 79.01884,
     "city": "",
     "state": "Maharashtra",
     "source": "osm_allstations"
@@ -498,6 +498,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-d7ecde73",
+    "name": "Cng Station",
+    "latitude": 18.95157,
+    "longitude": 73.174373,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-f23dd5e1",
     "name": "Company Owned",
     "latitude": 20.79852,
@@ -631,6 +640,15 @@
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a978b6e9",
+    "name": "Hindustan Petroleum",
+    "latitude": 19.022418,
+    "longitude": 73.099505,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
   },
   {
     "id": "cng-6974ae41",
@@ -2953,15 +2971,6 @@
     "city": "Mulund (West)",
     "state": "Maharashtra",
     "source": "igl_mgl"
-  },
-  {
-    "id": "cng-a978b6e9",
-    "name": "Cng Pump",
-    "latitude": 19.022418,
-    "longitude": 73.099505,
-    "city": "Mumbai",
-    "state": "Maharashtra",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-c4aa66b9",
@@ -5974,15 +5983,6 @@
     "name": "Cng Station",
     "latitude": 18.998998,
     "longitude": 73.109422,
-    "city": "Raigad/Navi Mumbai",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d7ecde73",
-    "name": "Cng Station",
-    "latitude": 18.95157,
-    "longitude": 73.174373,
     "city": "Raigad/Navi Mumbai",
     "state": "Maharashtra",
     "source": "cgd_inferred"
