@@ -63,16 +63,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-7d3467f5",
-    "name": "Bharat Petroleum",
-    "latitude": 29.876591,
-    "longitude": 73.9224,
-    "city": "",
-    "state": "Punjab",
-    "source": "osm",
-    "address": "Unnamed Road, 3Ml, Punjab"
-  },
-  {
     "id": "cng-9d12ab89",
     "name": "Bharat Petroleum",
     "latitude": 30.881678,
@@ -5003,6 +4993,15 @@
     "city": "Sirsa district",
     "state": "Punjab",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7d3467f5",
+    "name": "Bharat Petroleum",
+    "latitude": 29.876591,
+    "longitude": 73.9224,
+    "city": "Sri Ganganagar",
+    "state": "Punjab",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cb89bff5",

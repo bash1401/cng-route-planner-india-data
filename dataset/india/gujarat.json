@@ -1194,37 +1194,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-855a375c",
-    "name": "Cng Station",
-    "latitude": 23.166947,
-    "longitude": 72.637143,
-    "city": "Ahmedabad East",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1b05f1ac",
-    "name": "Cng Station",
-    "latitude": 23.196681,
-    "longitude": 72.630169,
-    "city": "Ahmedabad East",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-19d678b1",
     "name": "Essar Petrol - Gas Station",
     "latitude": 23.167928,
     "longitude": 72.816113,
-    "city": "Ahmedabad East",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-125dba43",
-    "name": "Ioc",
-    "latitude": 23.161452,
-    "longitude": 72.697352,
     "city": "Ahmedabad East",
     "state": "Gujarat",
     "source": "cgd_inferred"
@@ -2364,15 +2337,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d11a4d5a",
-    "name": "Cng Station",
-    "latitude": 22.244968,
-    "longitude": 68.96415,
-    "city": "Dwarka",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-e473a283",
     "name": "Fuel 12",
     "latitude": 22.241074,
@@ -2427,6 +2391,60 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-de9e6c56",
+    "name": "Cng Station",
+    "latitude": 23.156471,
+    "longitude": 72.553114,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b414f548",
+    "name": "Cng Station",
+    "latitude": 23.209738,
+    "longitude": 72.636055,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-54119ca3",
+    "name": "Cng Station",
+    "latitude": 23.234272,
+    "longitude": 72.624186,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-855a375c",
+    "name": "Cng Station",
+    "latitude": 23.166947,
+    "longitude": 72.637143,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-da25d1db",
+    "name": "Cng Station",
+    "latitude": 23.234753,
+    "longitude": 72.651682,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1b05f1ac",
+    "name": "Cng Station",
+    "latitude": 23.196681,
+    "longitude": 72.630169,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-718426b6",
     "name": "Gujarat Gas (Kalol)",
     "latitude": 23.221128,
@@ -2434,6 +2452,42 @@
     "city": "Gandhinagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-ebcc0105",
+    "name": "Hi Petrol Pump",
+    "latitude": 23.216517,
+    "longitude": 72.639378,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f82d693a",
+    "name": "Hindustan Petroleum",
+    "latitude": 23.176802,
+    "longitude": 72.573793,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4ad57b06",
+    "name": "Hindustan Petroleum",
+    "latitude": 23.2152,
+    "longitude": 72.648607,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-125dba43",
+    "name": "Ioc",
+    "latitude": 23.161452,
+    "longitude": 72.697352,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-d29fa4e3",
@@ -2476,51 +2530,6 @@
     "name": "Bharat Petroleum",
     "latitude": 23.228998,
     "longitude": 72.505458,
-    "city": "Gandhinagar/Kalol",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b414f548",
-    "name": "Cng Station",
-    "latitude": 23.209738,
-    "longitude": 72.636055,
-    "city": "Gandhinagar/Kalol",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-54119ca3",
-    "name": "Cng Station",
-    "latitude": 23.234272,
-    "longitude": 72.624186,
-    "city": "Gandhinagar/Kalol",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-da25d1db",
-    "name": "Cng Station",
-    "latitude": 23.234753,
-    "longitude": 72.651682,
-    "city": "Gandhinagar/Kalol",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ebcc0105",
-    "name": "Hi Petrol Pump",
-    "latitude": 23.216517,
-    "longitude": 72.639378,
-    "city": "Gandhinagar/Kalol",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4ad57b06",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.2152,
-    "longitude": 72.648607,
     "city": "Gandhinagar/Kalol",
     "state": "Gujarat",
     "source": "cgd_inferred"
