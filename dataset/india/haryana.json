@@ -1022,10 +1022,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1598,6 +1598,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-47c90fe6",
+    "name": "Cng Station",
+    "latitude": 28.119515,
+    "longitude": 76.115355,
+    "city": "Narnaul",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-f2c6dc9e",
     "name": "Shree Dev Filling Station",
     "latitude": 28.069784,
@@ -1734,7 +1743,7 @@
   },
   {
     "id": "cng-f9a9f04c",
-    "name": "Petrol Pump",
+    "name": "Indian Oil",
     "latitude": 28.607759,
     "longitude": 77.440891,
     "city": "Noida/Gr.Noida",

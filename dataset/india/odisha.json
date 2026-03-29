@@ -272,15 +272,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-5e2892a7",
-    "name": "Indian Oil",
-    "latitude": 20.329841,
-    "longitude": 85.920825,
-    "city": "",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-35893973",
     "name": "Indian Oil",
     "latitude": 20.121202,
@@ -893,6 +884,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-5e2892a7",
+    "name": "Indian Oil",
+    "latitude": 20.329841,
+    "longitude": 85.920825,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-6eb415f4",
     "name": "Indian Oil",
     "latitude": 20.232344,
@@ -933,6 +933,15 @@
     "name": "Petrolimex",
     "latitude": 20.2438,
     "longitude": 85.767636,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e9dfe9d9",
+    "name": "Sai Krupa Filling Station",
+    "latitude": 20.35043,
+    "longitude": 85.900923,
     "city": "Bhubaneswar",
     "state": "Odisha",
     "source": "cgd_inferred"
