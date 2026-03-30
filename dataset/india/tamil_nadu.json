@@ -4351,28 +4351,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-0f463296",
-    "name": "Indian Oil",
-    "latitude": 8.836976,
-    "longitude": 77.76553,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b021d067",
     "name": "Indian Oil",
     "latitude": 9.398029,
     "longitude": 77.915559,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-34fb61cd",
-    "name": "Indian Oil",
-    "latitude": 8.749639,
-    "longitude": 77.705593,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -5638,15 +5620,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-49cc7166",
-    "name": "Indian Oil",
-    "latitude": 12.967309,
-    "longitude": 77.54615,
-    "city": "Bangalore",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-582a166f",
     "name": "Indian Oil",
     "latitude": 12.874072,
@@ -5669,6 +5642,15 @@
     "name": "Omkar Refill Station",
     "latitude": 12.970278,
     "longitude": 77.524621,
+    "city": "Bangalore",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15a3932a",
+    "name": "Total Gas",
+    "latitude": 12.96694,
+    "longitude": 77.547,
     "city": "Bangalore",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -7530,8 +7512,8 @@
   {
     "id": "cng-6357a6fd",
     "name": "Cng Station",
-    "latitude": 13.08967,
-    "longitude": 77.401115,
+    "latitude": 13.089672,
+    "longitude": 77.4011,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -8072,15 +8054,6 @@
     "name": "Cng Station",
     "latitude": 13.168863,
     "longitude": 77.689161,
-    "city": "Bengaluru N",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d279ec1f",
-    "name": "Cng Station",
-    "latitude": 12.903471,
-    "longitude": 77.604442,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9121,10 +9094,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-f5733eda",
+    "id": "cng-7ba1d89a",
     "name": "Indian Oil",
-    "latitude": 12.90425,
-    "longitude": 77.601326,
+    "latitude": 12.904252,
+    "longitude": 77.601346,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9214,7 +9187,7 @@
     "id": "cng-425f62fd",
     "name": "Indian Oil",
     "latitude": 12.982713,
-    "longitude": 77.637814,
+    "longitude": 77.637821,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9816,8 +9789,8 @@
   {
     "id": "cng-0d98854e",
     "name": "Nayara",
-    "latitude": 13.008007,
-    "longitude": 77.546007,
+    "latitude": 13.008045,
+    "longitude": 77.546014,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -10539,6 +10512,15 @@
     "latitude": 12.938133,
     "longitude": 77.700121,
     "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d279ec1f",
+    "name": "Cng Station",
+    "latitude": 12.903471,
+    "longitude": 77.604442,
+    "city": "Bengaluru South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
@@ -15655,6 +15637,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-fb3bfef2",
+    "name": "Cng Station",
+    "latitude": 8.74178,
+    "longitude": 77.715806,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-c238b7bf",
     "name": "Cng Station",
     "latitude": 8.762333,
@@ -15686,6 +15677,24 @@
     "name": "Hp",
     "latitude": 8.729288,
     "longitude": 77.711876,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6c5ee17e",
+    "name": "Hp",
+    "latitude": 8.66577,
+    "longitude": 77.716202,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8bd99b7a",
+    "name": "Hp",
+    "latitude": 8.836078,
+    "longitude": 77.764824,
     "city": "Tirunelveli",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -15731,6 +15740,15 @@
     "name": "Indian Oil",
     "latitude": 8.722775,
     "longitude": 77.750344,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-34fb61cd",
+    "name": "Indian Oil",
+    "latitude": 8.749639,
+    "longitude": 77.705593,
     "city": "Tirunelveli",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

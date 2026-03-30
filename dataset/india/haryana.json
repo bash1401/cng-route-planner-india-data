@@ -770,6 +770,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-0fce60e9",
+    "name": "Indian Oil",
+    "latitude": 29.017976,
+    "longitude": 77.076674,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e575cd08",
     "name": "Indian Oil",
     "latitude": 29.22152,
@@ -914,15 +923,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d77ae23c",
-    "name": "Hp",
-    "latitude": 29.5405,
-    "longitude": 75.543659,
-    "city": "Bhirdana",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2028f895",
     "name": "Chaudhary Petrol Station",
     "latitude": 28.797963,
@@ -1022,10 +1022,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1247,15 +1247,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c0a34f43",
-    "name": "Cng Station",
-    "latitude": 28.070849,
-    "longitude": 75.250379,
-    "city": "Hetamsar",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-68a8c65c",
     "name": "Bharat Petroleum",
     "latitude": 29.148397,
@@ -1369,33 +1360,6 @@
     "latitude": 28.711324,
     "longitude": 76.632829,
     "city": "Jhajjar",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4c5a9b2f",
-    "name": "Cng Station",
-    "latitude": 28.137944,
-    "longitude": 75.41152,
-    "city": "Jhunjhunu",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5c5e0b73",
-    "name": "Cng Station",
-    "latitude": 28.056059,
-    "longitude": 75.331048,
-    "city": "Jhunjhunu",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ec3f4d76",
-    "name": "Petrol Station",
-    "latitude": 28.237243,
-    "longitude": 75.409419,
-    "city": "Jhunjhunu",
     "state": "Haryana",
     "source": "cgd_inferred"
   },
@@ -1593,15 +1557,6 @@
     "name": "Cng Station",
     "latitude": 28.07828,
     "longitude": 76.171198,
-    "city": "Narnaul",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47c90fe6",
-    "name": "Cng Station",
-    "latitude": 28.119515,
-    "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -2367,15 +2322,6 @@
     "name": "Indian Oil",
     "latitude": 28.922564,
     "longitude": 77.10381,
-    "city": "Sonipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fce60e9",
-    "name": "Indian Oil",
-    "latitude": 29.017976,
-    "longitude": 77.076674,
     "city": "Sonipat",
     "state": "Haryana",
     "source": "cgd_inferred"

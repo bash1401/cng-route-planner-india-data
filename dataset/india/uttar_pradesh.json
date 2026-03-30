@@ -360,6 +360,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-be07e79a",
+    "name": "Indian Oil",
+    "latitude": 26.879557,
+    "longitude": 80.951211,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-b9e73d29",
     "name": "Indian Oil",
     "latitude": 25.545001,
@@ -1170,15 +1179,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-36a98d58",
-    "name": "Sds Fuel Point",
-    "latitude": 28.400274,
-    "longitude": 77.971154,
-    "city": "Bulandshahr",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-bd476dd2",
     "name": "Cng Station",
     "latitude": 26.775619,
@@ -1719,6 +1719,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-faee9bec",
     "name": "Hp",
     "latitude": 26.781554,
@@ -1777,15 +1786,6 @@
     "name": "Indian Oil",
     "latitude": 26.798648,
     "longitude": 81.008891,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-be07e79a",
-    "name": "Indian Oil",
-    "latitude": 26.879557,
-    "longitude": 80.951211,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
