@@ -2299,6 +2299,17 @@
     "operator": ""
   },
   {
+    "id": "osm-node-13691085469",
+    "name": "Gail Cng Substation",
+    "latitude": 20.175919,
+    "longitude": 85.858109,
+    "city": "",
+    "state": "Odisha",
+    "source": "osm",
+    "address": "Odisha",
+    "operator": "GAIL"
+  },
+  {
     "id": "osm-way-40734170",
     "name": "Cng Station",
     "latitude": 18.985254,
@@ -3715,6 +3726,17 @@
     "state": "Uttar Pradesh",
     "source": "osm",
     "address": "Uttar Pradesh",
+    "operator": ""
+  },
+  {
+    "id": "osm-way-1494375732",
+    "name": "Cng Pump Indapur",
+    "latitude": 18.286095,
+    "longitude": 73.245559,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm",
+    "address": "Maharashtra",
     "operator": ""
   }
 ]

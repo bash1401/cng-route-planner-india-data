@@ -45,15 +45,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4e05c880",
-    "name": "Indian Oil",
-    "latitude": 30.838165,
-    "longitude": 76.988698,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-22fc9736",
     "name": "Indian Oil",
     "latitude": 32.545445,
@@ -175,6 +166,15 @@
     "name": "Indian Oil",
     "latitude": 31.665714,
     "longitude": 77.304269,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4e05c880",
+    "name": "Indian Oil",
+    "latitude": 30.838165,
+    "longitude": 76.988698,
     "city": "",
     "state": "Himachal Pradesh",
     "source": "all_india_fuel"

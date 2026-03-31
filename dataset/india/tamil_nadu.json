@@ -10930,6 +10930,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-364d8483",
+    "name": "Cng Station",
+    "latitude": 13.072892,
+    "longitude": 80.182264,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-da0a2657",
     "name": "Essar Fuel Pump",
     "latitude": 12.97932,
@@ -11461,6 +11470,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-1cdb8680",
+    "name": "Cng Station",
+    "latitude": 13.069624,
+    "longitude": 80.199661,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-bec6e28e",
     "name": "Cng Station",
     "latitude": 13.109739,
@@ -11623,10 +11641,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-364d8483",
+    "id": "cng-b8cd5fb8",
     "name": "Cng Station",
-    "latitude": 13.072892,
-    "longitude": 80.182264,
+    "latitude": 13.066546,
+    "longitude": 80.210291,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -11776,15 +11794,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1cdb8680",
-    "name": "Indian Oil",
-    "latitude": 13.069624,
-    "longitude": 80.199661,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2a1759db",
     "name": "Indian Oil",
     "latitude": 13.072289,
@@ -11879,24 +11888,6 @@
     "name": "Indian Oil",
     "latitude": 13.143013,
     "longitude": 80.222911,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b8cd5fb8",
-    "name": "Indian Oil",
-    "latitude": 13.066529,
-    "longitude": 80.210301,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-97c3ad94",
-    "name": "Indian Oil",
-    "latitude": 13.116979,
-    "longitude": 80.19818,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -12500,6 +12491,15 @@
     "name": "Indian Oil",
     "latitude": 13.01336,
     "longitude": 80.102469,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-97c3ad94",
+    "name": "Indian Oil",
+    "latitude": 13.116979,
+    "longitude": 80.19818,
     "city": "Chennai West",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -16115,7 +16115,7 @@
   },
   {
     "id": "cng-6edfa765",
-    "name": "Hp",
+    "name": "Hindustan Petroleum",
     "latitude": 10.821235,
     "longitude": 78.683596,
     "city": "Trichy/Tiruchirappalli",

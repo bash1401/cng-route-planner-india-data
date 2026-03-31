@@ -3237,15 +3237,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-5f8bc8c2",
-    "name": "Gulab Petroeum",
-    "latitude": 22.656218,
-    "longitude": 70.748691,
-    "city": "Morbi",
-    "state": "Gujarat",
-    "source": "gujarat_gas"
-  },
-  {
     "id": "cng-5770fb1d",
     "name": "Om Petroleum",
     "latitude": 23.091418,
@@ -3268,6 +3259,15 @@
     "name": "Rajshakti Petroleum",
     "latitude": 22.627763,
     "longitude": 70.949019,
+    "city": "Morbi",
+    "state": "Gujarat",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-5f8bc8c2",
+    "name": "Shakti Cng",
+    "latitude": 22.656218,
+    "longitude": 70.748691,
     "city": "Morbi",
     "state": "Gujarat",
     "source": "gujarat_gas"

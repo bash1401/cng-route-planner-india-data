@@ -612,15 +612,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-de537595",
-    "name": "Bharat Petroleum Kadapa",
-    "latitude": 14.476199,
-    "longitude": 78.822143,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5ef27900",
     "name": "Bharath Petroleum",
     "latitude": 16.580869,
@@ -670,15 +661,6 @@
     "name": "Essar",
     "latitude": 14.56128,
     "longitude": 78.722881,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7d7c61e9",
-    "name": "Essar",
-    "latitude": 14.428623,
-    "longitude": 78.804035,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -1120,15 +1102,6 @@
     "name": "Indian Oil",
     "latitude": 14.397648,
     "longitude": 79.017962,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ed47afc0",
-    "name": "Indian Oil",
-    "latitude": 14.418062,
-    "longitude": 78.941297,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -2131,6 +2104,96 @@
     "city": "Amalapuram,Edarapalli,Mukkamala Rd",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d666f06f",
+    "name": "Cng Station",
+    "latitude": 14.474926,
+    "longitude": 78.822214,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06b27fa5",
+    "name": "Cng Station",
+    "latitude": 14.480438,
+    "longitude": 78.820508,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cadd0cd8",
+    "name": "Cng Station",
+    "latitude": 14.481392,
+    "longitude": 78.774608,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4a890001",
+    "name": "Cng Station",
+    "latitude": 14.479763,
+    "longitude": 78.767829,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4a024ab0",
+    "name": "Cng Station",
+    "latitude": 14.41734,
+    "longitude": 78.944907,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-84819fe8",
+    "name": "Cng Station",
+    "latitude": 14.567542,
+    "longitude": 78.792127,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6b306c23",
+    "name": "Cng Station",
+    "latitude": 14.476288,
+    "longitude": 78.836324,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7d7c61e9",
+    "name": "Essar",
+    "latitude": 14.428623,
+    "longitude": 78.804035,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bdd8b7a1",
+    "name": "Hp",
+    "latitude": 14.415097,
+    "longitude": 78.800913,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ed47afc0",
+    "name": "Indian Oil",
+    "latitude": 14.418062,
+    "longitude": 78.941297,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-0982680f",
