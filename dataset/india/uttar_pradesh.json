@@ -222,7 +222,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-010cef85",
@@ -1165,15 +1165,6 @@
     "name": "Cng Station",
     "latitude": 28.423676,
     "longitude": 77.804643,
-    "city": "Bulandshahr",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-36a98d58",
-    "name": "Sds Fuel Point",
-    "latitude": 28.400274,
-    "longitude": 77.971154,
     "city": "Bulandshahr",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -2178,29 +2169,11 @@
     "source": "gail_pdf"
   },
   {
-    "id": "cng-ad1d5b34",
-    "name": "Cng Station",
-    "latitude": 28.852474,
-    "longitude": 78.825717,
-    "city": "Moradabad",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-1288ea89",
     "name": "Hp Petrol Pump",
     "latitude": 26.490057,
     "longitude": 77.979344,
     "city": "Morena",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0153f86e",
-    "name": "Hp Petrol Pump",
-    "latitude": 25.987571,
-    "longitude": 79.456463,
-    "city": "Orai/Jalaun",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },

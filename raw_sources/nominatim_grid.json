@@ -184,17 +184,17 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng Pump Road",
-    "latitude": 18.663898,
-    "longitude": 73.826384,
+    "name": "Cng",
+    "latitude": 18.630737,
+    "longitude": 73.742847,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng",
-    "latitude": 18.630737,
-    "longitude": 73.742847,
+    "name": "Cng Pump Road",
+    "latitude": 18.663898,
+    "longitude": 73.826384,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "nominatim_grid"
@@ -320,22 +320,6 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "C N G",
-    "latitude": 22.203392,
-    "longitude": 73.192039,
-    "city": "Vadodara",
-    "state": "Gujarat",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "C N G",
-    "latitude": 22.203103,
-    "longitude": 73.191619,
-    "city": "Vadodara",
-    "state": "Gujarat",
-    "source": "nominatim_grid"
-  },
-  {
     "name": "Cng Vadodara",
     "latitude": 22.315289,
     "longitude": 73.164874,
@@ -371,6 +355,22 @@
     "name": "Cng Pump Bharat Petroleum",
     "latitude": 22.234306,
     "longitude": 73.188365,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "C N G",
+    "latitude": 22.203392,
+    "longitude": 73.192039,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "C N G",
+    "latitude": 22.203103,
+    "longitude": 73.191619,
     "city": "Vadodara",
     "state": "Gujarat",
     "source": "nominatim_grid"
@@ -504,17 +504,17 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Gail Cng",
-    "latitude": 12.873368,
-    "longitude": 77.540412,
+    "name": "Gail Gas Cng Station",
+    "latitude": 13.005057,
+    "longitude": 77.685617,
     "city": "Bengaluru",
     "state": "Tamil Nadu",
     "source": "nominatim_grid"
   },
   {
-    "name": "Gail Gas Cng Station",
-    "latitude": 13.005057,
-    "longitude": 77.685617,
+    "name": "Gail Cng",
+    "latitude": 12.873368,
+    "longitude": 77.540412,
     "city": "Bengaluru",
     "state": "Tamil Nadu",
     "source": "nominatim_grid"

@@ -119,15 +119,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-faeee503",
-    "name": "Bharat Petroleum",
-    "latitude": 18.758027,
-    "longitude": 73.577843,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-269740f1",
     "name": "Bharat Petroleum",
     "latitude": 18.688586,
@@ -588,6 +579,60 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6e9f5498",
+    "name": "Fuel",
+    "latitude": 19.369922,
+    "longitude": 73.187243,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-00c8f8ac",
+    "name": "Fuel",
+    "latitude": 19.362805,
+    "longitude": 73.167075,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-9c5d8906",
+    "name": "Fuel",
+    "latitude": 19.359015,
+    "longitude": 73.163199,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-621d59e1",
+    "name": "Fuel",
+    "latitude": 19.249859,
+    "longitude": 73.054057,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-f6988fac",
+    "name": "Fuel",
+    "latitude": 19.322244,
+    "longitude": 73.107898,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-c6fe4b98",
+    "name": "Fuel",
+    "latitude": 19.349269,
+    "longitude": 73.14218,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-0dfc7e5c",
     "name": "H. K. Automobiles",
     "latitude": 20.785602,
@@ -889,15 +934,6 @@
     "name": "Indian Oil",
     "latitude": 18.698354,
     "longitude": 73.697005,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2eeb7691",
-    "name": "Indian Oil",
-    "latitude": 18.793606,
-    "longitude": 73.295795,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -1587,10 +1623,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7559fc53",
+    "id": "cng-68414fd4",
     "name": "Shell",
-    "latitude": 18.656361,
-    "longitude": 73.7326,
+    "latitude": 18.656331,
+    "longitude": 73.732713,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -2644,33 +2680,6 @@
     "name": "Cng Station",
     "latitude": 19.350394,
     "longitude": 73.144634,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6e9f5498",
-    "name": "Fuel",
-    "latitude": 19.369922,
-    "longitude": 73.187243,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-00c8f8ac",
-    "name": "Fuel",
-    "latitude": 19.362805,
-    "longitude": 73.167075,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9c5d8906",
-    "name": "Fuel",
-    "latitude": 19.359015,
-    "longitude": 73.163199,
     "city": "Kalyan-Dombivli",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -6394,33 +6403,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-621d59e1",
-    "name": "Fuel",
-    "latitude": 19.249859,
-    "longitude": 73.054057,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f6988fac",
-    "name": "Fuel",
-    "latitude": 19.322244,
-    "longitude": 73.107898,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c6fe4b98",
-    "name": "Fuel",
-    "latitude": 19.349269,
-    "longitude": 73.14218,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-45fc7a7b",
     "name": "Gagangiri Petroleum",
     "latitude": 19.258244,
@@ -6484,10 +6466,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4b5c6922",
+    "id": "cng-b96d9b43",
     "name": "R K Petroleum",
-    "latitude": 19.075783,
-    "longitude": 73.004356,
+    "latitude": 19.077301,
+    "longitude": 73.003359,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
