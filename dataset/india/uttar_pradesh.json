@@ -198,6 +198,16 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm",
+    "address": "Uttar Pradesh"
+  },
+  {
     "id": "cng-ba4e0e37",
     "name": "Hpcl",
     "latitude": 24.809806,
@@ -222,7 +232,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-010cef85",
@@ -1170,6 +1180,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-36a98d58",
+    "name": "Sds Fuel Point",
+    "latitude": 28.400274,
+    "longitude": 77.971154,
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-bd476dd2",
     "name": "Cng Station",
     "latitude": 26.775619,
@@ -1710,15 +1729,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-faee9bec",
     "name": "Hp",
     "latitude": 26.781554,
@@ -2169,11 +2179,29 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-ad1d5b34",
+    "name": "Cng Station",
+    "latitude": 28.852474,
+    "longitude": 78.825717,
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1288ea89",
     "name": "Hp Petrol Pump",
     "latitude": 26.490057,
     "longitude": 77.979344,
     "city": "Morena",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0153f86e",
+    "name": "Hp Petrol Pump",
+    "latitude": 25.987571,
+    "longitude": 79.456463,
+    "city": "Orai/Jalaun",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },

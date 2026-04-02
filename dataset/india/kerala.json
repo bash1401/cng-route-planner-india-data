@@ -963,6 +963,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-efbb168e",
+    "name": "Bharat Petroleum",
+    "latitude": 9.072742,
+    "longitude": 77.346057,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-714046ea",
     "name": "Bharat Petroleum",
     "latitude": 11.1674,
@@ -1768,15 +1777,6 @@
     "name": "Bharat Petroleum",
     "latitude": 9.231668,
     "longitude": 76.537341,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-efbb168e",
-    "name": "Bharat Petroleum",
-    "latitude": 9.072742,
-    "longitude": 77.346057,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -3294,6 +3294,33 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-17fd1ca7",
+    "name": "Indian Oil",
+    "latitude": 9.91053,
+    "longitude": 76.364996,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e5ac2593",
+    "name": "Indian Oil",
+    "latitude": 10.170642,
+    "longitude": 76.428392,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-10700b0a",
+    "name": "Indian Oil",
+    "latitude": 10.553765,
+    "longitude": 77.230862,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2c054e74",
     "name": "Indian Oil",
     "latitude": 9.901712,
@@ -4261,24 +4288,6 @@
     "name": "Indian Oil",
     "latitude": 9.24737,
     "longitude": 76.539802,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-e5ac2593",
-    "name": "Indian Oil",
-    "latitude": 10.170642,
-    "longitude": 76.428392,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-10700b0a",
-    "name": "Indian Oil",
-    "latitude": 10.553765,
-    "longitude": 77.230862,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -7929,15 +7938,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-17fd1ca7",
-    "name": "Indian Oil",
-    "latitude": 9.91053,
-    "longitude": 76.364996,
-    "city": "Kochi",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-fb347bee",
     "name": "Indian Oil",
     "latitude": 9.952283,
@@ -9342,6 +9342,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-8cf59276",
+    "name": "Cng Station",
+    "latitude": 11.341553,
+    "longitude": 75.898831,
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-0d436f4f",
     "name": "Cng Station",
     "latitude": 11.304733,
@@ -9706,6 +9715,15 @@
     "name": "Nadakkave Pump",
     "latitude": 11.273195,
     "longitude": 75.777764,
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-78277cd6",
+    "name": "Nayara",
+    "latitude": 11.359868,
+    "longitude": 75.904283,
     "city": "Kozhikode",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -11610,10 +11628,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-fdc0c33d",
-    "name": "Bharat Petroleum",
-    "latitude": 9.363825,
-    "longitude": 76.782226,
+    "id": "cng-323ab3bc",
+    "name": "Bharath Petroleum",
+    "latitude": 9.363881,
+    "longitude": 76.782267,
     "city": "Pathanamthitta",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -13023,19 +13041,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3688fa1f",
+    "id": "cng-2e9fdc1f",
     "name": "Cng Station",
-    "latitude": 11.174638,
-    "longitude": 77.262283,
+    "latitude": 11.159848,
+    "longitude": 77.339842,
     "city": "Tiruppur",
     "state": "Kerala",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-95382808",
+    "id": "cng-3688fa1f",
     "name": "Cng Station",
-    "latitude": 11.185329,
-    "longitude": 77.2817,
+    "latitude": 11.174638,
+    "longitude": 77.262283,
     "city": "Tiruppur",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -13117,6 +13135,15 @@
     "name": "Indian Oil",
     "latitude": 11.096869,
     "longitude": 77.355544,
+    "city": "Tiruppur",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-95382808",
+    "name": "இநதியன ஆயில பஙக",
+    "latitude": 11.185329,
+    "longitude": 77.2817,
     "city": "Tiruppur",
     "state": "Kerala",
     "source": "cgd_inferred"

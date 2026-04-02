@@ -279,24 +279,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-bd59d6a1",
-    "name": "Cng Station",
-    "latitude": 28.450267,
-    "longitude": 77.039658,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-9651c665",
-    "name": "Cng Station",
-    "latitude": 28.456216,
-    "longitude": 77.046656,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-cb5efeff",
     "name": "Hcg",
     "latitude": 28.449699,
@@ -1656,6 +1638,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-bd59d6a1",
+    "name": "Hcg",
+    "latitude": 28.450267,
+    "longitude": 77.039658,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-59b82b0e",
     "name": "Hindustan Petroleum",
     "latitude": 28.476727,
@@ -2101,6 +2092,15 @@
     "name": "Ibp Limited",
     "latitude": 28.756121,
     "longitude": 77.147976,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-57bfa14b",
+    "name": "Ibp Petrol Pump",
+    "latitude": 28.45579,
+    "longitude": 77.046332,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"

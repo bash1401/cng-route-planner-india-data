@@ -693,15 +693,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-ba21969b",
-    "name": "Hp",
-    "latitude": 17.245718,
-    "longitude": 80.178751,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-2f679870",
     "name": "Indian Oil",
     "latitude": 16.028067,
@@ -1057,15 +1048,6 @@
     "name": "Indian Oil",
     "latitude": 18.19885,
     "longitude": 79.397543,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-e7ef7baa",
-    "name": "Indian Oil",
-    "latitude": 17.258664,
-    "longitude": 80.165134,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1692,6 +1674,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-f0e445c9",
+    "name": "Indian Oil",
+    "latitude": 18.341886,
+    "longitude": 79.356769,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-3272eff3",
     "name": "Indian Oil",
     "latitude": 17.774914,
@@ -2083,15 +2074,6 @@
     "name": "Pendayala - Indian Oil Filling Station",
     "latitude": 16.900835,
     "longitude": 79.875033,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2d9cb29f",
-    "name": "Prerana",
-    "latitude": 17.251185,
-    "longitude": 80.156728,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -5535,6 +5517,186 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e9fdc994",
+    "name": "Cng Station",
+    "latitude": 17.240595,
+    "longitude": 80.148689,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-38f3f074",
+    "name": "Cng Station",
+    "latitude": 17.243628,
+    "longitude": 80.106492,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-88f932db",
+    "name": "Cng Station",
+    "latitude": 17.25013,
+    "longitude": 80.134787,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6fd95d43",
+    "name": "Cng Station",
+    "latitude": 17.350039,
+    "longitude": 80.230139,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ec7f3f31",
+    "name": "Cng Station",
+    "latitude": 17.289631,
+    "longitude": 80.191723,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5b8243be",
+    "name": "Cng Station",
+    "latitude": 17.251713,
+    "longitude": 80.106805,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-aefa7e00",
+    "name": "Cng Station",
+    "latitude": 17.243857,
+    "longitude": 80.104239,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f10670f3",
+    "name": "Cng Station",
+    "latitude": 17.245142,
+    "longitude": 80.172725,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5289c2b1",
+    "name": "Cng Station",
+    "latitude": 17.228531,
+    "longitude": 80.149783,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-adf4cf4d",
+    "name": "Cng Station",
+    "latitude": 17.246123,
+    "longitude": 80.169324,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5c876814",
+    "name": "Cng Station",
+    "latitude": 17.243031,
+    "longitude": 80.200681,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bda40033",
+    "name": "Cng Station",
+    "latitude": 17.239642,
+    "longitude": 80.081086,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-756b445e",
+    "name": "Hindustan Petroleum",
+    "latitude": 17.251159,
+    "longitude": 80.10465,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b1b12975",
+    "name": "Ho",
+    "latitude": 17.249589,
+    "longitude": 80.142855,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2ca23a9f",
+    "name": "Ho",
+    "latitude": 17.250973,
+    "longitude": 80.140495,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7e8f7382",
+    "name": "Hp",
+    "latitude": 17.25149,
+    "longitude": 80.157438,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ce4a3db6",
+    "name": "Hp",
+    "latitude": 17.264063,
+    "longitude": 80.146057,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e7ef7baa",
+    "name": "Indian Oil",
+    "latitude": 17.258664,
+    "longitude": 80.165134,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-79ad420f",
+    "name": "Petrol Bunk",
+    "latitude": 17.251283,
+    "longitude": 80.164833,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d036a774",
+    "name": "Reliance",
+    "latitude": 17.24559,
+    "longitude": 80.179754,
+    "city": "Khammam",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-9a5ea33c",
     "name": "Cng Station",
     "latitude": 15.850717,
@@ -6971,6 +7133,15 @@
     "latitude": 18.428434,
     "longitude": 79.135018,
     "city": "karimnagar",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8266a49c",
+    "name": "Petrol Bunk",
+    "latitude": 17.250552,
+    "longitude": 80.144833,
+    "city": "khammam",
     "state": "Telangana",
     "source": "cgd_inferred"
   },
