@@ -441,6 +441,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4400a5ad",
+    "name": "Bharat Petroleum",
+    "latitude": 12.412854,
+    "longitude": 76.579584,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-033d3741",
     "name": "Bharat Petroleum",
     "latitude": 12.401215,
@@ -2457,6 +2466,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-68a74120",
+    "name": "Indian Oil",
+    "latitude": 12.313527,
+    "longitude": 75.077992,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-4b667e3a",
     "name": "Indian Oil",
     "latitude": 12.199879,
@@ -2551,6 +2569,24 @@
     "name": "Indian Oil",
     "latitude": 12.081368,
     "longitude": 76.361147,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-99958ce5",
+    "name": "Indian Oil",
+    "latitude": 12.312202,
+    "longitude": 76.63973,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-59041267",
+    "name": "Indian Oil",
+    "latitude": 12.216068,
+    "longitude": 76.662131,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -3289,15 +3325,6 @@
     "name": "Indian Oil",
     "latitude": 10.910216,
     "longitude": 76.301668,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-17fd1ca7",
-    "name": "Indian Oil",
-    "latitude": 9.91053,
-    "longitude": 76.364996,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -5170,6 +5197,15 @@
     "name": "Nayara",
     "latitude": 12.108176,
     "longitude": 76.38903,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-92c3ae0f",
+    "name": "Nayara",
+    "latitude": 12.41889,
+    "longitude": 76.724841,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -7938,6 +7974,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-17fd1ca7",
+    "name": "Indian Oil",
+    "latitude": 9.91053,
+    "longitude": 76.364996,
+    "city": "Kochi",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-fb347bee",
     "name": "Indian Oil",
     "latitude": 9.952283,
@@ -10431,15 +10476,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4400a5ad",
-    "name": "Bharat Petroleum",
-    "latitude": 12.412854,
-    "longitude": 76.579584,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-15ae7843",
     "name": "Bharat Petroleum",
     "latitude": 12.350299,
@@ -10467,10 +10503,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-968a16d6",
+    "id": "cng-74bf9313",
     "name": "Bpcl Petrol Bunk",
-    "latitude": 12.308575,
-    "longitude": 76.669012,
+    "latitude": 12.308463,
+    "longitude": 76.669017,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10548,28 +10584,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b825b57a",
-    "name": "Cng Station",
-    "latitude": 12.317034,
-    "longitude": 76.625554,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4e67d8a2",
-    "name": "Cng Station",
-    "latitude": 12.395816,
-    "longitude": 76.582304,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c456cd6e",
     "name": "Cng Station",
     "latitude": 12.294906,
     "longitude": 76.705055,
+    "city": "Mysuru",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6ffa9f44",
+    "name": "Cng Station",
+    "latitude": 12.262111,
+    "longitude": 76.656476,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10890,15 +10917,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-99958ce5",
-    "name": "Indian Oil",
-    "latitude": 12.312202,
-    "longitude": 76.63973,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-32494131",
     "name": "Indian Oil",
     "latitude": 12.363316,
@@ -10926,15 +10944,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6ffa9f44",
-    "name": "Indian Oil",
-    "latitude": 12.262111,
-    "longitude": 76.656476,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-fd77094b",
     "name": "Indian Oil Fuel Station",
     "latitude": 12.325226,
@@ -10953,15 +10962,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-27d8d620",
-    "name": "Mrpl",
-    "latitude": 12.356911,
-    "longitude": 76.580779,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-46c89a7e",
     "name": "Nandi Petrol Bunk",
     "latitude": 12.315748,
@@ -10975,15 +10975,6 @@
     "name": "Nayara",
     "latitude": 12.329265,
     "longitude": 76.686571,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-92c3ae0f",
-    "name": "Nayara",
-    "latitude": 12.41889,
-    "longitude": 76.724841,
     "city": "Mysuru",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -11061,10 +11052,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-bbb7d181",
+    "id": "cng-7fa5b3f4",
     "name": "Cng Station",
-    "latitude": 12.200803,
-    "longitude": 76.664569,
+    "latitude": 12.245243,
+    "longitude": 76.659712,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-248a88f3",
+    "name": "Cng Station",
+    "latitude": 12.181558,
+    "longitude": 76.66877,
     "city": "Mysuru South",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -11092,33 +11092,6 @@
     "name": "Hp",
     "latitude": 12.17331,
     "longitude": 76.672545,
-    "city": "Mysuru South",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-59041267",
-    "name": "Indian Oil",
-    "latitude": 12.216068,
-    "longitude": 76.662131,
-    "city": "Mysuru South",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-294dd99f",
-    "name": "Indian Oil",
-    "latitude": 12.183086,
-    "longitude": 76.669198,
-    "city": "Mysuru South",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7fa5b3f4",
-    "name": "Shell",
-    "latitude": 12.245243,
-    "longitude": 76.659712,
     "city": "Mysuru South",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -11628,10 +11601,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-323ab3bc",
-    "name": "Bharath Petroleum",
-    "latitude": 9.363881,
-    "longitude": 76.782267,
+    "id": "cng-fdc0c33d",
+    "name": "Bharat Petroleum",
+    "latitude": 9.363825,
+    "longitude": 76.782226,
     "city": "Pathanamthitta",
     "state": "Kerala",
     "source": "cgd_inferred"

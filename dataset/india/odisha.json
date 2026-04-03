@@ -81,6 +81,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-92817a27",
+    "name": "Bharat Petroleum",
+    "latitude": 20.304279,
+    "longitude": 86.383453,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ccee2756",
+    "name": "Bharat Petroleum",
+    "latitude": 20.30687,
+    "longitude": 86.318221,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-34c0abbb",
     "name": "Bharat Petroleum",
     "latitude": 20.740092,
@@ -261,6 +279,15 @@
     "name": "Indian Oil",
     "latitude": 20.461621,
     "longitude": 86.448358,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b25c96c7",
+    "name": "Indian Oil",
+    "latitude": 20.312541,
+    "longitude": 86.304531,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -483,6 +510,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c7ff6b96",
+    "name": "Shivani Filling Station",
+    "latitude": 20.333925,
+    "longitude": 86.269607,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-3d3e0e34",
     "name": "Sriram Highway Service",
     "latitude": 20.650016,
@@ -492,8 +528,17 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-f47f8df9",
+    "name": "Udayanath Kisan Seva Kendra",
+    "latitude": 20.222991,
+    "longitude": 86.010999,
+    "city": "Adaspur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-4ade11c0",
-    "name": "Indian Oil",
+    "name": "Maa Baidei Filling Station",
     "latitude": 20.040311,
     "longitude": 86.119068,
     "city": "Aludandapatna",
@@ -519,17 +564,8 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d14d316d",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 20.012492,
-    "longitude": 86.175271,
-    "city": "Balara",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-66ae33aa",
-    "name": "Indian Oil Kisan Seva Kendra",
+    "name": "Shree Bateswar Filling Station",
     "latitude": 19.911167,
     "longitude": 86.151966,
     "city": "Balidokan",
@@ -897,6 +933,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-ad792881",
+    "name": "Pattnaik Gasoline",
+    "latitude": 20.262397,
+    "longitude": 85.844816,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-00014d10",
     "name": "Petrolimex",
     "latitude": 20.2438,
@@ -939,6 +984,15 @@
     "latitude": 20.242749,
     "longitude": 85.841238,
     "city": "Bhubaneswar Municipal Corporation",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-86004b94",
+    "name": "Indian Oil",
+    "latitude": 20.27497,
+    "longitude": 85.85162,
+    "city": "Bhubneswar",
     "state": "Odisha",
     "source": "cgd_inferred"
   },
@@ -1005,6 +1059,24 @@
     "city": "Cuttack",
     "state": "Odisha",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-76a95d52",
+    "name": "Essar",
+    "latitude": 20.234543,
+    "longitude": 86.001258,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6e970727",
+    "name": "Haramani Filling Station",
+    "latitude": 20.399031,
+    "longitude": 86.039226,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-08ca2697",
@@ -1097,6 +1169,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-ee1e1459",
+    "name": "Indian Oil",
+    "latitude": 20.164152,
+    "longitude": 86.040341,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-65b8d5b0",
     "name": "Indianoil",
     "latitude": 20.456394,
@@ -1106,6 +1187,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-663eaed9",
+    "name": "Mangala Filling Station",
+    "latitude": 20.38468,
+    "longitude": 86.065484,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-a6009140",
     "name": "Petrol Pump",
     "latitude": 20.527401,
@@ -1113,6 +1203,33 @@
     "city": "Cuttack",
     "state": "Odisha",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7495bb64",
+    "name": "Sri Radha Krishna Filling Station",
+    "latitude": 20.099797,
+    "longitude": 86.087207,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-07fc8328",
+    "name": "Sundar Filling Station",
+    "latitude": 20.27542,
+    "longitude": 85.9621,
+    "city": "Cuttack",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-536ee4b0",
+    "name": "Indian Oil",
+    "latitude": 19.976246,
+    "longitude": 86.0149,
+    "city": "Ganeswarpur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-d95531df",
@@ -1133,20 +1250,29 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-d05f1879",
+    "name": "Shahroz Trader",
+    "latitude": 19.989724,
+    "longitude": 86.012246,
+    "city": "Gop",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-06c401e3",
+    "name": "Indian Oil",
+    "latitude": 20.11242,
+    "longitude": 85.869801,
+    "city": "Haripur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-76a6235f",
     "name": "Bharat Petroleum",
     "latitude": 19.473059,
     "longitude": 84.746891,
     "city": "Hinjilicut",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-57d00058",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 20.018373,
-    "longitude": 86.163904,
-    "city": "Jagannathpur",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -1160,11 +1286,38 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-b86702fd",
+    "name": "Mahapatra Filling Station",
+    "latitude": 20.164534,
+    "longitude": 85.69815,
+    "city": "Jatni",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5adf9092",
+    "name": "Sundaray Filling Station",
+    "latitude": 20.151467,
+    "longitude": 85.72469,
+    "city": "Jatni",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-012dc5f7",
     "name": "Bharat Petroleum",
     "latitude": 20.138366,
     "longitude": 85.520013,
     "city": "KHORDHA",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d14d316d",
+    "name": "Babaji Sahoo Kisan Seva Kendra",
+    "latitude": 20.012492,
+    "longitude": 86.175271,
+    "city": "Kakatour",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -1196,11 +1349,56 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-1dcbdab8",
+    "name": "Indian Oil",
+    "latitude": 20.31716,
+    "longitude": 86.500266,
+    "city": "Kujang",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b964e03a",
+    "name": "Shree Darubrahma Kisan Seva Kendra",
+    "latitude": 19.924442,
+    "longitude": 85.989097,
+    "city": "Madaranga",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-96f52f3d",
+    "name": "Madhaba Nanda Filling Station",
+    "latitude": 20.07215,
+    "longitude": 86.089674,
+    "city": "Madhaba",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-4b62940d",
-    "name": "Nayara",
+    "name": "Sri Bisheshwar Fuels",
     "latitude": 20.033095,
     "longitude": 86.133212,
     "city": "Nayahat",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e7508ef0",
+    "name": "Bharat Petroleum",
+    "latitude": 20.128942,
+    "longitude": 86.0684,
+    "city": "Niali",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-350b232b",
+    "name": "Prachi Service Station",
+    "latitude": 20.144996,
+    "longitude": 86.050041,
+    "city": "Niali",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -1222,6 +1420,24 @@
     "state": "Odisha",
     "source": "osm_extra",
     "operator": "Reliance"
+  },
+  {
+    "id": "cng-cb2233a6",
+    "name": "Parija Fuels",
+    "latitude": 20.061721,
+    "longitude": 86.010009,
+    "city": "Nimapara",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-35ecac30",
+    "name": "Maa Narayani Filling Station",
+    "latitude": 20.246748,
+    "longitude": 85.988144,
+    "city": "Olatpur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-e0353eda",
@@ -1252,6 +1468,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-13483338",
+    "name": "Indian Oil",
+    "latitude": 20.321178,
+    "longitude": 86.546484,
+    "city": "Paradeep",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-73bf3de9",
+    "name": "M/S Bhagban Filling Station",
+    "latitude": 20.318861,
+    "longitude": 86.612244,
+    "city": "Paradeep",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-3df4335d",
     "name": "Private Cng Station",
     "latitude": 20.30881,
@@ -1262,8 +1496,71 @@
     "operator": "Private"
   },
   {
-    "id": "cng-2af65ff7",
+    "id": "cng-3048f8a7",
+    "name": "Chakadola Fuel",
+    "latitude": 20.12313,
+    "longitude": 85.804644,
+    "city": "Pipili",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e0bfab5f",
+    "name": "Indian Oil",
+    "latitude": 20.122842,
+    "longitude": 85.837742,
+    "city": "Pipili",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a25007bb",
+    "name": "Maa Mangala Filling Station",
+    "latitude": 20.117288,
+    "longitude": 85.821295,
+    "city": "Pipili",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-04ac5a9f",
+    "name": "Maa Mangala Filling Station",
+    "latitude": 20.130558,
+    "longitude": 85.784515,
+    "city": "Pipili",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7949e00c",
+    "name": "Balukhanda Filling Station",
+    "latitude": 19.825982,
+    "longitude": 85.863002,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f7f2e91a",
+    "name": "Bata Mangala Petrol Station",
+    "latitude": 19.838651,
+    "longitude": 85.836714,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1ac81894",
     "name": "Bharat Petroleum",
+    "latitude": 19.875899,
+    "longitude": 85.946616,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2af65ff7",
+    "name": "G D Power Fuels",
     "latitude": 19.914454,
     "longitude": 85.817121,
     "city": "Puri",
@@ -1272,7 +1569,7 @@
   },
   {
     "id": "cng-90227946",
-    "name": "Bp",
+    "name": "Grand Motor Service Station",
     "latitude": 19.812899,
     "longitude": 85.830388,
     "city": "Puri",
@@ -1280,12 +1577,192 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-820c0e4b",
+    "name": "Gulu Gugu Filling Station",
+    "latitude": 19.887088,
+    "longitude": 85.803393,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a3213f7e",
+    "name": "Hindustan Gasoline",
+    "latitude": 19.824631,
+    "longitude": 85.853898,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-45345ecf",
-    "name": "Cng Station",
+    "name": "Indian Oil",
     "latitude": 19.824493,
     "longitude": 85.85755,
     "city": "Puri",
     "state": "Odisha",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-574ee690",
+    "name": "Indian Oil",
+    "latitude": 19.853671,
+    "longitude": 85.836999,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cb3f2cb8",
+    "name": "Indian Oil",
+    "latitude": 19.815541,
+    "longitude": 85.840614,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-237e9ce8",
+    "name": "Indian Oil",
+    "latitude": 20.084886,
+    "longitude": 85.931044,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d24ba15a",
+    "name": "Indian Oil",
+    "latitude": 19.915743,
+    "longitude": 86.072413,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b8b10a81",
+    "name": "Indian Oil",
+    "latitude": 19.929961,
+    "longitude": 86.165121,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-36fd1bef",
+    "name": "Indian Oil",
+    "latitude": 19.96209,
+    "longitude": 86.192665,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-62ee3d03",
+    "name": "Indian Oil",
+    "latitude": 19.960234,
+    "longitude": 85.825302,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a286629e",
+    "name": "Indian Oil",
+    "latitude": 20.157438,
+    "longitude": 85.84515,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e46ba913",
+    "name": "Laxmi Nursingha Energy Station",
+    "latitude": 20.085308,
+    "longitude": 85.837348,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-becb2880",
+    "name": "Maa Rudrani Filling Station",
+    "latitude": 19.926054,
+    "longitude": 86.161344,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0d0a2764",
+    "name": "Maa Santoshi Filling Station",
+    "latitude": 20.100468,
+    "longitude": 85.889641,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-472e877e",
+    "name": "Maa Shakti Kisan Seva Kendra",
+    "latitude": 19.981522,
+    "longitude": 86.087161,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-163dc3be",
+    "name": "Nayara",
+    "latitude": 20.111214,
+    "longitude": 85.846848,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-69ff39a8",
+    "name": "Nayara",
+    "latitude": 20.160763,
+    "longitude": 85.849412,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4be052a0",
+    "name": "Pelican Filling Station",
+    "latitude": 20.009029,
+    "longitude": 85.813983,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5234c638",
+    "name": "Sai Subhankar Kisan Seva Kendra",
+    "latitude": 20.000434,
+    "longitude": 86.032649,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-57d00058",
+    "name": "Marine Filling Station",
+    "latitude": 20.018373,
+    "longitude": 86.163904,
+    "city": "Somanathpur",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ebac4ebb",
+    "name": "Balakrushna Filling Station",
+    "latitude": 20.307875,
+    "longitude": 86.343971,
+    "city": "Tirtol",
+    "state": "Odisha",
+    "source": "all_india_fuel"
   }
 ]

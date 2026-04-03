@@ -416,15 +416,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e9440aa1",
-    "name": "Indian Oil",
-    "latitude": 21.750109,
-    "longitude": 72.08171,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5b26bc46",
     "name": "Indian Oil",
     "latitude": 22.862441,
@@ -600,15 +591,6 @@
     "name": "Nayara",
     "latitude": 22.194025,
     "longitude": 69.189564,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-21a4614e",
-    "name": "Nayara",
-    "latitude": 21.737869,
-    "longitude": 72.160567,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -1905,6 +1887,24 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-51daecb5",
+    "name": "Cng Station",
+    "latitude": 21.764282,
+    "longitude": 72.079203,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ed213089",
+    "name": "Cng Station",
+    "latitude": 21.754317,
+    "longitude": 72.081441,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-72f93c51",
     "name": "Ggl Jagdhar Petroleum",
     "latitude": 21.091441,
@@ -1941,6 +1941,15 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-e9440aa1",
+    "name": "Indian Oil",
+    "latitude": 21.750109,
+    "longitude": 72.08171,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-a00ce67e",
     "name": "Jay Petroleum",
     "latitude": 21.619576,
@@ -1956,7 +1965,7 @@
     "longitude": 72.161963,
     "city": "Bhavnagar",
     "state": "Gujarat",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-fdd9fc88",
@@ -1975,6 +1984,15 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-21a4614e",
+    "name": "Nayara",
+    "latitude": 21.737869,
+    "longitude": 72.160567,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-fa3b5518",
@@ -3570,10 +3588,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3831,10 +3849,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-8b91ccce",
+    "id": "cng-f0a8cce1",
     "name": "Kanabar Petroleum",
-    "latitude": 22.456666,
-    "longitude": 70.716507,
+    "latitude": 22.456611,
+    "longitude": 70.716061,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"

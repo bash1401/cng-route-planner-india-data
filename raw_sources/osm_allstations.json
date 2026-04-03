@@ -760,14 +760,6 @@
     "source": "osm_allstations"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 20.21999,
-    "longitude": 79.01884,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
     "name": "Hcg",
     "latitude": 28.458053,
     "longitude": 77.047127,
@@ -899,14 +891,6 @@
     "name": "Chandere Cng Station",
     "latitude": 18.552645,
     "longitude": 73.75749,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Maharashtra Natural Gas Ltd Cng Station",
-    "latitude": 18.594327,
-    "longitude": 73.729409,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "osm_allstations"
@@ -1125,6 +1109,14 @@
     "longitude": 73.849217,
     "city": "pune",
     "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 29.876591,
+    "longitude": 73.9224,
+    "city": "Sri Ganganagar",
+    "state": "Punjab",
     "source": "osm_allstations"
   },
   {
@@ -2061,6 +2053,22 @@
     "longitude": 74.170591,
     "city": "",
     "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.220063,
+    "longitude": 79.018915,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "",
+    "state": "Uttar Pradesh",
     "source": "osm_allstations"
   },
   {
@@ -4097,6 +4105,22 @@
   },
   {
     "name": "Igl",
+    "latitude": 28.690212,
+    "longitude": 77.097476,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Igl",
+    "latitude": 28.653653,
+    "longitude": 77.088767,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Igl",
     "latitude": 28.580591,
     "longitude": 77.179592,
     "city": "",
@@ -4108,6 +4132,62 @@
     "latitude": 28.747312,
     "longitude": 77.15074,
     "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Mahanagar Gas Limited",
+    "latitude": 19.046782,
+    "longitude": 72.878713,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.525907,
+    "longitude": 77.190382,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.450267,
+    "longitude": 77.039658,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.456216,
+    "longitude": 77.046656,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Indraprastha Gas",
+    "latitude": 28.52089,
+    "longitude": 77.294862,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Indraprastha Gas Limited",
+    "latitude": 28.587339,
+    "longitude": 77.235539,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.722121,
+    "longitude": 77.061657,
+    "city": "New Delhi",
     "state": "Delhi",
     "source": "osm_allstations"
   }

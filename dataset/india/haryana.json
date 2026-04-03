@@ -770,6 +770,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-0fce60e9",
+    "name": "Indian Oil",
+    "latitude": 29.017976,
+    "longitude": 77.076674,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e575cd08",
     "name": "Indian Oil",
     "latitude": 29.22152,
@@ -995,15 +1004,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d1d3fd98",
-    "name": "Cng Station",
-    "latitude": 28.556001,
-    "longitude": 77.456228,
-    "city": "Faridabad",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-5418afc6",
     "name": "Essar Petrol Pump",
     "latitude": 28.386175,
@@ -1031,10 +1031,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1134,15 +1134,6 @@
     "name": "Indian Oil",
     "latitude": 28.69428,
     "longitude": 77.491038,
-    "city": "Ghaziabad",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f9a9f04c",
-    "name": "Indian Oil",
-    "latitude": 28.607759,
-    "longitude": 77.440891,
     "city": "Ghaziabad",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -1715,6 +1706,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d1d3fd98",
+    "name": "Cng Station",
+    "latitude": 28.556001,
+    "longitude": 77.456228,
+    "city": "Noida/Gr.Noida",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-4fa47e06",
     "name": "Hindustan Petroleum",
     "latitude": 28.45682,
@@ -1746,6 +1746,15 @@
     "name": "Indian Oil",
     "latitude": 28.529277,
     "longitude": 77.454361,
+    "city": "Noida/Gr.Noida",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f9a9f04c",
+    "name": "Indian Oil",
+    "latitude": 28.607759,
+    "longitude": 77.440891,
     "city": "Noida/Gr.Noida",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -2075,15 +2084,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-94dec4be",
-    "name": "Cng Station",
-    "latitude": 29.926333,
-    "longitude": 77.526686,
-    "city": "Saharanpur",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-6a157f68",
     "name": "Indian Oil",
     "latitude": 29.928697,
@@ -2376,15 +2376,6 @@
     "name": "Indian Oil",
     "latitude": 28.922564,
     "longitude": 77.10381,
-    "city": "Sonipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fce60e9",
-    "name": "Indian Oil",
-    "latitude": 29.017976,
-    "longitude": 77.076674,
     "city": "Sonipat",
     "state": "Haryana",
     "source": "cgd_inferred"
