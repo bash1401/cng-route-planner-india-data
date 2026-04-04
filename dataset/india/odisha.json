@@ -132,7 +132,9 @@
     "longitude": 85.820261,
     "city": "",
     "state": "Odisha",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Odisha",
+    "operator": "GAIL"
   },
   {
     "id": "cng-126d466e",
@@ -1538,13 +1540,13 @@
     "longitude": 85.863002,
     "city": "Puri",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
-    "id": "cng-f7f2e91a",
-    "name": "Bata Mangala Petrol Station",
-    "latitude": 19.838651,
-    "longitude": 85.836714,
+    "id": "cng-2af65ff7",
+    "name": "Bharat Petroleum",
+    "latitude": 19.914454,
+    "longitude": 85.817121,
     "city": "Puri",
     "state": "Odisha",
     "source": "cgd_inferred"
@@ -1556,20 +1558,11 @@
     "longitude": 85.946616,
     "city": "Puri",
     "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2af65ff7",
-    "name": "G D Power Fuels",
-    "latitude": 19.914454,
-    "longitude": 85.817121,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-90227946",
-    "name": "Grand Motor Service Station",
+    "name": "Bp",
     "latitude": 19.812899,
     "longitude": 85.830388,
     "city": "Puri",
@@ -1577,26 +1570,8 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-820c0e4b",
-    "name": "Gulu Gugu Filling Station",
-    "latitude": 19.887088,
-    "longitude": 85.803393,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a3213f7e",
-    "name": "Hindustan Gasoline",
-    "latitude": 19.824631,
-    "longitude": 85.853898,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-45345ecf",
-    "name": "Indian Oil",
+    "name": "Cng Station",
     "latitude": 19.824493,
     "longitude": 85.85755,
     "city": "Puri",
@@ -1610,16 +1585,7 @@
     "longitude": 85.836999,
     "city": "Puri",
     "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cb3f2cb8",
-    "name": "Indian Oil",
-    "latitude": 19.815541,
-    "longitude": 85.840614,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-237e9ce8",
@@ -1653,6 +1619,15 @@
     "name": "Indian Oil",
     "latitude": 19.96209,
     "longitude": 86.192665,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-cb3f2cb8",
+    "name": "Indian Oil",
+    "latitude": 19.815541,
+    "longitude": 85.840614,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"

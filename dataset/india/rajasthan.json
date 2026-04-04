@@ -123,7 +123,8 @@
     "longitude": 75.761222,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Rajasthan"
   },
   {
     "id": "cng-b2fe1a6b",
@@ -132,7 +133,7 @@
     "longitude": 71.185168,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-c1cc1d86",
@@ -141,7 +142,7 @@
     "longitude": 71.210599,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-c6c99b9a",
@@ -160,7 +161,7 @@
     "longitude": 70.653977,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0f5ae381",
@@ -538,7 +539,7 @@
     "longitude": 71.312284,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-2ae3046c",
@@ -628,7 +629,16 @@
     "longitude": 71.662831,
     "city": "BAHAWALPUR",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8407f80b",
+    "name": "Raceway Cng Systems",
+    "latitude": 29.420894,
+    "longitude": 71.666987,
+    "city": "Bahawalpur",
+    "state": "Rajasthan",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-34e488f1",
@@ -637,16 +647,16 @@
     "longitude": 71.691223,
     "city": "Bahawalpur",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
-    "id": "cng-32ba2baa",
-    "name": "سی این جی",
-    "latitude": 29.419273,
-    "longitude": 71.667772,
+    "id": "cng-8bdf2780",
+    "name": "Zam Zam Cng Station",
+    "latitude": 29.41872,
+    "longitude": 71.668107,
     "city": "Bahawalpur",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-314a6714",
@@ -1045,15 +1055,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3ee87190",
-    "name": "Indian Oil",
-    "latitude": 27.042715,
-    "longitude": 75.760486,
-    "city": "Jaipur",
-    "state": "Rajasthan",
-    "source": "atgl"
-  },
-  {
     "id": "cng-8e75c50e",
     "name": "Indian Oil",
     "latitude": 26.901353,
@@ -1160,6 +1161,15 @@
     "city": "Jaipur",
     "state": "Rajasthan",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3ee87190",
+    "name": "Indian Oil Petrol/Cng Pump",
+    "latitude": 27.042715,
+    "longitude": 75.760486,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-90e3a5c7",
@@ -1465,7 +1475,7 @@
     "longitude": 70.67967,
     "city": "Khanpur",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-cdb52803",
@@ -1546,7 +1556,7 @@
     "longitude": 70.293991,
     "city": "Rahim Yar Khan",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-ffd38aa6",
@@ -1621,6 +1631,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e08636f4",
+    "name": "Cng Station",
+    "latitude": 27.615118,
+    "longitude": 75.152178,
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b507fae9",
+    "name": "Cng Station",
+    "latitude": 27.640942,
+    "longitude": 75.223934,
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-defd569b",
     "name": "Essar Petrol Pump - Gc Patel Filling Station",
     "latitude": 27.628846,
@@ -1690,7 +1718,8 @@
     "longitude": 75.199165,
     "city": "Sikar",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Sikar, Rajasthan"
   },
   {
     "id": "cng-4db4c5c2",
@@ -1789,7 +1818,7 @@
     "longitude": 71.445873,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-6ec5d950",
@@ -1798,7 +1827,7 @@
     "longitude": 71.439328,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-db2cf67f",
@@ -1807,7 +1836,7 @@
     "longitude": 71.448061,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0b255681",
@@ -1816,7 +1845,7 @@
     "longitude": 71.483531,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-7dd73c8b",
@@ -1825,6 +1854,6 @@
     "longitude": 71.470785,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   }
 ]
