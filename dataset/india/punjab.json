@@ -6,7 +6,7 @@
     "longitude": 74.381466,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-953cb276",
@@ -15,7 +15,7 @@
     "longitude": 74.151259,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-ee6bd54e",
@@ -24,7 +24,7 @@
     "longitude": 74.141463,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-acdd7a05",
@@ -42,7 +42,7 @@
     "longitude": 74.229245,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-117c1c98",
@@ -51,8 +51,7 @@
     "longitude": 76.17792,
     "city": "",
     "state": "Punjab",
-    "source": "osm",
-    "address": "Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-77781121",
@@ -61,18 +60,7 @@
     "longitude": 76.344562,
     "city": "",
     "state": "Punjab",
-    "source": "osm",
-    "address": "Punjab"
-  },
-  {
-    "id": "cng-7d3467f5",
-    "name": "Bharat Petroleum",
-    "latitude": 29.876591,
-    "longitude": 73.9224,
-    "city": "",
-    "state": "Punjab",
-    "source": "osm",
-    "address": "Unnamed Road, 3Ml, Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-9d12ab89",
@@ -243,8 +231,7 @@
     "longitude": 76.387524,
     "city": "",
     "state": "Punjab",
-    "source": "osm",
-    "address": "Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-38111ebe",
@@ -253,17 +240,7 @@
     "longitude": 74.088711,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-77577dfd",
-    "name": "Cng Station",
-    "latitude": 30.89107,
-    "longitude": 75.80206,
-    "city": "",
-    "state": "Punjab",
-    "source": "osm",
-    "address": "Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-8a50dbe1",
@@ -272,7 +249,7 @@
     "longitude": 74.379694,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-0ff6289b",
@@ -281,7 +258,7 @@
     "longitude": 74.065218,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c3fc25bb",
@@ -299,7 +276,7 @@
     "longitude": 74.122551,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-fc9a85f5",
@@ -1082,7 +1059,7 @@
     "longitude": 74.352403,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-062ea721",
@@ -1136,7 +1113,7 @@
     "longitude": 74.510426,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e6d1812b",
@@ -1157,6 +1134,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-77577dfd",
+    "name": "Petrol Pump",
+    "latitude": 30.89107,
+    "longitude": 75.80206,
+    "city": "",
+    "state": "Punjab",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-2cf4428a",
     "name": "Petrol Pump",
     "latitude": 31.536303,
@@ -1172,7 +1158,7 @@
     "longitude": 74.528816,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b74d4ed3",
@@ -1190,7 +1176,7 @@
     "longitude": 74.238466,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-1779d1fd",
@@ -1199,8 +1185,7 @@
     "longitude": 74.858002,
     "city": "",
     "state": "Punjab",
-    "source": "osm",
-    "address": "Jaito- Bathinda Road, Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-43fdc8dc",
@@ -1218,7 +1203,7 @@
     "longitude": 74.533693,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-02722393",
@@ -1227,7 +1212,7 @@
     "longitude": 74.210053,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-12c89475",
@@ -1236,7 +1221,7 @@
     "longitude": 74.423003,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-ae419f65",
@@ -1254,7 +1239,7 @@
     "longitude": 74.124695,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-649605be",
@@ -1263,7 +1248,7 @@
     "longitude": 74.122953,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-1b32546a",
@@ -1272,7 +1257,7 @@
     "longitude": 74.148931,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-58315c8a",
@@ -1281,7 +1266,7 @@
     "longitude": 74.118076,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a454b781",
@@ -1290,7 +1275,7 @@
     "longitude": 74.230309,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b398565b",
@@ -1299,7 +1284,7 @@
     "longitude": 74.236751,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-83c48db6",
@@ -1308,7 +1293,7 @@
     "longitude": 74.341395,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e63f6d3a",
@@ -1317,7 +1302,7 @@
     "longitude": 74.225877,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-57daef27",
@@ -1326,7 +1311,7 @@
     "longitude": 74.523298,
     "city": "",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e4a4e685",
@@ -1848,7 +1833,7 @@
     "longitude": 74.193742,
     "city": "Asghar Colony",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6879886c",
@@ -2424,7 +2409,7 @@
     "longitude": 74.181501,
     "city": "Gujranwala",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-7c5ac88b",
@@ -2433,7 +2418,7 @@
     "longitude": 74.182685,
     "city": "Gujranwala",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-70403d04",
@@ -2442,7 +2427,7 @@
     "longitude": 74.185669,
     "city": "Gujranwala",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-ae5236d5",
@@ -2451,7 +2436,7 @@
     "longitude": 74.180238,
     "city": "Gujranwala",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-3231ee6b",
@@ -2499,6 +2484,24 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-67d50731",
+    "name": "Bharat Petroleum",
+    "latitude": 32.130237,
+    "longitude": 75.470612,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-591565a5",
+    "name": "Cng Station",
+    "latitude": 32.034759,
+    "longitude": 75.396288,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-df403276",
     "name": "Gurbaksh Rai Ram Prakash",
     "latitude": 31.903726,
@@ -2506,6 +2509,42 @@
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-35524f07",
+    "name": "H P",
+    "latitude": 32.00798,
+    "longitude": 75.371556,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7c498a45",
+    "name": "H P",
+    "latitude": 32.06445,
+    "longitude": 75.439994,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f38c6dbf",
+    "name": "H P",
+    "latitude": 32.164251,
+    "longitude": 75.470007,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-489e8dda",
+    "name": "India Oil",
+    "latitude": 32.084176,
+    "longitude": 75.452928,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-6d60ce87",
@@ -2991,7 +3030,7 @@
     "longitude": 74.26706,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-65101e45",
@@ -3000,7 +3039,7 @@
     "longitude": 74.27556,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-2d058b0b",
@@ -3009,7 +3048,7 @@
     "longitude": 74.263063,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b11177c0",
@@ -3018,7 +3057,7 @@
     "longitude": 74.271945,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-770301bb",
@@ -3027,7 +3066,7 @@
     "longitude": 74.270768,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-3e94c745",
@@ -3036,7 +3075,7 @@
     "longitude": 74.269813,
     "city": "Kala Shah Kaku",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-41d48b52",
@@ -3045,7 +3084,7 @@
     "longitude": 74.223562,
     "city": "Kamoki",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-22026cc9",
@@ -3054,7 +3093,7 @@
     "longitude": 74.224011,
     "city": "Kamoki",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-10595248",
@@ -3063,7 +3102,7 @@
     "longitude": 74.220294,
     "city": "Kamoki",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cd8c8fed",
@@ -3072,7 +3111,7 @@
     "longitude": 74.22688,
     "city": "Kamoki",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d7b2cefb",
@@ -3081,7 +3120,7 @@
     "longitude": 74.225928,
     "city": "Kamoki",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cd2eab6f",
@@ -3396,7 +3435,7 @@
     "longitude": 74.329044,
     "city": "Lahore",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-f8f69f2b",
@@ -3405,7 +3444,7 @@
     "longitude": 74.235558,
     "city": "Lahore",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b7e5d161",
@@ -3414,7 +3453,7 @@
     "longitude": 74.304574,
     "city": "Lahore",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-ce1b6409",
@@ -3423,7 +3462,7 @@
     "longitude": 74.302398,
     "city": "Lahore",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6e665425",
@@ -4278,7 +4317,7 @@
     "longitude": 74.251603,
     "city": "Muridke",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-716c084c",
@@ -4287,7 +4326,7 @@
     "longitude": 74.260507,
     "city": "Muridke",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-3ebb46fb",
@@ -4296,7 +4335,7 @@
     "longitude": 74.261798,
     "city": "Muridke",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-06724578",
@@ -4305,7 +4344,7 @@
     "longitude": 74.260132,
     "city": "Muridke",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-01aabe68",
@@ -4314,7 +4353,7 @@
     "longitude": 74.258451,
     "city": "Muridke",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c5ef19b7",
@@ -4728,7 +4767,7 @@
     "longitude": 74.290478,
     "city": "Shahdara",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c729f63e",
@@ -4737,7 +4776,7 @@
     "longitude": 74.273106,
     "city": "Shahdara",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-4cdfcd13",
@@ -4746,7 +4785,7 @@
     "longitude": 74.282856,
     "city": "Shahdara",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-5423c253",
@@ -4755,7 +4794,7 @@
     "longitude": 74.246662,
     "city": "Shahdara",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a3398025",
@@ -4764,7 +4803,7 @@
     "longitude": 73.998666,
     "city": "Sheikhupura",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-29ea654b",
@@ -4773,7 +4812,7 @@
     "longitude": 74.009181,
     "city": "Sheikhupura",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e43791ec",
@@ -4782,7 +4821,7 @@
     "longitude": 74.00164,
     "city": "Sheikhupura",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a7458141",
@@ -4791,7 +4830,7 @@
     "longitude": 74.006958,
     "city": "Sheikhupura",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-9e15efab",
@@ -4800,7 +4839,7 @@
     "longitude": 73.997501,
     "city": "Sheikhupura",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-26101335",
@@ -4809,8 +4848,7 @@
     "longitude": 76.348328,
     "city": "Sher Majra",
     "state": "Punjab",
-    "source": "osm",
-    "address": "Sher Majra, Punjab"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-423b0a5a",
@@ -4819,7 +4857,7 @@
     "longitude": 74.546065,
     "city": "Sialkot",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-f0ea6b7b",
@@ -4828,7 +4866,7 @@
     "longitude": 74.464051,
     "city": "Sialkot",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-2be195b9",
@@ -4837,7 +4875,7 @@
     "longitude": 74.550614,
     "city": "Sialkot",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6daa2e4a",
@@ -4846,7 +4884,7 @@
     "longitude": 74.461586,
     "city": "Sialkot",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-720c5a15",
@@ -4955,6 +4993,15 @@
     "city": "Sirsa district",
     "state": "Punjab",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7d3467f5",
+    "name": "Bharat Petroleum",
+    "latitude": 29.876591,
+    "longitude": 73.9224,
+    "city": "Sri Ganganagar",
+    "state": "Punjab",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cb89bff5",
@@ -5134,6 +5181,6 @@
     "longitude": 74.335685,
     "city": "لاہور",
     "state": "Punjab",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   }
 ]
