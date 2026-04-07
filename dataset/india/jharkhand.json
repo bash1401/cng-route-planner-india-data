@@ -261,15 +261,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-92271930",
-    "name": "Indian Oil",
-    "latitude": 22.371424,
-    "longitude": 86.776693,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9b67f4ec",
     "name": "Indian Oil",
     "latitude": 23.768086,
@@ -283,6 +274,15 @@
     "name": "Indian Oil",
     "latitude": 23.459314,
     "longitude": 87.465905,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-92271930",
+    "name": "Indian Oil",
+    "latitude": 22.371424,
+    "longitude": 86.776693,
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
@@ -580,6 +580,15 @@
     "name": "Cng Station",
     "latitude": 24.474631,
     "longitude": 86.669196,
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e0d02c89",
+    "name": "Hp Petrol Pump",
+    "latitude": 24.489632,
+    "longitude": 86.693857,
     "city": "Deoghar",
     "state": "Jharkhand",
     "source": "cgd_inferred"
@@ -1078,6 +1087,24 @@
     "city": "Girdih & Dhanbad",
     "state": "Jharkhand",
     "source": "gail_pdf"
+  },
+  {
+    "id": "cng-affe3262",
+    "name": "Cng Station",
+    "latitude": 24.188258,
+    "longitude": 86.435759,
+    "city": "Giridih",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fa0b96c3",
+    "name": "Cng Station",
+    "latitude": 24.179589,
+    "longitude": 86.469241,
+    "city": "Giridih",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-566b6b70",

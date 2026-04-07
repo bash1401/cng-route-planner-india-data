@@ -230,6 +230,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-1af4b3a3",
+    "name": "Bharat Petroleum",
+    "latitude": 29.950962,
+    "longitude": 77.547227,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-7860cc40",
     "name": "Bharat Petroleum",
     "latitude": 27.654772,
@@ -725,6 +734,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6a157f68",
+    "name": "Indian Oil",
+    "latitude": 29.928697,
+    "longitude": 77.529182,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8eb6d134",
     "name": "Indian Oil",
     "latitude": 29.710646,
@@ -948,6 +966,15 @@
     "city": "",
     "state": "Haryana",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-fdba7c35",
+    "name": "Petrol Pump",
+    "latitude": 27.678833,
+    "longitude": 76.704435,
+    "city": "Alwar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-d77ae23c",
@@ -2098,24 +2125,6 @@
     "latitude": 28.892055,
     "longitude": 76.618823,
     "city": "Rohtak",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1af4b3a3",
-    "name": "Bharat Petroleum",
-    "latitude": 29.950962,
-    "longitude": 77.547227,
-    "city": "Saharanpur",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6a157f68",
-    "name": "Indian Oil",
-    "latitude": 29.928697,
-    "longitude": 77.529182,
-    "city": "Saharanpur",
     "state": "Haryana",
     "source": "cgd_inferred"
   },

@@ -5638,6 +5638,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-49cc7166",
+    "name": "Indian Oil",
+    "latitude": 12.967309,
+    "longitude": 77.54615,
+    "city": "Bangalore",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-582a166f",
     "name": "Indian Oil",
     "latitude": 12.874072,
@@ -5660,15 +5669,6 @@
     "name": "Omkar Refill Station",
     "latitude": 12.970278,
     "longitude": 77.524621,
-    "city": "Bangalore",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-15a3932a",
-    "name": "Total Gas",
-    "latitude": 12.96694,
-    "longitude": 77.547,
     "city": "Bangalore",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -6479,15 +6479,6 @@
     "name": "Cng Station",
     "latitude": 13.029021,
     "longitude": 77.760228,
-    "city": "Bengaluru East",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b4a9bcfa",
-    "name": "Cng Station",
-    "latitude": 12.964321,
-    "longitude": 77.753034,
     "city": "Bengaluru East",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -7530,8 +7521,8 @@
   {
     "id": "cng-6357a6fd",
     "name": "Cng Station",
-    "latitude": 13.089672,
-    "longitude": 77.4011,
+    "latitude": 13.08967,
+    "longitude": 77.401115,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -8072,6 +8063,15 @@
     "name": "Cng Station",
     "latitude": 13.168863,
     "longitude": 77.689161,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d279ec1f",
+    "name": "Cng Station",
+    "latitude": 12.903471,
+    "longitude": 77.604442,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9112,10 +9112,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-7ba1d89a",
+    "id": "cng-f5733eda",
     "name": "Indian Oil",
-    "latitude": 12.904252,
-    "longitude": 77.601346,
+    "latitude": 12.90425,
+    "longitude": 77.601326,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9205,7 +9205,7 @@
     "id": "cng-425f62fd",
     "name": "Indian Oil",
     "latitude": 12.982713,
-    "longitude": 77.637821,
+    "longitude": 77.637814,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -9807,8 +9807,8 @@
   {
     "id": "cng-0d98854e",
     "name": "Nayara",
-    "latitude": 13.008045,
-    "longitude": 77.546014,
+    "latitude": 13.008007,
+    "longitude": 77.546007,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -10530,15 +10530,6 @@
     "latitude": 12.938133,
     "longitude": 77.700121,
     "city": "Bengaluru N",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d279ec1f",
-    "name": "Cng Station",
-    "latitude": 12.903471,
-    "longitude": 77.604442,
-    "city": "Bengaluru South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
