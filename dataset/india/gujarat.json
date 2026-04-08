@@ -15,8 +15,7 @@
     "longitude": 72.443245,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-38782b88",
@@ -79,8 +78,7 @@
     "longitude": 72.440781,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "sh-41, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d2eb9c9a",
@@ -89,8 +87,7 @@
     "longitude": 72.408946,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Ahmedabad Palanpur State Highway SH41, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c5d5c7ae",
@@ -117,8 +114,7 @@
     "longitude": 71.723137,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "NH-41, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-63e2e943",
@@ -127,8 +123,7 @@
     "longitude": 71.717619,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-560e170c",
@@ -137,8 +132,7 @@
     "longitude": 73.052773,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-eff29627",
@@ -147,8 +141,7 @@
     "longitude": 71.085541,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "National Highway 8A, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-09bd614e",
@@ -157,8 +150,7 @@
     "longitude": 72.52955,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-150189f1",
@@ -167,8 +159,7 @@
     "longitude": 73.160338,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-9eae16fa",
@@ -177,8 +168,7 @@
     "longitude": 72.206306,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-751fd0a8",
@@ -187,8 +177,7 @@
     "longitude": 71.815088,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-345d2128",
@@ -197,8 +186,7 @@
     "longitude": 72.928869,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-862cddda",
@@ -216,8 +204,7 @@
     "longitude": 72.35461,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Bechraji road, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-3805978b",
@@ -246,9 +233,7 @@
     "longitude": 71.797888,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "lakhtar road, Gujarat",
-    "operator": "Gujarat Gas"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-97c644dd",
@@ -257,9 +242,7 @@
     "longitude": 71.605548,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat",
-    "operator": "Gujarat Gas"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-7cd8a6e6",
@@ -268,9 +251,7 @@
     "longitude": 70.859745,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Gujarat",
-    "operator": "Gujarat Gas"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-72a7f0a8",
@@ -621,8 +602,7 @@
     "longitude": 72.377049,
     "city": "",
     "state": "Gujarat",
-    "source": "osm",
-    "address": "Ahmedabad Palanpur State Highway SH41, Gujarat"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-5a71e9b7",
@@ -3599,10 +3579,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4148,10 +4128,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"

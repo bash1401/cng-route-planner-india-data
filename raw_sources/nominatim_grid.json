@@ -193,8 +193,8 @@
   },
   {
     "name": "Cng Pump Road",
-    "latitude": 18.663898,
-    "longitude": 73.826384,
+    "latitude": 18.66406,
+    "longitude": 73.826407,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "nominatim_grid"
@@ -220,6 +220,14 @@
     "latitude": 18.646833,
     "longitude": 73.742276,
     "city": "Pune",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Cng Pump Indapur",
+    "latitude": 18.286203,
+    "longitude": 73.245606,
+    "city": "Raigad",
     "state": "Maharashtra",
     "source": "nominatim_grid"
   },
