@@ -369,15 +369,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-be07e79a",
-    "name": "Indian Oil",
-    "latitude": 26.879557,
-    "longitude": 80.951211,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b9e73d29",
     "name": "Indian Oil",
     "latitude": 25.545001,
@@ -1701,6 +1692,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-31a031a4",
+    "name": "Cng Station",
+    "latitude": 26.872726,
+    "longitude": 80.985391,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-655876aa",
     "name": "Essar",
     "latitude": 26.903655,
@@ -1800,10 +1800,37 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-be07e79a",
+    "name": "Indian Oil",
+    "latitude": 26.879557,
+    "longitude": 80.951211,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1331bd74",
     "name": "Indian Oil",
     "latitude": 26.76802,
     "longitude": 80.910373,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6bf0674f",
+    "name": "Indian Oil",
+    "latitude": 26.865103,
+    "longitude": 80.996381,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-faaaa83f",
+    "name": "Indian Oil",
+    "latitude": 26.871994,
+    "longitude": 80.996451,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -1816,15 +1843,6 @@
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6bf0674f",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.865089,
-    "longitude": 80.996398,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-244a67b5",
@@ -1840,15 +1858,6 @@
     "name": "Indian Oil Petrol Pump",
     "latitude": 26.787347,
     "longitude": 80.912031,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-faaaa83f",
-    "name": "Indian Oil Petrol Station",
-    "latitude": 26.872005,
-    "longitude": 80.996467,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

@@ -297,6 +297,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-7e5a16da",
+    "name": "Bharat Petroleum",
+    "latitude": 21.334977,
+    "longitude": 81.621838,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c3d669a8",
     "name": "Bharat Petroleum",
     "latitude": 23.75419,
@@ -747,6 +756,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c52802a4",
+    "name": "Indian Oil",
+    "latitude": 21.223971,
+    "longitude": 81.643802,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-6f3a0d0d",
     "name": "Indian Oil",
     "latitude": 22.357947,
@@ -841,6 +859,15 @@
     "name": "Shabri Petrol Pump",
     "latitude": 18.393346,
     "longitude": 81.658345,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d80c8533",
+    "name": "Suyash Fuels",
+    "latitude": 21.259239,
+    "longitude": 81.608467,
     "city": "",
     "state": "Chhattisgarh",
     "source": "all_india_fuel"
@@ -1058,141 +1085,6 @@
     "latitude": 21.45205,
     "longitude": 84.02549,
     "city": "Odisha",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7e5a16da",
-    "name": "Bharat Petroleum",
-    "latitude": 21.334977,
-    "longitude": 81.621838,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-71d30174",
-    "name": "Cng Station",
-    "latitude": 21.226551,
-    "longitude": 81.782145,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-72a3abf5",
-    "name": "Cng Station",
-    "latitude": 21.239705,
-    "longitude": 81.677844,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-44af0609",
-    "name": "Cng Station",
-    "latitude": 21.252821,
-    "longitude": 81.598543,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4d69e97d",
-    "name": "Cng Station",
-    "latitude": 21.218825,
-    "longitude": 81.675944,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-514ba896",
-    "name": "Cng Station",
-    "latitude": 21.304694,
-    "longitude": 81.594932,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1c5e1548",
-    "name": "F R Fuels",
-    "latitude": 21.243064,
-    "longitude": 81.614791,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e89a4926",
-    "name": "Hp",
-    "latitude": 21.230824,
-    "longitude": 81.604288,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-15d51ed0",
-    "name": "Hp Petrol Pump",
-    "latitude": 21.237225,
-    "longitude": 81.689161,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bd5a43a9",
-    "name": "Hp Petrol Pump",
-    "latitude": 21.295362,
-    "longitude": 81.636856,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c52802a4",
-    "name": "Indian Oil",
-    "latitude": 21.223971,
-    "longitude": 81.643802,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-617c7449",
-    "name": "Meraj Fuels",
-    "latitude": 21.25712,
-    "longitude": 81.624788,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0bfc7b43",
-    "name": "Reliance Petrol Pump",
-    "latitude": 21.289516,
-    "longitude": 81.625561,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d80c8533",
-    "name": "Suyash Fuels",
-    "latitude": 21.259239,
-    "longitude": 81.608467,
-    "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-920466c5",
-    "name": "Vinu Petrol Pump",
-    "latitude": 21.308663,
-    "longitude": 81.636008,
-    "city": "Raipur",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
@@ -1503,33 +1395,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-5062f846",
-    "name": "All India Radio Petrolbunk",
-    "latitude": 21.238618,
-    "longitude": 81.646084,
-    "city": "raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d35943ee",
-    "name": "Bp Petrol Bunk",
-    "latitude": 21.243762,
-    "longitude": 81.636364,
-    "city": "raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-82ccd273",
-    "name": "Hindustan Petroleum",
-    "latitude": 21.233438,
-    "longitude": 81.648917,
-    "city": "raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-24366614",
     "name": "Jet Fuel Supplier Reliance Industries Limited",
     "latitude": 21.186824,
@@ -1537,14 +1402,5 @@
     "city": "raipur",
     "state": "Chhattisgarh",
     "source": "osm_allstations"
-  },
-  {
-    "id": "cng-ce1c37cd",
-    "name": "Star Indian Oil",
-    "latitude": 21.231383,
-    "longitude": 81.640024,
-    "city": "raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
   }
 ]

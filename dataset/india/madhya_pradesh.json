@@ -99,6 +99,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-bfd164e4",
+    "name": "Bharat Petroleum",
+    "latitude": 24.942685,
+    "longitude": 74.632915,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -1404,60 +1413,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-bfd164e4",
-    "name": "Bharat Petroleum",
-    "latitude": 24.942685,
-    "longitude": 74.632915,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3ee3c7d7",
-    "name": "Cng Station",
-    "latitude": 24.883226,
-    "longitude": 74.622733,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cd7af27f",
-    "name": "Cng Station",
-    "latitude": 24.874983,
-    "longitude": 74.62193,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ad9cac41",
-    "name": "Hindustan Petroleum",
-    "latitude": 24.939633,
-    "longitude": 74.63149,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d09d2a08",
-    "name": "Hindustan Petroleum",
-    "latitude": 24.980343,
-    "longitude": 74.648003,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8d564c37",
-    "name": "Jio/Bp",
-    "latitude": 24.920527,
-    "longitude": 74.624659,
-    "city": "Chittorgarh",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-56aab4e7",
     "name": "Baba Fuel Station",
     "latitude": 23.09949,
@@ -1546,15 +1501,6 @@
     "city": "Ghudachandra ji",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-186d7383",
-    "name": "Bansal Pump",
-    "latitude": 22.357143,
-    "longitude": 77.083351,
-    "city": "Harda",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-d0b7fe7b",

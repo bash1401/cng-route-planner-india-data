@@ -848,6 +848,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-32b0b546",
+    "name": "Indian Oil",
+    "latitude": 13.002637,
+    "longitude": 76.073452,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8573d9b5",
     "name": "Indian Oil",
     "latitude": 12.835313,
@@ -2271,69 +2280,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a9330493",
-    "name": "Bangarshettar Petrol Bunk",
-    "latitude": 15.421999,
-    "longitude": 75.622449,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-12e8b1b0",
-    "name": "Cng Station",
-    "latitude": 15.422221,
-    "longitude": 75.626103,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a006965c",
-    "name": "Cng Station",
-    "latitude": 15.424266,
-    "longitude": 75.568299,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b16c9eaf",
-    "name": "Cng Station",
-    "latitude": 15.401105,
-    "longitude": 75.64543,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3c65d2c0",
-    "name": "Gogas Auto Gas",
-    "latitude": 15.421401,
-    "longitude": 75.607465,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-315cd0ca",
-    "name": "Parvati Petroleums",
-    "latitude": 15.411464,
-    "longitude": 75.618105,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1b82f013",
-    "name": "Society Petrol Bunk",
-    "latitude": 15.424341,
-    "longitude": 75.636407,
-    "city": "Gadag",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-a7e19624",
     "name": "Reliance Petroleum ರಿಲಯನಸ ಪೆಟರೋಲಿಯಂ",
     "latitude": 17.361022,
@@ -2500,15 +2446,6 @@
     "name": "Indian Oil",
     "latitude": 13.092384,
     "longitude": 76.035782,
-    "city": "Hassan",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-32b0b546",
-    "name": "Indian Oil",
-    "latitude": 13.002637,
-    "longitude": 76.073452,
     "city": "Hassan",
     "state": "Karnataka",
     "source": "cgd_inferred"
