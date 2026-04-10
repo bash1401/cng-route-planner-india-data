@@ -482,24 +482,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f75bf6ea",
-    "name": "Indian Oil",
-    "latitude": 28.730503,
-    "longitude": 76.630463,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-0b17ec9f",
-    "name": "Indian Oil",
-    "latitude": 28.677083,
-    "longitude": 76.636513,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-43d2117e",
     "name": "Indian Oil",
     "latitude": 29.707468,
@@ -797,6 +779,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-0fce60e9",
+    "name": "Indian Oil",
+    "latitude": 29.017976,
+    "longitude": 77.076674,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-efc9becc",
     "name": "Indian Oil",
     "latitude": 29.198184,
@@ -936,15 +927,6 @@
     "name": "Nayara",
     "latitude": 29.199052,
     "longitude": 77.410776,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-966171e9",
-    "name": "Raghav Fuels",
-    "latitude": 28.711324,
-    "longitude": 76.632829,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1387,6 +1369,60 @@
     "latitude": 29.114855,
     "longitude": 75.81565,
     "city": "Hisar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-21fdd8ee",
+    "name": "Cng Station",
+    "latitude": 28.563811,
+    "longitude": 76.703198,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-057f96da",
+    "name": "Cng Station",
+    "latitude": 28.56642,
+    "longitude": 76.694195,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1a920dc0",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.66888,
+    "longitude": 76.637591,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f75bf6ea",
+    "name": "Indian Oil",
+    "latitude": 28.730503,
+    "longitude": 76.630463,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0b17ec9f",
+    "name": "Indian Oil",
+    "latitude": 28.677083,
+    "longitude": 76.636513,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-966171e9",
+    "name": "Raghav Fuels",
+    "latitude": 28.711324,
+    "longitude": 76.632829,
+    "city": "Jhajjar",
     "state": "Haryana",
     "source": "cgd_inferred"
   },
@@ -2394,15 +2430,6 @@
     "name": "Indian Oil",
     "latitude": 28.922564,
     "longitude": 77.10381,
-    "city": "Sonipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fce60e9",
-    "name": "Indian Oil",
-    "latitude": 29.017976,
-    "longitude": 77.076674,
     "city": "Sonipat",
     "state": "Haryana",
     "source": "cgd_inferred"

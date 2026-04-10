@@ -45,15 +45,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-706bde3c",
-    "name": "Bharat Petroleum",
-    "latitude": 26.724132,
-    "longitude": 88.416184,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-21f04689",
     "name": "Bharat Petroleum",
     "latitude": 23.476023,
@@ -94,15 +85,6 @@
     "name": "Bharat Petroleum",
     "latitude": 26.557981,
     "longitude": 88.72395,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-0ab5bc94",
-    "name": "Bharat Petroleum",
-    "latitude": 26.742324,
-    "longitude": 88.436088,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -180,15 +162,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d33ce6ee",
-    "name": "Bharat Petroleum",
-    "latitude": 26.717631,
-    "longitude": 88.420893,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-c7e92577",
     "name": "Bharat Petroleum",
     "latitude": 26.692942,
@@ -211,15 +184,6 @@
     "name": "Bharat Petroleum",
     "latitude": 22.717335,
     "longitude": 87.847358,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-da7d935f",
-    "name": "Bharat Petroleum",
-    "latitude": 26.770264,
-    "longitude": 88.378503,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -288,15 +252,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-ea11d64d",
-    "name": "Bharat Petroleum",
-    "latitude": 26.756469,
-    "longitude": 88.44112,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-958fbcd1",
     "name": "Bharat Petroleum",
     "latitude": 26.683794,
@@ -306,28 +261,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4b5c4bf6",
-    "name": "Bharat Petroleum",
-    "latitude": 26.686715,
-    "longitude": 88.416177,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b4d7e75c",
     "name": "Bharat Petroleum",
     "latitude": 22.927269,
     "longitude": 88.265169,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-8b3b32f2",
-    "name": "Bharat Petroleum",
-    "latitude": 26.723318,
-    "longitude": 88.382582,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -450,24 +387,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-cb3dc52f",
-    "name": "Indian Oil",
-    "latitude": 22.063889,
-    "longitude": 88.082268,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-039b45ae",
-    "name": "Indian Oil",
-    "latitude": 22.066188,
-    "longitude": 88.073101,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-f6cb85f5",
     "name": "Indian Oil",
     "latitude": 23.395371,
@@ -481,15 +400,6 @@
     "name": "Indian Oil",
     "latitude": 23.486885,
     "longitude": 87.74782,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-d62b0ed7",
-    "name": "Indian Oil",
-    "latitude": 22.941476,
-    "longitude": 88.637145,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -702,15 +612,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-accd0fc7",
-    "name": "Indian Oil",
-    "latitude": 23.267158,
-    "longitude": 87.827624,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-4c26612f",
     "name": "Indian Oil",
     "latitude": 22.877613,
@@ -756,37 +657,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-dc3fbba7",
-    "name": "Indian Oil",
-    "latitude": 26.65726,
-    "longitude": 88.415109,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-87934d62",
-    "name": "Indian Oil",
-    "latitude": 26.747307,
-    "longitude": 88.395225,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5f069259",
     "name": "Indian Oil",
     "latitude": 26.870227,
     "longitude": 88.748829,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-1e3f65cf",
-    "name": "Indian Oil",
-    "latitude": 26.752047,
-    "longitude": 88.439358,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -801,28 +675,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-97f5b7f4",
-    "name": "Indian Oil",
-    "latitude": 26.713972,
-    "longitude": 88.456711,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-471411a1",
     "name": "Indian Oil",
     "latitude": 23.97459,
     "longitude": 87.961658,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ce4c290e",
-    "name": "Indian Oil",
-    "latitude": 26.730211,
-    "longitude": 88.431522,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -1062,33 +918,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-8875d4f9",
-    "name": "Indian Oil",
-    "latitude": 26.664128,
-    "longitude": 88.47188,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-4757e90d",
-    "name": "Indian Oil",
-    "latitude": 26.691694,
-    "longitude": 88.462537,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-60505845",
-    "name": "Indian Oil",
-    "latitude": 26.741334,
-    "longitude": 88.454566,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-732e80ba",
     "name": "Indian Oil",
     "latitude": 26.595966,
@@ -1102,69 +931,6 @@
     "name": "Indian Oil",
     "latitude": 26.568142,
     "longitude": 88.346232,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-be32b459",
-    "name": "Indian Oil",
-    "latitude": 26.759071,
-    "longitude": 88.418404,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-68af7650",
-    "name": "Indian Oil",
-    "latitude": 26.712301,
-    "longitude": 88.401822,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c1393205",
-    "name": "Indian Oil",
-    "latitude": 26.676263,
-    "longitude": 88.368339,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-72fc3d81",
-    "name": "Indian Oil",
-    "latitude": 26.709574,
-    "longitude": 88.364876,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6062da01",
-    "name": "Indian Oil",
-    "latitude": 26.723215,
-    "longitude": 88.38834,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6ece0916",
-    "name": "Indian Oil",
-    "latitude": 26.746992,
-    "longitude": 88.349099,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7368bd57",
-    "name": "Indian Oil",
-    "latitude": 26.790792,
-    "longitude": 88.36288,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -1464,7 +1230,25 @@
     "longitude": 87.868781,
     "city": "Bardhaman",
     "state": "West Bengal",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d3bb5cdf",
+    "name": "Hp",
+    "latitude": 23.237077,
+    "longitude": 87.866519,
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-accd0fc7",
+    "name": "Indian Oil",
+    "latitude": 23.267158,
+    "longitude": 87.827624,
+    "city": "Bardhaman",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-9d9b14af",
@@ -1509,7 +1293,52 @@
     "longitude": 88.063122,
     "city": "Haldia",
     "state": "West Bengal",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d07c0e06",
+    "name": "Hindustan Petrolium",
+    "latitude": 22.104268,
+    "longitude": 88.021882,
+    "city": "Haldia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8eeb8efb",
+    "name": "Hp",
+    "latitude": 22.066486,
+    "longitude": 88.097045,
+    "city": "Haldia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9111e3bd",
+    "name": "Hp Petrolpump",
+    "latitude": 22.02558,
+    "longitude": 88.058695,
+    "city": "Haldia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cb3dc52f",
+    "name": "Indian Oil",
+    "latitude": 22.063889,
+    "longitude": 88.082268,
+    "city": "Haldia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-039b45ae",
+    "name": "Indian Oil",
+    "latitude": 22.066188,
+    "longitude": 88.073101,
+    "city": "Haldia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-6e64c319",
@@ -1518,7 +1347,43 @@
     "longitude": 88.073289,
     "city": "Haldia",
     "state": "West Bengal",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6f054486",
+    "name": "Bharat Petroleum",
+    "latitude": 23.043212,
+    "longitude": 88.536604,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6d0c8d3d",
+    "name": "Cng Station",
+    "latitude": 22.91953,
+    "longitude": 88.453666,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-62ea147c",
+    "name": "Hpcl",
+    "latitude": 22.970672,
+    "longitude": 88.546098,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d62b0ed7",
+    "name": "Indian Oil",
+    "latitude": 22.941476,
+    "longitude": 88.637145,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-4ab1737e",
@@ -2283,7 +2148,7 @@
     "longitude": 88.641111,
     "city": "Nagarukhra",
     "state": "West Bengal",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-4eeec2b7",
@@ -2302,6 +2167,267 @@
     "city": "Salgaria",
     "state": "West Bengal",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-706bde3c",
+    "name": "Bharat Petroleum",
+    "latitude": 26.724132,
+    "longitude": 88.416184,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0ab5bc94",
+    "name": "Bharat Petroleum",
+    "latitude": 26.742324,
+    "longitude": 88.436088,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d33ce6ee",
+    "name": "Bharat Petroleum",
+    "latitude": 26.717631,
+    "longitude": 88.420893,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-da7d935f",
+    "name": "Bharat Petroleum",
+    "latitude": 26.770264,
+    "longitude": 88.378503,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ea11d64d",
+    "name": "Bharat Petroleum",
+    "latitude": 26.756469,
+    "longitude": 88.44112,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4b5c4bf6",
+    "name": "Bharat Petroleum",
+    "latitude": 26.686715,
+    "longitude": 88.416177,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8b3b32f2",
+    "name": "Bharat Petroleum",
+    "latitude": 26.723318,
+    "longitude": 88.382582,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cfbc5c4c",
+    "name": "Cng Station",
+    "latitude": 26.699395,
+    "longitude": 88.320187,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d870e375",
+    "name": "Cng Station",
+    "latitude": 26.687318,
+    "longitude": 88.391701,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3f91de21",
+    "name": "Cng Station",
+    "latitude": 26.732905,
+    "longitude": 88.412334,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bbcbe4f7",
+    "name": "Hp",
+    "latitude": 26.704252,
+    "longitude": 88.415963,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-05b0ccb4",
+    "name": "Hp",
+    "latitude": 26.689048,
+    "longitude": 88.414191,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f0ab6519",
+    "name": "Hp",
+    "latitude": 26.719017,
+    "longitude": 88.425288,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-429c0899",
+    "name": "Hp",
+    "latitude": 26.730527,
+    "longitude": 88.412334,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-dc3fbba7",
+    "name": "Indian Oil",
+    "latitude": 26.65726,
+    "longitude": 88.415109,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-87934d62",
+    "name": "Indian Oil",
+    "latitude": 26.747307,
+    "longitude": 88.395225,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1e3f65cf",
+    "name": "Indian Oil",
+    "latitude": 26.752047,
+    "longitude": 88.439358,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-97f5b7f4",
+    "name": "Indian Oil",
+    "latitude": 26.713972,
+    "longitude": 88.456711,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ce4c290e",
+    "name": "Indian Oil",
+    "latitude": 26.730211,
+    "longitude": 88.431522,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8875d4f9",
+    "name": "Indian Oil",
+    "latitude": 26.664128,
+    "longitude": 88.47188,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4757e90d",
+    "name": "Indian Oil",
+    "latitude": 26.691694,
+    "longitude": 88.462537,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-60505845",
+    "name": "Indian Oil",
+    "latitude": 26.741334,
+    "longitude": 88.454566,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-be32b459",
+    "name": "Indian Oil",
+    "latitude": 26.759071,
+    "longitude": 88.418404,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-68af7650",
+    "name": "Indian Oil",
+    "latitude": 26.712301,
+    "longitude": 88.401822,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c1393205",
+    "name": "Indian Oil",
+    "latitude": 26.676263,
+    "longitude": 88.368339,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-72fc3d81",
+    "name": "Indian Oil",
+    "latitude": 26.709574,
+    "longitude": 88.364876,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6062da01",
+    "name": "Indian Oil",
+    "latitude": 26.723215,
+    "longitude": 88.38834,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6ece0916",
+    "name": "Indian Oil",
+    "latitude": 26.746992,
+    "longitude": 88.349099,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7368bd57",
+    "name": "Indian Oil",
+    "latitude": 26.790792,
+    "longitude": 88.36288,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-edbe03a6",

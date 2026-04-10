@@ -1488,19 +1488,19 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-7543eaae",
+    "id": "cng-ce6f5ced",
     "name": "Nayara",
-    "latitude": 15.699937,
-    "longitude": 80.018335,
+    "latitude": 15.666947,
+    "longitude": 80.160189,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-ce6f5ced",
+    "id": "cng-4bb0d7c8",
     "name": "Nayara",
-    "latitude": 15.666947,
-    "longitude": 80.160189,
+    "latitude": 15.699984,
+    "longitude": 80.018323,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -4759,6 +4759,15 @@
     "name": "Cng Station",
     "latitude": 15.635901,
     "longitude": 80.1093,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5d59aceb",
+    "name": "Cng Station",
+    "latitude": 15.629879,
+    "longitude": 80.018211,
     "city": "Ongole",
     "state": "Maharashtra",
     "source": "cgd_inferred"
