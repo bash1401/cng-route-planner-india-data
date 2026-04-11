@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e42b3a6a",
+    "name": "Aalarnath Filling Station",
+    "latitude": 19.792956,
+    "longitude": 85.630876,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-891f09e6",
     "name": "Annapurna Filling Station",
     "latitude": 20.047732,
@@ -997,10 +1006,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-f58018be",
-    "name": "Indian Oil Filling Station",
-    "latitude": 19.79835,
-    "longitude": 85.668934,
+    "id": "cng-152c2dbb",
+    "name": "Omm Jageswari Pump Kisan Seva Kendra",
+    "latitude": 19.798582,
+    "longitude": 85.66349,
     "city": "Brahmagiri",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -1671,6 +1680,15 @@
     "name": "Indian Oil",
     "latitude": 20.157438,
     "longitude": 85.84515,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4faea159",
+    "name": "Indian Oil",
+    "latitude": 19.715438,
+    "longitude": 85.51566,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"

@@ -585,15 +585,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-57ca4efa",
-    "name": "Bharat Petroleum",
-    "latitude": 17.700053,
-    "longitude": 83.302921,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-6f772a67",
     "name": "Bharat Petroleum",
     "latitude": 17.677198,
@@ -2574,15 +2565,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-69636f5d",
-    "name": "Indian Oil",
-    "latitude": 14.519338,
-    "longitude": 79.907505,
-    "city": "Nellore",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-fcf264d1",
     "name": "Indian Oil",
     "latitude": 14.576348,
@@ -2605,6 +2587,15 @@
     "name": "Indian Oil",
     "latitude": 14.495652,
     "longitude": 79.991179,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-69636f5d",
+    "name": "Indian Oil",
+    "latitude": 14.519303,
+    "longitude": 79.907517,
     "city": "Nellore",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"

@@ -2472,14 +2472,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 14.519338,
-    "longitude": 79.907505,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 14.481224,
     "longitude": 79.982973,
@@ -6149,6 +6141,14 @@
     "longitude": 77.601822,
     "city": "",
     "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 14.519303,
+    "longitude": 79.907517,
+    "city": "",
+    "state": "Andhra Pradesh",
     "source": "all_india_fuel"
   },
   {
@@ -11777,14 +11777,6 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 17.905312,
-    "longitude": 83.406629,
-    "city": "",
-    "state": "Chhattisgarh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
     "latitude": 17.90106,
     "longitude": 83.397279,
     "city": "",
@@ -13289,14 +13281,6 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 17.700053,
-    "longitude": 83.302921,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
     "latitude": 17.73183,
     "longitude": 83.299545,
     "city": "",
@@ -13448,6 +13432,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Essar",
+    "latitude": 18.055047,
+    "longitude": 83.145313,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Indian Oil",
     "latitude": 17.72898,
     "longitude": 83.327365,
@@ -13556,6 +13548,14 @@
     "latitude": 17.716537,
     "longitude": 83.204868,
     "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil Petrol Bunk",
+    "latitude": 16.961981,
+    "longitude": 82.217275,
+    "city": "Kakinada",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
   },
@@ -15867,14 +15867,6 @@
     "name": "Suyash Fuels",
     "latitude": 21.259239,
     "longitude": 81.608467,
-    "city": "",
-    "state": "Chhattisgarh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Essar",
-    "latitude": 18.055047,
-    "longitude": 83.145313,
     "city": "",
     "state": "Chhattisgarh",
     "source": "all_india_fuel"
@@ -25792,14 +25784,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 12.502222,
-    "longitude": 75.265893,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Sahyadri Petrol Pump",
     "latitude": 13.690716,
     "longitude": 75.250024,
@@ -27155,6 +27139,14 @@
     "name": "Indian Oil",
     "latitude": 12.313527,
     "longitude": 75.077992,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.502159,
+    "longitude": 75.265959,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -42352,9 +42344,9 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil Filling Station",
-    "latitude": 19.79835,
-    "longitude": 85.668934,
+    "name": "Omm Jageswari Pump Kisan Seva Kendra",
+    "latitude": 19.798582,
+    "longitude": 85.66349,
     "city": "Brahmagiri",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -43276,6 +43268,22 @@
     "latitude": 20.151467,
     "longitude": 85.72469,
     "city": "Jatni",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Aalarnath Filling Station",
+    "latitude": 19.792956,
+    "longitude": 85.630876,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.715438,
+    "longitude": 85.51566,
+    "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -54412,6 +54420,14 @@
     "latitude": 34.145263,
     "longitude": 74.802433,
     "city": "",
+    "state": "Jammu and Kashmir",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Evergreen Filling Station",
+    "latitude": 34.497242,
+    "longitude": 74.122912,
+    "city": "Kralpora",
     "state": "Jammu and Kashmir",
     "source": "all_india_fuel"
   },

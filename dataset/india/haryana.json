@@ -1,23 +1,5 @@
 [
   {
-    "id": "cng-2f1afbae",
-    "name": "Adani Cng Gas Station",
-    "latitude": 28.399023,
-    "longitude": 77.350323,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-f4a99d6a",
-    "name": "Adani Cng Station",
-    "latitude": 28.400755,
-    "longitude": 77.374226,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-a62efa97",
     "name": "Adani Gas",
     "latitude": 27.944461,
@@ -302,15 +284,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-0ad47272",
-    "name": "Cng Station",
-    "latitude": 28.397792,
-    "longitude": 76.932488,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-6b553a34",
     "name": "Cng Station",
     "latitude": 29.485656,
@@ -318,6 +291,15 @@
     "city": "",
     "state": "Haryana",
     "source": "igl_mgl"
+  },
+  {
+    "id": "cng-0ad47272",
+    "name": "Cng Station",
+    "latitude": 28.397792,
+    "longitude": 76.932488,
+    "city": "",
+    "state": "Haryana",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a1e0ef4f",
@@ -362,7 +344,7 @@
     "longitude": 77.066279,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cf6d22be",
@@ -1031,6 +1013,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-2f1afbae",
+    "name": "Adani Cng Gas Station",
+    "latitude": 28.399023,
+    "longitude": 77.350323,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
+    "id": "cng-f4a99d6a",
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
     "id": "cng-58596898",
     "name": "Cng Station",
     "latitude": 28.389926,
@@ -1076,10 +1076,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1647,15 +1647,6 @@
     "name": "Cng Station",
     "latitude": 28.07828,
     "longitude": 76.171198,
-    "city": "Narnaul",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47c90fe6",
-    "name": "Cng Station",
-    "latitude": 28.119515,
-    "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"

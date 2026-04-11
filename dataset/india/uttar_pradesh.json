@@ -198,15 +198,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-c6b10cd2",
-    "name": "Gail India Ltd. Cng Station",
-    "latitude": 25.286496,
-    "longitude": 82.968651,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-ba4e0e37",
     "name": "Hpcl",
     "latitude": 24.809806,
@@ -2907,6 +2898,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-c6b10cd2",
+    "name": "Gail India Ltd. Cng Station",
+    "latitude": 25.286496,
+    "longitude": 82.968651,
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-4992c7db",
     "name": "Hp",
     "latitude": 25.318339,
@@ -3025,12 +3025,12 @@
   },
   {
     "id": "cng-330fc50e",
-    "name": "Saraswati Petrol Pump And Cng Filling Station",
+    "name": "सरसवती पेटरोल पंप एवं सी.एन.जी. फीलिंग",
     "latitude": 25.26721,
     "longitude": 82.966091,
     "city": "Varanasi",
     "state": "Uttar Pradesh",
-    "source": "nominatim_grid"
+    "source": "atgl"
   },
   {
     "id": "cng-6aa8cf90",

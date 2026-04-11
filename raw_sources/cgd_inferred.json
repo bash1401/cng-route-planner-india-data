@@ -22776,6 +22776,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Hindustan Petroleum Corporation Limited",
+    "latitude": 26.965079,
+    "longitude": 75.776715,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "CNG Station",
     "latitude": 25.252768,
     "longitude": 75.775426,
@@ -23921,8 +23929,8 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 22.622181,
-    "longitude": 88.44448,
+    "latitude": 22.622214,
+    "longitude": 88.444483,
     "city": "Kolkata",
     "state": "West Bengal",
     "source": "cgd_inferred"
@@ -25465,8 +25473,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 12.950304,
-    "longitude": 74.809732,
+    "latitude": 12.950316,
+    "longitude": 74.809762,
     "city": "Mangalore",
     "state": "Karnataka",
     "source": "cgd_inferred"
@@ -25507,6 +25515,14 @@
     "name": "Bharat Petroleum",
     "latitude": 12.988273,
     "longitude": 74.80407,
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 12.949934,
+    "longitude": 74.810814,
     "city": "Mangalore",
     "state": "Karnataka",
     "source": "cgd_inferred"
@@ -25968,54 +25984,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 12.412854,
-    "longitude": 76.579584,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.317034,
-    "longitude": 76.625554,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 12.312202,
-    "longitude": 76.63973,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Mrpl",
-    "latitude": 12.356911,
-    "longitude": 76.580779,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.395816,
-    "longitude": 76.582304,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Nayara",
-    "latitude": 12.41889,
-    "longitude": 76.724841,
-    "city": "Mysuru",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Hp",
     "latitude": 12.302632,
     "longitude": 76.616218,
@@ -26120,7 +26088,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
+    "name": "CNG Station",
     "latitude": 12.262111,
     "longitude": 76.656476,
     "city": "Mysuru",
@@ -26523,6 +26491,14 @@
     "name": "Indian Oil",
     "latitude": 10.021887,
     "longitude": 76.448384,
+    "city": "Kochi",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 9.91053,
+    "longitude": 76.364996,
     "city": "Kochi",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -27016,10 +26992,10 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharath Petroleum",
+    "name": "CNG Station",
     "latitude": 11.021919,
     "longitude": 76.998212,
-    "city": "கோயம்புத்தூர்",
+    "city": "Coimbatore",
     "state": "Kerala",
     "source": "cgd_inferred"
   },
@@ -27387,14 +27363,6 @@
     "name": "Essar Petroleum",
     "latitude": 11.00661,
     "longitude": 77.015025,
-    "city": "Coimbatore",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 11.101461,
-    "longitude": 76.996217,
     "city": "Coimbatore",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -27787,14 +27755,6 @@
     "name": "Bharat Petroleum",
     "latitude": 17.68389,
     "longitude": 83.202371,
-    "city": "Visakhapatnam",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 17.721191,
-    "longitude": 83.319583,
     "city": "Visakhapatnam",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -37320,6 +37280,22 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "CNG Station",
+    "latitude": 12.317034,
+    "longitude": 76.625554,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.312202,
+    "longitude": 76.63973,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Indian Oil",
     "latitude": 12.216068,
     "longitude": 76.662131,
@@ -39824,22 +39800,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "CNG Station",
-    "latitude": 11.341553,
-    "longitude": 75.898831,
-    "city": "Kozhikode",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Nayara",
-    "latitude": 11.359868,
-    "longitude": 75.904283,
-    "city": "Kozhikode",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Hindustan Petroleum",
     "latitude": 11.308586,
     "longitude": 75.881015,
@@ -42168,14 +42128,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Nayara Fuel Station",
-    "latitude": 11.099186,
-    "longitude": 76.063919,
-    "city": "Malappuram",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 11.040944,
     "longitude": 76.08597,
@@ -42808,14 +42760,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 14.519338,
-    "longitude": 79.907505,
-    "city": "Nellore",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 14.490615,
     "longitude": 79.943463,
@@ -42931,6 +42875,14 @@
     "name": "Bm Reddy Filling Station",
     "latitude": 14.419378,
     "longitude": 79.956254,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 14.519303,
+    "longitude": 79.907517,
     "city": "Nellore",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -50523,14 +50475,6 @@
     "name": "CNG Station",
     "latitude": 28.07828,
     "longitude": 76.171198,
-    "city": "Narnaul",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.119515,
-    "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"
