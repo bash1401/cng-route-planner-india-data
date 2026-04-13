@@ -99,6 +99,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-12d28a45",
+    "name": "Cng Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -2376,42 +2385,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-cd963baa",
-    "name": "Agrawal Motors",
-    "latitude": 23.177903,
-    "longitude": 79.924959,
-    "city": "Jabalpur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f83847a5",
-    "name": "Cng Station",
-    "latitude": 23.200903,
-    "longitude": 80.090952,
-    "city": "Jabalpur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8964ded7",
-    "name": "Indian Oil",
-    "latitude": 23.194692,
-    "longitude": 79.912731,
-    "city": "Jabalpur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6c4bd954",
-    "name": "Indian Oil Fuel Station",
-    "latitude": 23.129374,
-    "longitude": 79.965279,
-    "city": "Jabalpur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-bc8ce349",
     "name": "Bharat Petrol Pump",
     "latitude": 26.80325,
@@ -2862,15 +2835,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-12d28a45",
-    "name": "Cng Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-1efce618",
     "name": "Cng Station",
     "latitude": 21.136329,
@@ -3084,7 +3048,7 @@
     "longitude": 79.038446,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
-    "source": "atgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-627ea82d",

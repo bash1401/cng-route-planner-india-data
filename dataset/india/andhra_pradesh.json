@@ -1260,6 +1260,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-f4bfca40",
+    "name": "Indian Oil",
+    "latitude": 15.581539,
+    "longitude": 80.040754,
+    "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-0105b3ad",
     "name": "Indian Oil",
     "latitude": 14.246951,
@@ -2711,8 +2720,8 @@
   {
     "id": "cng-70575d5b",
     "name": "Cng Station",
-    "latitude": 15.570697,
-    "longitude": 80.045445,
+    "latitude": 15.57069,
+    "longitude": 80.045429,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"

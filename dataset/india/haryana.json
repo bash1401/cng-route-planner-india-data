@@ -275,24 +275,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-868658bf",
-    "name": "Cng Station",
-    "latitude": 28.732903,
-    "longitude": 77.558978,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-6b553a34",
-    "name": "Cng Station",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-0ad47272",
     "name": "Cng Station",
     "latitude": 28.397792,
@@ -317,7 +299,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6749a9a9",
@@ -326,7 +308,7 @@
     "longitude": 77.372681,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d788af5c",
@@ -335,7 +317,7 @@
     "longitude": 77.485078,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-1f44bfa7",
@@ -353,7 +335,7 @@
     "longitude": 77.351153,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b7a665e2",
@@ -698,6 +680,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-46119ac2",
+    "name": "Indian Oil",
+    "latitude": 28.796352,
+    "longitude": 76.147218,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-a9071220",
     "name": "Indian Oil",
     "latitude": 28.267927,
@@ -756,15 +747,6 @@
     "name": "Indian Oil",
     "latitude": 29.515548,
     "longitude": 74.862644,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-0fce60e9",
-    "name": "Indian Oil",
-    "latitude": 29.017976,
-    "longitude": 77.076674,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -833,6 +815,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-2ce0dc92",
+    "name": "Indian Oil",
+    "latitude": 28.785744,
+    "longitude": 76.124237,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-cf753ac5",
+    "name": "Indian Oil",
+    "latitude": 28.790852,
+    "longitude": 76.13067,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e9bf9e48",
     "name": "Indian Oil",
     "latitude": 28.769638,
@@ -860,13 +860,13 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-5338e871",
-    "name": "Indraprastha Gas Limited Cng Station",
-    "latitude": 28.525984,
-    "longitude": 77.37028,
+    "id": "cng-868658bf",
+    "name": "Indraprastha Gas Limited",
+    "latitude": 28.732903,
+    "longitude": 77.558978,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b0db9af5",
@@ -875,7 +875,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-28edfc87",
@@ -959,42 +959,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-2028f895",
-    "name": "Chaudhary Petrol Station",
-    "latitude": 28.797963,
-    "longitude": 76.144727,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0d780d15",
-    "name": "Hp",
-    "latitude": 28.792426,
-    "longitude": 76.130562,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-46119ac2",
-    "name": "Indian Oil",
-    "latitude": 28.796352,
-    "longitude": 76.147218,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2ce0dc92",
-    "name": "Indian Oil",
-    "latitude": 28.785744,
-    "longitude": 76.124237,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-cdaa733f",
     "name": "Indian Oil",
     "latitude": 28.659564,
@@ -1067,6 +1031,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-5338e871",
+    "name": "Indraprastha Gas Limited Cng Station",
+    "latitude": 28.525984,
+    "longitude": 77.37028,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
     "id": "cng-54dfa49d",
     "name": "Kissan Filling Station",
     "latitude": 29.372258,
@@ -1100,7 +1073,7 @@
     "longitude": 77.444915,
     "city": "GREATER NOIDA",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c5aa6802",
@@ -1454,85 +1427,13 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d9f3679c",
-    "name": "Bharat Petroleum",
-    "latitude": 29.642078,
-    "longitude": 76.982455,
+    "id": "cng-6b553a34",
+    "name": "Igl Cng Pump Panipat",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
     "city": "Karnal",
     "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0d08e44b",
-    "name": "Bharat Petroleum",
-    "latitude": 29.660388,
-    "longitude": 76.987676,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c0fe781a",
-    "name": "Bharat Petroleum, Petrol Pump - Karnal Petro Care",
-    "latitude": 29.703462,
-    "longitude": 77.006837,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-73408d25",
-    "name": "Cng Station",
-    "latitude": 29.678701,
-    "longitude": 77.004002,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a3ed797e",
-    "name": "Cng Station",
-    "latitude": 29.656405,
-    "longitude": 76.986584,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cba76ce7",
-    "name": "Essar",
-    "latitude": 29.616025,
-    "longitude": 76.983187,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f9063879",
-    "name": "Fuel Station",
-    "latitude": 29.64605,
-    "longitude": 76.98396,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fd7ea833",
-    "name": "H P",
-    "latitude": 29.565956,
-    "longitude": 76.976062,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fc0c77dd",
-    "name": "India Oil",
-    "latitude": 29.715554,
-    "longitude": 76.986411,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-1df67311",
@@ -1541,25 +1442,7 @@
     "longitude": 76.998395,
     "city": "Karnal",
     "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-13b1f58a",
-    "name": "M L S Filling Station",
-    "latitude": 29.669206,
-    "longitude": 77.008201,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c03ee790",
-    "name": "Om Petrol Pump",
-    "latitude": 29.679487,
-    "longitude": 77.02143,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9f0919c1",
@@ -1647,6 +1530,15 @@
     "name": "Cng Station",
     "latitude": 28.07828,
     "longitude": 76.171198,
+    "city": "Narnaul",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-47c90fe6",
+    "name": "Cng Station",
+    "latitude": 28.119515,
+    "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -2421,6 +2313,15 @@
     "name": "Indian Oil",
     "latitude": 28.922564,
     "longitude": 77.10381,
+    "city": "Sonipat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fce60e9",
+    "name": "Indian Oil",
+    "latitude": 29.017976,
+    "longitude": 77.076674,
     "city": "Sonipat",
     "state": "Haryana",
     "source": "cgd_inferred"
