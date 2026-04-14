@@ -18,22 +18,14 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-cbfa4b5c",
-    "name": "Indian Oil",
-    "latitude": 20.589926,
-    "longitude": 72.952037,
-    "city": "",
-    "state": "Daman and Diu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9b2a7690",
     "name": "Naresh Desai Cng Pump",
     "latitude": 20.321529,
     "longitude": 72.902689,
     "city": "",
     "state": "Daman and Diu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Daman and Diu"
   },
   {
     "id": "cng-50858423",
@@ -45,6 +37,15 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-b547a324",
+    "name": "Bharat Petroleum",
+    "latitude": 20.545811,
+    "longitude": 72.958113,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-55a2d1a5",
     "name": "Gujarat Gas (Vapi Gsrtc Premises)",
     "latitude": 20.373548,
@@ -54,6 +55,15 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-2c850529",
+    "name": "Hp Gas Station",
+    "latitude": 20.511241,
+    "longitude": 72.944923,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-c06a692c",
     "name": "Hpcl Coco (Gundlav)",
     "latitude": 20.615315,
@@ -61,6 +71,15 @@
     "city": "Valsad",
     "state": "Daman and Diu",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-cbfa4b5c",
+    "name": "Indian Oil",
+    "latitude": 20.589926,
+    "longitude": 72.952037,
+    "city": "Valsad",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-d4378975",
@@ -108,28 +127,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b547a324",
-    "name": "Bharat Petroleum",
-    "latitude": 20.545811,
-    "longitude": 72.958113,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-f038aac6",
     "name": "Hp",
     "latitude": 20.331125,
     "longitude": 72.872493,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2c850529",
-    "name": "Hp Gas Station",
-    "latitude": 20.511241,
-    "longitude": 72.944923,
     "city": "Vapi/Umbergaon",
     "state": "Daman and Diu",
     "source": "cgd_inferred"

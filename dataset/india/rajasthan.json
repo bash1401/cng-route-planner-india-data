@@ -141,7 +141,7 @@
     "longitude": 71.210599,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-c6c99b9a",
@@ -160,7 +160,7 @@
     "longitude": 70.653977,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0f5ae381",
@@ -388,6 +388,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-92d90413",
+    "name": "Indian Oil",
+    "latitude": 28.011616,
+    "longitude": 73.322321,
+    "city": "",
+    "state": "Rajasthan",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e96e34d1",
     "name": "Indian Oil",
     "latitude": 27.966551,
@@ -532,13 +541,22 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-7fe01148",
+    "name": "Jetharam Dudi",
+    "latitude": 28.024177,
+    "longitude": 73.290799,
+    "city": "",
+    "state": "Rajasthan",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f47d8561",
     "name": "Megar Group Cng Station",
     "latitude": 30.075331,
     "longitude": 71.312284,
     "city": "",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-2ae3046c",
@@ -628,7 +646,7 @@
     "longitude": 71.662831,
     "city": "BAHAWALPUR",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-34e488f1",
@@ -637,7 +655,7 @@
     "longitude": 71.691223,
     "city": "Bahawalpur",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-32ba2baa",
@@ -647,78 +665,6 @@
     "city": "Bahawalpur",
     "state": "Rajasthan",
     "source": "osm_allstations"
-  },
-  {
-    "id": "cng-314a6714",
-    "name": "Bharat Petroleum",
-    "latitude": 28.01356,
-    "longitude": 73.315263,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-640741cd",
-    "name": "Cng Station",
-    "latitude": 28.067309,
-    "longitude": 73.341242,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6f29ee8d",
-    "name": "Cng Station",
-    "latitude": 28.080633,
-    "longitude": 73.349608,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-21c86ffe",
-    "name": "Cng Station",
-    "latitude": 28.02647,
-    "longitude": 73.320163,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-992235f7",
-    "name": "H P",
-    "latitude": 28.159067,
-    "longitude": 73.378709,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7bb35cab",
-    "name": "Hp",
-    "latitude": 28.020647,
-    "longitude": 73.316382,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-92d90413",
-    "name": "Indian Oil",
-    "latitude": 28.011616,
-    "longitude": 73.322321,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7fe01148",
-    "name": "Jetharam Dudi",
-    "latitude": 28.024177,
-    "longitude": 73.290799,
-    "city": "Bikaner",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-25a5e169",
@@ -1816,7 +1762,7 @@
     "longitude": 71.445873,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-6ec5d950",
@@ -1825,7 +1771,7 @@
     "longitude": 71.439328,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-db2cf67f",
@@ -1834,7 +1780,7 @@
     "longitude": 71.448061,
     "city": "ملتان",
     "state": "Rajasthan",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0b255681",

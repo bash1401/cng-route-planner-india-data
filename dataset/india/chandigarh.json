@@ -1,5 +1,32 @@
 [
   {
+    "id": "cng-6727b9a7",
+    "name": "Bharat Petroleum",
+    "latitude": 30.637125,
+    "longitude": 76.686967,
+    "city": "",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-134559bc",
+    "name": "Indian Oil",
+    "latitude": 30.681547,
+    "longitude": 76.718675,
+    "city": "",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e790f090",
+    "name": "Indian Oil",
+    "latitude": 30.623772,
+    "longitude": 76.691286,
+    "city": "",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-cbdc8a58",
     "name": "Bharat Petroleum",
     "latitude": 30.723344,
@@ -9,262 +36,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a61cd7ec",
-    "name": "Bharat Petroleum",
-    "latitude": 30.720131,
-    "longitude": 76.809457,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-14093fb7",
-    "name": "Bharat Petroleum",
-    "latitude": 30.739297,
-    "longitude": 76.78012,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-afd1b3a2",
-    "name": "Bharat Petroleum",
-    "latitude": 30.698798,
-    "longitude": 76.86194,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6727b9a7",
-    "name": "Bharat Petroleum",
-    "latitude": 30.637125,
-    "longitude": 76.686967,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-244df903",
-    "name": "Bharat Petroleum",
-    "latitude": 30.683193,
-    "longitude": 76.835885,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bc2c1814",
-    "name": "Bharat Petroleum",
-    "latitude": 30.729046,
-    "longitude": 76.733416,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e7856e04",
-    "name": "Bharat Petroleum",
-    "latitude": 30.755161,
-    "longitude": 76.778126,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0226341a",
-    "name": "Bharat Petroleum",
-    "latitude": 30.753205,
-    "longitude": 76.797749,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7ddd8396",
-    "name": "Cng Station",
-    "latitude": 30.716966,
-    "longitude": 76.752415,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-62274758",
-    "name": "Cng Station",
-    "latitude": 30.729427,
-    "longitude": 76.698541,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9c94a78d",
-    "name": "Cng Station",
-    "latitude": 30.633986,
-    "longitude": 76.687838,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-54aa2e92",
-    "name": "Cng Station",
-    "latitude": 30.730928,
-    "longitude": 76.852683,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2085d519",
-    "name": "Cng Station",
-    "latitude": 30.729476,
-    "longitude": 76.766513,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ae69960a",
-    "name": "Cng Station",
-    "latitude": 30.742202,
-    "longitude": 76.788811,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-23661f37",
-    "name": "Hg Petro Care",
-    "latitude": 30.744658,
-    "longitude": 76.786734,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-37934182",
-    "name": "Hindustan Petroleum",
-    "latitude": 30.732063,
-    "longitude": 76.797927,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-902281d9",
-    "name": "Hindustan Petroleum",
-    "latitude": 30.624598,
-    "longitude": 76.849847,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-af24b3e5",
-    "name": "Hp",
-    "latitude": 30.750823,
-    "longitude": 76.790329,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-83a898bc",
-    "name": "Hp",
-    "latitude": 30.730488,
-    "longitude": 76.773938,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b9b9f8c6",
-    "name": "Hp",
-    "latitude": 30.737242,
-    "longitude": 76.683815,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c48b0aec",
-    "name": "Hp",
-    "latitude": 30.71483,
-    "longitude": 76.742973,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-eb3fc67b",
-    "name": "Hp",
-    "latitude": 30.712443,
-    "longitude": 76.848329,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e8391c2d",
-    "name": "Hp",
-    "latitude": 30.715808,
-    "longitude": 76.850005,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d020caf7",
-    "name": "Hp",
-    "latitude": 30.668058,
-    "longitude": 76.858542,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c8cadf30",
-    "name": "Hp",
-    "latitude": 30.654019,
-    "longitude": 76.821832,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-29c5b74b",
-    "name": "Hp",
-    "latitude": 30.710019,
-    "longitude": 76.828805,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-53dddb49",
-    "name": "Hp Filling Station",
-    "latitude": 30.641414,
-    "longitude": 76.822894,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-b861e51d",
     "name": "Indian Oil",
     "latitude": 30.722844,
     "longitude": 76.738101,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-aa4ebe7b",
-    "name": "Indian Oil",
-    "latitude": 30.698681,
-    "longitude": 76.758612,
     "city": "Chandigarh",
     "state": "Chandigarh",
     "source": "cgd_inferred"
@@ -297,46 +72,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-91ae3ca4",
-    "name": "Indian Oil",
-    "latitude": 30.700115,
-    "longitude": 76.850274,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c77b127a",
-    "name": "Indian Oil",
-    "latitude": 30.669607,
-    "longitude": 76.848985,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-504c3cf3",
     "name": "Indian Oil",
     "latitude": 30.736779,
     "longitude": 76.800006,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-134559bc",
-    "name": "Indian Oil",
-    "latitude": 30.681547,
-    "longitude": 76.718675,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f9e00863",
-    "name": "Indian Oil",
-    "latitude": 30.665545,
-    "longitude": 76.816517,
     "city": "Chandigarh",
     "state": "Chandigarh",
     "source": "cgd_inferred"
@@ -405,24 +144,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-62040197",
-    "name": "Indian Oil",
-    "latitude": 30.692641,
-    "longitude": 76.71331,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2deabeee",
-    "name": "Indian Oil",
-    "latitude": 30.699987,
-    "longitude": 76.726872,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-07a3846b",
     "name": "Indian Oil",
     "latitude": 30.731516,
@@ -432,11 +153,218 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e790f090",
+    "id": "cng-aa4ebe7b",
     "name": "Indian Oil",
-    "latitude": 30.623772,
-    "longitude": 76.691286,
+    "latitude": 30.698681,
+    "longitude": 76.758612,
     "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-62040197",
+    "name": "Indian Oil",
+    "latitude": 30.692641,
+    "longitude": 76.71331,
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2deabeee",
+    "name": "Indian Oil",
+    "latitude": 30.699987,
+    "longitude": 76.726872,
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-21b6467e",
+    "name": "Indian Oil",
+    "latitude": 30.679782,
+    "longitude": 76.74636,
+    "city": "Mohali",
+    "state": "Chandigarh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a61cd7ec",
+    "name": "Bharat Petroleum",
+    "latitude": 30.720131,
+    "longitude": 76.809457,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14093fb7",
+    "name": "Bharat Petroleum",
+    "latitude": 30.739297,
+    "longitude": 76.78012,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bc2c1814",
+    "name": "Bharat Petroleum",
+    "latitude": 30.729046,
+    "longitude": 76.733416,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e7856e04",
+    "name": "Bharat Petroleum",
+    "latitude": 30.755161,
+    "longitude": 76.778126,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0226341a",
+    "name": "Bharat Petroleum",
+    "latitude": 30.753205,
+    "longitude": 76.797749,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7ddd8396",
+    "name": "Cng Station",
+    "latitude": 30.716966,
+    "longitude": 76.752415,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-62274758",
+    "name": "Cng Station",
+    "latitude": 30.729427,
+    "longitude": 76.698541,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-54aa2e92",
+    "name": "Cng Station",
+    "latitude": 30.730928,
+    "longitude": 76.852683,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2085d519",
+    "name": "Cng Station",
+    "latitude": 30.729476,
+    "longitude": 76.766513,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ae69960a",
+    "name": "Cng Station",
+    "latitude": 30.742202,
+    "longitude": 76.788811,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-23661f37",
+    "name": "Hg Petro Care",
+    "latitude": 30.744658,
+    "longitude": 76.786734,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-37934182",
+    "name": "Hindustan Petroleum",
+    "latitude": 30.732063,
+    "longitude": 76.797927,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-af24b3e5",
+    "name": "Hp",
+    "latitude": 30.750823,
+    "longitude": 76.790329,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-83a898bc",
+    "name": "Hp",
+    "latitude": 30.730488,
+    "longitude": 76.773938,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b9b9f8c6",
+    "name": "Hp",
+    "latitude": 30.737242,
+    "longitude": 76.683815,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c48b0aec",
+    "name": "Hp",
+    "latitude": 30.71483,
+    "longitude": 76.742973,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eb3fc67b",
+    "name": "Hp",
+    "latitude": 30.712443,
+    "longitude": 76.848329,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e8391c2d",
+    "name": "Hp",
+    "latitude": 30.715808,
+    "longitude": 76.850005,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-29c5b74b",
+    "name": "Hp",
+    "latitude": 30.710019,
+    "longitude": 76.828805,
+    "city": "Mohali/Rupnagar",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-91ae3ca4",
+    "name": "Indian Oil",
+    "latitude": 30.700115,
+    "longitude": 76.850274,
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -445,52 +373,7 @@
     "name": "Indian Oil",
     "latitude": 30.706791,
     "longitude": 76.865995,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-27ccf2d8",
-    "name": "Indian Oil",
-    "latitude": 30.69154,
-    "longitude": 76.855476,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ff939905",
-    "name": "Indian Oil",
-    "latitude": 30.695151,
-    "longitude": 76.84022,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-25da075d",
-    "name": "Indian Oil",
-    "latitude": 30.6822,
-    "longitude": 76.848074,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-173091d3",
-    "name": "Indian Oil",
-    "latitude": 30.687751,
-    "longitude": 76.825078,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a69148e0",
-    "name": "Indian Oil",
-    "latitude": 30.692757,
-    "longitude": 76.802294,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -499,7 +382,7 @@
     "name": "Indian Oil",
     "latitude": 30.742695,
     "longitude": 76.754751,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -508,16 +391,7 @@
     "name": "Indian Oil",
     "latitude": 30.736845,
     "longitude": 76.776055,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ec421609",
-    "name": "Indian Oil",
-    "latitude": 30.694513,
-    "longitude": 76.857719,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -526,16 +400,7 @@
     "name": "Indian Oil",
     "latitude": 30.706721,
     "longitude": 76.870635,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3a287fb5",
-    "name": "Indian Oil",
-    "latitude": 30.68904,
-    "longitude": 76.867161,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -544,16 +409,7 @@
     "name": "Indian Oil Petrol Pump",
     "latitude": 30.739533,
     "longitude": 76.7241,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ae6ad143",
-    "name": "Iocl Fuel Station",
-    "latitude": 30.631433,
-    "longitude": 76.874086,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -562,16 +418,25 @@
     "name": "Vishal Service Station",
     "latitude": 30.705702,
     "longitude": 76.787393,
-    "city": "Chandigarh",
+    "city": "Mohali/Rupnagar",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-21b6467e",
-    "name": "Indian Oil",
-    "latitude": 30.679782,
-    "longitude": 76.74636,
-    "city": "Mohali",
+    "id": "cng-afd1b3a2",
+    "name": "Bharat Petroleum",
+    "latitude": 30.698798,
+    "longitude": 76.86194,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-244df903",
+    "name": "Bharat Petroleum",
+    "latitude": 30.683193,
+    "longitude": 76.835885,
+    "city": "Panchkula",
     "state": "Chandigarh",
     "source": "cgd_inferred"
   },
@@ -583,5 +448,104 @@
     "city": "Panchkula",
     "state": "Chandigarh",
     "source": "nominatim_grid"
+  },
+  {
+    "id": "cng-d020caf7",
+    "name": "Hp",
+    "latitude": 30.668058,
+    "longitude": 76.858542,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c8cadf30",
+    "name": "Hp",
+    "latitude": 30.654019,
+    "longitude": 76.821832,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c77b127a",
+    "name": "Indian Oil",
+    "latitude": 30.669607,
+    "longitude": 76.848985,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f9e00863",
+    "name": "Indian Oil",
+    "latitude": 30.665545,
+    "longitude": 76.816517,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-27ccf2d8",
+    "name": "Indian Oil",
+    "latitude": 30.69154,
+    "longitude": 76.855476,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ff939905",
+    "name": "Indian Oil",
+    "latitude": 30.695151,
+    "longitude": 76.84022,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-25da075d",
+    "name": "Indian Oil",
+    "latitude": 30.6822,
+    "longitude": 76.848074,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-173091d3",
+    "name": "Indian Oil",
+    "latitude": 30.687751,
+    "longitude": 76.825078,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a69148e0",
+    "name": "Indian Oil",
+    "latitude": 30.692757,
+    "longitude": 76.802294,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ec421609",
+    "name": "Indian Oil",
+    "latitude": 30.694513,
+    "longitude": 76.857719,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3a287fb5",
+    "name": "Indian Oil",
+    "latitude": 30.68904,
+    "longitude": 76.867161,
+    "city": "Panchkula",
+    "state": "Chandigarh",
+    "source": "cgd_inferred"
   }
 ]

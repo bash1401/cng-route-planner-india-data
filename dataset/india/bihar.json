@@ -306,6 +306,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-70bb2bfa",
+    "name": "Indian Oil",
+    "latitude": 26.803931,
+    "longitude": 83.352331,
+    "city": "",
+    "state": "Bihar",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e6bb2b2c",
     "name": "Indian Oil",
     "latitude": 26.811582,
@@ -459,6 +468,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4478867f",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 26.79939,
+    "longitude": 83.376402,
+    "city": "",
+    "state": "Bihar",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d0c8dae4",
     "name": "Indian Oil Petrol Pump",
     "latitude": 26.257153,
@@ -536,33 +554,6 @@
     "latitude": 26.145554,
     "longitude": 85.908166,
     "city": "Darbhanga",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d2b04d12",
-    "name": "Hp",
-    "latitude": 26.752905,
-    "longitude": 83.371228,
-    "city": "Gorakhpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-70bb2bfa",
-    "name": "Indian Oil",
-    "latitude": 26.803931,
-    "longitude": 83.352331,
-    "city": "Gorakhpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4478867f",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.79939,
-    "longitude": 83.376402,
-    "city": "Gorakhpur",
     "state": "Bihar",
     "source": "cgd_inferred"
   },

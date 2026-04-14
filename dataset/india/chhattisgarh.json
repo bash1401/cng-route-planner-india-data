@@ -297,6 +297,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c5d9580a",
+    "name": "Bharat Petroleum",
+    "latitude": 21.210492,
+    "longitude": 81.316265,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c3d669a8",
     "name": "Bharat Petroleum",
     "latitude": 23.75419,
@@ -918,69 +927,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c5d9580a",
-    "name": "Bharat Petroleum",
-    "latitude": 21.210492,
-    "longitude": 81.316265,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-eac5d0a1",
-    "name": "Cng Station",
-    "latitude": 21.210532,
-    "longitude": 81.260017,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b44fd929",
-    "name": "Cng Station",
-    "latitude": 21.186756,
-    "longitude": 81.214657,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-dba9e5d5",
-    "name": "Hp Petrol Pump",
-    "latitude": 21.187078,
-    "longitude": 81.33781,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3bb66e21",
-    "name": "Junwani Petrol Pump",
-    "latitude": 21.218187,
-    "longitude": 81.317566,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6e8b1534",
-    "name": "Petrol Pump",
-    "latitude": 21.198816,
-    "longitude": 81.287563,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1d6afb50",
-    "name": "Petrol Pump",
-    "latitude": 21.199122,
-    "longitude": 81.336317,
-    "city": "Durg/Bhilai",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-02506674",
     "name": "Indian Oil",
     "latitude": 21.915562,
@@ -1049,15 +995,6 @@
     "latitude": 22.607997,
     "longitude": 80.370098,
     "city": "Mandla",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-eff942ef",
-    "name": "Cng Station",
-    "latitude": 21.45205,
-    "longitude": 84.02549,
-    "city": "Odisha",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
@@ -1249,42 +1186,6 @@
     "city": "Sakti",
     "state": "Chhattisgarh",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a3e96b87",
-    "name": "Bharat Petroleum",
-    "latitude": 21.494175,
-    "longitude": 83.982381,
-    "city": "Sambalpur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0a9fc275",
-    "name": "Behera Petrol Pump",
-    "latitude": 21.468718,
-    "longitude": 83.975863,
-    "city": "Sambalpur, Odisha",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3ed3bd4b",
-    "name": "Budharaja Petrol Pump",
-    "latitude": 21.482495,
-    "longitude": 83.981083,
-    "city": "Sambalpur, Odisha",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-39fc3a6c",
-    "name": "Hp",
-    "latitude": 21.465146,
-    "longitude": 83.974345,
-    "city": "Sambalpur, Odisha",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-ab49220f",
