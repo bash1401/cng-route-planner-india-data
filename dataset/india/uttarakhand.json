@@ -1350,6 +1350,15 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-0eec1f92",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.985929,
+    "longitude": 77.670513,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-580deb5c",
     "name": "Hindustan Petroleum",
     "latitude": 28.968833,
@@ -1399,15 +1408,6 @@
     "name": "Hp",
     "latitude": 28.992869,
     "longitude": 77.72298,
-    "city": "Meerut",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0eec1f92",
-    "name": "Hp",
-    "latitude": 28.985929,
-    "longitude": 77.670513,
     "city": "Meerut",
     "state": "Uttarakhand",
     "source": "cgd_inferred"

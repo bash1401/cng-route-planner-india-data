@@ -90,15 +90,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-11b3e8a1",
-    "name": "Indian Oil",
-    "latitude": 27.479355,
-    "longitude": 94.932876,
-    "city": "",
-    "state": "Arunachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8b2535c8",
     "name": "Indian Oil",
     "latitude": 28.791767,
@@ -124,6 +115,24 @@
     "city": "",
     "state": "Arunachal Pradesh",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b6e54d64",
+    "name": "Cng Station",
+    "latitude": 27.455757,
+    "longitude": 95.010053,
+    "city": "Dibrugarh",
+    "state": "Arunachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-11b3e8a1",
+    "name": "Indian Oil",
+    "latitude": 27.479355,
+    "longitude": 94.932876,
+    "city": "Dibrugarh",
+    "state": "Arunachal Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-6908936c",

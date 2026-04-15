@@ -311,6 +311,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-6b553a34",
+    "name": "Cng Station",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-a1e0ef4f",
     "name": "Cng Station",
     "latitude": 28.784087,
@@ -326,7 +335,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-6749a9a9",
@@ -875,7 +884,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-28edfc87",
@@ -1067,10 +1076,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1517,15 +1526,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6b553a34",
-    "name": "Igl Cng Pump Panipat",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "nominatim_grid"
-  },
-  {
     "id": "cng-fc0c77dd",
     "name": "India Oil",
     "latitude": 29.715554,
@@ -1647,15 +1647,6 @@
     "name": "Cng Station",
     "latitude": 28.07828,
     "longitude": 76.171198,
-    "city": "Narnaul",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47c90fe6",
-    "name": "Cng Station",
-    "latitude": 28.119515,
-    "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"

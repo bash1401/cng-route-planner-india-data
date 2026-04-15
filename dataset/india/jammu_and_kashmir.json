@@ -1,21 +1,12 @@
 [
   {
-    "id": "cng-65fee9cf",
-    "name": "A1 Filling Station Hayan",
-    "latitude": 34.522602,
-    "longitude": 74.187413,
-    "city": "",
-    "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9c95b04a",
     "name": "Admore Cng",
     "latitude": 32.603444,
     "longitude": 74.136203,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c507ee65",
@@ -24,7 +15,7 @@
     "longitude": 73.665509,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-7ee3e715",
@@ -51,7 +42,7 @@
     "longitude": 74.093077,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-b060f4ab",
@@ -60,7 +51,7 @@
     "longitude": 73.85516,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-75c60d32",
@@ -69,7 +60,7 @@
     "longitude": 74.211716,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-72250b83",
@@ -78,7 +69,7 @@
     "longitude": 73.58019,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-77a69379",
@@ -105,7 +96,7 @@
     "longitude": 73.941573,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-8db9ba18",
@@ -186,7 +177,7 @@
     "longitude": 73.745076,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-da72ae61",
@@ -195,7 +186,7 @@
     "longitude": 73.735253,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-971bf403",
@@ -222,7 +213,7 @@
     "longitude": 73.739221,
     "city": "",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-26890531",
@@ -302,15 +293,6 @@
     "latitude": 34.19685,
     "longitude": 74.515182,
     "city": "Baramulla",
-    "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7c2505a3",
-    "name": "Indian Oil",
-    "latitude": 34.52767,
-    "longitude": 74.209822,
-    "city": "HIRRI PAYEEN",
     "state": "Jammu and Kashmir",
     "source": "all_india_fuel"
   },
@@ -450,29 +432,11 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9a53a396",
-    "name": "Indian Oil",
-    "latitude": 34.539765,
-    "longitude": 74.299138,
-    "city": "Khumriyal",
-    "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-3ce2eed4",
     "name": "Evergreen Filling Station",
     "latitude": 34.497242,
     "longitude": 74.122912,
     "city": "Kralpora",
-    "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f2c56585",
-    "name": "Marazi Filling Station",
-    "latitude": 34.520849,
-    "longitude": 74.260012,
-    "city": "Kupwara",
     "state": "Jammu and Kashmir",
     "source": "all_india_fuel"
   },
@@ -861,7 +825,7 @@
     "longitude": 74.051447,
     "city": "gujrat",
     "state": "Jammu and Kashmir",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-fdc59b0d",

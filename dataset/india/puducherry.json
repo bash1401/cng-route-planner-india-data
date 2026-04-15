@@ -1,21 +1,75 @@
 [
   {
+    "id": "cng-eab444f5",
+    "name": "Bharat Petroleum",
+    "latitude": 12.026085,
+    "longitude": 79.861706,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f69a6e23",
     "name": "Bharat Petroleum",
     "latitude": 11.823738,
     "longitude": 79.78219,
-    "city": "Cuddalore",
+    "city": "",
     "state": "Puducherry",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
-    "id": "cng-f2a3897b",
-    "name": "Bharath Petroleum - Krishna Agency",
-    "latitude": 11.813934,
-    "longitude": 79.780414,
-    "city": "Cuddalore",
+    "id": "cng-608a2f4c",
+    "name": "Bharat Petroleum",
+    "latitude": 11.861332,
+    "longitude": 79.792227,
+    "city": "",
     "state": "Puducherry",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8dfceb67",
+    "name": "Indian Oil",
+    "latitude": 12.014354,
+    "longitude": 79.85831,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-01314d37",
+    "name": "Indian Oil",
+    "latitude": 12.018656,
+    "longitude": 79.798643,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9e8a6659",
+    "name": "Indian Oil",
+    "latitude": 11.938095,
+    "longitude": 79.773353,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0a33823d",
+    "name": "Indian Oil",
+    "latitude": 12.043475,
+    "longitude": 79.869091,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-01613ac5",
+    "name": "Indian Oil",
+    "latitude": 12.038979,
+    "longitude": 79.86785,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-6ebbd8fc",
@@ -31,7 +85,7 @@
     "name": "Amudha Surabi Petrol Bunk",
     "latitude": 11.949903,
     "longitude": 79.814263,
-    "city": "Puducherry",
+    "city": "Pondicherry ext",
     "state": "Puducherry",
     "source": "cgd_inferred"
   },
@@ -40,16 +94,7 @@
     "name": "Aurobindo Ashram Petrol Bank",
     "latitude": 11.933559,
     "longitude": 79.83214,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-eab444f5",
-    "name": "Bharat Petroleum",
-    "latitude": 12.026085,
-    "longitude": 79.861706,
-    "city": "Puducherry",
+    "city": "Pondicherry ext",
     "state": "Puducherry",
     "source": "cgd_inferred"
   },
@@ -58,16 +103,7 @@
     "name": "Bharat Petroleum",
     "latitude": 11.9176,
     "longitude": 79.812522,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-24efe3da",
-    "name": "Bharat Petroleum",
-    "latitude": 11.930436,
-    "longitude": 79.824033,
-    "city": "Puducherry",
+    "city": "Pondicherry ext",
     "state": "Puducherry",
     "source": "cgd_inferred"
   },
@@ -76,24 +112,87 @@
     "name": "Bharat Petroleum",
     "latitude": 11.946766,
     "longitude": 79.811237,
-    "city": "Puducherry",
+    "city": "Pondicherry ext",
     "state": "Puducherry",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9b3c86eb",
-    "name": "Bharat Petroleum",
-    "latitude": 12.037437,
-    "longitude": 79.867175,
-    "city": "Puducherry",
+    "id": "cng-6afc6d2a",
+    "name": "Cng Station",
+    "latitude": 11.931064,
+    "longitude": 79.821583,
+    "city": "Pondicherry ext",
     "state": "Puducherry",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-608a2f4c",
+    "id": "cng-0ef3ef9c",
+    "name": "Hp",
+    "latitude": 11.951944,
+    "longitude": 79.830377,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a27a4b18",
+    "name": "Hp Petrol Pump",
+    "latitude": 11.925077,
+    "longitude": 79.831636,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d341fe62",
+    "name": "Indian Oil",
+    "latitude": 11.88994,
+    "longitude": 79.801317,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fe63df8",
+    "name": "Indian Oil",
+    "latitude": 11.885559,
+    "longitude": 79.80067,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5322dac3",
+    "name": "Indian Oil",
+    "latitude": 11.94349,
+    "longitude": 79.830844,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5675e449",
+    "name": "Indian Oil",
+    "latitude": 11.941598,
+    "longitude": 79.803359,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4e262fdf",
+    "name": "Petrol Bank",
+    "latitude": 11.952622,
+    "longitude": 79.819052,
+    "city": "Pondicherry ext",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-24efe3da",
     "name": "Bharat Petroleum",
-    "latitude": 11.861332,
-    "longitude": 79.792227,
+    "latitude": 11.930436,
+    "longitude": 79.824033,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -108,82 +207,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b951917a",
-    "name": "Cng Station",
-    "latitude": 12.018359,
-    "longitude": 79.798723,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-675b23bc",
-    "name": "Cng Station",
-    "latitude": 11.909312,
-    "longitude": 79.76903,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6afc6d2a",
-    "name": "Cng Station",
-    "latitude": 11.931064,
-    "longitude": 79.821583,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-16f4c583",
-    "name": "Cng Station",
-    "latitude": 11.907349,
-    "longitude": 79.787425,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-464225e4",
     "name": "Confed Co-Op. Petrol Bunk",
     "latitude": 11.941355,
     "longitude": 79.797127,
     "city": "Puducherry",
     "state": "Puducherry",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-59c790c7",
     "name": "Confed Cooperative Petrol Bunk",
     "latitude": 11.941237,
     "longitude": 79.811434,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0ef3ef9c",
-    "name": "Hp",
-    "latitude": 11.951944,
-    "longitude": 79.830377,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-60f87f81",
-    "name": "Hp",
-    "latitude": 12.039374,
-    "longitude": 79.867969,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-87e77e9c",
-    "name": "Hp",
-    "latitude": 11.858656,
-    "longitude": 79.79142,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -198,145 +234,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-ddcff6d3",
-    "name": "Hp - Petrol Bunk",
-    "latitude": 11.94176,
-    "longitude": 79.7992,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-ebbcebf1",
     "name": "Hp Fuel Station",
     "latitude": 11.925142,
     "longitude": 79.833483,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-338a3cf8",
-    "name": "Hp Petrol Bunk",
-    "latitude": 11.914197,
-    "longitude": 79.752667,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a27a4b18",
-    "name": "Hp Petrol Pump",
-    "latitude": 11.925077,
-    "longitude": 79.831636,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f6d55fdd",
-    "name": "Hp Petrol Pump",
-    "latitude": 11.864551,
-    "longitude": 79.752828,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8dfceb67",
-    "name": "Indian Oil",
-    "latitude": 12.014354,
-    "longitude": 79.85831,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9e8a6659",
-    "name": "Indian Oil",
-    "latitude": 11.938095,
-    "longitude": 79.773353,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47feca13",
-    "name": "Indian Oil",
-    "latitude": 11.920229,
-    "longitude": 79.763446,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0a33823d",
-    "name": "Indian Oil",
-    "latitude": 12.043475,
-    "longitude": 79.869091,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d341fe62",
-    "name": "Indian Oil",
-    "latitude": 11.88994,
-    "longitude": 79.801317,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fe63df8",
-    "name": "Indian Oil",
-    "latitude": 11.885559,
-    "longitude": 79.80067,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5322dac3",
-    "name": "Indian Oil",
-    "latitude": 11.94349,
-    "longitude": 79.830844,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5675e449",
-    "name": "Indian Oil",
-    "latitude": 11.941598,
-    "longitude": 79.803359,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b227d916",
-    "name": "Indian Oil",
-    "latitude": 11.939314,
-    "longitude": 79.787798,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-08e799d4",
-    "name": "Indian Oil",
-    "latitude": 11.951288,
-    "longitude": 79.78721,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-867c7b7c",
-    "name": "Indian Oil",
-    "latitude": 11.923962,
-    "longitude": 79.779414,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -387,21 +288,39 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-477aeacb",
-    "name": "Indian Petrol Bunk",
-    "latitude": 11.900061,
-    "longitude": 79.752204,
+    "id": "cng-47feca13",
+    "name": "Indian Oil",
+    "latitude": 11.920229,
+    "longitude": 79.763446,
     "city": "Puducherry",
     "state": "Puducherry",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
-    "id": "cng-4e262fdf",
-    "name": "Petrol Bank",
-    "latitude": 11.952622,
-    "longitude": 79.819052,
+    "id": "cng-b227d916",
+    "name": "Indian Oil",
+    "latitude": 11.939314,
+    "longitude": 79.787798,
     "city": "Puducherry",
     "state": "Puducherry",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-08e799d4",
+    "name": "Indian Oil",
+    "latitude": 11.951288,
+    "longitude": 79.78721,
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-867c7b7c",
+    "name": "Indian Oil",
+    "latitude": 11.923962,
+    "longitude": 79.779414,
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
   }
 ]
