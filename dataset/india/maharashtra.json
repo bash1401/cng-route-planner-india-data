@@ -236,15 +236,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-a1ecf4a6",
-    "name": "Bharat Petroleum",
-    "latitude": 19.865425,
-    "longitude": 75.421084,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-49dc456c",
     "name": "Bharat Petroleum",
     "latitude": 19.870376,
@@ -450,7 +441,8 @@
     "longitude": 73.245559,
     "city": "",
     "state": "Maharashtra",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Maharashtra"
   },
   {
     "id": "cng-868a03fc",
@@ -1002,15 +994,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-8c637f61",
-    "name": "Indian Oil",
-    "latitude": 19.947686,
-    "longitude": 75.389539,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-361a9eff",
     "name": "Indian Oil",
     "latitude": 20.046842,
@@ -1029,64 +1012,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-1cf9cc97",
-    "name": "Indian Oil",
-    "latitude": 19.872424,
-    "longitude": 75.37328,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7a31ebdf",
-    "name": "Indian Oil",
-    "latitude": 19.908029,
-    "longitude": 75.245718,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-fdd185e6",
-    "name": "Indian Oil",
-    "latitude": 19.910228,
-    "longitude": 75.238947,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6bf2ee67",
-    "name": "Indian Oil",
-    "latitude": 19.919539,
-    "longitude": 75.219787,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f6ecb308",
-    "name": "Indian Oil",
-    "latitude": 19.862198,
-    "longitude": 75.44538,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-d537ad1d",
     "name": "Indian Oil",
     "latitude": 19.869427,
     "longitude": 75.691471,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-b47f1b93",
-    "name": "Indian Oil",
-    "latitude": 19.869155,
-    "longitude": 75.39951,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -1767,6 +1696,60 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-9a1cfc2c",
+    "name": "Cng Station",
+    "latitude": 20.701463,
+    "longitude": 77.005914,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-28056889",
+    "name": "Cng Station",
+    "latitude": 20.716413,
+    "longitude": 77.003654,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-de91c7a6",
+    "name": "Cng Station",
+    "latitude": 20.715951,
+    "longitude": 77.022182,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8354d636",
+    "name": "Cng Station",
+    "latitude": 20.708141,
+    "longitude": 77.114578,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9dd78b4b",
+    "name": "Hp",
+    "latitude": 20.710667,
+    "longitude": 77.130265,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8721b42e",
+    "name": "Indian Oil",
+    "latitude": 20.694058,
+    "longitude": 76.991972,
+    "city": "Akola",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-34163358",
     "name": "Vighnaharta Cng Filling Station",
     "latitude": 18.663111,
@@ -2064,6 +2047,186 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-458c65e7",
+    "name": "Baba Petrol Pump",
+    "latitude": 19.874075,
+    "longitude": 75.315842,
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3c7106cc",
+    "name": "Abbas Petroleum",
+    "latitude": 19.84016,
+    "longitude": 75.256599,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a1ecf4a6",
+    "name": "Bharat Petroleum",
+    "latitude": 19.865425,
+    "longitude": 75.421084,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e86b09cb",
+    "name": "Cng Station",
+    "latitude": 19.829638,
+    "longitude": 75.248701,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9817447b",
+    "name": "Cng Station",
+    "latitude": 19.910938,
+    "longitude": 75.238155,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f0c2655e",
+    "name": "Cng Station",
+    "latitude": 19.873152,
+    "longitude": 75.370032,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cd60d99f",
+    "name": "Cng Station",
+    "latitude": 19.876722,
+    "longitude": 75.316886,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3331c50b",
+    "name": "Cng Station",
+    "latitude": 19.927691,
+    "longitude": 75.203882,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a59cd196",
+    "name": "Cng Station",
+    "latitude": 19.884115,
+    "longitude": 75.201298,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4ace585e",
+    "name": "Cng Station",
+    "latitude": 19.900205,
+    "longitude": 75.263912,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3de8bf5c",
+    "name": "Cng Station",
+    "latitude": 19.866136,
+    "longitude": 75.415847,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-10581ef7",
+    "name": "Cng Station",
+    "latitude": 19.861875,
+    "longitude": 75.441544,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6baa623a",
+    "name": "Cng Station",
+    "latitude": 19.865136,
+    "longitude": 75.41818,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3bd72645",
+    "name": "Cunnilal Protrol Pump",
+    "latitude": 19.871895,
+    "longitude": 75.325427,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8c637f61",
+    "name": "Indian Oil",
+    "latitude": 19.947686,
+    "longitude": 75.389539,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1cf9cc97",
+    "name": "Indian Oil",
+    "latitude": 19.872424,
+    "longitude": 75.37328,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7a31ebdf",
+    "name": "Indian Oil",
+    "latitude": 19.908029,
+    "longitude": 75.245718,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6bf2ee67",
+    "name": "Indian Oil",
+    "latitude": 19.919539,
+    "longitude": 75.219787,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f6ecb308",
+    "name": "Indian Oil",
+    "latitude": 19.862198,
+    "longitude": 75.44538,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b47f1b93",
+    "name": "Indian Oil",
+    "latitude": 19.869155,
+    "longitude": 75.39951,
+    "city": "Aurangabad/Sambhajinagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-421afd48",
     "name": "Mngl -Balewadi Cng",
     "latitude": 18.574131,
@@ -2331,7 +2494,7 @@
     "longitude": 75.290782,
     "city": "Chhatrapati Sambhajinagar (Aurangabad)",
     "state": "Maharashtra",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-b2fe50ec",
@@ -2530,6 +2693,24 @@
     "city": "Kadachiwadi, Chakan",
     "state": "Maharashtra",
     "source": "mngl"
+  },
+  {
+    "id": "cng-b65a0bdf",
+    "name": "Cng Station",
+    "latitude": 19.356873,
+    "longitude": 73.156586,
+    "city": "Kalyan-Dombivli",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f60b8d32",
+    "name": "Cng Station",
+    "latitude": 19.350394,
+    "longitude": 73.144634,
+    "city": "Kalyan-Dombivli",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-c11b633a",

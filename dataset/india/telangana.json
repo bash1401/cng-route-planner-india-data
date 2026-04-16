@@ -909,6 +909,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-624e46c1",
+    "name": "Indian Oil",
+    "latitude": 15.928027,
+    "longitude": 80.077858,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-eaae7146",
     "name": "Indian Oil",
     "latitude": 16.246577,
@@ -2655,6 +2664,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-6eebba33",
+    "name": "Hp",
+    "latitude": 16.229057,
+    "longitude": 80.511121,
+    "city": "Guntur",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-98cc4519",
     "name": "Indian Oil",
     "latitude": 16.231633,
@@ -2763,6 +2781,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-07b66e9a",
+    "name": "Jio Bp",
+    "latitude": 16.22882,
+    "longitude": 80.527526,
+    "city": "Guntur",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-a196baa8",
     "name": "Nayara",
     "latitude": 16.284579,
@@ -2794,15 +2821,6 @@
     "name": "Shell",
     "latitude": 16.311475,
     "longitude": 80.465743,
-    "city": "Guntur",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-07b66e9a",
-    "name": "Shell",
-    "latitude": 16.228775,
-    "longitude": 80.527537,
     "city": "Guntur",
     "state": "Telangana",
     "source": "cgd_inferred"

@@ -369,33 +369,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-99e6dea3",
-    "name": "Bharat Petroleum",
-    "latitude": 18.399108,
-    "longitude": 76.575801,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-051a5a2a",
-    "name": "Bharat Petroleum",
-    "latitude": 18.410483,
-    "longitude": 76.605669,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-440907c5",
-    "name": "Bharat Petroleum Kamdar Petrol Pump",
-    "latitude": 18.385493,
-    "longitude": 76.575606,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-13745f4c",
     "name": "Brahmadev Bharat Petroleum",
     "latitude": 16.631078,
@@ -432,15 +405,6 @@
     "source": "osm",
     "address": "Karnataka",
     "operator": "GAIL"
-  },
-  {
-    "id": "cng-6d8b657e",
-    "name": "Gangavesh Petrol Pump",
-    "latitude": 16.693355,
-    "longitude": 74.20407,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
   },
   {
     "id": "cng-a9cf152c",
@@ -2955,6 +2919,141 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-6b096f64",
+    "name": "Bharat Gas Agency",
+    "latitude": 16.671335,
+    "longitude": 74.278669,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d42e8d84",
+    "name": "Bp",
+    "latitude": 16.652601,
+    "longitude": 74.271331,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9bd1f322",
+    "name": "Bp Petrol Pump",
+    "latitude": 16.742639,
+    "longitude": 74.282227,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8b4baee2",
+    "name": "Cng Station",
+    "latitude": 16.70465,
+    "longitude": 74.244152,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e9672ad3",
+    "name": "Cng Station",
+    "latitude": 16.704575,
+    "longitude": 74.241121,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-895c1882",
+    "name": "Cng Station",
+    "latitude": 16.799466,
+    "longitude": 74.284544,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0342a9d",
+    "name": "Cng Station",
+    "latitude": 16.692043,
+    "longitude": 74.18109,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-162b0629",
+    "name": "Cng Station",
+    "latitude": 16.689701,
+    "longitude": 74.174219,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7bb9baf9",
+    "name": "Cng Station",
+    "latitude": 16.691675,
+    "longitude": 74.243779,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-108d5328",
+    "name": "Cng Station",
+    "latitude": 16.800344,
+    "longitude": 74.199033,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6d8b657e",
+    "name": "Gangavesh Petrol Pump",
+    "latitude": 16.693355,
+    "longitude": 74.20407,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-53ba4748",
+    "name": "Gas Stasion",
+    "latitude": 16.690738,
+    "longitude": 74.283197,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cc4ef3bc",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 16.7282,
+    "longitude": 74.282087,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fa2d800e",
+    "name": "Lpg Gas Station",
+    "latitude": 16.665069,
+    "longitude": 74.246411,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a0754eda",
+    "name": "Mahadev Shivram & Co.",
+    "latitude": 16.737122,
+    "longitude": 74.243931,
+    "city": "Kolhapur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-ce886f0b",
     "name": "Shetkari Sahkari Tambakhu K.V. Sangh Petrol Pump",
     "latitude": 16.642869,
@@ -2964,20 +3063,11 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-da075285",
-    "name": "Cng Station",
-    "latitude": 15.36149,
-    "longitude": 76.102917,
-    "city": "Koppal",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8b995973",
-    "name": "Cng Station",
-    "latitude": 15.357494,
-    "longitude": 76.114155,
-    "city": "Koppal",
+    "id": "cng-cff9bace",
+    "name": "Shetkari Sangh Petrol Pump",
+    "latitude": 16.70104,
+    "longitude": 74.25297,
+    "city": "Kolhapur",
     "state": "Karnataka",
     "source": "cgd_inferred"
   },
@@ -3131,6 +3221,105 @@
     "latitude": 15.803303,
     "longitude": 78.046772,
     "city": "Kurnool",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-99e6dea3",
+    "name": "Bharat Petroleum",
+    "latitude": 18.399108,
+    "longitude": 76.575801,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-051a5a2a",
+    "name": "Bharat Petroleum",
+    "latitude": 18.410483,
+    "longitude": 76.605669,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3fdc3b7f",
+    "name": "Go Gas Station (Lpg)",
+    "latitude": 18.415995,
+    "longitude": 76.569572,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-962b02bc",
+    "name": "Hp",
+    "latitude": 18.389738,
+    "longitude": 76.617616,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ad0fe704",
+    "name": "Hp",
+    "latitude": 18.378813,
+    "longitude": 76.55815,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-410447bc",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 18.402613,
+    "longitude": 76.558816,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7caf14ef",
+    "name": "Kayamkhani Petrol Pump",
+    "latitude": 18.40322,
+    "longitude": 76.565532,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-22f14367",
+    "name": "Khubba Petroleum",
+    "latitude": 18.384124,
+    "longitude": 76.586776,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-87ab994d",
+    "name": "Mankari Petrol Pump",
+    "latitude": 18.385263,
+    "longitude": 76.57724,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-26f16987",
+    "name": "Petrol Pump",
+    "latitude": 18.408788,
+    "longitude": 76.546462,
+    "city": "Latur",
+    "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-87881b64",
+    "name": "Reliance Petrol Pump",
+    "latitude": 18.407101,
+    "longitude": 76.550716,
+    "city": "Latur",
     "state": "Karnataka",
     "source": "cgd_inferred"
   },

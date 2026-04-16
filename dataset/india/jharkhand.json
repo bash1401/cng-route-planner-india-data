@@ -72,33 +72,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-dbe06475",
-    "name": "Bharat Petroleum",
-    "latitude": 22.819789,
-    "longitude": 86.211682,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-1750120e",
-    "name": "Bharat Petroleum",
-    "latitude": 22.828143,
-    "longitude": 86.223949,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c292ed52",
-    "name": "Bharat Petroleum",
-    "latitude": 22.775358,
-    "longitude": 86.210115,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-0cfa6fea",
     "name": "Bharat Petroleum",
     "latitude": 23.766868,
@@ -252,15 +225,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9ece9630",
-    "name": "Indian Oil",
-    "latitude": 22.881524,
-    "longitude": 86.292584,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-ccf20c5b",
     "name": "Indian Oil",
     "latitude": 23.762577,
@@ -351,15 +315,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-82148017",
-    "name": "Indian Oil Petroleum",
-    "latitude": 22.807877,
-    "longitude": 86.201836,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b5a1b47a",
     "name": "Jai Hind Filling Station",
     "latitude": 23.542222,
@@ -387,28 +342,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d803cd78",
-    "name": "Ram Das Bhatta Petrol Pump",
-    "latitude": 22.794198,
-    "longitude": 86.17561,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9f038522",
     "name": "Sun Filling Station",
     "latitude": 23.069301,
     "longitude": 86.852763,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-05270198",
-    "name": "Suraj Petrol Pump",
-    "latitude": 22.772545,
-    "longitude": 86.250093,
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
@@ -1175,6 +1112,285 @@
     "latitude": 23.9815,
     "longitude": 85.359576,
     "city": "Hurhuru",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d21ff696",
+    "name": "Baridih Petrol Pump",
+    "latitude": 22.792525,
+    "longitude": 86.240087,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-356d198f",
+    "name": "Bharat Petroleum",
+    "latitude": 22.777664,
+    "longitude": 86.185894,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-dbe06475",
+    "name": "Bharat Petroleum",
+    "latitude": 22.819789,
+    "longitude": 86.211682,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c292ed52",
+    "name": "Bharat Petroleum",
+    "latitude": 22.775358,
+    "longitude": 86.210115,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2435c9bf",
+    "name": "Bistupur Petrol Pump",
+    "latitude": 22.796038,
+    "longitude": 86.183967,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ab1492d5",
+    "name": "Cng Station",
+    "latitude": 22.813793,
+    "longitude": 86.104189,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6a169a0c",
+    "name": "Cng Station",
+    "latitude": 22.802044,
+    "longitude": 86.126123,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b82490c3",
+    "name": "Cng Station",
+    "latitude": 22.79919,
+    "longitude": 86.130231,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f8f448bf",
+    "name": "Cng Station",
+    "latitude": 22.709962,
+    "longitude": 86.202314,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c86fadc7",
+    "name": "Cng Station",
+    "latitude": 22.884786,
+    "longitude": 86.148481,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fd3b7e3d",
+    "name": "Cng Station",
+    "latitude": 22.884479,
+    "longitude": 86.152085,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2e3e0b2e",
+    "name": "Cng Station",
+    "latitude": 22.85383,
+    "longitude": 86.203035,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-132fd016",
+    "name": "Cng Station",
+    "latitude": 22.864801,
+    "longitude": 86.202079,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-300f6eea",
+    "name": "Cng Station",
+    "latitude": 22.875057,
+    "longitude": 86.195889,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-736d7add",
+    "name": "Cng Station",
+    "latitude": 22.878325,
+    "longitude": 86.182948,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8a5e5616",
+    "name": "Cng Station",
+    "latitude": 22.876606,
+    "longitude": 86.192229,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1374e861",
+    "name": "Cng Station",
+    "latitude": 22.947056,
+    "longitude": 86.298059,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-38268b8a",
+    "name": "Golmuri Petrol Pump",
+    "latitude": 22.79389,
+    "longitude": 86.224294,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8cc01052",
+    "name": "Gopal Maidan Petrol Pump",
+    "latitude": 22.798926,
+    "longitude": 86.183871,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c78c1811",
+    "name": "Hindustan Petroleum",
+    "latitude": 22.788177,
+    "longitude": 86.184444,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-756765bb",
+    "name": "Hindustan Petroleum",
+    "latitude": 22.804589,
+    "longitude": 86.203269,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f74f3341",
+    "name": "Hp Petrol Pump",
+    "latitude": 22.772181,
+    "longitude": 86.20173,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e8fff6bc",
+    "name": "Hp Petrol Pump",
+    "latitude": 22.827341,
+    "longitude": 86.223455,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3fc7e36e",
+    "name": "Hp Petrol Pump Bhatia Basti",
+    "latitude": 22.80427,
+    "longitude": 86.158415,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9ece9630",
+    "name": "Indian Oil",
+    "latitude": 22.881524,
+    "longitude": 86.292584,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-82148017",
+    "name": "Indian Oil Petroleum",
+    "latitude": 22.807877,
+    "longitude": 86.201836,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-788f0615",
+    "name": "Kadma Petrol Pump",
+    "latitude": 22.80473,
+    "longitude": 86.167042,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-39bb705e",
+    "name": "Karandih Petrol Pump",
+    "latitude": 22.750135,
+    "longitude": 86.200489,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-82db1588",
+    "name": "Petrol Pump",
+    "latitude": 22.79574,
+    "longitude": 86.212095,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d803cd78",
+    "name": "Ram Das Bhatta Petrol Pump",
+    "latitude": 22.794198,
+    "longitude": 86.17561,
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-05270198",
+    "name": "Suraj Petrol Pump",
+    "latitude": 22.772545,
+    "longitude": 86.250093,
+    "city": "Jamshedpur",
     "state": "Jharkhand",
     "source": "cgd_inferred"
   },
