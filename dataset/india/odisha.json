@@ -699,6 +699,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-027adb07",
+    "name": "Bharat Petroleum",
+    "latitude": 20.242749,
+    "longitude": 85.841238,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-3c27ed90",
     "name": "Bharat Petroleum",
     "latitude": 20.288637,
@@ -861,6 +870,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-b98c5b55",
+    "name": "Indian Oil",
+    "latitude": 20.21686,
+    "longitude": 85.852073,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-acca1c24",
     "name": "Indian Oil",
     "latitude": 20.285389,
@@ -948,7 +966,7 @@
     "longitude": 85.844816,
     "city": "Bhubaneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-00014d10",
@@ -969,15 +987,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b98c5b55",
-    "name": "Shree Jagannath Petroleum",
-    "latitude": 20.21686,
-    "longitude": 85.852073,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-9f6081b1",
     "name": "Lingaraj Filling Station",
     "latitude": 20.222806,
@@ -988,22 +997,13 @@
     "operator": "Indian Oil"
   },
   {
-    "id": "cng-027adb07",
-    "name": "Shree Debi Filling Station",
-    "latitude": 20.242749,
-    "longitude": 85.841238,
-    "city": "Bhubaneswar Municipal Corporation",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-86004b94",
     "name": "Indian Oil",
     "latitude": 20.27497,
     "longitude": 85.85162,
     "city": "Bhubneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-152c2dbb",
