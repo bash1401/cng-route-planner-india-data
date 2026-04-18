@@ -1659,6 +1659,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-124c4f1d",
+    "name": "Shell",
+    "latitude": 18.586983,
+    "longitude": 73.701358,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2862e2ee",
     "name": "Sk Cng Gas Station",
     "latitude": 19.149027,
@@ -5907,15 +5916,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-124c4f1d",
-    "name": "Shell",
-    "latitude": 18.586983,
-    "longitude": 73.701358,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c042aea0",
     "name": "Shell Express",
     "latitude": 18.45115,
@@ -6511,10 +6511,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4b5c6922",
+    "id": "cng-3b67bdeb",
     "name": "R K Petroleum",
-    "latitude": 19.075783,
-    "longitude": 73.004356,
+    "latitude": 19.075729,
+    "longitude": 73.004232,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
