@@ -1,14 +1,5 @@
 [
   {
-    "id": "cng-7bed0326",
-    "name": "Bharat Petroleum",
-    "latitude": 14.453686,
-    "longitude": 80.008688,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-1e27a615",
     "name": "Bharat Petroleum",
     "latitude": 14.614346,
@@ -81,28 +72,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-18a229f2",
-    "name": "Bharat Petroleum",
-    "latitude": 14.481224,
-    "longitude": 79.982973,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-f25613c7",
     "name": "Bharat Petroleum",
     "latitude": 13.654645,
     "longitude": 78.947029,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a14739e5",
-    "name": "Bharat Petroleum",
-    "latitude": 14.502525,
-    "longitude": 79.991658,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -1089,33 +1062,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-fcf264d1",
-    "name": "Indian Oil",
-    "latitude": 14.576348,
-    "longitude": 80.079659,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-05255d86",
-    "name": "Indian Oil",
-    "latitude": 14.507032,
-    "longitude": 80.005991,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-90a7cb14",
-    "name": "Indian Oil",
-    "latitude": 14.495652,
-    "longitude": 79.991179,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-aea3c465",
     "name": "Indian Oil",
     "latitude": 13.818933,
@@ -1309,15 +1255,6 @@
     "name": "Indian Oil",
     "latitude": 13.575717,
     "longitude": 80.044183,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-69636f5d",
-    "name": "Indian Oil",
-    "latitude": 14.519303,
-    "longitude": 79.907517,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -2462,6 +2399,240 @@
     "latitude": 16.955786,
     "longitude": 82.234658,
     "city": "Kakinada",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7bed0326",
+    "name": "Bharat Petroleum",
+    "latitude": 14.453686,
+    "longitude": 80.008688,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-18a229f2",
+    "name": "Bharat Petroleum",
+    "latitude": 14.481224,
+    "longitude": 79.982973,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a14739e5",
+    "name": "Bharat Petroleum",
+    "latitude": 14.502525,
+    "longitude": 79.991658,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-45cc0940",
+    "name": "Bm Reddy Filling Station",
+    "latitude": 14.419378,
+    "longitude": 79.956254,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f2128fb2",
+    "name": "Cng Station",
+    "latitude": 14.588053,
+    "longitude": 79.981718,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-84c33429",
+    "name": "Cng Station",
+    "latitude": 14.490615,
+    "longitude": 79.943463,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4cc2307a",
+    "name": "Cng Station",
+    "latitude": 14.550803,
+    "longitude": 79.959656,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d83c7245",
+    "name": "Cng Station",
+    "latitude": 14.555216,
+    "longitude": 79.989759,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3c438db1",
+    "name": "Cng Station",
+    "latitude": 14.486685,
+    "longitude": 79.963888,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5165dc60",
+    "name": "Cng Station",
+    "latitude": 14.56848,
+    "longitude": 80.002618,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9f9c6fee",
+    "name": "Cng Station",
+    "latitude": 14.468822,
+    "longitude": 80.059687,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-931fcb2f",
+    "name": "Cng Station",
+    "latitude": 14.452243,
+    "longitude": 80.060924,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15fe3b33",
+    "name": "Cng Station",
+    "latitude": 14.523335,
+    "longitude": 79.989241,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-36af5740",
+    "name": "Cng Station",
+    "latitude": 14.427719,
+    "longitude": 79.99337,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4330bb38",
+    "name": "Hindustan Petroleum",
+    "latitude": 14.51675,
+    "longitude": 79.987675,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14436af3",
+    "name": "Hindustan Petroleum",
+    "latitude": 14.496712,
+    "longitude": 79.999392,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bbb89f52",
+    "name": "Hindustan Petroleum",
+    "latitude": 14.532455,
+    "longitude": 79.991011,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9488dff2",
+    "name": "Hp",
+    "latitude": 14.477236,
+    "longitude": 79.964522,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fcf264d1",
+    "name": "Indian Oil",
+    "latitude": 14.576348,
+    "longitude": 80.079659,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-05255d86",
+    "name": "Indian Oil",
+    "latitude": 14.507032,
+    "longitude": 80.005991,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-90a7cb14",
+    "name": "Indian Oil",
+    "latitude": 14.495652,
+    "longitude": 79.991179,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-69636f5d",
+    "name": "Indian Oil",
+    "latitude": 14.519303,
+    "longitude": 79.907517,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a7f03964",
+    "name": "Kvr Petrol Pump",
+    "latitude": 14.438203,
+    "longitude": 79.971035,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-420a50ed",
+    "name": "Petrol Bunk",
+    "latitude": 14.450773,
+    "longitude": 79.989275,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8f94c752",
+    "name": "Petrol Bunk",
+    "latitude": 14.452746,
+    "longitude": 79.984147,
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15d997bf",
+    "name": "Petrol Bunk",
+    "latitude": 14.457619,
+    "longitude": 79.989895,
+    "city": "Nellore",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
   },
