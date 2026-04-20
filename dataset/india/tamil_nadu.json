@@ -10921,15 +10921,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-0bc41ffb",
-    "name": "Cng Station",
-    "latitude": 13.040274,
-    "longitude": 80.242301,
-    "city": "Chennai Central",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-0b5b2b93",
     "name": "Cng Station",
     "latitude": 13.029129,
@@ -11195,6 +11186,15 @@
     "name": "Indian Oil Petrol Bunk",
     "latitude": 13.037018,
     "longitude": 80.201671,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0bc41ffb",
+    "name": "Indianoil",
+    "latitude": 13.040274,
+    "longitude": 80.242301,
     "city": "Chennai Central",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -15090,7 +15090,7 @@
   {
     "id": "cng-2a7b884a",
     "name": "Chinthamani Cooperative Petrol Bunk",
-    "latitude": 13.040972,
+    "latitude": 13.041006,
     "longitude": 80.237374,
     "city": "T.Nagar, Chennai",
     "state": "Tamil Nadu",

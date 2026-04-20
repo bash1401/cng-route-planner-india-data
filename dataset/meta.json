@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-19T06:06:50.906469+00:00",
-  "total_stations": 10555,
+  "generated_at": "2026-04-20T06:14:08.135024+00:00",
+  "total_stations": 10551,
   "states_covered": 36,
   "sources": {
-    "all_india_fuel": 3352,
-    "cgd_inferred": 5928,
+    "all_india_fuel": 3355,
+    "cgd_inferred": 5929,
     "osm_allstations": 304,
     "wikidata": 1,
     "atgl": 53,
@@ -13,7 +13,6 @@
     "osm": 19,
     "nominatim_grid": 6,
     "gail_pdf": 217,
-    "osm_extra": 8,
     "mngl": 115
   }
 }
