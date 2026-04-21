@@ -24,17 +24,17 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng Pump",
-    "latitude": 28.558454,
-    "longitude": 77.106734,
+    "name": "Cng Filling Station , Police Line",
+    "latitude": 28.688833,
+    "longitude": 77.103949,
     "city": "Delhi",
     "state": "Delhi",
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng Filling Station , Police Line",
-    "latitude": 28.688833,
-    "longitude": 77.103949,
+    "name": "Cng Pump",
+    "latitude": 28.558454,
+    "longitude": 77.106734,
     "city": "Delhi",
     "state": "Delhi",
     "source": "nominatim_grid"
@@ -48,9 +48,9 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Igl-Cng Station",
-    "latitude": 28.446122,
-    "longitude": 77.543288,
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
     "city": "Greater Noida",
     "state": "Haryana",
     "source": "nominatim_grid"
@@ -64,11 +64,11 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Adani Cng Station",
-    "latitude": 28.400755,
-    "longitude": 77.374226,
+    "name": "Indraprastha Cng",
+    "latitude": 28.65559,
+    "longitude": 77.349458,
     "city": "Greater Noida",
-    "state": "Haryana",
+    "state": "Delhi",
     "source": "nominatim_grid"
   },
   {
@@ -80,11 +80,11 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Indraprastha Cng",
-    "latitude": 28.65559,
-    "longitude": 77.349458,
+    "name": "Igl-Cng Station",
+    "latitude": 28.446122,
+    "longitude": 77.543288,
     "city": "Greater Noida",
-    "state": "Delhi",
+    "state": "Haryana",
     "source": "nominatim_grid"
   },
   {
@@ -272,6 +272,22 @@
     "source": "nominatim_grid"
   },
   {
+    "name": "Cng Station",
+    "latitude": 23.161916,
+    "longitude": 72.588276,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Cng And Petrol Pump",
+    "latitude": 23.028945,
+    "longitude": 72.673433,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "source": "nominatim_grid"
+  },
+  {
     "name": "Cng Adani",
     "latitude": 23.013519,
     "longitude": 72.564403,
@@ -291,22 +307,6 @@
     "name": "Cng Stattion",
     "latitude": 22.935932,
     "longitude": 72.49878,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "Cng Station",
-    "latitude": 23.161916,
-    "longitude": 72.588276,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "Cng And Petrol Pump",
-    "latitude": 23.028945,
-    "longitude": 72.673433,
     "city": "Ahmedabad",
     "state": "Gujarat",
     "source": "nominatim_grid"
