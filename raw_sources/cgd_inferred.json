@@ -12441,8 +12441,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.874791,
-    "longitude": 77.576335,
+    "latitude": 12.874745,
+    "longitude": 77.576307,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -14683,6 +14683,14 @@
     "name": "Petrol And Gas Station",
     "latitude": 17.381849,
     "longitude": 78.472283,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indianoil",
+    "latitude": 17.430959,
+    "longitude": 78.608482,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"

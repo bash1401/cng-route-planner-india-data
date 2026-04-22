@@ -12825,15 +12825,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-5e713539",
-    "name": "Cng Petrol Pump",
-    "latitude": 21.298809,
-    "longitude": 72.953897,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-751fd0a8",
     "name": "Cng Pump",
     "latitude": 22.574383,
@@ -16251,10 +16242,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ecc69d6d",
+    "id": "cng-1f462c43",
     "name": "Master Petroleum",
-    "latitude": 22.77011,
-    "longitude": 73.619982,
+    "latitude": 22.772495,
+    "longitude": 73.620804,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16413,10 +16404,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4ebf3803",
+    "id": "cng-0ee691b3",
     "name": "Ggl Shivam Gas Agency",
-    "latitude": 22.2732,
-    "longitude": 70.799729,
+    "latitude": 22.272523,
+    "longitude": 70.799902,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16503,10 +16494,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ccbcee8e",
+    "id": "cng-4b186576",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.378785,
-    "longitude": 73.116795,
+    "latitude": 22.820072,
+    "longitude": 69.518887,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16654,6 +16645,15 @@
     "city": "Sirohi",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-5e713539",
+    "name": "Cng Petrol Pump",
+    "latitude": 21.298809,
+    "longitude": 72.953897,
+    "city": "Surat",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-7e9901c1",
@@ -16905,7 +16905,7 @@
     "longitude": 72.794779,
     "city": "Surat",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-49113621",
@@ -19298,10 +19298,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -20414,10 +20414,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c6de356f",
+    "id": "cng-6fd3f002",
     "name": "Durga Filling Station",
-    "latitude": 29.524463,
-    "longitude": 75.026018,
+    "latitude": 29.524695,
+    "longitude": 75.026487,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -52848,10 +52848,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-3b67bdeb",
+    "id": "cng-713f1bcf",
     "name": "R K Petroleum",
-    "latitude": 19.075729,
-    "longitude": 73.004232,
+    "latitude": 19.07735,
+    "longitude": 73.002991,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -54058,6 +54058,16 @@
     "operator": "GAIL"
   },
   {
+    "id": "cng-9eabe65d",
+    "name": "Hp",
+    "latitude": 20.178594,
+    "longitude": 85.857932,
+    "city": "",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Hindustan Petroleum"
+  },
+  {
     "id": "cng-f8d30b35",
     "name": "Indian Oil",
     "latitude": 18.864666,
@@ -54317,6 +54327,16 @@
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7c08fe39",
+    "name": "Jay Auto Center",
+    "latitude": 20.19386,
+    "longitude": 85.860064,
+    "city": "",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Bharat Petroleum"
   },
   {
     "id": "cng-b5356ca9",
@@ -54856,7 +54876,8 @@
     "longitude": 85.844542,
     "city": "Bhubaneswar Municipal Corporation",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "osm_extra",
+    "operator": "Indian Oil"
   },
   {
     "id": "cng-027adb07",
@@ -55560,15 +55581,6 @@
     "name": "Indian Oil",
     "latitude": 19.715438,
     "longitude": 85.51566,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7c08fe39",
-    "name": "Jay Auto Center",
-    "latitude": 20.19386,
-    "longitude": 85.860064,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -58250,7 +58262,7 @@
     "id": "cng-c922a908",
     "name": "Godara Hp",
     "latitude": 29.678017,
-    "longitude": 75.553666,
+    "longitude": 75.553667,
     "city": "Fatehabad",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -72760,10 +72772,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1bfe3d37",
+    "id": "cng-0c46adc1",
     "name": "Indian Oil",
-    "latitude": 12.874791,
-    "longitude": 77.576335,
+    "latitude": 12.874745,
+    "longitude": 77.576307,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -85184,6 +85196,15 @@
     "name": "Indianoil",
     "latitude": 17.547865,
     "longitude": 78.362249,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-77263ff4",
+    "name": "Indianoil",
+    "latitude": 17.430959,
+    "longitude": 78.608482,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"

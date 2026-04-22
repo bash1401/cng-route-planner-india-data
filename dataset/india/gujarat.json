@@ -171,15 +171,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-5e713539",
-    "name": "Cng Petrol Pump",
-    "latitude": 21.298809,
-    "longitude": 72.953897,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-751fd0a8",
     "name": "Cng Pump",
     "latitude": 22.574383,
@@ -3597,10 +3588,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ecc69d6d",
+    "id": "cng-1f462c43",
     "name": "Master Petroleum",
-    "latitude": 22.77011,
-    "longitude": 73.619982,
+    "latitude": 22.772495,
+    "longitude": 73.620804,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3759,10 +3750,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4ebf3803",
+    "id": "cng-0ee691b3",
     "name": "Ggl Shivam Gas Agency",
-    "latitude": 22.2732,
-    "longitude": 70.799729,
+    "latitude": 22.272523,
+    "longitude": 70.799902,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3849,10 +3840,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ccbcee8e",
+    "id": "cng-4b186576",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.378785,
-    "longitude": 73.116795,
+    "latitude": 22.820072,
+    "longitude": 69.518887,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4000,6 +3991,15 @@
     "city": "Sirohi",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-5e713539",
+    "name": "Cng Petrol Pump",
+    "latitude": 21.298809,
+    "longitude": 72.953897,
+    "city": "Surat",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-7e9901c1",
@@ -4251,7 +4251,7 @@
     "longitude": 72.794779,
     "city": "Surat",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-49113621",
