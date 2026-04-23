@@ -15360,10 +15360,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-27e0bf8b",
+    "id": "cng-54672bbc",
     "name": "Gujarat Gas (Chela)",
-    "latitude": 22.454399,
-    "longitude": 70.039823,
+    "latitude": 22.454001,
+    "longitude": 70.039695,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16242,10 +16242,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16494,10 +16494,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4b186576",
+    "id": "cng-ccbcee8e",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.820072,
-    "longitude": 69.518887,
+    "latitude": 22.378785,
+    "longitude": 73.116795,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -17370,7 +17370,7 @@
     "id": "cng-e7aa5c36",
     "name": "Wadiwala Petroleum",
     "latitude": 21.108927,
-    "longitude": 73.395163,
+    "longitude": 73.395164,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -20414,10 +20414,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6fd3f002",
+    "id": "cng-c6de356f",
     "name": "Durga Filling Station",
-    "latitude": 29.524695,
-    "longitude": 75.026487,
+    "latitude": 29.524463,
+    "longitude": 75.026018,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -52848,10 +52848,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-713f1bcf",
+    "id": "cng-2b437c70",
     "name": "R K Petroleum",
-    "latitude": 19.07735,
-    "longitude": 73.002991,
+    "latitude": 19.075992,
+    "longitude": 73.003942,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -57710,10 +57710,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6e57b14a",
+    "id": "cng-3e8c7404",
     "name": "Dillon Hp Auto Fuels",
-    "latitude": 31.637142,
-    "longitude": 74.877451,
+    "latitude": 31.637171,
+    "longitude": 74.877538,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58262,7 +58262,7 @@
     "id": "cng-c922a908",
     "name": "Godara Hp",
     "latitude": 29.678017,
-    "longitude": 75.553667,
+    "longitude": 75.553666,
     "city": "Fatehabad",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -63840,6 +63840,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-da3aed8d",
+    "name": "Bharat Petroleum",
+    "latitude": 13.403177,
+    "longitude": 76.625293,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-df84cc59",
     "name": "Bharat Petroleum",
     "latitude": 10.23488,
@@ -66341,6 +66350,24 @@
     "name": "Indian Oil",
     "latitude": 12.610989,
     "longitude": 77.935157,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0f90097d",
+    "name": "Indian Oil",
+    "latitude": 13.426071,
+    "longitude": 76.617339,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6d67367f",
+    "name": "Indian Oil",
+    "latitude": 13.417328,
+    "longitude": 76.617376,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
