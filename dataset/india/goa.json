@@ -216,18 +216,9 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-aeac6d51",
-    "name": "Bharat Petroleum",
-    "latitude": 15.506175,
-    "longitude": 73.825561,
-    "city": "Panaji/Goa",
-    "state": "Goa",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-a309ce43",
     "name": "Bharat Petroleum",
-    "latitude": 15.500885,
+    "latitude": 15.500926,
     "longitude": 73.825418,
     "city": "Panaji/Goa",
     "state": "Goa",
@@ -256,6 +247,15 @@
     "name": "Bharat Petroleum",
     "latitude": 15.519364,
     "longitude": 73.829086,
+    "city": "Panaji/Goa",
+    "state": "Goa",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-79d052cb",
+    "name": "Bharat Petroleum",
+    "latitude": 15.506224,
+    "longitude": 73.825453,
     "city": "Panaji/Goa",
     "state": "Goa",
     "source": "cgd_inferred"
