@@ -171,23 +171,7 @@
     "name": "Mahanagar Gas Cng Pump",
     "latitude": 19.121827,
     "longitude": 72.998894,
-    "city": "Mumbai",
-    "state": "Maharashtra",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "Bharat Petroleum Amol Auto Petrol & Cng Pump",
-    "latitude": 18.95157,
-    "longitude": 73.174373,
-    "city": "Mumbai",
-    "state": "Maharashtra",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "Cng Pump Indapur",
-    "latitude": 18.286203,
-    "longitude": 73.245606,
-    "city": "Mumbai",
+    "city": "Thane",
     "state": "Maharashtra",
     "source": "nominatim_grid"
   },
@@ -236,6 +220,14 @@
     "latitude": 18.580054,
     "longitude": 73.970513,
     "city": "Pune",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Cng Pump Indapur",
+    "latitude": 18.286203,
+    "longitude": 73.245606,
+    "city": "Raigad",
     "state": "Maharashtra",
     "source": "nominatim_grid"
   },

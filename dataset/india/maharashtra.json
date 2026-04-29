@@ -3648,15 +3648,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-5d41c2fc",
-    "name": "Hp",
-    "latitude": 19.086008,
-    "longitude": 72.838318,
-    "city": "Mumbai City",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-36f7b18a",
     "name": "Hp",
     "latitude": 19.105142,
@@ -3886,6 +3877,15 @@
     "name": "Hp",
     "latitude": 19.10302,
     "longitude": 72.833521,
+    "city": "Mumbai City",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5d41c2fc",
+    "name": "Hp",
+    "latitude": 19.085973,
+    "longitude": 72.838333,
     "city": "Mumbai City",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -5277,15 +5277,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-14360f52",
-    "name": "Cng Station",
-    "latitude": 18.58053,
-    "longitude": 73.721971,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2a26e807",
     "name": "Cng Station",
     "latitude": 18.488404,
@@ -5416,6 +5407,15 @@
     "name": "Hindustan Petroleum",
     "latitude": 18.523552,
     "longitude": 73.917981,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14360f52",
+    "name": "Hindustan Petroleum",
+    "latitude": 18.580513,
+    "longitude": 73.721984,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"

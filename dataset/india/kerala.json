@@ -585,6 +585,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-d8d16af8",
+    "name": "Bharat Petroleum",
+    "latitude": 9.032856,
+    "longitude": 76.778303,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-07e04119",
     "name": "Bharat Petroleum",
     "latitude": 9.197168,
@@ -742,15 +751,6 @@
     "name": "Bharat Petroleum",
     "latitude": 9.80374,
     "longitude": 76.575327,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-d8d16af8",
-    "name": "Bharat Petroleum",
-    "latitude": 9.032856,
-    "longitude": 76.778291,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -1458,6 +1458,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-051be135",
+    "name": "Bharat Petroleum",
+    "latitude": 8.958695,
+    "longitude": 76.842179,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-01cea948",
     "name": "Bharat Petroleum",
     "latitude": 9.660085,
@@ -1480,15 +1489,6 @@
     "name": "Bharat Petroleum",
     "latitude": 9.729041,
     "longitude": 76.69357,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-58ec4f27",
-    "name": "Bharat Petroleum",
-    "latitude": 8.916612,
-    "longitude": 76.853522,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -2983,15 +2983,6 @@
     "name": "Indian Oil",
     "latitude": 9.005214,
     "longitude": 76.777671,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-0e49dfef",
-    "name": "Indian Oil",
-    "latitude": 9.012214,
-    "longitude": 76.78421,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -8676,6 +8667,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-58ec4f27",
+    "name": "Nayara",
+    "latitude": 8.916612,
+    "longitude": 76.853522,
+    "city": "Kollam",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d4343b4e",
     "name": "Plavinmoodu",
     "latitude": 8.813031,
@@ -8744,6 +8744,15 @@
     "latitude": 10.275537,
     "longitude": 76.345918,
     "city": "Koratty",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0e49dfef",
+    "name": "Indian Oil",
+    "latitude": 9.012214,
+    "longitude": 76.784245,
+    "city": "Kottarakara",
     "state": "Kerala",
     "source": "all_india_fuel"
   },

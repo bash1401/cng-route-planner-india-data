@@ -4752,14 +4752,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Hp",
-    "latitude": 19.086008,
-    "longitude": 72.838318,
-    "city": "Mumbai City",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 19.124642,
     "longitude": 72.823397,
@@ -5867,6 +5859,14 @@
     "name": "Bharat Petroleum",
     "latitude": 19.070821,
     "longitude": 72.862535,
+    "city": "Mumbai City",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 19.085973,
+    "longitude": 72.838333,
     "city": "Mumbai City",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -17536,14 +17536,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "CNG Station",
-    "latitude": 18.58053,
-    "longitude": 73.721971,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Shell Petrol Pump - Sus",
     "latitude": 18.551737,
     "longitude": 73.760947,
@@ -18307,6 +18299,14 @@
     "name": "Bharat Petroleum",
     "latitude": 18.626965,
     "longitude": 73.752636,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 18.580513,
+    "longitude": 73.721984,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
