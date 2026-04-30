@@ -8661,7 +8661,7 @@
     "id": "cng-26336d16",
     "name": "J & K Traders",
     "latitude": 20.275789,
-    "longitude": 72.873945,
+    "longitude": 72.873944,
     "city": "Valsad",
     "state": "Dadra and Nagar Haveli",
     "source": "gujarat_gas"
@@ -14694,10 +14694,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-67fbeaf1",
+    "id": "cng-af69d85e",
     "name": "Planet Petroleum",
-    "latitude": 21.77471,
-    "longitude": 72.151663,
+    "latitude": 21.774695,
+    "longitude": 72.151626,
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -15405,10 +15405,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-27e0bf8b",
+    "id": "cng-54672bbc",
     "name": "Gujarat Gas (Chela)",
-    "latitude": 22.454399,
-    "longitude": 70.039823,
+    "latitude": 22.454001,
+    "longitude": 70.039695,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16539,10 +16539,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ccbcee8e",
+    "id": "cng-4b186576",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.378785,
-    "longitude": 73.116795,
+    "latitude": 22.820072,
+    "longitude": 69.518887,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -19190,6 +19190,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-31089487",
+    "name": "Om Siddha Filling Station",
+    "latitude": 28.524801,
+    "longitude": 77.589012,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d2f3fb36",
     "name": "Shaheed Shyodanaram Fuel Station",
     "latitude": 27.680984,
@@ -19206,6 +19215,15 @@
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e3cd0902",
+    "name": "Singh Igl Filling Station",
+    "latitude": 28.529208,
+    "longitude": 77.584251,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
   },
   {
     "id": "cng-d63dfac3",
@@ -20459,10 +20477,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6fd3f002",
+    "id": "cng-c6de356f",
     "name": "Durga Filling Station",
-    "latitude": 29.524695,
-    "longitude": 75.026487,
+    "latitude": 29.524463,
+    "longitude": 75.026018,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -34358,6 +34376,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-c8bb7af3",
+    "name": "Hp",
+    "latitude": 9.633197,
+    "longitude": 76.333298,
+    "city": "Alappuzha",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1cde5f4f",
     "name": "Indian Oil",
     "latitude": 9.520367,
@@ -45302,10 +45329,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ea94961c",
+    "id": "cng-cc2c348c",
     "name": "Varun Multicare Center",
-    "latitude": 22.700147,
-    "longitude": 75.915119,
+    "latitude": 22.700152,
+    "longitude": 75.915337,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -50275,8 +50302,8 @@
   {
     "id": "cng-0dc4eccc",
     "name": "Hp",
-    "latitude": 19.146096,
-    "longitude": 72.830021,
+    "latitude": 19.146098,
+    "longitude": 72.830024,
     "city": "Mumbai City",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -58322,10 +58349,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-edfe653f",
+    "id": "cng-dd8b9ba8",
     "name": "Sarpanch Petro",
-    "latitude": 30.577376,
-    "longitude": 74.819267,
+    "latitude": 30.577296,
+    "longitude": 74.81925,
     "city": "Faridkot",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -81646,15 +81673,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-61e68d91",
-    "name": "Indian Oil",
-    "latitude": 17.660152,
-    "longitude": 79.420685,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8c9aa470",
     "name": "Indian Oil",
     "latitude": 17.229294,
@@ -86045,6 +86063,15 @@
     "city": "Miryalaguda",
     "state": "Telangana",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-61e68d91",
+    "name": "Indian Oil",
+    "latitude": 17.660152,
+    "longitude": 79.420685,
+    "city": "Mutharam,Lakshminarayana Puram",
+    "state": "Telangana",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-13525668",

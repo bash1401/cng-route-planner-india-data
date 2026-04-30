@@ -1521,15 +1521,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-61e68d91",
-    "name": "Indian Oil",
-    "latitude": 17.660152,
-    "longitude": 79.420685,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8c9aa470",
     "name": "Indian Oil",
     "latitude": 17.229294,
@@ -5920,6 +5911,15 @@
     "city": "Miryalaguda",
     "state": "Telangana",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-61e68d91",
+    "name": "Indian Oil",
+    "latitude": 17.660152,
+    "longitude": 79.420685,
+    "city": "Mutharam,Lakshminarayana Puram",
+    "state": "Telangana",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-13525668",

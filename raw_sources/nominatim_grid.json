@@ -171,7 +171,23 @@
     "name": "Mahanagar Gas Cng Pump",
     "latitude": 19.121827,
     "longitude": 72.998894,
-    "city": "Thane",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Bharat Petroleum Amol Auto Petrol & Cng Pump",
+    "latitude": 18.95157,
+    "longitude": 73.174373,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Cng Pump Indapur",
+    "latitude": 18.286203,
+    "longitude": 73.245606,
+    "city": "Mumbai",
     "state": "Maharashtra",
     "source": "nominatim_grid"
   },
@@ -224,14 +240,6 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng Pump Indapur",
-    "latitude": 18.286203,
-    "longitude": 73.245606,
-    "city": "Raigad",
-    "state": "Maharashtra",
-    "source": "nominatim_grid"
-  },
-  {
     "name": "Cng",
     "latitude": 23.039025,
     "longitude": 72.580366,
@@ -272,14 +280,6 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng And Petrol Pump",
-    "latitude": 23.028945,
-    "longitude": 72.673433,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "nominatim_grid"
-  },
-  {
     "name": "Cng Station",
     "latitude": 23.161916,
     "longitude": 72.588276,
@@ -288,9 +288,9 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Cng Petrol Pump",
-    "latitude": 23.026699,
-    "longitude": 72.526026,
+    "name": "Cng And Petrol Pump",
+    "latitude": 23.028945,
+    "longitude": 72.673433,
     "city": "Ahmedabad",
     "state": "Gujarat",
     "source": "nominatim_grid"
@@ -299,6 +299,14 @@
     "name": "Cng Adani",
     "latitude": 23.013519,
     "longitude": 72.564403,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Cng Petrol Pump",
+    "latitude": 23.026699,
+    "longitude": 72.526026,
     "city": "Ahmedabad",
     "state": "Gujarat",
     "source": "nominatim_grid"
