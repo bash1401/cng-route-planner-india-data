@@ -8661,7 +8661,7 @@
     "id": "cng-26336d16",
     "name": "J & K Traders",
     "latitude": 20.275789,
-    "longitude": 72.873944,
+    "longitude": 72.873945,
     "city": "Valsad",
     "state": "Dadra and Nagar Haveli",
     "source": "gujarat_gas"
@@ -15405,10 +15405,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-54672bbc",
+    "id": "cng-27e0bf8b",
     "name": "Gujarat Gas (Chela)",
-    "latitude": 22.454001,
-    "longitude": 70.039695,
+    "latitude": 22.454399,
+    "longitude": 70.039823,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16539,10 +16539,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ccbcee8e",
+    "id": "cng-4b186576",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.378785,
-    "longitude": 73.116795,
+    "latitude": 22.820072,
+    "longitude": 69.518887,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -17415,7 +17415,7 @@
     "id": "cng-e7aa5c36",
     "name": "Wadiwala Petroleum",
     "latitude": 21.108927,
-    "longitude": 73.395164,
+    "longitude": 73.395163,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -20477,10 +20477,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c6de356f",
+    "id": "cng-6fd3f002",
     "name": "Durga Filling Station",
-    "latitude": 29.524463,
-    "longitude": 75.026018,
+    "latitude": 29.524695,
+    "longitude": 75.026487,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -45329,10 +45329,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-cc2c348c",
+    "id": "cng-ea94961c",
     "name": "Varun Multicare Center",
-    "latitude": 22.700152,
-    "longitude": 75.915337,
+    "latitude": 22.700147,
+    "longitude": 75.915119,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -48000,6 +48000,15 @@
     "name": "Nayara",
     "latitude": 20.030361,
     "longitude": 77.137266,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ab33b8a0",
+    "name": "Nayara",
+    "latitude": 20.065031,
+    "longitude": 77.925919,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -52956,10 +52965,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-713f1bcf",
+    "id": "cng-2b437c70",
     "name": "R K Petroleum",
-    "latitude": 19.07735,
-    "longitude": 73.002991,
+    "latitude": 19.075992,
+    "longitude": 73.003942,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -57962,10 +57971,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-26f69fbf",
+    "id": "cng-88e5b636",
     "name": "Sharda Power Point",
-    "latitude": 31.616753,
-    "longitude": 74.886466,
+    "latitude": 31.617313,
+    "longitude": 74.886002,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58151,10 +58160,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-65e84cf6",
+    "id": "cng-154a9d2f",
     "name": "Seth Hemraj Filling Station",
-    "latitude": 30.213652,
-    "longitude": 74.946657,
+    "latitude": 30.213606,
+    "longitude": 74.946699,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -73582,10 +73591,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-17514986",
+    "id": "cng-e3792527",
     "name": "Shell",
-    "latitude": 12.910863,
-    "longitude": 77.683251,
+    "latitude": 12.910858,
+    "longitude": 77.683246,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
