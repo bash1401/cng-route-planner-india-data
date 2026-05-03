@@ -380,6 +380,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cb8198f6",
+    "name": "Bharat Petroleum & Cng Pump",
+    "latitude": 16.003401,
+    "longitude": 73.688949,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-24de9427",
     "name": "Bharat Petroleum Yavat",
     "latitude": 18.474757,
@@ -6529,10 +6538,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2b437c70",
+    "id": "cng-713f1bcf",
     "name": "R K Petroleum",
-    "latitude": 19.075992,
-    "longitude": 73.003942,
+    "latitude": 19.07735,
+    "longitude": 73.002991,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"

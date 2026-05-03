@@ -14694,10 +14694,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-af69d85e",
+    "id": "cng-67fbeaf1",
     "name": "Planet Petroleum",
-    "latitude": 21.774695,
-    "longitude": 72.151626,
+    "latitude": 21.77471,
+    "longitude": 72.151663,
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -15405,10 +15405,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-27e0bf8b",
+    "id": "cng-54672bbc",
     "name": "Gujarat Gas (Chela)",
-    "latitude": 22.454399,
-    "longitude": 70.039823,
+    "latitude": 22.454001,
+    "longitude": 70.039695,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16287,10 +16287,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ecc69d6d",
+    "id": "cng-1f462c43",
     "name": "Master Petroleum",
-    "latitude": 22.77011,
-    "longitude": 73.619982,
+    "latitude": 22.772495,
+    "longitude": 73.620804,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16854,10 +16854,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a68ed7a7",
+    "id": "cng-bda05dc1",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459871,
-    "longitude": 73.153273,
+    "latitude": 21.459434,
+    "longitude": 73.153175,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -20477,10 +20477,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6fd3f002",
+    "id": "cng-c6de356f",
     "name": "Durga Filling Station",
-    "latitude": 29.524695,
-    "longitude": 75.026487,
+    "latitude": 29.524463,
+    "longitude": 75.026018,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -25406,6 +25406,15 @@
     "name": "Indian Oil",
     "latitude": 15.903899,
     "longitude": 75.690322,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-1ec3ca8a",
+    "name": "Indian Oil",
+    "latitude": 17.558034,
+    "longitude": 74.24586,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -46816,6 +46825,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cb8198f6",
+    "name": "Bharat Petroleum & Cng Pump",
+    "latitude": 16.003401,
+    "longitude": 73.688949,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-24de9427",
     "name": "Bharat Petroleum Yavat",
     "latitude": 18.474757,
@@ -52965,10 +52983,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2b437c70",
+    "id": "cng-713f1bcf",
     "name": "R K Petroleum",
-    "latitude": 19.075992,
-    "longitude": 73.003942,
+    "latitude": 19.07735,
+    "longitude": 73.002991,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -58169,10 +58187,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-d8eef260",
+    "id": "cng-de0c7807",
     "name": "Vijendra Filling Station",
-    "latitude": 30.08265,
-    "longitude": 74.780363,
+    "latitude": 30.078259,
+    "longitude": 74.779723,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58898,10 +58916,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1bbbb339",
+    "id": "cng-35ee3b1a",
     "name": "Dashmesh Hp Filling Station",
-    "latitude": 31.19981,
-    "longitude": 76.162417,
+    "latitude": 31.200428,
+    "longitude": 76.161721,
     "city": "Hoshiarpur",
     "state": "Punjab",
     "source": "gujarat_gas"
