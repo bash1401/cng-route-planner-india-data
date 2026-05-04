@@ -14127,10 +14127,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-cdd7b5d2",
+    "id": "cng-63a48648",
     "name": "Ggl Tulsi Gas Station",
-    "latitude": 22.558656,
-    "longitude": 72.962723,
+    "latitude": 22.473986,
+    "longitude": 72.736178,
     "city": "Anand",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -14694,10 +14694,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-67fbeaf1",
+    "id": "cng-af69d85e",
     "name": "Planet Petroleum",
-    "latitude": 21.77471,
-    "longitude": 72.151663,
+    "latitude": 21.774695,
+    "longitude": 72.151626,
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16287,10 +16287,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16854,10 +16854,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -17415,7 +17415,7 @@
     "id": "cng-e7aa5c36",
     "name": "Wadiwala Petroleum",
     "latitude": 21.108927,
-    "longitude": 73.395163,
+    "longitude": 73.395164,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -45338,10 +45338,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ea94961c",
+    "id": "cng-cc2c348c",
     "name": "Varun Multicare Center",
-    "latitude": 22.700147,
-    "longitude": 75.915119,
+    "latitude": 22.700152,
+    "longitude": 75.915337,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -58397,7 +58397,7 @@
     "id": "cng-c922a908",
     "name": "Godara Hp",
     "latitude": 29.678017,
-    "longitude": 75.553667,
+    "longitude": 75.553666,
     "city": "Fatehabad",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58700,10 +58700,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-8b8c1b54",
+    "id": "cng-a50ec657",
     "name": "B S Filling Station",
-    "latitude": 31.821405,
-    "longitude": 75.194553,
+    "latitude": 31.795619,
+    "longitude": 75.152752,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -65318,6 +65318,15 @@
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6f5139e8",
+    "name": "Hindustan Petroleum",
+    "latitude": 12.94348,
+    "longitude": 80.138717,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cd009a79",
@@ -75674,15 +75683,6 @@
     "name": "Hp Fuel Station",
     "latitude": 12.945316,
     "longitude": 80.106766,
-    "city": "Chennai South",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ef469dd3",
-    "name": "Hp Petrol Bunk",
-    "latitude": 12.943625,
-    "longitude": 80.138987,
     "city": "Chennai South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -91379,6 +91379,15 @@
     "name": "Cng Station",
     "latitude": 30.260924,
     "longitude": 78.088318,
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2c02f95a",
+    "name": "Cng Station",
+    "latitude": 30.373914,
+    "longitude": 78.078149,
     "city": "Dehradun",
     "state": "Uttarakhand",
     "source": "cgd_inferred"

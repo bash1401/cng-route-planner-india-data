@@ -1957,6 +1957,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6f5139e8",
+    "name": "Hindustan Petroleum",
+    "latitude": 12.94348,
+    "longitude": 80.138717,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-cd009a79",
     "name": "Hindusthan Petroleums",
     "latitude": 11.397483,
@@ -12311,15 +12320,6 @@
     "name": "Hp Fuel Station",
     "latitude": 12.945316,
     "longitude": 80.106766,
-    "city": "Chennai South",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ef469dd3",
-    "name": "Hp Petrol Bunk",
-    "latitude": 12.943625,
-    "longitude": 80.138987,
     "city": "Chennai South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
