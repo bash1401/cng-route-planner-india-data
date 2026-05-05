@@ -26312,10 +26312,10 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Nayara",
+    "name": "Nayara Petrol Pump",
     "latitude": 12.868107,
     "longitude": 74.901135,
-    "city": "",
+    "city": "Mangalore",
     "state": "Karnataka",
     "source": "all_india_fuel"
   },
@@ -40904,14 +40904,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 19.143531,
-    "longitude": 72.831103,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Hp",
     "latitude": 19.12805,
     "longitude": 72.832203,
@@ -41915,6 +41907,14 @@
     "name": "Indian Oil",
     "latitude": 19.180524,
     "longitude": 73.223031,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.143548,
+    "longitude": 72.831033,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -44668,6 +44668,14 @@
     "latitude": 31.621732,
     "longitude": 74.865773,
     "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil Coco Petrol Pump",
+    "latitude": 31.67365,
+    "longitude": 74.839679,
+    "city": "Amritsar",
     "state": "Punjab",
     "source": "all_india_fuel"
   },

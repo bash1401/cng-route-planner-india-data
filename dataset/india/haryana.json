@@ -851,6 +851,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-71120770",
+    "name": "Indian Oil",
+    "latitude": 28.819459,
+    "longitude": 77.558425,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2b921dee",
     "name": "Indian Oil",
     "latitude": 28.764002,
@@ -1634,24 +1643,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-614d9e0a",
-    "name": "Bp",
-    "latitude": 28.828664,
-    "longitude": 77.569373,
-    "city": "Meerut/Ghaziabad2",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-71120770",
-    "name": "Indian Oil",
-    "latitude": 28.819459,
-    "longitude": 77.558425,
-    "city": "Meerut/Ghaziabad2",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-e74d9990",
     "name": "Cng Station",
     "latitude": 28.066581,
@@ -2210,10 +2201,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c6de356f",
+    "id": "cng-6fd3f002",
     "name": "Durga Filling Station",
-    "latitude": 29.524463,
-    "longitude": 75.026018,
+    "latitude": 29.524695,
+    "longitude": 75.026487,
     "city": "Sirsa",
     "state": "Haryana",
     "source": "gujarat_gas"
