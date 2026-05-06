@@ -1332,15 +1332,6 @@
     "source": "gail_pdf"
   },
   {
-    "id": "cng-e7e664f1",
-    "name": "Cng Station",
-    "latitude": 29.04172,
-    "longitude": 77.707291,
-    "city": "Meerut",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-6f41f635",
     "name": "Cng Station",
     "latitude": 29.042698,
@@ -1516,6 +1507,15 @@
     "name": "Indian Oil",
     "latitude": 28.921963,
     "longitude": 77.649886,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8e1f6feb",
+    "name": "Indian Oil",
+    "latitude": 29.041877,
+    "longitude": 77.707279,
     "city": "Meerut",
     "state": "Uttarakhand",
     "source": "cgd_inferred"

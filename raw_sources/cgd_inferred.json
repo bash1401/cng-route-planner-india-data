@@ -3617,14 +3617,6 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 29.04172,
-    "longitude": 77.707291,
-    "city": "Meerut",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
     "latitude": 29.042698,
     "longitude": 77.794643,
     "city": "Meerut",
@@ -3963,6 +3955,14 @@
     "name": "Bharat Petroleum",
     "latitude": 28.933436,
     "longitude": 77.721311,
+    "city": "Meerut",
+    "state": "Uttarakhand",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 29.041877,
+    "longitude": 77.707279,
     "city": "Meerut",
     "state": "Uttarakhand",
     "source": "cgd_inferred"
@@ -16768,6 +16768,22 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Bp",
+    "latitude": 28.828664,
+    "longitude": 77.569373,
+    "city": "Meerut/Ghaziabad2",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 28.819459,
+    "longitude": 77.558425,
+    "city": "Meerut/Ghaziabad2",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "CNG Station",
     "latitude": 25.359228,
     "longitude": 82.96065,
@@ -19069,6 +19085,246 @@
     "longitude": 80.996451,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 30.397937,
+    "longitude": 76.753667,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.42005,
+    "longitude": 76.706834,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.317687,
+    "longitude": 76.838503,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.325673,
+    "longitude": 76.836654,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.461959,
+    "longitude": 76.788109,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.324637,
+    "longitude": 76.837953,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.393568,
+    "longitude": 76.768263,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.394644,
+    "longitude": 76.777934,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.424836,
+    "longitude": 76.732186,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 30.421619,
+    "longitude": 76.73168,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Dhillon Petrol Pump",
+    "latitude": 30.346041,
+    "longitude": 76.836648,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Labh Filling Station",
+    "latitude": 30.303891,
+    "longitude": 76.700732,
+    "city": "Bhari",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.336675,
+    "longitude": 76.868137,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.397163,
+    "longitude": 76.815438,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 30.421808,
+    "longitude": 76.897119,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.307291,
+    "longitude": 76.842764,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.319675,
+    "longitude": 76.839444,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.31559,
+    "longitude": 76.840486,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.359509,
+    "longitude": 76.800381,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.370877,
+    "longitude": 76.798459,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.411574,
+    "longitude": 76.784699,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.414932,
+    "longitude": 76.782668,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.44276,
+    "longitude": 76.781402,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.435871,
+    "longitude": 76.778816,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.47507,
+    "longitude": 76.793747,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.474022,
+    "longitude": 76.794305,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 30.51837,
+    "longitude": 76.809556,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Essar",
+    "latitude": 30.498647,
+    "longitude": 76.80404,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 30.368121,
+    "longitude": 76.799302,
+    "city": "Ambala",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 30.364784,
+    "longitude": 76.798884,
+    "city": "Ambala",
+    "state": "Punjab",
     "source": "cgd_inferred"
   },
   {
