@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-05-06T06:35:10.139511+00:00",
-  "total_stations": 10580,
+  "generated_at": "2026-05-07T06:44:28.217345+00:00",
+  "total_stations": 10574,
   "states_covered": 36,
   "sources": {
-    "all_india_fuel": 3366,
-    "cgd_inferred": 5935,
-    "osm_allstations": 306,
+    "all_india_fuel": 3369,
+    "cgd_inferred": 5937,
+    "osm_allstations": 308,
     "wikidata": 1,
     "atgl": 53,
-    "gujarat_gas": 413,
-    "igl_mgl": 141,
+    "gujarat_gas": 410,
+    "igl_mgl": 138,
     "osm": 19,
-    "nominatim_grid": 6,
+    "nominatim_grid": 7,
     "gail_pdf": 217,
-    "osm_extra": 8,
     "mngl": 115
   }
 }
