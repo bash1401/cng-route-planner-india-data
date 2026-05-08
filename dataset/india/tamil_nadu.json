@@ -1539,6 +1539,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-e2ff2dd7",
+    "name": "Bharat Petroleum",
+    "latitude": 10.234894,
+    "longitude": 77.909274,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f9621e95",
     "name": "Bharat Petroleum",
     "latitude": 11.032478,
@@ -4427,6 +4436,33 @@
     "name": "Indian Oil",
     "latitude": 8.943182,
     "longitude": 77.772229,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-933aa25b",
+    "name": "Indian Oil",
+    "latitude": 10.156075,
+    "longitude": 77.916361,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-34a88258",
+    "name": "Indian Oil",
+    "latitude": 10.208768,
+    "longitude": 77.908316,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-71e1a310",
+    "name": "Indian Oil",
+    "latitude": 10.949918,
+    "longitude": 77.433833,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -8149,6 +8185,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-c58fe035",
+    "name": "Cng Station",
+    "latitude": 12.91813,
+    "longitude": 77.731899,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-5af61e9c",
     "name": "Devaraj Enterprises",
     "latitude": 12.923409,
@@ -10222,7 +10267,7 @@
     "id": "cng-9e372453",
     "name": "Shell",
     "latitude": 12.931971,
-    "longitude": 77.74252,
+    "longitude": 77.742521,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -12793,6 +12838,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-40723593",
+    "name": "Bharat Petroleum",
+    "latitude": 10.427474,
+    "longitude": 77.954405,
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-c5c83ef9",
     "name": "Cng Station",
     "latitude": 10.365462,
@@ -12806,24 +12860,6 @@
     "name": "Cng Station",
     "latitude": 10.377508,
     "longitude": 77.943525,
-    "city": "Dindigul",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-40723593",
-    "name": "Cng Station",
-    "latitude": 10.427474,
-    "longitude": 77.954405,
-    "city": "Dindigul",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-13b55120",
-    "name": "Cng Station",
-    "latitude": 10.417122,
-    "longitude": 77.958707,
     "city": "Dindigul",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -12950,6 +12986,15 @@
     "name": "Iyengar Fuel Station",
     "latitude": 10.367446,
     "longitude": 77.980741,
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-13b55120",
+    "name": "Nayara",
+    "latitude": 10.417122,
+    "longitude": 77.958707,
     "city": "Dindigul",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -13648,6 +13693,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-12df6101",
+    "name": "Bharat Petroleum",
+    "latitude": 10.936456,
+    "longitude": 78.056059,
+    "city": "Karur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1e1d1213",
     "name": "Cng Station",
     "latitude": 10.963863,
@@ -13702,15 +13756,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a012c691",
-    "name": "Cng Station",
-    "latitude": 10.982384,
-    "longitude": 78.064996,
-    "city": "Karur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-45e3e591",
     "name": "Hp",
     "latitude": 10.944589,
@@ -13742,6 +13787,15 @@
     "name": "Indian Oil",
     "latitude": 11.014179,
     "longitude": 78.067129,
+    "city": "Karur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a012c691",
+    "name": "Indian Oil",
+    "latitude": 10.982384,
+    "longitude": 78.064996,
     "city": "Karur",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

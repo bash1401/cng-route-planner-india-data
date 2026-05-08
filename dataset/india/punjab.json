@@ -1629,10 +1629,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3e8c7404",
+    "id": "cng-406b941e",
     "name": "Dillon Hp Auto Fuels",
-    "latitude": 31.637171,
-    "longitude": 74.877538,
+    "latitude": 31.637223,
+    "longitude": 74.877372,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -1971,10 +1971,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-154a9d2f",
+    "id": "cng-65e84cf6",
     "name": "Seth Hemraj Filling Station",
-    "latitude": 30.213606,
-    "longitude": 74.946699,
+    "latitude": 30.213652,
+    "longitude": 74.946657,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2190,7 +2190,7 @@
     "id": "cng-c922a908",
     "name": "Godara Hp",
     "latitude": 29.678017,
-    "longitude": 75.553667,
+    "longitude": 75.553666,
     "city": "Fatehabad",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2475,15 +2475,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-14c03ac7",
-    "name": "Apna Service Station",
-    "latitude": 32.011219,
-    "longitude": 75.012625,
-    "city": "Gurdaspur",
-    "state": "Punjab",
-    "source": "gujarat_gas"
-  },
-  {
     "id": "cng-db1f964c",
     "name": "Aulakh Filling Station",
     "latitude": 31.819302,
@@ -2518,6 +2509,15 @@
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14c03ac7",
+    "name": "Bhatti Filling Station",
+    "latitude": 32.011219,
+    "longitude": 75.012625,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "gujarat_gas"
   },
   {
     "id": "cng-591565a5",

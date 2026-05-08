@@ -2321,6 +2321,17 @@
     "operator": "IGL"
   },
   {
+    "id": "osm-node-13786285001",
+    "name": "Bharat Petroleum & Cng Pump",
+    "latitude": 16.003401,
+    "longitude": 73.688949,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm",
+    "address": "Maharashtra",
+    "operator": ""
+  },
+  {
     "id": "osm-way-40734170",
     "name": "Cng Station",
     "latitude": 18.985254,
@@ -2329,6 +2340,17 @@
     "state": "Maharashtra",
     "source": "osm",
     "address": "Maharashtra",
+    "operator": ""
+  },
+  {
+    "id": "osm-way-44074948",
+    "name": "Hindustan Petroleum",
+    "latitude": 12.94348,
+    "longitude": 80.138717,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm",
+    "address": "Tamil Nadu",
     "operator": ""
   },
   {
@@ -3522,8 +3544,8 @@
   {
     "id": "osm-way-1353654972",
     "name": "Indian Oil",
-    "latitude": 12.904067,
-    "longitude": 77.746729,
+    "latitude": 12.904071,
+    "longitude": 77.746709,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm",

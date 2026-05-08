@@ -311,6 +311,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-6b553a34",
+    "name": "Cng Station",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-a1e0ef4f",
     "name": "Cng Station",
     "latitude": 28.784087,
@@ -326,7 +335,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-6749a9a9",
@@ -875,7 +884,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-28edfc87",
@@ -1076,10 +1085,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-61caf0c7",
-    "name": "Manjeet Petro",
-    "latitude": 29.511811,
-    "longitude": 75.429416,
+    "id": "cng-1506a1b2",
+    "name": "Lovyam Fuel & Energy",
+    "latitude": 29.380979,
+    "longitude": 75.572908,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1089,6 +1098,15 @@
     "name": "Reliable Petro",
     "latitude": 29.510679,
     "longitude": 75.645269,
+    "city": "Fatehabad",
+    "state": "Haryana",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-61caf0c7",
+    "name": "Shree Raj Chetan Petro Energy",
+    "latitude": 29.511811,
+    "longitude": 75.429416,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1524,15 +1542,6 @@
     "city": "Karnal",
     "state": "Haryana",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6b553a34",
-    "name": "Igl Cng Pump Panipat",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-fc0c77dd",
