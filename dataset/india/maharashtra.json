@@ -38,6 +38,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-65aa10f4",
+    "name": "Bharat Petroleum",
+    "latitude": 19.699254,
+    "longitude": 72.762164,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-35b32a96",
     "name": "Bharat Petroleum",
     "latitude": 15.719103,
@@ -4960,15 +4969,6 @@
     "city": "Palghar",
     "state": "Maharashtra",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-65aa10f4",
-    "name": "Tembode Petrol Pump",
-    "latitude": 19.699254,
-    "longitude": 72.762164,
-    "city": "Palghar",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-2d5ed6c9",
