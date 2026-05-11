@@ -2673,19 +2673,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b6d44323",
+    "id": "cng-4464a7b5",
     "name": "Bharat Petroleum",
-    "latitude": 15.523015,
-    "longitude": 80.047257,
+    "latitude": 15.566014,
+    "longitude": 80.071296,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3ca6ef42",
+    "id": "cng-b6d44323",
     "name": "Bharat Petroleum",
-    "latitude": 15.565938,
-    "longitude": 80.071299,
+    "latitude": 15.523015,
+    "longitude": 80.047257,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -16269,10 +16269,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -19370,10 +19370,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -51362,15 +51362,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-bccc5f38",
-    "name": "Cng Station",
-    "latitude": 15.605335,
-    "longitude": 80.092627,
-    "city": "Ongole",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-dc962ed3",
     "name": "Essar",
     "latitude": 15.648676,
@@ -58313,10 +58304,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-d8eef260",
+    "id": "cng-de0c7807",
     "name": "Vijendra Filling Station",
-    "latitude": 30.08265,
-    "longitude": 74.780363,
+    "latitude": 30.078259,
+    "longitude": 74.779723,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -84175,6 +84166,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d5896612",
+    "name": "Cng Station",
+    "latitude": 17.430105,
+    "longitude": 78.504481,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-d76e21b7",
     "name": "Cng Station",
     "latitude": 17.317598,
@@ -84861,8 +84861,8 @@
   {
     "id": "cng-bc626160",
     "name": "Hp Petrol Pump",
-    "latitude": 17.421977,
-    "longitude": 78.508555,
+    "latitude": 17.421983,
+    "longitude": 78.508572,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"
