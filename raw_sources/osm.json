@@ -1881,6 +1881,17 @@
     "operator": ""
   },
   {
+    "id": "osm-node-11672622694",
+    "name": "Bharat Petroleum",
+    "latitude": 19.699254,
+    "longitude": 72.762164,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm",
+    "address": "Maharashtra",
+    "operator": ""
+  },
+  {
     "id": "osm-node-11688010839",
     "name": "Gaikwad Cng Station",
     "latitude": 18.532322,
@@ -3544,8 +3555,8 @@
   {
     "id": "osm-way-1353654972",
     "name": "Indian Oil",
-    "latitude": 12.904067,
-    "longitude": 77.746729,
+    "latitude": 12.904071,
+    "longitude": 77.746709,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm",
@@ -3804,5 +3815,16 @@
     "source": "osm",
     "address": "Haryana",
     "operator": "IGL"
+  },
+  {
+    "id": "osm-way-1512258687",
+    "name": "Bharat Petroleum",
+    "latitude": 19.699284,
+    "longitude": 72.762231,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm",
+    "address": "Maharashtra",
+    "operator": ""
   }
 ]
