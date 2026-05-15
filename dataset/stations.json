@@ -15405,10 +15405,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-54672bbc",
+    "id": "cng-27e0bf8b",
     "name": "Gujarat Gas (Chela)",
-    "latitude": 22.454001,
-    "longitude": 70.039695,
+    "latitude": 22.454399,
+    "longitude": 70.039823,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16557,10 +16557,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ccbcee8e",
+    "id": "cng-4b186576",
     "name": "Jay Shreenathji Petroleum",
-    "latitude": 22.378786,
-    "longitude": 73.116795,
+    "latitude": 22.820072,
+    "longitude": 69.518887,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -16881,10 +16881,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -17466,10 +17466,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1a864f9c",
+    "id": "cng-70792f3f",
     "name": "Ggl K M Cng Station",
-    "latitude": 22.873405,
-    "longitude": 71.850429,
+    "latitude": 22.873412,
+    "longitude": 71.850334,
     "city": "Surendranagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -25849,7 +25849,8 @@
     "longitude": 74.093554,
     "city": "Ambawade S.W.",
     "state": "Karnataka",
-    "source": "all_india_fuel"
+    "source": "osm_extra",
+    "operator": "Bharat Petroleum"
   },
   {
     "id": "cng-67e57304",
@@ -45472,10 +45473,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-59631198",
+    "id": "cng-408b0bc3",
     "name": "Varun Multicare Center",
-    "latitude": 22.700228,
-    "longitude": 75.914972,
+    "latitude": 22.700233,
+    "longitude": 75.915188,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -54336,6 +54337,16 @@
     "operator": "GAIL"
   },
   {
+    "id": "cng-9eabe65d",
+    "name": "Hp",
+    "latitude": 20.178594,
+    "longitude": 85.857932,
+    "city": "",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Hindustan Petroleum"
+  },
+  {
     "id": "cng-f8d30b35",
     "name": "Indian Oil",
     "latitude": 18.864666,
@@ -54595,6 +54606,16 @@
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7c08fe39",
+    "name": "Jay Auto Center",
+    "latitude": 20.19386,
+    "longitude": 85.860064,
+    "city": "",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Bharat Petroleum"
   },
   {
     "id": "cng-b5356ca9",
@@ -55134,7 +55155,8 @@
     "longitude": 85.844542,
     "city": "Bhubaneswar Municipal Corporation",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "osm_extra",
+    "operator": "Indian Oil"
   },
   {
     "id": "cng-027adb07",
@@ -55180,6 +55202,16 @@
     "city": "Charichhaka",
     "state": "Odisha",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-c1ae1fcf",
+    "name": "Dhabaleswar Filling Station",
+    "latitude": 20.550833,
+    "longitude": 86.329324,
+    "city": "Chhata",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Private"
   },
   {
     "id": "cng-3ed85f95",
@@ -55560,6 +55592,16 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-fc52ce93",
+    "name": "Reliance Petrol Pump",
+    "latitude": 20.068132,
+    "longitude": 85.986846,
+    "city": "Nimapada",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Reliance"
+  },
+  {
     "id": "cng-cb2233a6",
     "name": "Parija Fuels",
     "latitude": 20.061721,
@@ -55578,19 +55620,20 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-8572fa25",
-    "name": "Bharat Petroleum",
-    "latitude": 20.305419,
-    "longitude": 86.637894,
-    "city": "Paradeep",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-e0353eda",
     "name": "Bharat Petroleum",
     "latitude": 20.320867,
     "longitude": 86.550183,
+    "city": "Paradeep",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Private"
+  },
+  {
+    "id": "cng-8572fa25",
+    "name": "Bharat Petroleum",
+    "latitude": 20.305419,
+    "longitude": 86.637894,
     "city": "Paradeep",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -55621,6 +55664,16 @@
     "city": "Paradeep",
     "state": "Odisha",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-3df4335d",
+    "name": "Private Cng Station",
+    "latitude": 20.30881,
+    "longitude": 86.630486,
+    "city": "Paradeep",
+    "state": "Odisha",
+    "source": "osm_extra",
+    "operator": "Private"
   },
   {
     "id": "cng-3048f8a7",
@@ -55807,15 +55860,6 @@
     "name": "Indian Oil",
     "latitude": 19.715438,
     "longitude": 85.51566,
-    "city": "Puri",
-    "state": "Odisha",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7c08fe39",
-    "name": "Jay Auto Center",
-    "latitude": 20.19386,
-    "longitude": 85.860064,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -57945,10 +57989,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-406b941e",
+    "id": "cng-faf44374",
     "name": "Dillon Hp Auto Fuels",
-    "latitude": 31.637223,
-    "longitude": 74.877372,
+    "latitude": 31.637261,
+    "longitude": 74.877379,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58809,10 +58853,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-8b8c1b54",
+    "id": "cng-a50ec657",
     "name": "B S Filling Station",
-    "latitude": 31.821405,
-    "longitude": 75.194553,
+    "latitude": 31.795619,
+    "longitude": 75.152752,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -58840,6 +58884,24 @@
     "name": "Cng Station",
     "latitude": 32.034759,
     "longitude": 75.396288,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e3ed899e",
+    "name": "Cng Station",
+    "latitude": 32.129598,
+    "longitude": 75.489169,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fe82961",
+    "name": "Cng Station",
+    "latitude": 32.126752,
+    "longitude": 75.489412,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "cgd_inferred"

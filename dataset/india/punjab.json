@@ -1629,10 +1629,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-406b941e",
+    "id": "cng-faf44374",
     "name": "Dillon Hp Auto Fuels",
-    "latitude": 31.637223,
-    "longitude": 74.877372,
+    "latitude": 31.637261,
+    "longitude": 74.877379,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2493,10 +2493,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-8b8c1b54",
+    "id": "cng-a50ec657",
     "name": "B S Filling Station",
-    "latitude": 31.821405,
-    "longitude": 75.194553,
+    "latitude": 31.795619,
+    "longitude": 75.152752,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -2524,6 +2524,24 @@
     "name": "Cng Station",
     "latitude": 32.034759,
     "longitude": 75.396288,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e3ed899e",
+    "name": "Cng Station",
+    "latitude": 32.129598,
+    "longitude": 75.489169,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fe82961",
+    "name": "Cng Station",
+    "latitude": 32.126752,
+    "longitude": 75.489412,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "cgd_inferred"
