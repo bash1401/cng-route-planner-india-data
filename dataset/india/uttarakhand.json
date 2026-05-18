@@ -1737,15 +1737,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1d6aa661",
-    "name": "Cng Station",
-    "latitude": 29.53741,
-    "longitude": 77.736739,
-    "city": "Muzaffarnagar",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-6816dbb6",
     "name": "Cng Station",
     "latitude": 29.373652,
@@ -1807,6 +1798,15 @@
     "city": "Muzaffarnagar",
     "state": "Uttarakhand",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1d6aa661",
+    "name": "Indian Oil (Cng)",
+    "latitude": 29.53741,
+    "longitude": 77.736739,
+    "city": "Muzaffarnagar",
+    "state": "Uttarakhand",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-70d9d235",
