@@ -46601,14 +46601,6 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 26.742324,
-    "longitude": 88.436088,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
     "latitude": 26.717631,
     "longitude": 88.420893,
     "city": "Siliguri",
@@ -46835,6 +46827,14 @@
     "name": "Indian Oil",
     "latitude": 26.790792,
     "longitude": 88.36288,
+    "city": "Siliguri",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 26.742244,
+    "longitude": 88.436267,
     "city": "Siliguri",
     "state": "West Bengal",
     "source": "cgd_inferred"
@@ -53232,14 +53232,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Caravalhos Hp Petrol Pump",
-    "latitude": 15.588166,
-    "longitude": 73.808571,
-    "city": "Panaji/Goa",
-    "state": "Goa",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 15.508313,
     "longitude": 73.802236,
@@ -53417,7 +53409,7 @@
   },
   {
     "name": "Hindustan Petroleum",
-    "latitude": 15.590354,
+    "latitude": 15.590353,
     "longitude": 73.810415,
     "city": "Panaji/Goa",
     "state": "Goa",
@@ -53427,6 +53419,14 @@
     "name": "Gas Station, Old Goa",
     "latitude": 15.500477,
     "longitude": 73.916358,
+    "city": "Panaji/Goa",
+    "state": "Goa",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Caravalhos Hp Petrol Pump",
+    "latitude": 15.588103,
+    "longitude": 73.808416,
     "city": "Panaji/Goa",
     "state": "Goa",
     "source": "cgd_inferred"
