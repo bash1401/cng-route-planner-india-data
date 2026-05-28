@@ -18352,7 +18352,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Fuel",
+    "name": "Nayara Fule",
     "latitude": 20.042816,
     "longitude": 73.805671,
     "city": "Nashik",
@@ -32467,6 +32467,22 @@
     "name": "Indian Oil",
     "latitude": 8.749639,
     "longitude": 77.705593,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 8.698068,
+    "longitude": 77.727251,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Jio Bp",
+    "latitude": 8.703685,
+    "longitude": 77.72095,
     "city": "Tirunelveli",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -48224,6 +48240,30 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Essar",
+    "latitude": 27.305807,
+    "longitude": 73.602572,
+    "city": "Nagaur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat",
+    "latitude": 27.182607,
+    "longitude": 73.820603,
+    "city": "Nagaur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 27.177182,
+    "longitude": 73.669656,
+    "city": "Nagaur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Hp",
     "latitude": 25.775186,
     "longitude": 73.266729,
@@ -48785,14 +48825,6 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 20.255016,
-    "longitude": 85.787157,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
     "latitude": 20.272055,
     "longitude": 85.781985,
     "city": "Bhubaneswar",
@@ -49027,6 +49059,14 @@
     "name": "Indian Oil",
     "latitude": 20.243693,
     "longitude": 85.768955,
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.254934,
+    "longitude": 85.787211,
     "city": "Bhubaneswar",
     "state": "Odisha",
     "source": "cgd_inferred"
