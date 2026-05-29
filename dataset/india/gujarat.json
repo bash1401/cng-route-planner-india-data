@@ -171,6 +171,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-5e713539",
+    "name": "Cng Petrol Pump",
+    "latitude": 21.298809,
+    "longitude": 72.953897,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-751fd0a8",
     "name": "Cng Pump",
     "latitude": 22.574383,
@@ -3570,10 +3579,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3993,15 +4002,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-5e713539",
-    "name": "Cng Petrol Pump",
-    "latitude": 21.298809,
-    "longitude": 72.953897,
-    "city": "Surat",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
     "id": "cng-7e9901c1",
     "name": "Cng Station",
     "latitude": 21.188514,
@@ -4251,7 +4251,7 @@
     "longitude": 72.794779,
     "city": "Surat",
     "state": "Gujarat",
-    "source": "atgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-49113621",

@@ -780,15 +780,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-94cfd306",
-    "name": "Hindustan Petroleum",
-    "latitude": 20.237813,
-    "longitude": 85.811503,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-645eeec7",
     "name": "Hindustan Petroleum",
     "latitude": 20.334343,
@@ -1356,6 +1347,15 @@
     "city": "Khordha",
     "state": "Odisha",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7ce6d36c",
+    "name": "Jio-Bp",
+    "latitude": 20.176353,
+    "longitude": 85.640104,
+    "city": "Khordha",
+    "state": "Odisha",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-1dcbdab8",
