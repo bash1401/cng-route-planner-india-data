@@ -63,15 +63,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-b1f7dd6d",
-    "name": "Bharat Petroleum",
-    "latitude": 13.129995,
-    "longitude": 79.966329,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-727c6b79",
     "name": "Bharat Petroleum",
     "latitude": 13.084915,
@@ -2843,15 +2834,6 @@
     "name": "Indian Oil",
     "latitude": 12.817,
     "longitude": 77.691198,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c94615df",
-    "name": "Indian Oil",
-    "latitude": 13.262407,
-    "longitude": 80.024666,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -5696,15 +5678,6 @@
     "name": "Sri Sakthi Modern Fuels",
     "latitude": 11.242318,
     "longitude": 77.776669,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a658ba0b",
-    "name": "Thiruvallur Petrol Bunk",
-    "latitude": 13.140502,
-    "longitude": 79.906715,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -16056,6 +16029,87 @@
     "latitude": 11.212646,
     "longitude": 77.441716,
     "city": "Tiruppur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b1f7dd6d",
+    "name": "Bharat Petroleum",
+    "latitude": 13.129995,
+    "longitude": 79.966329,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c3349a3a",
+    "name": "Cng Station",
+    "latitude": 13.201106,
+    "longitude": 79.967952,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-abc53ca5",
+    "name": "Cng Station",
+    "latitude": 13.217273,
+    "longitude": 80.038779,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d6659c39",
+    "name": "Cng Station",
+    "latitude": 13.215416,
+    "longitude": 80.046423,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c290a482",
+    "name": "Cng Station",
+    "latitude": 13.125293,
+    "longitude": 80.035805,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ae58e288",
+    "name": "Cng Station",
+    "latitude": 13.125527,
+    "longitude": 80.040607,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c94615df",
+    "name": "Indian Oil",
+    "latitude": 13.262407,
+    "longitude": 80.024666,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-03770e43",
+    "name": "Reliance Petroleum",
+    "latitude": 13.142239,
+    "longitude": 79.901341,
+    "city": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a658ba0b",
+    "name": "Thiruvallur Petrol Bunk",
+    "latitude": 13.140502,
+    "longitude": 79.906715,
+    "city": "Tiruvallur",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
