@@ -99,6 +99,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-12d28a45",
+    "name": "Cng Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -2862,15 +2871,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-12d28a45",
-    "name": "Cng Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-1efce618",
     "name": "Cng Station",
     "latitude": 21.136329,
@@ -3084,7 +3084,7 @@
     "longitude": 79.038446,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
-    "source": "atgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-627ea82d",
