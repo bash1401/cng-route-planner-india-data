@@ -4432,6 +4432,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "CNG Station",
+    "latitude": 31.89805,
+    "longitude": 76.481168,
+    "city": "Kangra",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Bharat Petroleum",
     "latitude": 31.825595,
     "longitude": 76.484295,
@@ -51560,54 +51568,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 31.094835,
-    "longitude": 77.181627,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 31.102874,
-    "longitude": 77.199719,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petrol Pump",
-    "latitude": 31.105248,
-    "longitude": 77.206044,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petrol Pump",
-    "latitude": 31.104252,
-    "longitude": 77.203646,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 31.108392,
-    "longitude": 77.165105,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "H P",
-    "latitude": 31.114924,
-    "longitude": 77.101822,
-    "city": "Shimla",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Hp Petrol Pump",
     "latitude": 30.963821,
     "longitude": 77.19676,
@@ -52725,6 +52685,54 @@
     "longitude": 75.071685,
     "city": "Amritsar extended",
     "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 31.094835,
+    "longitude": 77.181627,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 31.102874,
+    "longitude": 77.199719,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 31.105248,
+    "longitude": 77.206044,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 31.104252,
+    "longitude": 77.203646,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 31.108392,
+    "longitude": 77.165105,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "H P",
+    "latitude": 31.114924,
+    "longitude": 77.101822,
+    "city": "Shimla ext",
+    "state": "Himachal Pradesh",
     "source": "cgd_inferred"
   },
   {

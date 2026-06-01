@@ -2583,10 +2583,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6d60ce87",
+    "id": "cng-4dde5b57",
     "name": "Madan Filling Station",
-    "latitude": 31.817623,
-    "longitude": 75.211594,
+    "latitude": 31.817447,
+    "longitude": 75.211581,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -3226,6 +3226,15 @@
     "name": "Cng Station",
     "latitude": 32.02052,
     "longitude": 76.232881,
+    "city": "Kangra",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b970e81b",
+    "name": "Cng Station",
+    "latitude": 31.89805,
+    "longitude": 76.481168,
     "city": "Kangra",
     "state": "Punjab",
     "source": "cgd_inferred"
