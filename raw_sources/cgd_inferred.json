@@ -8080,46 +8080,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 20.401034,
-    "longitude": 72.888279,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 20.407168,
-    "longitude": 72.8849,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Naresh Desai Cng Pump",
-    "latitude": 20.321529,
-    "longitude": 72.902689,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "भारत पेटरोल पमप",
-    "latitude": 20.476228,
-    "longitude": 72.930649,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 20.331125,
-    "longitude": 72.872493,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 23.821109,
     "longitude": 72.252097,
@@ -8141,6 +8101,22 @@
     "longitude": 77.841884,
     "city": "Khurja",
     "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.401034,
+    "longitude": 72.888279,
+    "city": "Daman",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.407168,
+    "longitude": 72.8849,
+    "city": "Daman",
+    "state": "Daman and Diu",
     "source": "cgd_inferred"
   },
   {
@@ -28344,6 +28320,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 17.738996,
+    "longitude": 83.303283,
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "CNG Station",
     "latitude": 17.742528,
     "longitude": 83.328505,
@@ -45576,6 +45560,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Hp Gasoffice",
+    "latitude": 18.104806,
+    "longitude": 78.8433,
+    "city": "Siddipet",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "CNG Station",
     "latitude": 18.094891,
     "longitude": 78.984718,
@@ -45659,6 +45651,14 @@
     "name": "CNG Station",
     "latitude": 19.767049,
     "longitude": 78.565204,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Tirumala Gas Station",
+    "latitude": 19.658946,
+    "longitude": 78.524128,
     "city": "Adilabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -48160,38 +48160,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 29.983111,
-    "longitude": 74.039086,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Petrol Pump",
-    "latitude": 29.970637,
-    "longitude": 74.026338,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Petrol Pump",
-    "latitude": 29.822748,
-    "longitude": 74.037694,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 29.876591,
-    "longitude": 73.9224,
-    "city": "Sri Ganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Petrol Pump",
     "latitude": 29.587067,
     "longitude": 74.322764,
@@ -50208,46 +50176,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 30.618794,
-    "longitude": 74.794216,
-    "city": "Faridkot",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 30.722718,
-    "longitude": 74.733964,
-    "city": "Faridkot",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 30.653608,
-    "longitude": 74.770327,
-    "city": "Faridkot",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Reliance",
-    "latitude": 30.736217,
-    "longitude": 74.858518,
-    "city": "Faridkot",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "H P",
-    "latitude": 30.684035,
-    "longitude": 74.776849,
-    "city": "Faridkot",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 30.481938,
     "longitude": 74.540112,
@@ -51568,6 +51496,54 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 31.094835,
+    "longitude": 77.181627,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 31.102874,
+    "longitude": 77.199719,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 31.105248,
+    "longitude": 77.206044,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 31.104252,
+    "longitude": 77.203646,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 31.108392,
+    "longitude": 77.165105,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "H P",
+    "latitude": 31.114924,
+    "longitude": 77.101822,
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Hp Petrol Pump",
     "latitude": 30.963821,
     "longitude": 77.19676,
@@ -52685,54 +52661,6 @@
     "longitude": 75.071685,
     "city": "Amritsar extended",
     "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 31.094835,
-    "longitude": 77.181627,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 31.102874,
-    "longitude": 77.199719,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petrol Pump",
-    "latitude": 31.105248,
-    "longitude": 77.206044,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petrol Pump",
-    "latitude": 31.104252,
-    "longitude": 77.203646,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 31.108392,
-    "longitude": 77.165105,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "H P",
-    "latitude": 31.114924,
-    "longitude": 77.101822,
-    "city": "Shimla ext",
-    "state": "Himachal Pradesh",
     "source": "cgd_inferred"
   },
   {

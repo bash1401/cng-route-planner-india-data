@@ -1521,6 +1521,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-2e680f8d",
+    "name": "Indian Oil",
+    "latitude": 17.837897,
+    "longitude": 78.696044,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8c9aa470",
     "name": "Indian Oil",
     "latitude": 17.229294,
@@ -1935,6 +1944,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-8e84b914",
+    "name": "Indian Oil Petrol Bunk",
+    "latitude": 18.608879,
+    "longitude": 79.37857,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-9073e308",
     "name": "Indian Oil Petrol Bunk",
     "latitude": 17.116285,
@@ -2200,6 +2218,15 @@
     "name": "Nike Gas",
     "latitude": 19.685591,
     "longitude": 78.545973,
+    "city": "Adilabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5827b472",
+    "name": "Tirumala Gas Station",
+    "latitude": 19.658946,
+    "longitude": 78.524128,
     "city": "Adilabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -6313,6 +6340,15 @@
     "name": "Hp Filling Station",
     "latitude": 18.10154,
     "longitude": 78.852338,
+    "city": "Siddipet",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e5da0e3b",
+    "name": "Hp Gasoffice",
+    "latitude": 18.104806,
+    "longitude": 78.8433,
     "city": "Siddipet",
     "state": "Telangana",
     "source": "cgd_inferred"

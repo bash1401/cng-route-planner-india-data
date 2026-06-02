@@ -36,6 +36,24 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-8b72e82d",
+    "name": "Bharat Petroleum",
+    "latitude": 20.401034,
+    "longitude": 72.888279,
+    "city": "Daman",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8206fdfd",
+    "name": "Bharat Petroleum",
+    "latitude": 20.407168,
+    "longitude": 72.8849,
+    "city": "Daman",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-b547a324",
     "name": "Bharat Petroleum",
     "latitude": 20.545811,
@@ -106,41 +124,5 @@
     "city": "Valsad",
     "state": "Daman and Diu",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-8b72e82d",
-    "name": "Bharat Petroleum",
-    "latitude": 20.401034,
-    "longitude": 72.888279,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8206fdfd",
-    "name": "Bharat Petroleum",
-    "latitude": 20.407168,
-    "longitude": 72.8849,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f038aac6",
-    "name": "Hp",
-    "latitude": 20.331125,
-    "longitude": 72.872493,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d43c9d98",
-    "name": "भारत पेटरोल पमप",
-    "latitude": 20.476228,
-    "longitude": 72.930649,
-    "city": "Vapi/Umbergaon",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
   }
 ]
