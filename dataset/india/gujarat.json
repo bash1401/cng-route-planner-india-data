@@ -888,6 +888,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d0fc6965",
+    "name": "Cng Station",
+    "latitude": 23.083585,
+    "longitude": 72.592174,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-377f1fa4",
     "name": "Cng Station",
     "latitude": 23.079266,
@@ -1176,10 +1185,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2d9e23c6",
+    "id": "cng-b4502c1c",
     "name": "Visat Automobile",
-    "latitude": 23.084927,
-    "longitude": 72.593031,
+    "latitude": 23.085444,
+    "longitude": 72.593101,
     "city": "Ahmedabad",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -1365,24 +1374,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-4b148504",
-    "name": "Cng Station",
-    "latitude": 22.509792,
-    "longitude": 73.027299,
-    "city": "Anand",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-debd3c8c",
-    "name": "Cng Station",
-    "latitude": 22.483631,
-    "longitude": 73.047873,
-    "city": "Anand",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-64a57c80",
     "name": "Danev Petroleum",
     "latitude": 22.377402,
@@ -1444,15 +1435,6 @@
     "city": "Anand",
     "state": "Gujarat",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-a8db6b3c",
-    "name": "Hp",
-    "latitude": 22.57237,
-    "longitude": 72.941783,
-    "city": "Anand",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-dafbc829",
@@ -3570,10 +3552,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-ecc69d6d",
+    "id": "cng-1f462c43",
     "name": "Master Petroleum",
-    "latitude": 22.77011,
-    "longitude": 73.619982,
+    "latitude": 22.772495,
+    "longitude": 73.620804,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4155,10 +4137,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a68ed7a7",
+    "id": "cng-bda05dc1",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459871,
-    "longitude": 73.153273,
+    "latitude": 21.459434,
+    "longitude": 73.153175,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
