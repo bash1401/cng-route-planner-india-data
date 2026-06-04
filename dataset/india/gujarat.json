@@ -1374,6 +1374,24 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-4b148504",
+    "name": "Cng Station",
+    "latitude": 22.509792,
+    "longitude": 73.027299,
+    "city": "Anand",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-debd3c8c",
+    "name": "Cng Station",
+    "latitude": 22.483631,
+    "longitude": 73.047873,
+    "city": "Anand",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-64a57c80",
     "name": "Danev Petroleum",
     "latitude": 22.377402,
@@ -1435,6 +1453,15 @@
     "city": "Anand",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-a8db6b3c",
+    "name": "Hp",
+    "latitude": 22.57237,
+    "longitude": 72.941783,
+    "city": "Anand",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-dafbc829",
@@ -4137,10 +4164,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"

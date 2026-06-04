@@ -351,10 +351,10 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-70c0d41c",
+    "id": "cng-996c89d8",
     "name": "Doyel Cng Filling Station",
-    "latitude": 24.872332,
-    "longitude": 89.352557,
+    "latitude": 24.872394,
+    "longitude": 89.352663,
     "city": "",
     "state": "West Bengal",
     "source": "osm_allstations"
@@ -990,6 +990,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6f61d86f",
+    "name": "Indian Oil Petrol Bunk",
+    "latitude": 21.505041,
+    "longitude": 86.913676,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-239af325",
     "name": "Indian Oil Petrol Pump",
     "latitude": 21.572151,
@@ -1186,42 +1195,6 @@
     "city": "",
     "state": "West Bengal",
     "source": "osm_allstations"
-  },
-  {
-    "id": "cng-bb6c69ef",
-    "name": "Hp",
-    "latitude": 21.499517,
-    "longitude": 86.923545,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-32ceebab",
-    "name": "Hp",
-    "latitude": 21.510713,
-    "longitude": 86.902832,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6f61d86f",
-    "name": "Indian Oil Petrol Bunk",
-    "latitude": 21.505041,
-    "longitude": 86.913676,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-78a08732",
-    "name": "Petrol Pump",
-    "latitude": 21.4926,
-    "longitude": 86.926626,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-9af8f0a9",
