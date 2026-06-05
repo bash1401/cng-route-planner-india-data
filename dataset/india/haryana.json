@@ -311,15 +311,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-6b553a34",
-    "name": "Cng Station",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-a1e0ef4f",
     "name": "Cng Station",
     "latitude": 28.784087,
@@ -335,7 +326,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6749a9a9",
@@ -477,24 +468,6 @@
     "name": "Indian Oil",
     "latitude": 28.794449,
     "longitude": 76.616148,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f75bf6ea",
-    "name": "Indian Oil",
-    "latitude": 28.730503,
-    "longitude": 76.630463,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-0b17ec9f",
-    "name": "Indian Oil",
-    "latitude": 28.677083,
-    "longitude": 76.636513,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -902,7 +875,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-28edfc87",
@@ -945,15 +918,6 @@
     "name": "Om Siddha Filling Station",
     "latitude": 28.524801,
     "longitude": 77.589012,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-966171e9",
-    "name": "Raghav Fuels",
-    "latitude": 28.711324,
-    "longitude": 76.632829,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1418,6 +1382,60 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-21fdd8ee",
+    "name": "Cng Station",
+    "latitude": 28.563811,
+    "longitude": 76.703198,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-057f96da",
+    "name": "Cng Station",
+    "latitude": 28.56642,
+    "longitude": 76.694195,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1a920dc0",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.66888,
+    "longitude": 76.637591,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f75bf6ea",
+    "name": "Indian Oil",
+    "latitude": 28.730503,
+    "longitude": 76.630463,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0b17ec9f",
+    "name": "Indian Oil",
+    "latitude": 28.677083,
+    "longitude": 76.636513,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-966171e9",
+    "name": "Raghav Fuels",
+    "latitude": 28.711324,
+    "longitude": 76.632829,
+    "city": "Jhajjar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-4c5a9b2f",
     "name": "Cng Station",
     "latitude": 28.137944,
@@ -1515,6 +1533,15 @@
     "city": "Karnal",
     "state": "Haryana",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6b553a34",
+    "name": "Igl Cng Pump Panipat",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "Karnal",
+    "state": "Haryana",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-fc0c77dd",

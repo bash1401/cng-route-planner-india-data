@@ -2354,6 +2354,17 @@
     "operator": ""
   },
   {
+    "id": "osm-node-13890311968",
+    "name": "Igl Ev Charging Station",
+    "latitude": 28.589931,
+    "longitude": 77.229278,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm",
+    "address": "Delhi",
+    "operator": "IGL"
+  },
+  {
     "id": "osm-way-40734170",
     "name": "Cng Station",
     "latitude": 18.985254,
@@ -2693,6 +2704,17 @@
     "source": "osm",
     "address": "Maharashtra",
     "operator": "MNGL"
+  },
+  {
+    "id": "osm-way-618567092",
+    "name": "Jio-Bp",
+    "latitude": 20.176353,
+    "longitude": 85.640104,
+    "city": "Khordha",
+    "state": "Odisha",
+    "source": "osm",
+    "address": "Industrial Area, Khurdha Bypass Road, Khordha, Odisha",
+    "operator": ""
   },
   {
     "id": "osm-way-623835181",

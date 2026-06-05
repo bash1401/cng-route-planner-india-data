@@ -171,6 +171,24 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-6c82eeb7",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.284186,
+    "longitude": 70.769197,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-26b24f40",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.258577,
+    "longitude": 70.704029,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-751fd0a8",
     "name": "Cng Pump",
     "latitude": 22.574383,
@@ -3579,10 +3597,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1f462c43",
+    "id": "cng-ecc69d6d",
     "name": "Master Petroleum",
-    "latitude": 22.772495,
-    "longitude": 73.620804,
+    "latitude": 22.77011,
+    "longitude": 73.619982,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3694,24 +3712,6 @@
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-6c82eeb7",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.284186,
-    "longitude": 70.769197,
-    "city": "Rajkot",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "id": "cng-26b24f40",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.258577,
-    "longitude": 70.704029,
-    "city": "Rajkot",
-    "state": "Gujarat",
-    "source": "atgl"
   },
   {
     "id": "cng-ffa5f4ed",

@@ -558,6 +558,17 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-d9634afb",
+    "name": "Igl Ev Charging Station",
+    "latitude": 28.589931,
+    "longitude": 77.229278,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm",
+    "address": "Delhi",
+    "operator": "IGL"
+  },
+  {
     "id": "cng-2ab35275",
     "name": "Igl Gas Station",
     "latitude": 28.71645,
@@ -2002,15 +2013,6 @@
     "name": "Hp",
     "latitude": 28.567886,
     "longitude": 77.223695,
-    "city": "Delhi",
-    "state": "Delhi",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-386cd982",
-    "name": "Hp",
-    "latitude": 28.590962,
-    "longitude": 77.229965,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
