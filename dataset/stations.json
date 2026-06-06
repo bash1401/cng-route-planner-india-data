@@ -12935,24 +12935,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-6c82eeb7",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.284186,
-    "longitude": 70.769197,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-26b24f40",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.258577,
-    "longitude": 70.704029,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-751fd0a8",
     "name": "Cng Pump",
     "latitude": 22.574383,
@@ -13031,6 +13013,15 @@
     "name": "Gujarat Gas Cng Station",
     "latitude": 22.843443,
     "longitude": 70.859745,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-85511c90",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 21.750262,
+    "longitude": 72.133216,
     "city": "",
     "state": "Gujarat",
     "source": "osm_allstations"
@@ -14712,15 +14703,6 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-85511c90",
-    "name": "Gujarat Gas Cng Station",
-    "latitude": 21.750262,
-    "longitude": 72.133216,
-    "city": "Bhavnagar",
-    "state": "Gujarat",
-    "source": "atgl"
   },
   {
     "id": "cng-e408b5d5",
@@ -16478,6 +16460,24 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-6c82eeb7",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.284186,
+    "longitude": 70.769197,
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "id": "cng-26b24f40",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.258577,
+    "longitude": 70.704029,
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
     "id": "cng-ffa5f4ed",
     "name": "Dhyey Petroleum",
     "latitude": 21.72204,
@@ -16928,10 +16928,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a68ed7a7",
+    "id": "cng-bda05dc1",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459871,
-    "longitude": 73.153273,
+    "latitude": 21.459434,
+    "longitude": 73.153175,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -18652,6 +18652,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-6b553a34",
+    "name": "Cng Station",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-a1e0ef4f",
     "name": "Cng Station",
     "latitude": 28.784087,
@@ -18667,7 +18676,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-6749a9a9",
@@ -19216,7 +19225,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-28edfc87",
@@ -19435,10 +19444,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -19874,15 +19883,6 @@
     "city": "Karnal",
     "state": "Haryana",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6b553a34",
-    "name": "Igl Cng Pump Panipat",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-fc0c77dd",
@@ -45043,6 +45043,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-7246bba1",
+    "name": "Hindustan Petroleum",
+    "latitude": 22.740971,
+    "longitude": 75.785594,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-dcdd580f",
     "name": "Hp",
     "latitude": 22.717008,
@@ -45925,10 +45934,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-408b0bc3",
+    "id": "cng-a0722676",
     "name": "Varun Multicare Center",
-    "latitude": 22.700232,
-    "longitude": 75.915188,
+    "latitude": 22.701545,
+    "longitude": 75.913315,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -47380,6 +47389,15 @@
     "name": "Bharat Petroleum",
     "latitude": 18.445352,
     "longitude": 73.121121,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d2a86aae",
+    "name": "Bharat Petroleum",
+    "latitude": 18.626965,
+    "longitude": 73.752636,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -52435,15 +52453,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d2a86aae",
-    "name": "Bharat Petroleum",
-    "latitude": 18.626965,
-    "longitude": 73.752636,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-ce71e894",
     "name": "Bpcl",
     "latitude": 18.507832,
@@ -52520,6 +52529,15 @@
     "name": "Cng Station",
     "latitude": 18.60918,
     "longitude": 73.782216,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14360f52",
+    "name": "Cng Station",
+    "latitude": 18.58053,
+    "longitude": 73.721971,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -52655,24 +52673,6 @@
     "name": "Hindustan Petroleum",
     "latitude": 18.523552,
     "longitude": 73.917981,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-14360f52",
-    "name": "Hindustan Petroleum",
-    "latitude": 18.580513,
-    "longitude": 73.721984,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1e23cff8",
-    "name": "Hindustan Petroleum",
-    "latitude": 18.598627,
-    "longitude": 73.729167,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -53777,10 +53777,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-12fb5f0d",
+    "id": "cng-2a39bee7",
     "name": "R K Petroleum",
-    "latitude": 19.076194,
-    "longitude": 73.00402,
+    "latitude": 19.07756,
+    "longitude": 73.003111,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
