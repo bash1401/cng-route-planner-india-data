@@ -270,15 +270,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-e11fac8d",
-    "name": "Indian Oil",
-    "latitude": 26.872674,
-    "longitude": 75.820837,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-19beaaf3",
     "name": "Indian Oil",
     "latitude": 22.456353,
@@ -2925,6 +2916,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e11fac8d",
+    "name": "Indian Oil",
+    "latitude": 26.872674,
+    "longitude": 75.820837,
+    "city": "Jaipur",
+    "state": "Madhya Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-612b6f43",
     "name": "Indian Oil",
     "latitude": 26.846049,
@@ -3078,10 +3078,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a0722676",
+    "id": "cng-06569776",
     "name": "Varun Multicare Center",
-    "latitude": 22.701545,
-    "longitude": 75.913315,
+    "latitude": 22.701556,
+    "longitude": 75.913512,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"

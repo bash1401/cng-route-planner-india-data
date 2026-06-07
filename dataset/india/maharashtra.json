@@ -200,15 +200,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d2a86aae",
-    "name": "Bharat Petroleum",
-    "latitude": 18.626965,
-    "longitude": 73.752636,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-21020567",
     "name": "Bharat Petroleum",
     "latitude": 19.442972,
@@ -5259,6 +5250,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d2a86aae",
+    "name": "Bharat Petroleum",
+    "latitude": 18.626965,
+    "longitude": 73.752636,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-ce71e894",
     "name": "Bpcl",
     "latitude": 18.507832,
@@ -5335,15 +5335,6 @@
     "name": "Cng Station",
     "latitude": 18.60918,
     "longitude": 73.782216,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-14360f52",
-    "name": "Cng Station",
-    "latitude": 18.58053,
-    "longitude": 73.721971,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -5479,6 +5470,24 @@
     "name": "Hindustan Petroleum",
     "latitude": 18.523552,
     "longitude": 73.917981,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14360f52",
+    "name": "Hindustan Petroleum",
+    "latitude": 18.580513,
+    "longitude": 73.721984,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1e23cff8",
+    "name": "Hindustan Petroleum",
+    "latitude": 18.598627,
+    "longitude": 73.729167,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
