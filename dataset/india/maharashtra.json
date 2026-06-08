@@ -534,15 +534,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-d7ecde73",
-    "name": "Cng Station",
-    "latitude": 18.95157,
-    "longitude": 73.174373,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-f23dd5e1",
     "name": "Company Owned",
     "latitude": 20.79852,
@@ -676,15 +667,6 @@
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a978b6e9",
-    "name": "Hindustan Petroleum",
-    "latitude": 19.022418,
-    "longitude": 73.099505,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
   },
   {
     "id": "cng-6974ae41",
@@ -3043,6 +3025,24 @@
     "city": "Mulund (West)",
     "state": "Maharashtra",
     "source": "igl_mgl"
+  },
+  {
+    "id": "cng-d7ecde73",
+    "name": "Bharat Petroleum Amol Auto Petrol & Cng Pump",
+    "latitude": 18.95157,
+    "longitude": 73.174373,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
+    "id": "cng-a978b6e9",
+    "name": "Cng Pump",
+    "latitude": 19.022418,
+    "longitude": 73.099505,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-c4aa66b9",
@@ -6592,10 +6592,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2a39bee7",
+    "id": "cng-12fb5f0d",
     "name": "R K Petroleum",
-    "latitude": 19.07756,
-    "longitude": 73.003111,
+    "latitude": 19.076194,
+    "longitude": 73.00402,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
