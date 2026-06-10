@@ -9195,8 +9195,8 @@
   {
     "id": "cng-f6a3524c",
     "name": "Indian Oil",
-    "latitude": 12.959943,
-    "longitude": 77.64573,
+    "latitude": 12.959912,
+    "longitude": 77.645718,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -14791,6 +14791,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-5fb1004f",
+    "name": "Bharat Petroleum",
+    "latitude": 11.710508,
+    "longitude": 78.088164,
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-ceeaf457",
     "name": "Bharat Petroleum",
     "latitude": 11.702803,
@@ -15700,6 +15709,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-c585b6f8",
+    "name": "Jio Bp",
+    "latitude": 8.87819,
+    "longitude": 78.111371,
+    "city": "Thoothukudi/Tuticorin",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-62a9e496",
     "name": "Nayara",
     "latitude": 8.824319,
@@ -15713,15 +15731,6 @@
     "name": "Reliance",
     "latitude": 8.774346,
     "longitude": 78.087362,
-    "city": "Thoothukudi/Tuticorin",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c585b6f8",
-    "name": "Reliance",
-    "latitude": 8.87819,
-    "longitude": 78.111371,
     "city": "Thoothukudi/Tuticorin",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
