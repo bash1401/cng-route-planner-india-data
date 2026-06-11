@@ -254,6 +254,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-85511c90",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 21.750262,
+    "longitude": 72.133216,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-72a7f0a8",
     "name": "Indian Oil",
     "latitude": 22.620383,
@@ -1930,15 +1939,6 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-85511c90",
-    "name": "Gujarat Gas Cng Station",
-    "latitude": 21.750262,
-    "longitude": 72.133216,
-    "city": "Bhavnagar",
-    "state": "Gujarat",
-    "source": "atgl"
   },
   {
     "id": "cng-e408b5d5",
