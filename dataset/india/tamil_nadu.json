@@ -558,6 +558,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-5fb1004f",
+    "name": "Bharat Petroleum",
+    "latitude": 11.710508,
+    "longitude": 78.088164,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-1dbd9f48",
     "name": "Bharat Petroleum",
     "latitude": 12.539091,
@@ -14791,15 +14800,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-5fb1004f",
-    "name": "Bharat Petroleum",
-    "latitude": 11.710508,
-    "longitude": 78.088164,
-    "city": "Salem",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-ceeaf457",
     "name": "Bharat Petroleum",
     "latitude": 11.702803,
@@ -15889,6 +15889,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9152a65b",
+    "name": "Hp",
+    "latitude": 8.698068,
+    "longitude": 77.727251,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-cc977e38",
     "name": "Hp",
     "latitude": 8.679847,
@@ -15956,6 +15965,15 @@
     "name": "Indian Oil Petrol Station",
     "latitude": 8.780749,
     "longitude": 77.722043,
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a1496f34",
+    "name": "Jio Bp",
+    "latitude": 8.703685,
+    "longitude": 77.72095,
     "city": "Tirunelveli",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

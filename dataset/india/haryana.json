@@ -1886,15 +1886,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b28874c5",
-    "name": "Cng Station",
-    "latitude": 28.163795,
-    "longitude": 77.148843,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-e99e5f6a",
     "name": "Hp",
     "latitude": 28.239093,
@@ -1917,6 +1908,15 @@
     "name": "Indian Oil",
     "latitude": 28.241917,
     "longitude": 77.074387,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b28874c5",
+    "name": "Wsa_19+500_Type-2_Rhs",
+    "latitude": 28.163795,
+    "longitude": 77.148843,
     "city": "Nuh/Mewat",
     "state": "Haryana",
     "source": "cgd_inferred"
