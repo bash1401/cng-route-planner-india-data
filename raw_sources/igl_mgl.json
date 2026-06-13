@@ -40,14 +40,6 @@
     "source": "igl_mgl"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 28.585527,
-    "longitude": 77.309298,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
     "name": "Cng Fuel Station",
     "latitude": 28.595924,
     "longitude": 77.029008,
@@ -723,6 +715,14 @@
     "name": "Igl",
     "latitude": 28.666346,
     "longitude": 77.307588,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 28.585543,
+    "longitude": 77.309326,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"

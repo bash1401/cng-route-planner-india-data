@@ -1818,15 +1818,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b12a30ea",
-    "name": "Cng Station",
-    "latitude": 23.233328,
-    "longitude": 77.402315,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-673efd01",
     "name": "Cng Station",
     "latitude": 23.235489,
@@ -2011,6 +2002,15 @@
     "name": "Indian Oil",
     "latitude": 23.225693,
     "longitude": 77.422845,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b12a30ea",
+    "name": "Indian Oil",
+    "latitude": 23.233328,
+    "longitude": 77.402315,
     "city": "Bhopal",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
