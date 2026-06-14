@@ -522,10 +522,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9287b9af",
+    "id": "cng-0740ac3e",
     "name": "Bharat Petroleum",
-    "latitude": 17.745315,
-    "longitude": 81.397378,
+    "latitude": 17.745038,
+    "longitude": 81.397085,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -16928,10 +16928,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -44674,15 +44674,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-673efd01",
-    "name": "Cng Station",
-    "latitude": 23.235489,
-    "longitude": 77.428771,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2ade7855",
     "name": "Cng Station",
     "latitude": 23.247829,
@@ -44777,6 +44768,15 @@
     "name": "Cng Station",
     "latitude": 23.231462,
     "longitude": 77.457662,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-673efd01",
+    "name": "Hindustan Petroleum",
+    "latitude": 23.235489,
+    "longitude": 77.428771,
     "city": "Bhopal",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -59440,10 +59440,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-d8eef260",
+    "id": "cng-1da7ddb5",
     "name": "Vijendra Filling Station",
-    "latitude": 30.08265,
-    "longitude": 74.780363,
+    "latitude": 30.072628,
+    "longitude": 74.778706,
     "city": "Bathinda",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -94626,6 +94626,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6e5331c7",
+    "name": "Bharat Petroleum",
+    "latitude": 22.877767,
+    "longitude": 88.015902,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-5f744b2c",
     "name": "Bogra Cng Filling Station",
     "latitude": 24.882523,
@@ -95305,6 +95314,24 @@
     "name": "Indian Oil",
     "latitude": 26.593984,
     "longitude": 88.588986,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b7c148ac",
+    "name": "Indian Oil",
+    "latitude": 22.886837,
+    "longitude": 88.008945,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-f5597959",
+    "name": "Indian Oil",
+    "latitude": 22.876597,
+    "longitude": 88.014221,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
