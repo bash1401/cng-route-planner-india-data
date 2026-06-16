@@ -698,6 +698,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-46119ac2",
+    "name": "Indian Oil",
+    "latitude": 28.796352,
+    "longitude": 76.147218,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-a9071220",
     "name": "Indian Oil",
     "latitude": 28.267927,
@@ -819,6 +828,24 @@
     "name": "Indian Oil",
     "latitude": 28.964079,
     "longitude": 75.821203,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2ce0dc92",
+    "name": "Indian Oil",
+    "latitude": 28.785744,
+    "longitude": 76.124237,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-cf753ac5",
+    "name": "Indian Oil",
+    "latitude": 28.790852,
+    "longitude": 76.13067,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -986,42 +1013,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-2028f895",
-    "name": "Chaudhary Petrol Station",
-    "latitude": 28.797963,
-    "longitude": 76.144727,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0d780d15",
-    "name": "Hp",
-    "latitude": 28.792426,
-    "longitude": 76.130562,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-46119ac2",
-    "name": "Indian Oil",
-    "latitude": 28.796352,
-    "longitude": 76.147218,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2ce0dc92",
-    "name": "Indian Oil",
-    "latitude": 28.785744,
-    "longitude": 76.124237,
-    "city": "Bhiwani",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-cdaa733f",
     "name": "Indian Oil",
     "latitude": 28.659564,
@@ -1103,10 +1094,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"

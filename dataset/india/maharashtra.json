@@ -440,7 +440,7 @@
     "longitude": 72.877234,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a3de1f1c",
@@ -462,15 +462,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-868a03fc",
-    "name": "Cng Station",
-    "latitude": 19.213694,
-    "longitude": 72.837267,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-914f5885",
     "name": "Cng Station",
     "latitude": 19.121827,
@@ -480,19 +471,19 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-1a8f82aa",
+    "id": "cng-d9810900",
     "name": "Cng Station",
-    "latitude": 19.290763,
-    "longitude": 72.862833,
+    "latitude": 19.118038,
+    "longitude": 73.006688,
     "city": "",
     "state": "Maharashtra",
     "source": "igl_mgl"
   },
   {
-    "id": "cng-96b03cd0",
+    "id": "cng-d7ecde73",
     "name": "Cng Station",
-    "latitude": 18.985254,
-    "longitude": 72.830855,
+    "latitude": 18.95157,
+    "longitude": 73.174373,
     "city": "",
     "state": "Maharashtra",
     "source": "igl_mgl"
@@ -516,13 +507,13 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-d9810900",
+    "id": "cng-868a03fc",
     "name": "Cng Station",
-    "latitude": 19.118038,
-    "longitude": 73.006688,
+    "latitude": 19.213694,
+    "longitude": 72.837267,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-07c93238",
@@ -531,16 +522,7 @@
     "longitude": 72.916476,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-d7ecde73",
-    "name": "Cng Station",
-    "latitude": 18.95157,
-    "longitude": 73.174373,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-f23dd5e1",
@@ -756,7 +738,7 @@
     "longitude": 72.832203,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cf861e7a",
@@ -774,7 +756,7 @@
     "longitude": 72.832141,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-7c89718a",
@@ -1422,22 +1404,13 @@
     "longitude": 72.831771,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-10e98894",
     "name": "Mahanagar Cng Station",
     "latitude": 19.034594,
     "longitude": 73.028686,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-190d47d6",
-    "name": "Mahanagar Gas",
-    "latitude": 19.063177,
-    "longitude": 73.023107,
     "city": "",
     "state": "Maharashtra",
     "source": "igl_mgl"
@@ -1452,13 +1425,31 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-190d47d6",
+    "name": "Mahanagar Gas",
+    "latitude": 19.063177,
+    "longitude": 73.023107,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-96b03cd0",
+    "name": "Mahanagar Gas",
+    "latitude": 18.985254,
+    "longitude": 72.830855,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-65b61621",
     "name": "Mahanagar Gas",
     "latitude": 19.175557,
     "longitude": 72.864375,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-16a02d22",
@@ -1476,7 +1467,7 @@
     "longitude": 72.878713,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-bda16e61",
@@ -1485,7 +1476,7 @@
     "longitude": 72.864608,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-79e0cb1b",
@@ -1503,7 +1494,7 @@
     "longitude": 72.900328,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-ce6f5ced",
@@ -1692,7 +1683,7 @@
     "longitude": 72.839974,
     "city": "",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c9683e2f",
@@ -2712,15 +2703,6 @@
     "source": "mngl"
   },
   {
-    "id": "cng-8c0d9fc7",
-    "name": "Nayara Petrol Pump (Pitty)",
-    "latitude": 19.841838,
-    "longitude": 75.890354,
-    "city": "Jalna",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-337b9fe6",
     "name": "Mngl - Ganesh Enterprises Cng",
     "latitude": 18.468692,
@@ -2952,7 +2934,7 @@
     "longitude": 72.887167,
     "city": "Mira Road East, Thane",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d0bafc52",
@@ -2961,7 +2943,7 @@
     "longitude": 72.881271,
     "city": "Mira Road East, Thane",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d969a4c6",
@@ -6502,31 +6484,13 @@
     "source": "mngl"
   },
   {
-    "id": "cng-e39f083b",
-    "name": "Cng Station",
-    "latitude": 19.337567,
-    "longitude": 73.112426,
+    "id": "cng-1a8f82aa",
+    "name": "Bharat Petroleum & Cng Pump",
+    "latitude": 19.290763,
+    "longitude": 72.862833,
     "city": "Thane",
     "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4a6bc61d",
-    "name": "Cng Station",
-    "latitude": 19.236731,
-    "longitude": 73.126433,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4d527361",
-    "name": "Cng Station",
-    "latitude": 19.16865,
-    "longitude": 73.11572,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-45fc7a7b",
@@ -6556,24 +6520,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-7e485d32",
-    "name": "H P Katai Petrol Pump",
-    "latitude": 19.17189,
-    "longitude": 73.082873,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7852fb28",
-    "name": "Indian Oil",
-    "latitude": 19.253401,
-    "longitude": 73.097753,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-aece7ef9",
     "name": "Indian Oil Petrol Pump",
     "latitude": 19.280137,
@@ -6592,10 +6538,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-12fb5f0d",
+    "id": "cng-2a39bee7",
     "name": "R K Petroleum",
-    "latitude": 19.076194,
-    "longitude": 73.00402,
+    "latitude": 19.07756,
+    "longitude": 73.003111,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -6619,10 +6565,55 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e39f083b",
+    "name": "Cng Station",
+    "latitude": 19.337567,
+    "longitude": 73.112426,
+    "city": "Thane/Ulhasnagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4a6bc61d",
+    "name": "Cng Station",
+    "latitude": 19.236731,
+    "longitude": 73.126433,
+    "city": "Thane/Ulhasnagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4d527361",
+    "name": "Cng Station",
+    "latitude": 19.16865,
+    "longitude": 73.11572,
+    "city": "Thane/Ulhasnagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7e485d32",
+    "name": "H P Katai Petrol Pump",
+    "latitude": 19.17189,
+    "longitude": 73.082873,
+    "city": "Thane/Ulhasnagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-055ef2fb",
     "name": "Hp",
     "latitude": 19.172967,
     "longitude": 73.226575,
+    "city": "Thane/Ulhasnagar",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7852fb28",
+    "name": "Indian Oil",
+    "latitude": 19.253401,
+    "longitude": 73.097753,
     "city": "Thane/Ulhasnagar",
     "state": "Maharashtra",
     "source": "cgd_inferred"

@@ -90,6 +90,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c374cd8f",
+    "name": "Bharat Petroleum",
+    "latitude": 12.722717,
+    "longitude": 77.275673,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-65729752",
     "name": "Bharat Petroleum",
     "latitude": 12.623814,
@@ -2131,6 +2140,15 @@
     "city": "",
     "state": "Kerala",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-d0d58864",
+    "name": "Indian Oil",
+    "latitude": 12.653498,
+    "longitude": 77.201745,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-b4751741",
@@ -5467,6 +5485,15 @@
     "name": "Sri Abirami Agencies Petrol Bunk",
     "latitude": 11.233007,
     "longitude": 76.900981,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9df79e1c",
+    "name": "Sri Jaya Rashmi Gas",
+    "latitude": 12.714439,
+    "longitude": 77.273664,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -11993,114 +12020,6 @@
     "latitude": 9.96866,
     "longitude": 76.422275,
     "city": "Puthencruz",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c374cd8f",
-    "name": "Bharat Petroleum",
-    "latitude": 12.722717,
-    "longitude": 77.275673,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bd17c820",
-    "name": "Bharath Petroleum",
-    "latitude": 12.671491,
-    "longitude": 77.220464,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f77803d0",
-    "name": "Cng Station",
-    "latitude": 12.778564,
-    "longitude": 77.363991,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-83051c51",
-    "name": "Cng Station",
-    "latitude": 12.668056,
-    "longitude": 77.21829,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d39d1d1e",
-    "name": "Cng Station",
-    "latitude": 12.77666,
-    "longitude": 77.360386,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b7aa4d7b",
-    "name": "Go Gas",
-    "latitude": 12.709379,
-    "longitude": 77.265829,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-de087280",
-    "name": "Hindustan Petroleum",
-    "latitude": 12.72571,
-    "longitude": 77.274339,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ea7af0be",
-    "name": "Hindustan Petroleum",
-    "latitude": 12.698612,
-    "longitude": 77.250549,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b6bbd366",
-    "name": "Hindustan Petroleum",
-    "latitude": 12.765077,
-    "longitude": 77.33022,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0226297d",
-    "name": "Reliance",
-    "latitude": 12.729643,
-    "longitude": 77.275956,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4660bddb",
-    "name": "Reliance Petrol",
-    "latitude": 12.653047,
-    "longitude": 77.200247,
-    "city": "Ramanagara",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9df79e1c",
-    "name": "Sri Jaya Rashmi Gas",
-    "latitude": 12.714439,
-    "longitude": 77.273664,
-    "city": "Ramanagara",
     "state": "Kerala",
     "source": "cgd_inferred"
   },
