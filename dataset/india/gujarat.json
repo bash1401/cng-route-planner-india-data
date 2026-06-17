@@ -254,15 +254,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-85511c90",
-    "name": "Gujarat Gas Cng Station",
-    "latitude": 21.750262,
-    "longitude": 72.133216,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-72a7f0a8",
     "name": "Indian Oil",
     "latitude": 22.620383,
@@ -479,15 +470,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-770775bd",
-    "name": "Indian Oil",
-    "latitude": 24.59749,
-    "longitude": 73.693238,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-e30a1c30",
     "name": "Indian Oil",
     "latitude": 23.509778,
@@ -528,15 +510,6 @@
     "name": "Indian Oil",
     "latitude": 22.574746,
     "longitude": 71.857507,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-366cccb9",
-    "name": "Indian Oil",
-    "latitude": 24.590622,
-    "longitude": 73.692042,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -605,15 +578,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-c8498932",
-    "name": "Indianoil",
-    "latitude": 24.694355,
-    "longitude": 73.636548,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b0b6bbde",
     "name": "Mm Bharat Petroleum",
     "latitude": 23.609766,
@@ -627,15 +591,6 @@
     "name": "Nayara",
     "latitude": 22.194025,
     "longitude": 69.189564,
-    "city": "",
-    "state": "Gujarat",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a5494056",
-    "name": "Nayara",
-    "latitude": 24.606455,
-    "longitude": 73.690051,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -1975,6 +1930,15 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-85511c90",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 21.750262,
+    "longitude": 72.133216,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-e408b5d5",
@@ -3534,6 +3498,15 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-fb676092",
+    "name": "Petrol Pump",
+    "latitude": 24.170503,
+    "longitude": 72.435833,
+    "city": "Palanpur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-7f968070",
     "name": "Amin Petroleum",
     "latitude": 22.687876,
@@ -3601,6 +3574,15 @@
     "name": "Maruti Kisan Seva Kendra",
     "latitude": 22.918452,
     "longitude": 73.842603,
+    "city": "Panchmahal",
+    "state": "Gujarat",
+    "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-1f462c43",
+    "name": "Master Petroleum",
+    "latitude": 22.772495,
+    "longitude": 73.620804,
     "city": "Panchmahal",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4893,6 +4875,150 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-5007bf1a",
+    "name": "Bharat Petroleum",
+    "latitude": 24.590694,
+    "longitude": 73.689711,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f48aa9c9",
+    "name": "Bharat Petroleum",
+    "latitude": 24.581794,
+    "longitude": 73.720676,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-66753298",
+    "name": "Bharat Petroleum",
+    "latitude": 24.574824,
+    "longitude": 73.699862,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e8ad25eb",
+    "name": "Cng Station",
+    "latitude": 24.565303,
+    "longitude": 73.693714,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9921454c",
+    "name": "Cng Station",
+    "latitude": 24.639006,
+    "longitude": 73.715869,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-514ca526",
+    "name": "Cng Station",
+    "latitude": 24.607257,
+    "longitude": 73.698586,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7dd72b70",
+    "name": "Cng Station",
+    "latitude": 24.561371,
+    "longitude": 73.693468,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-64e356a2",
+    "name": "Hindustan Petroleum",
+    "latitude": 24.594668,
+    "longitude": 73.769658,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d6c8dfa5",
+    "name": "Hp",
+    "latitude": 24.58156,
+    "longitude": 73.69638,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8c9398a8",
+    "name": "Hp Petrol Pump",
+    "latitude": 24.590402,
+    "longitude": 73.694672,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c6effcb0",
+    "name": "Hp Petrol Pump",
+    "latitude": 24.591902,
+    "longitude": 73.711392,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-be23305f",
+    "name": "India Oil",
+    "latitude": 24.66761,
+    "longitude": 73.66061,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-770775bd",
+    "name": "Indian Oil",
+    "latitude": 24.59749,
+    "longitude": 73.693238,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-366cccb9",
+    "name": "Indian Oil",
+    "latitude": 24.590622,
+    "longitude": 73.692042,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c8498932",
+    "name": "Indianoil",
+    "latitude": 24.694355,
+    "longitude": 73.636548,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a5494056",
+    "name": "Nayara",
+    "latitude": 24.606455,
+    "longitude": 73.690051,
+    "city": "Udaipur",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-238f9f19",
     "name": "Adani Cng",
     "latitude": 22.379562,
@@ -5439,7 +5565,7 @@
     "longitude": 73.704279,
     "city": "udaipur",
     "state": "Gujarat",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-d1b81389",

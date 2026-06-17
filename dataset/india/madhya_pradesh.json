@@ -279,15 +279,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-12d28a45",
-    "name": "Cng Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -760,6 +751,15 @@
     "name": "Indian Oil",
     "latitude": 21.974864,
     "longitude": 79.528722,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-23556737",
+    "name": "Indian Oil",
+    "latitude": 22.058613,
+    "longitude": 78.959439,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -2106,15 +2106,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-23556737",
-    "name": "Indian Oil",
-    "latitude": 22.058613,
-    "longitude": 78.959439,
-    "city": "Chhindwara",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-bfd164e4",
     "name": "Bharat Petroleum",
     "latitude": 24.942685,
@@ -2578,6 +2569,24 @@
     "name": "Hindustan Petroleaum",
     "latitude": 22.787696,
     "longitude": 75.906815,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8e2ed589",
+    "name": "Hindustan Petroleum",
+    "latitude": 22.740954,
+    "longitude": 75.785902,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0629a180",
+    "name": "Hindustan Petroleum",
+    "latitude": 22.728415,
+    "longitude": 75.827257,
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -3681,6 +3690,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-12d28a45",
+    "name": "Cng Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "Nagpur",
+    "state": "Madhya Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-1efce618",
     "name": "Cng Station",
     "latitude": 21.136329,
@@ -3894,7 +3912,7 @@
     "longitude": 79.038446,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-627ea82d",

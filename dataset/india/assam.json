@@ -63,6 +63,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-884b8a57",
+    "name": "Bharat Petroleum",
+    "latitude": 26.65115,
+    "longitude": 92.775387,
+    "city": "",
+    "state": "Assam",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-fadb90fd",
     "name": "Bharat Petroleum",
     "latitude": 26.696887,
@@ -187,6 +196,15 @@
     "city": "",
     "state": "Assam",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-cc65dd64",
+    "name": "Indian Oil",
+    "latitude": 26.638994,
+    "longitude": 92.782323,
+    "city": "",
+    "state": "Assam",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-2411bbdb",
@@ -412,6 +430,15 @@
     "city": "",
     "state": "Assam",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-e5923d73",
+    "name": "Mayur Corporation Petrol Pump",
+    "latitude": 26.652916,
+    "longitude": 92.794333,
+    "city": "",
+    "state": "Assam",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-6b3139aa",
@@ -1087,51 +1114,6 @@
     "city": "Sylhet",
     "state": "Assam",
     "source": "osm_allstations"
-  },
-  {
-    "id": "cng-884b8a57",
-    "name": "Bharat Petroleum",
-    "latitude": 26.65115,
-    "longitude": 92.775387,
-    "city": "Tezpur",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-565b6d6a",
-    "name": "Hindustan Petroleum",
-    "latitude": 26.627712,
-    "longitude": 92.796584,
-    "city": "Tezpur",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cc65dd64",
-    "name": "Indian Oil",
-    "latitude": 26.638994,
-    "longitude": 92.782323,
-    "city": "Tezpur",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47faf773",
-    "name": "Lahkar Petrol Pump",
-    "latitude": 26.653073,
-    "longitude": 92.795215,
-    "city": "Tezpur",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-428d121a",
-    "name": "Shell Petrol Pump",
-    "latitude": 26.622022,
-    "longitude": 92.848972,
-    "city": "Tezpur",
-    "state": "Assam",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-94688b8c",
