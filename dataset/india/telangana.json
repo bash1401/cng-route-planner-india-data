@@ -1683,15 +1683,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d54f5604",
-    "name": "Indian Oil",
-    "latitude": 19.168526,
-    "longitude": 77.305775,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-84afa6c3",
     "name": "Indian Oil",
     "latitude": 18.482341,
@@ -6084,13 +6075,31 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9c5a8072",
+    "name": "Hp",
+    "latitude": 19.077052,
+    "longitude": 77.252973,
+    "city": "Nanded",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bac9f489",
+    "name": "Hp Petrol Pump",
+    "latitude": 19.184459,
+    "longitude": 77.308236,
+    "city": "Nanded",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-b49828d3",
     "name": "Indian Oil",
     "latitude": 19.169548,
     "longitude": 77.320297,
     "city": "Nanded",
     "state": "Telangana",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-4f5e5c3a",
@@ -6099,7 +6108,16 @@
     "longitude": 77.304699,
     "city": "Nanded",
     "state": "Telangana",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d54f5604",
+    "name": "Indian Oil",
+    "latitude": 19.168526,
+    "longitude": 77.305775,
+    "city": "Nanded",
+    "state": "Telangana",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-115ec2c8",

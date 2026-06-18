@@ -2306,8 +2306,8 @@
   {
     "id": "cng-eef88c68",
     "name": "Cng Station",
-    "latitude": 16.972706,
-    "longitude": 82.236293,
+    "latitude": 16.972713,
+    "longitude": 82.2363,
     "city": "Kakinada",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -2673,19 +2673,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b6d44323",
+    "id": "cng-4464a7b5",
     "name": "Bharat Petroleum",
-    "latitude": 15.523015,
-    "longitude": 80.047257,
+    "latitude": 15.566014,
+    "longitude": 80.071296,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3ca6ef42",
+    "id": "cng-b6d44323",
     "name": "Bharat Petroleum",
-    "latitude": 15.565938,
-    "longitude": 80.071299,
+    "latitude": 15.523015,
+    "longitude": 80.047257,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -3618,6 +3618,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-8a7b0cd7",
+    "name": "Cng Station",
+    "latitude": 17.72059,
+    "longitude": 83.3226,
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-2b7eb05a",
     "name": "Cng Station",
     "latitude": 17.735498,
@@ -3640,15 +3649,6 @@
     "name": "Gopalapatnam Petrol Bunk",
     "latitude": 17.752393,
     "longitude": 83.217911,
-    "city": "Visakhapatnam",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8a7b0cd7",
-    "name": "Hindustan Petroleum",
-    "latitude": 17.72059,
-    "longitude": 83.3226,
     "city": "Visakhapatnam",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"

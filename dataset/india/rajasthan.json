@@ -27,15 +27,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-bb3358e8",
-    "name": "Bharat Petroleum",
-    "latitude": 26.219676,
-    "longitude": 73.052003,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-02e49a49",
     "name": "Bharat Petroleum",
     "latitude": 24.755871,
@@ -217,28 +208,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-fba7b9d3",
-    "name": "Gas Station",
-    "latitude": 26.317613,
-    "longitude": 73.043527,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-01dc284a",
     "name": "Hindustan Petroleum",
     "latitude": 27.001651,
     "longitude": 75.875999,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-8cc81bac",
-    "name": "Indian Oil",
-    "latitude": 26.271426,
-    "longitude": 72.976866,
     "city": "",
     "state": "Rajasthan",
     "source": "all_india_fuel"
@@ -289,24 +262,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-15c98d43",
-    "name": "Indian Oil",
-    "latitude": 26.337619,
-    "longitude": 73.145665,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-b4a83228",
-    "name": "Indian Oil",
-    "latitude": 26.324758,
-    "longitude": 73.119426,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-4e621826",
     "name": "Indian Oil",
     "latitude": 26.134332,
@@ -320,15 +275,6 @@
     "name": "Indian Oil",
     "latitude": 26.084047,
     "longitude": 73.066469,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2e7044fa",
-    "name": "Indian Oil",
-    "latitude": 26.279483,
-    "longitude": 73.037511,
     "city": "",
     "state": "Rajasthan",
     "source": "all_india_fuel"
@@ -361,28 +307,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-3269d904",
-    "name": "Indian Oil",
-    "latitude": 26.383493,
-    "longitude": 73.067094,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-91673ea9",
     "name": "Indian Oil",
     "latitude": 26.176929,
     "longitude": 73.047175,
-    "city": "",
-    "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ba92fe82",
-    "name": "Indian Oil",
-    "latitude": 26.271203,
-    "longitude": 73.036126,
     "city": "",
     "state": "Rajasthan",
     "source": "all_india_fuel"
@@ -1324,6 +1252,231 @@
     "source": "gujarat_gas"
   },
   {
+    "id": "cng-b2037210",
+    "name": "Bharat Petroleum",
+    "latitude": 26.315051,
+    "longitude": 73.097902,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d8a7db06",
+    "name": "Bharat Petroleum",
+    "latitude": 26.271972,
+    "longitude": 73.036697,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f717bb23",
+    "name": "Bharat Petroleum",
+    "latitude": 26.310012,
+    "longitude": 73.038608,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bb3358e8",
+    "name": "Bharat Petroleum",
+    "latitude": 26.219676,
+    "longitude": 73.052003,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8e04d2a3",
+    "name": "Cng Station",
+    "latitude": 26.271573,
+    "longitude": 73.008305,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-000641d3",
+    "name": "Cng Station",
+    "latitude": 26.289344,
+    "longitude": 73.029997,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b65bb9a2",
+    "name": "Cng Station",
+    "latitude": 26.266962,
+    "longitude": 72.991119,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eb9b70a5",
+    "name": "Cng Station",
+    "latitude": 26.282483,
+    "longitude": 73.010125,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-95707cfd",
+    "name": "Cng Station",
+    "latitude": 26.280362,
+    "longitude": 73.004745,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-47378b8f",
+    "name": "Cng Station",
+    "latitude": 26.278064,
+    "longitude": 72.998099,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8ea6154b",
+    "name": "Cng Station",
+    "latitude": 26.279652,
+    "longitude": 72.991372,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f3ea770f",
+    "name": "Cng Station",
+    "latitude": 26.274174,
+    "longitude": 73.004801,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fb4ab6a5",
+    "name": "Cng Station",
+    "latitude": 26.244668,
+    "longitude": 73.011337,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0bc35120",
+    "name": "Cng Station",
+    "latitude": 26.380079,
+    "longitude": 73.065672,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-72b61472",
+    "name": "Cng Station",
+    "latitude": 26.372291,
+    "longitude": 73.06378,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f7233cc0",
+    "name": "Cng Station",
+    "latitude": 26.327191,
+    "longitude": 73.042857,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fba7b9d3",
+    "name": "Gas Station",
+    "latitude": 26.317613,
+    "longitude": 73.043527,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9ffc2e75",
+    "name": "Hp",
+    "latitude": 26.334913,
+    "longitude": 73.137266,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ddb7076f",
+    "name": "Hp",
+    "latitude": 26.211121,
+    "longitude": 73.04241,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-73f7bc4a",
+    "name": "Hp",
+    "latitude": 26.333492,
+    "longitude": 73.047794,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8cc81bac",
+    "name": "Indian Oil",
+    "latitude": 26.271426,
+    "longitude": 72.976866,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15c98d43",
+    "name": "Indian Oil",
+    "latitude": 26.337619,
+    "longitude": 73.145665,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b4a83228",
+    "name": "Indian Oil",
+    "latitude": 26.324758,
+    "longitude": 73.119426,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2e7044fa",
+    "name": "Indian Oil",
+    "latitude": 26.279483,
+    "longitude": 73.037511,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3269d904",
+    "name": "Indian Oil",
+    "latitude": 26.383493,
+    "longitude": 73.067094,
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-5d697269",
     "name": "Pakistan Filling Station",
     "latitude": 28.650453,
@@ -1663,7 +1816,7 @@
     "longitude": 73.038366,
     "city": "jodhpur",
     "state": "Rajasthan",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-815be7bd",

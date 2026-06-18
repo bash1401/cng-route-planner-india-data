@@ -90,15 +90,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-ebca9175",
-    "name": "Indian Oil",
-    "latitude": 26.729901,
-    "longitude": 92.942829,
-    "city": "",
-    "state": "Arunachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8b2535c8",
     "name": "Indian Oil",
     "latitude": 28.791767,
@@ -167,6 +158,15 @@
     "latitude": 27.223682,
     "longitude": 94.105891,
     "city": "Lakhimpur",
+    "state": "Arunachal Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ebca9175",
+    "name": "Indian Oil",
+    "latitude": 26.729901,
+    "longitude": 92.942829,
+    "city": "Tezpur",
     "state": "Arunachal Pradesh",
     "source": "cgd_inferred"
   }
