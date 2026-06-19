@@ -8121,22 +8121,6 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 23.821109,
-    "longitude": 72.252097,
-    "city": "Banaskantha",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 23.7929,
-    "longitude": 72.381641,
-    "city": "Banaskantha",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
     "latitude": 28.343851,
     "longitude": 77.841884,
     "city": "Khurja",
@@ -28360,7 +28344,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "CNG Station",
+    "name": "Hindustan Petroleum",
     "latitude": 17.72059,
     "longitude": 83.3226,
     "city": "Visakhapatnam",
@@ -33848,7 +33832,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Amudha Surabi Petrol Bunk",
+    "name": "Amudhasurabi - Pondicherry Cooperative Petrol Bunk",
     "latitude": 11.949903,
     "longitude": 79.814263,
     "city": "Puducherry",
@@ -33872,7 +33856,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Petrol Bank",
+    "name": "Bharat Petroleum",
     "latitude": 11.952622,
     "longitude": 79.819052,
     "city": "Puducherry",
@@ -36171,6 +36155,14 @@
     "name": "CNG Station",
     "latitude": 21.177865,
     "longitude": 79.125278,
+    "city": "Nagpur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 21.160372,
+    "longitude": 79.121398,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -44377,14 +44369,6 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 15.566014,
-    "longitude": 80.071296,
-    "city": "Ongole",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
     "latitude": 15.523015,
     "longitude": 80.047257,
     "city": "Ongole",
@@ -44459,6 +44443,22 @@
     "name": "CNG Station",
     "latitude": 15.570697,
     "longitude": 80.045445,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 15.605335,
+    "longitude": 80.092627,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 15.565938,
+    "longitude": 80.071299,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -54181,6 +54181,46 @@
     "longitude": 78.833305,
     "city": "Tikamgarh",
     "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Nayara",
+    "latitude": 23.201535,
+    "longitude": 77.137199,
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 23.216767,
+    "longitude": 77.179198,
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 23.162051,
+    "longitude": 77.001434,
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 23.176277,
+    "longitude": 77.067277,
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 23.174636,
+    "longitude": 77.029649,
+    "city": "Sehore",
+    "state": "Madhya Pradesh",
     "source": "cgd_inferred"
   },
   {

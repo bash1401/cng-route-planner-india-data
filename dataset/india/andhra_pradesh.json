@@ -747,15 +747,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7c1f0854",
-    "name": "Essar",
-    "latitude": 17.127543,
-    "longitude": 81.937168,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-19774b13",
     "name": "Essar",
     "latitude": 16.541428,
@@ -877,6 +868,15 @@
     "name": "Essar",
     "latitude": 16.67801,
     "longitude": 81.588253,
+    "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e5aad642",
+    "name": "Essar",
+    "latitude": 17.127464,
+    "longitude": 81.937147,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -1485,15 +1485,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-6b323440",
-    "name": "Indian Oil",
-    "latitude": 17.194865,
-    "longitude": 82.090556,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8c8f4064",
     "name": "Indian Oil",
     "latitude": 17.16748,
@@ -2029,6 +2020,15 @@
     "name": "Indian Oil",
     "latitude": 17.270053,
     "longitude": 82.401873,
+    "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7b634573",
+    "name": "Indian Oil",
+    "latitude": 17.195021,
+    "longitude": 82.090454,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -2673,19 +2673,19 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4464a7b5",
+    "id": "cng-b6d44323",
     "name": "Bharat Petroleum",
-    "latitude": 15.566014,
-    "longitude": 80.071296,
+    "latitude": 15.523015,
+    "longitude": 80.047257,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b6d44323",
+    "id": "cng-3ca6ef42",
     "name": "Bharat Petroleum",
-    "latitude": 15.523015,
-    "longitude": 80.047257,
+    "latitude": 15.565938,
+    "longitude": 80.071299,
     "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
@@ -3618,15 +3618,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-8a7b0cd7",
-    "name": "Cng Station",
-    "latitude": 17.72059,
-    "longitude": 83.3226,
-    "city": "Visakhapatnam",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2b7eb05a",
     "name": "Cng Station",
     "latitude": 17.735498,
@@ -3649,6 +3640,15 @@
     "name": "Gopalapatnam Petrol Bunk",
     "latitude": 17.752393,
     "longitude": 83.217911,
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8a7b0cd7",
+    "name": "Hindustan Petroleum",
+    "latitude": 17.72059,
+    "longitude": 83.3226,
     "city": "Visakhapatnam",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"

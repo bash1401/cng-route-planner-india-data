@@ -11712,14 +11712,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 17.194865,
-    "longitude": 82.090556,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 17.185275,
     "longitude": 82.075732,
@@ -11803,14 +11795,6 @@
     "name": "Indian Oil",
     "latitude": 17.050986,
     "longitude": 81.855995,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Essar",
-    "latitude": 17.127543,
-    "longitude": 81.937168,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -13691,6 +13675,22 @@
     "name": "Bharat Petroleum",
     "latitude": 17.677402,
     "longitude": 83.022623,
+    "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Essar",
+    "latitude": 17.127464,
+    "longitude": 81.937147,
+    "city": "",
+    "state": "Andhra Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 17.195021,
+    "longitude": 82.090454,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -47856,7 +47856,7 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Amudha Surabi Petrol Bunk",
+    "name": "Amudhasurabi - Pondicherry Cooperative Petrol Bunk",
     "latitude": 11.949903,
     "longitude": 79.814263,
     "city": "",
@@ -48149,6 +48149,14 @@
     "longitude": 78.125914,
     "city": "",
     "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 11.952622,
+    "longitude": 79.819052,
+    "city": "",
+    "state": "Puducherry",
     "source": "all_india_fuel"
   },
   {

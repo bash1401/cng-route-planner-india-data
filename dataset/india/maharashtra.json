@@ -615,6 +615,60 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6e9f5498",
+    "name": "Fuel",
+    "latitude": 19.369922,
+    "longitude": 73.187243,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-00c8f8ac",
+    "name": "Fuel",
+    "latitude": 19.362805,
+    "longitude": 73.167075,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-9c5d8906",
+    "name": "Fuel",
+    "latitude": 19.359015,
+    "longitude": 73.163199,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-621d59e1",
+    "name": "Fuel",
+    "latitude": 19.249859,
+    "longitude": 73.054057,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-f6988fac",
+    "name": "Fuel",
+    "latitude": 19.322244,
+    "longitude": 73.107898,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-c6fe4b98",
+    "name": "Fuel",
+    "latitude": 19.349269,
+    "longitude": 73.14218,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-0dfc7e5c",
     "name": "H. K. Automobiles",
     "latitude": 20.785602,
@@ -2698,33 +2752,6 @@
     "name": "Cng Station",
     "latitude": 19.350394,
     "longitude": 73.144634,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6e9f5498",
-    "name": "Fuel",
-    "latitude": 19.369922,
-    "longitude": 73.187243,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-00c8f8ac",
-    "name": "Fuel",
-    "latitude": 19.362805,
-    "longitude": 73.167075,
-    "city": "Kalyan-Dombivli",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9c5d8906",
-    "name": "Fuel",
-    "latitude": 19.359015,
-    "longitude": 73.163199,
     "city": "Kalyan-Dombivli",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -4818,6 +4845,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-bccc5f38",
+    "name": "Cng Station",
+    "latitude": 15.605335,
+    "longitude": 80.092627,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-dc962ed3",
     "name": "Essar",
     "latitude": 15.648676,
@@ -6484,33 +6520,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-621d59e1",
-    "name": "Fuel",
-    "latitude": 19.249859,
-    "longitude": 73.054057,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f6988fac",
-    "name": "Fuel",
-    "latitude": 19.322244,
-    "longitude": 73.107898,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c6fe4b98",
-    "name": "Fuel",
-    "latitude": 19.349269,
-    "longitude": 73.14218,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-45fc7a7b",
     "name": "Gagangiri Petroleum",
     "latitude": 19.258244,
@@ -6583,10 +6592,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2a39bee7",
+    "id": "cng-12fb5f0d",
     "name": "R K Petroleum",
-    "latitude": 19.07756,
-    "longitude": 73.003111,
+    "latitude": 19.076194,
+    "longitude": 73.00402,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
