@@ -1536,6 +1536,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-96c42edb",
+    "name": "Cng Station",
+    "latitude": 23.821109,
+    "longitude": 72.252097,
+    "city": "Banaskantha",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-949aeae1",
+    "name": "Cng Station",
+    "latitude": 23.7929,
+    "longitude": 72.381641,
+    "city": "Banaskantha",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-77f9b541",
     "name": "Aniket Petroelum",
     "latitude": 23.408752,
@@ -1599,10 +1617,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c177f443",
+    "id": "cng-8c9957a4",
     "name": "Sanjay Automobiles",
-    "latitude": 23.593676,
-    "longitude": 74.46309,
+    "latitude": 23.591261,
+    "longitude": 74.461369,
     "city": "Banswara",
     "state": "Gujarat",
     "source": "gujarat_gas"

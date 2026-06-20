@@ -8121,6 +8121,22 @@
   },
   {
     "name": "CNG Station",
+    "latitude": 23.821109,
+    "longitude": 72.252097,
+    "city": "Banaskantha",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 23.7929,
+    "longitude": 72.381641,
+    "city": "Banaskantha",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
     "latitude": 28.343851,
     "longitude": 77.841884,
     "city": "Khurja",
@@ -16464,7 +16480,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "CNG Station",
+    "name": "Indian Oil",
     "latitude": 27.549771,
     "longitude": 77.755225,
     "city": "Mathura-Vrindavan",
@@ -39417,8 +39433,8 @@
   },
   {
     "name": "Bharat Petrol",
-    "latitude": 8.507635,
-    "longitude": 76.962105,
+    "latitude": 8.507367,
+    "longitude": 76.962137,
     "city": "Thiruvananthapuram",
     "state": "Kerala",
     "source": "cgd_inferred"
