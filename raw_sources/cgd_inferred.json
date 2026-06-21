@@ -10410,7 +10410,7 @@
   {
     "name": "Gail",
     "latitude": 13.154663,
-    "longitude": 77.685089,
+    "longitude": 77.685096,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -17673,8 +17673,8 @@
   },
   {
     "name": "Hp",
-    "latitude": 18.519768,
-    "longitude": 73.876089,
+    "latitude": 18.519756,
+    "longitude": 73.876097,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -20307,6 +20307,14 @@
     "name": "CNG Station",
     "latitude": 13.072892,
     "longitude": 80.182264,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.075074,
+    "longitude": 80.230854,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -30936,14 +30944,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Hp Petrol Bunk",
-    "latitude": 12.943625,
-    "longitude": 80.138987,
-    "city": "Chennai South",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Essar Petrol Station",
     "latitude": 12.948892,
     "longitude": 80.185462,
@@ -31251,6 +31251,14 @@
     "name": "Hp",
     "latitude": 12.830795,
     "longitude": 80.223954,
+    "city": "Chennai South",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 12.94348,
+    "longitude": 80.138717,
     "city": "Chennai South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -46835,6 +46843,14 @@
     "name": "CNG Station",
     "latitude": 26.733025,
     "longitude": 79.106263,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 26.82435,
+    "longitude": 79.002233,
     "city": "Etawah",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

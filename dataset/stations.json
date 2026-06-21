@@ -6543,6 +6543,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e754f0c9",
+    "name": "Indian Oil Fuel Filling Station Service Road (Citco Petrol & Cng Station)",
+    "latitude": 30.692696,
+    "longitude": 76.802197,
+    "city": "",
+    "state": "Chandigarh",
+    "source": "wikidata"
+  },
+  {
     "id": "cng-cbdc8a58",
     "name": "Bharat Petroleum",
     "latitude": 30.723344,
@@ -7033,15 +7042,6 @@
     "name": "Indian Oil",
     "latitude": 30.687751,
     "longitude": 76.825078,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a69148e0",
-    "name": "Indian Oil",
-    "latitude": 30.692757,
-    "longitude": 76.802294,
     "city": "Chandigarh",
     "state": "Chandigarh",
     "source": "cgd_inferred"
@@ -16982,10 +16982,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a68ed7a7",
+    "id": "cng-bda05dc1",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459871,
-    "longitude": 73.153273,
+    "latitude": 21.459434,
+    "longitude": 73.153175,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -53229,8 +53229,8 @@
   {
     "id": "cng-dbff722e",
     "name": "Hp",
-    "latitude": 18.519768,
-    "longitude": 73.876089,
+    "latitude": 18.519756,
+    "longitude": 73.876097,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -76374,6 +76374,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e09e843d",
+    "name": "Bharat Petroleum",
+    "latitude": 13.075074,
+    "longitude": 80.230854,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-4351efab",
     "name": "Bharat Petroleum",
     "latitude": 13.132443,
@@ -89388,6 +89397,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-53e1d7bb",
+    "name": "Bharat Petroleum",
+    "latitude": 26.947963,
+    "longitude": 78.957917,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-452951de",
     "name": "Bharat Petroleum",
     "latitude": 28.011004,
@@ -89770,6 +89788,15 @@
     "name": "Indian Oil",
     "latitude": 27.013859,
     "longitude": 77.567377,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-fbd16da6",
+    "name": "Indian Oil",
+    "latitude": 26.960543,
+    "longitude": 78.95431,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -90508,6 +90535,15 @@
     "name": "Cng Station",
     "latitude": 26.733025,
     "longitude": 79.106263,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d438bf21",
+    "name": "Cng Station",
+    "latitude": 26.82435,
+    "longitude": 79.002233,
     "city": "Etawah",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

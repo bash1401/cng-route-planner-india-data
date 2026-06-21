@@ -72,6 +72,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-53e1d7bb",
+    "name": "Bharat Petroleum",
+    "latitude": 26.947963,
+    "longitude": 78.957917,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-452951de",
     "name": "Bharat Petroleum",
     "latitude": 28.011004,
@@ -454,6 +463,15 @@
     "name": "Indian Oil",
     "latitude": 27.013859,
     "longitude": 77.567377,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-fbd16da6",
+    "name": "Indian Oil",
+    "latitude": 26.960543,
+    "longitude": 78.95431,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -1192,6 +1210,15 @@
     "name": "Cng Station",
     "latitude": 26.733025,
     "longitude": 79.106263,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d438bf21",
+    "name": "Cng Station",
+    "latitude": 26.82435,
+    "longitude": 79.002233,
     "city": "Etawah",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
