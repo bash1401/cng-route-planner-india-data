@@ -54,6 +54,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-36984c0d",
+    "name": "Bharat Petroleum",
+    "latitude": 27.531661,
+    "longitude": 77.657425,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-3c400d38",
     "name": "Bharat Petroleum",
     "latitude": 27.252317,
@@ -63,10 +72,28 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cb43a153",
+    "name": "Bharat Petroleum",
+    "latitude": 27.468274,
+    "longitude": 77.660195,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-61edb9b5",
     "name": "Bharat Petroleum",
     "latitude": 27.482994,
     "longitude": 77.414935,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-bc56a649",
+    "name": "Bharat Petroleum",
+    "latitude": 27.609304,
+    "longitude": 77.588636,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -396,6 +423,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-f0f429c2",
+    "name": "Indian Oil",
+    "latitude": 27.562173,
+    "longitude": 77.625975,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-940b09e3",
     "name": "Indian Oil",
     "latitude": 27.148781,
@@ -414,10 +450,55 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-fa666336",
+    "name": "Indian Oil",
+    "latitude": 27.47082,
+    "longitude": 77.66057,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-c6a84c8b",
+    "name": "Indian Oil",
+    "latitude": 27.534134,
+    "longitude": 77.656005,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-004fff75",
+    "name": "Indian Oil",
+    "latitude": 27.546513,
+    "longitude": 77.640558,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8c4e2d57",
+    "name": "Indian Oil",
+    "latitude": 27.569241,
+    "longitude": 77.620809,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d9d0d6c4",
     "name": "Indian Oil",
     "latitude": 27.23441,
     "longitude": 77.870879,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-dc19c217",
+    "name": "Indian Oil",
+    "latitude": 27.497626,
+    "longitude": 77.652928,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -472,6 +553,15 @@
     "name": "Indian Oil",
     "latitude": 26.960543,
     "longitude": 78.95431,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-55cf58e9",
+    "name": "Indian Oil",
+    "latitude": 26.987545,
+    "longitude": 78.944652,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -1949,159 +2039,6 @@
     "latitude": 26.900148,
     "longitude": 81.013019,
     "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-36984c0d",
-    "name": "Bharat Petroleum",
-    "latitude": 27.531661,
-    "longitude": 77.657425,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cb43a153",
-    "name": "Bharat Petroleum",
-    "latitude": 27.468274,
-    "longitude": 77.660195,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bc56a649",
-    "name": "Bharat Petroleum",
-    "latitude": 27.609304,
-    "longitude": 77.588636,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cc7e7570",
-    "name": "Cng Station",
-    "latitude": 27.443821,
-    "longitude": 77.735771,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2bb0154e",
-    "name": "Cng Station",
-    "latitude": 27.542633,
-    "longitude": 77.672224,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4d603f07",
-    "name": "Cng Station",
-    "latitude": 27.6129,
-    "longitude": 77.741751,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ac6d95cd",
-    "name": "Cng Station",
-    "latitude": 27.496524,
-    "longitude": 77.79594,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ad56e888",
-    "name": "Cng Station",
-    "latitude": 27.54033,
-    "longitude": 77.770728,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b30a3bc7",
-    "name": "Cng Station",
-    "latitude": 27.402667,
-    "longitude": 77.694012,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c238a927",
-    "name": "Hp",
-    "latitude": 27.590662,
-    "longitude": 77.600551,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-12163d43",
-    "name": "Hp",
-    "latitude": 27.434764,
-    "longitude": 77.695385,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f0f429c2",
-    "name": "Indian Oil",
-    "latitude": 27.562173,
-    "longitude": 77.625975,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fa666336",
-    "name": "Indian Oil",
-    "latitude": 27.47082,
-    "longitude": 77.66057,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c6a84c8b",
-    "name": "Indian Oil",
-    "latitude": 27.534134,
-    "longitude": 77.656005,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-004fff75",
-    "name": "Indian Oil",
-    "latitude": 27.546513,
-    "longitude": 77.640558,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8c4e2d57",
-    "name": "Indian Oil",
-    "latitude": 27.569241,
-    "longitude": 77.620809,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-dc19c217",
-    "name": "Indian Oil",
-    "latitude": 27.497626,
-    "longitude": 77.652928,
-    "city": "Mathura-Vrindavan",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },
