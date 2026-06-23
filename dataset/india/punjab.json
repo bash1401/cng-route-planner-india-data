@@ -972,6 +972,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6c320795",
+    "name": "Indian Oil",
+    "latitude": 29.983111,
+    "longitude": 74.039086,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8984531f",
     "name": "Indian Oil",
     "latitude": 31.888531,
@@ -2542,6 +2551,24 @@
     "name": "Cng Station",
     "latitude": 32.034759,
     "longitude": 75.396288,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e3ed899e",
+    "name": "Cng Station",
+    "latitude": 32.129598,
+    "longitude": 75.489169,
+    "city": "Gurdaspur",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0fe82961",
+    "name": "Cng Station",
+    "latitude": 32.126752,
+    "longitude": 75.489412,
     "city": "Gurdaspur",
     "state": "Punjab",
     "source": "cgd_inferred"
@@ -4284,28 +4311,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4dd9ff5e",
-    "name": "Cng Station",
-    "latitude": 30.738182,
-    "longitude": 76.675205,
-    "city": "Mohali/Rupnagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-1e356844",
     "name": "Hindustan Petroleum",
     "latitude": 30.795117,
     "longitude": 76.604488,
-    "city": "Mohali/Rupnagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-26ece31a",
-    "name": "Hp",
-    "latitude": 30.773315,
-    "longitude": 76.621664,
     "city": "Mohali/Rupnagar",
     "state": "Punjab",
     "source": "cgd_inferred"
@@ -5155,33 +5164,6 @@
     "city": "Sri Muktsar Sahib",
     "state": "Punjab",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-4e9a8524",
-    "name": "Hp Petrol Pump",
-    "latitude": 29.970637,
-    "longitude": 74.026338,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c99f4679",
-    "name": "Hp Petrol Pump",
-    "latitude": 29.822748,
-    "longitude": 74.037694,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6c320795",
-    "name": "Indian Oil",
-    "latitude": 29.983111,
-    "longitude": 74.039086,
-    "city": "Sriganganagar",
-    "state": "Punjab",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-3f9c004d",

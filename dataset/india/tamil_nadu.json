@@ -306,6 +306,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-210db30a",
+    "name": "Bharat Petroleum",
+    "latitude": 12.932552,
+    "longitude": 80.148626,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-e51836be",
     "name": "Bharat Petroleum",
     "latitude": 12.994739,
@@ -12284,15 +12293,6 @@
     "name": "Bharat Petroleum",
     "latitude": 12.888953,
     "longitude": 80.198738,
-    "city": "Chennai South",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-210db30a",
-    "name": "Bharat Petroleum",
-    "latitude": 12.932552,
-    "longitude": 80.148626,
     "city": "Chennai South",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

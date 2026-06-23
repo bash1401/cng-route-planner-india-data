@@ -135,6 +135,42 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-bf297064",
+    "name": "Bharat Petroleum",
+    "latitude": 23.284551,
+    "longitude": 77.2883,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b0f4c74b",
+    "name": "Bharat Petroleum",
+    "latitude": 23.302233,
+    "longitude": 77.390431,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-17b3ead1",
+    "name": "Bharat Petroleum",
+    "latitude": 23.262819,
+    "longitude": 77.418375,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a145fcd4",
+    "name": "Bharat Petroleum",
+    "latitude": 23.253157,
+    "longitude": 77.425872,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8bbe52a9",
     "name": "Bharat Petroleum",
     "latitude": 21.192285,
@@ -634,6 +670,24 @@
     "name": "Indian Oil",
     "latitude": 22.984199,
     "longitude": 76.31752,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-1f2ec1b8",
+    "name": "Indian Oil",
+    "latitude": 23.302327,
+    "longitude": 77.406418,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-feb9fa33",
+    "name": "Indian Oil",
+    "latitude": 23.295352,
+    "longitude": 77.497022,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -1440,6 +1494,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-9bc4df65",
+    "name": "Nayara",
+    "latitude": 23.301173,
+    "longitude": 77.300341,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ea0946ec",
     "name": "Nayara",
     "latitude": 21.239795,
@@ -1728,42 +1791,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-bf297064",
-    "name": "Bharat Petroleum",
-    "latitude": 23.284551,
-    "longitude": 77.2883,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b0f4c74b",
-    "name": "Bharat Petroleum",
-    "latitude": 23.302233,
-    "longitude": 77.390431,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-17b3ead1",
-    "name": "Bharat Petroleum",
-    "latitude": 23.262819,
-    "longitude": 77.418375,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a145fcd4",
-    "name": "Bharat Petroleum",
-    "latitude": 23.253157,
-    "longitude": 77.425872,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c6dc932a",
     "name": "Bpcl",
     "latitude": 23.278113,
@@ -1813,6 +1840,24 @@
     "name": "Cng Station",
     "latitude": 23.216872,
     "longitude": 77.427889,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b12a30ea",
+    "name": "Cng Station",
+    "latitude": 23.233328,
+    "longitude": 77.402315,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-673efd01",
+    "name": "Cng Station",
+    "latitude": 23.235489,
+    "longitude": 77.428771,
     "city": "Bhopal",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -1899,64 +1944,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-3e825059",
-    "name": "Cng Station",
-    "latitude": 23.245399,
-    "longitude": 77.253388,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-5f689300",
     "name": "Cng Station",
     "latitude": 23.231462,
     "longitude": 77.457662,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-673efd01",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.235489,
-    "longitude": 77.428771,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-be94672a",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.244402,
-    "longitude": 77.25038,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5baac457",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.303146,
-    "longitude": 77.413927,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6173bb88",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.30389,
-    "longitude": 77.420515,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-063fbc0f",
-    "name": "Hindustan Petroleum",
-    "latitude": 23.264344,
-    "longitude": 77.421843,
     "city": "Bhopal",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -2007,15 +1998,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b12a30ea",
-    "name": "Indian Oil",
-    "latitude": 23.233328,
-    "longitude": 77.402315,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-8bdc5f70",
     "name": "Indian Oil",
     "latitude": 23.245322,
@@ -2043,24 +2025,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1f2ec1b8",
-    "name": "Indian Oil",
-    "latitude": 23.302327,
-    "longitude": 77.406418,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-feb9fa33",
-    "name": "Indian Oil",
-    "latitude": 23.295352,
-    "longitude": 77.497022,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2ec28e65",
     "name": "Indian Oil",
     "latitude": 23.195001,
@@ -2074,15 +2038,6 @@
     "name": "Katare Petrol Pump",
     "latitude": 23.23136,
     "longitude": 77.4424,
-    "city": "Bhopal",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9bc4df65",
-    "name": "Nayara",
-    "latitude": 23.301173,
-    "longitude": 77.300341,
     "city": "Bhopal",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
@@ -3483,10 +3438,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bd16f473",
+    "id": "cng-dab80b7f",
     "name": "Varun Multicare Center",
-    "latitude": 22.701643,
-    "longitude": 75.913381,
+    "latitude": 22.701632,
+    "longitude": 75.913185,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
