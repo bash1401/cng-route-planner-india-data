@@ -3036,10 +3036,10 @@
     "source": "mngl"
   },
   {
-    "id": "cng-69310af2",
+    "id": "cng-5772dfdc",
     "name": "Cng Station",
-    "latitude": 19.178308,
-    "longitude": 72.944969,
+    "latitude": 19.178242,
+    "longitude": 72.944887,
     "city": "Mulund (West)",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -6538,6 +6538,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-4d527361",
+    "name": "Cng Station",
+    "latitude": 19.16865,
+    "longitude": 73.11572,
+    "city": "Thane",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-45fc7a7b",
     "name": "Gagangiri Petroleum",
     "latitude": 19.258244,
@@ -6569,15 +6578,6 @@
     "name": "H P Katai Petrol Pump",
     "latitude": 19.17189,
     "longitude": 73.082873,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4d527361",
-    "name": "Hindustan Petroleum",
-    "latitude": 19.16865,
-    "longitude": 73.11572,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "cgd_inferred"

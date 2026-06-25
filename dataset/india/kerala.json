@@ -4365,15 +4365,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-1a65ab8b",
-    "name": "Indian Oil",
-    "latitude": 10.981272,
-    "longitude": 77.06089,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9af94ef3",
     "name": "Indian Oil Adani Cng Pvt Ltd",
     "latitude": 10.817346,
@@ -6637,6 +6628,15 @@
     "name": "Indian Oil",
     "latitude": 10.9724,
     "longitude": 76.993985,
+    "city": "Coimbatore",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1a65ab8b",
+    "name": "Indian Oil",
+    "latitude": 10.981272,
+    "longitude": 77.06089,
     "city": "Coimbatore",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -12537,15 +12537,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c3aec4b8",
-    "name": "Indian Oil",
-    "latitude": 8.484955,
-    "longitude": 76.971633,
-    "city": "Thiruvananthapuram",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-268d2569",
     "name": "Indian Oil",
     "latitude": 8.483538,
@@ -12640,6 +12631,15 @@
     "name": "Indian Oil Petrol Pump",
     "latitude": 8.435834,
     "longitude": 77.025012,
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c3aec4b8",
+    "name": "Kunchalamood ⛽",
+    "latitude": 8.485003,
+    "longitude": 76.97159,
     "city": "Thiruvananthapuram",
     "state": "Kerala",
     "source": "cgd_inferred"

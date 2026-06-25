@@ -1,5 +1,23 @@
 [
   {
+    "id": "cng-2f1afbae",
+    "name": "Adani Cng Gas Station",
+    "latitude": 28.399023,
+    "longitude": 77.350323,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-f4a99d6a",
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
+    "city": "",
+    "state": "Haryana",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-a62efa97",
     "name": "Adani Gas",
     "latitude": 27.944461,
@@ -248,6 +266,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-0a2f5669",
+    "name": "Bharat Petroleum",
+    "latitude": 30.106279,
+    "longitude": 77.073116,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-1db03109",
     "name": "Bharat Petroleum",
     "latitude": 27.667352,
@@ -284,22 +311,13 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-6b553a34",
-    "name": "Cng Station",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-0ad47272",
     "name": "Cng Station",
     "latitude": 28.397792,
     "longitude": 76.932488,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-a1e0ef4f",
@@ -317,7 +335,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6749a9a9",
@@ -344,7 +362,7 @@
     "longitude": 77.066279,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-e7731d4e",
@@ -884,7 +902,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-28edfc87",
@@ -918,6 +936,15 @@
     "name": "Nayara",
     "latitude": 29.199052,
     "longitude": 77.410776,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-fe5eadee",
+    "name": "Nayara",
+    "latitude": 30.117528,
+    "longitude": 77.082162,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1040,24 +1067,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-2f1afbae",
-    "name": "Adani Cng Gas Station",
-    "latitude": 28.399023,
-    "longitude": 77.350323,
-    "city": "Faridabad",
-    "state": "Haryana",
-    "source": "atgl"
-  },
-  {
-    "id": "cng-f4a99d6a",
-    "name": "Adani Cng Station",
-    "latitude": 28.400755,
-    "longitude": 77.374226,
-    "city": "Faridabad",
-    "state": "Haryana",
-    "source": "atgl"
-  },
-  {
     "id": "cng-58596898",
     "name": "Cng Station",
     "latitude": 28.389926,
@@ -1121,10 +1130,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1560,6 +1569,15 @@
     "city": "Karnal",
     "state": "Haryana",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6b553a34",
+    "name": "Igl Cng Pump Panipat",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "Karnal",
+    "state": "Haryana",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-fc0c77dd",

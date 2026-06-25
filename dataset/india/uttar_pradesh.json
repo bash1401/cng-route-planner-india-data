@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -81,6 +90,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6768b516",
+    "name": "Bharat Petroleum",
+    "latitude": 27.49882,
+    "longitude": 77.66932,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-53e1d7bb",
     "name": "Bharat Petroleum",
     "latitude": 26.947963,
@@ -112,15 +130,6 @@
     "name": "Bharat Petroleum",
     "latitude": 28.256145,
     "longitude": 79.199189,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6768b516",
-    "name": "Bharat Petroleum",
-    "latitude": 27.49882,
-    "longitude": 77.66932,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -711,15 +720,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -766,12 +766,12 @@
   },
   {
     "id": "cng-7714a369",
-    "name": "Cng Station",
+    "name": "Cng Pump Agra",
     "latitude": 27.201655,
     "longitude": 78.027893,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-3c1d84e1",
@@ -1255,6 +1255,15 @@
     "name": "Cng Station",
     "latitude": 26.82435,
     "longitude": 79.002233,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-877e3a05",
+    "name": "Hp",
+    "latitude": 26.807302,
+    "longitude": 79.006336,
     "city": "Etawah",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

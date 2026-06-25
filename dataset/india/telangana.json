@@ -1629,6 +1629,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-97d00414",
+    "name": "Indian Oil",
+    "latitude": 19.823248,
+    "longitude": 79.984676,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-db1389f5",
     "name": "Indian Oil",
     "latitude": 17.199743,
@@ -6270,7 +6279,7 @@
     "longitude": 78.566924,
     "city": "Secunderabad",
     "state": "Telangana",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-6ad47bde",
