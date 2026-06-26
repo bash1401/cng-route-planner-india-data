@@ -621,6 +621,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-3e684836",
+    "name": "Indian Oil",
+    "latitude": 29.794257,
+    "longitude": 76.441121,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ee40acc7",
     "name": "Indian Oil",
     "latitude": 30.617425,
@@ -1206,6 +1215,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-05ab824b",
+    "name": "Sega Petrol Pump",
+    "latitude": 29.759246,
+    "longitude": 76.466289,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-43fdc8dc",
     "name": "Shaheed Roshan Lal Filling Station",
     "latitude": 31.849204,
@@ -1647,10 +1665,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-fe702c96",
+    "id": "cng-fb01d8b9",
     "name": "Dillon Hp Auto Fuels",
     "latitude": 31.637385,
-    "longitude": 74.876849,
+    "longitude": 74.876884,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
@@ -3049,33 +3067,6 @@
     "city": "Jhunir",
     "state": "Punjab",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2a5a0f5e",
-    "name": "Hindustan Petrolium",
-    "latitude": 29.789888,
-    "longitude": 76.456004,
-    "city": "Kaithal",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3e684836",
-    "name": "Indian Oil",
-    "latitude": 29.794257,
-    "longitude": 76.441121,
-    "city": "Kaithal",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-05ab824b",
-    "name": "Sega Petrol Pump",
-    "latitude": 29.759246,
-    "longitude": 76.466289,
-    "city": "Kaithal",
-    "state": "Punjab",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-737d6eb8",

@@ -5292,7 +5292,7 @@
     "longitude": 73.75749,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-b342032b",
@@ -5418,7 +5418,7 @@
     "longitude": 73.785145,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-0cad6fe5",
@@ -5814,7 +5814,7 @@
     "longitude": 73.898661,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-2ecd3aa3",
@@ -6538,15 +6538,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4d527361",
-    "name": "Cng Station",
-    "latitude": 19.16865,
-    "longitude": 73.11572,
-    "city": "Thane",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-45fc7a7b",
     "name": "Gagangiri Petroleum",
     "latitude": 19.258244,
@@ -6583,6 +6574,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-4d527361",
+    "name": "Hindustan Petroleum",
+    "latitude": 19.16865,
+    "longitude": 73.11572,
+    "city": "Thane",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-7852fb28",
     "name": "Indian Oil",
     "latitude": 19.253401,
@@ -6610,10 +6610,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-12fb5f0d",
+    "id": "cng-2a39bee7",
     "name": "R K Petroleum",
-    "latitude": 19.076194,
-    "longitude": 73.00402,
+    "latitude": 19.07756,
+    "longitude": 73.003111,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -6760,7 +6760,7 @@
     "longitude": 73.975254,
     "city": "Wagholi",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-00731d74",
