@@ -4968,14 +4968,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Hp",
-    "latitude": 19.12805,
-    "longitude": 72.832203,
-    "city": "Mumbai City",
-    "state": "Maharashtra",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 19.274638,
     "longitude": 72.887167,
@@ -5891,6 +5883,14 @@
     "name": "Indian Oil",
     "latitude": 19.143548,
     "longitude": 72.831033,
+    "city": "Mumbai City",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 19.128147,
+    "longitude": 72.832216,
     "city": "Mumbai City",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -20331,6 +20331,22 @@
     "name": "Bharat Petroleum",
     "latitude": 13.075074,
     "longitude": 80.230854,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Supergas",
+    "latitude": 13.070381,
+    "longitude": 80.203997,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Trugaz Auto Lpg",
+    "latitude": 13.072536,
+    "longitude": 80.202099,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -41401,8 +41417,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 8.961642,
-    "longitude": 76.683431,
+    "latitude": 8.961655,
+    "longitude": 76.683464,
     "city": "Kollam",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -51413,6 +51429,30 @@
     "longitude": 76.115355,
     "city": "Narnaul",
     "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Sega Petrol Pump",
+    "latitude": 29.759246,
+    "longitude": 76.466289,
+    "city": "Kaithal",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hindustan Petrolium",
+    "latitude": 29.789888,
+    "longitude": 76.456004,
+    "city": "Kaithal",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 29.794257,
+    "longitude": 76.441121,
+    "city": "Kaithal",
+    "state": "Punjab",
     "source": "cgd_inferred"
   },
   {

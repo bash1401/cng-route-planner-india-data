@@ -6633,6 +6633,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-77a01ec0",
+    "name": "Cng Station",
+    "latitude": 30.64012,
+    "longitude": 76.804981,
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-7ddd8396",
     "name": "Cng Station",
     "latitude": 30.716966,
@@ -7126,15 +7135,6 @@
     "city": "Mohali",
     "state": "Chandigarh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-77a01ec0",
-    "name": "Cng Pump Zirakpur",
-    "latitude": 30.64012,
-    "longitude": 76.804981,
-    "city": "Panchkula",
-    "state": "Chandigarh",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-94ba491f",
@@ -16991,10 +16991,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-a68ed7a7",
+    "id": "cng-bda05dc1",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459871,
-    "longitude": 73.153273,
+    "latitude": 21.459434,
+    "longitude": 73.153175,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -19543,10 +19543,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -37303,10 +37303,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-88114a1a",
+    "id": "cng-a6871aef",
     "name": "Bharat Petroleum",
-    "latitude": 8.961642,
-    "longitude": 76.683431,
+    "latitude": 8.961655,
+    "longitude": 76.683464,
     "city": "Kollam",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -43306,15 +43306,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-e11fac8d",
-    "name": "Indian Oil",
-    "latitude": 26.872674,
-    "longitude": 75.820837,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-19beaaf3",
     "name": "Indian Oil",
     "latitude": 22.456353,
@@ -46303,6 +46294,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e11fac8d",
+    "name": "Indian Oil",
+    "latitude": 26.872674,
+    "longitude": 75.820837,
+    "city": "Jaipur",
+    "state": "Madhya Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-612b6f43",
     "name": "Indian Oil",
     "latitude": 26.846049,
@@ -48522,8 +48522,8 @@
   {
     "id": "cng-02743e36",
     "name": "Hp",
-    "latitude": 19.12805,
-    "longitude": 72.832203,
+    "latitude": 19.128147,
+    "longitude": 72.832216,
     "city": "",
     "state": "Maharashtra",
     "source": "igl_mgl"
@@ -53062,7 +53062,7 @@
     "longitude": 73.75749,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "atgl"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-b342032b",
@@ -53188,7 +53188,7 @@
     "longitude": 73.785145,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "atgl"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-0cad6fe5",
@@ -53584,7 +53584,7 @@
     "longitude": 73.898661,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "atgl"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-2ecd3aa3",
@@ -54530,7 +54530,7 @@
     "longitude": 73.975254,
     "city": "Wagholi",
     "state": "Maharashtra",
-    "source": "atgl"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-00731d74",
@@ -58234,15 +58234,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-3e684836",
-    "name": "Indian Oil",
-    "latitude": 29.794257,
-    "longitude": 76.441121,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-ee40acc7",
     "name": "Indian Oil",
     "latitude": 30.617425,
@@ -58826,15 +58817,6 @@
     "city": "",
     "state": "Punjab",
     "source": "osm_allstations"
-  },
-  {
-    "id": "cng-05ab824b",
-    "name": "Sega Petrol Pump",
-    "latitude": 29.759246,
-    "longitude": 76.466289,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
   },
   {
     "id": "cng-43fdc8dc",
@@ -60680,6 +60662,33 @@
     "city": "Jhunir",
     "state": "Punjab",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2a5a0f5e",
+    "name": "Hindustan Petrolium",
+    "latitude": 29.789888,
+    "longitude": 76.456004,
+    "city": "Kaithal",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3e684836",
+    "name": "Indian Oil",
+    "latitude": 29.794257,
+    "longitude": 76.441121,
+    "city": "Kaithal",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-05ab824b",
+    "name": "Sega Petrol Pump",
+    "latitude": 29.759246,
+    "longitude": 76.466289,
+    "city": "Kaithal",
+    "state": "Punjab",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-737d6eb8",
@@ -63968,6 +63977,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-3ee87190",
+    "name": "Indian Oil",
+    "latitude": 27.042715,
+    "longitude": 75.760486,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "atgl"
+  },
+  {
     "id": "cng-8e75c50e",
     "name": "Indian Oil",
     "latitude": 26.901353,
@@ -64074,15 +64092,6 @@
     "city": "Jaipur",
     "state": "Rajasthan",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3ee87190",
-    "name": "Indian Oil Petrol/Cng Pump",
-    "latitude": 27.042715,
-    "longitude": 75.760486,
-    "city": "Jaipur",
-    "state": "Rajasthan",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-90e3a5c7",
@@ -77022,10 +77031,28 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-b16a56a3",
+    "name": "Supergas",
+    "latitude": 13.070381,
+    "longitude": 80.203997,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-4d5b1400",
     "name": "Total",
     "latitude": 13.077386,
     "longitude": 80.210712,
+    "city": "Chennai North",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-47e3ae6b",
+    "name": "Trugaz Auto Lpg",
+    "latitude": 13.072536,
+    "longitude": 80.202099,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

@@ -760,14 +760,6 @@
     "source": "osm_allstations"
   },
   {
-    "name": "Hp",
-    "latitude": 19.12805,
-    "longitude": 72.832203,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
     "name": "Indraprastha Gas Limited",
     "latitude": 28.623044,
     "longitude": 77.311212,
@@ -2101,6 +2093,14 @@
     "longitude": 77.309326,
     "city": "",
     "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Hp",
+    "latitude": 19.128147,
+    "longitude": 72.832216,
+    "city": "",
+    "state": "Maharashtra",
     "source": "osm_allstations"
   },
   {
