@@ -3483,10 +3483,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bd16f473",
+    "id": "cng-dab80b7f",
     "name": "Varun Multicare Center",
-    "latitude": 22.701643,
-    "longitude": 75.913381,
+    "latitude": 22.701632,
+    "longitude": 75.913185,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -3784,6 +3784,15 @@
     "name": "Cng Station",
     "latitude": 21.160372,
     "longitude": 79.121398,
+    "city": "Nagpur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bc8ee5fc",
+    "name": "Cng Station",
+    "latitude": 21.148041,
+    "longitude": 79.134069,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"

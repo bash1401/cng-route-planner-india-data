@@ -113,6 +113,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-994be9f6",
+    "name": "Assam Oil;Indian Oil",
+    "latitude": 29.329509,
+    "longitude": 76.985534,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-26aa3caf",
     "name": "Bharat Petroleum",
     "latitude": 28.309998,
@@ -320,15 +329,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-6b553a34",
-    "name": "Cng Station",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-a1e0ef4f",
     "name": "Cng Station",
     "latitude": 28.784087,
@@ -344,7 +344,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-6749a9a9",
@@ -911,7 +911,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-28edfc87",
@@ -1139,10 +1139,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-590edcd4",
+    "id": "cng-2dedcfa8",
     "name": "Reliable Petro",
-    "latitude": 29.510679,
-    "longitude": 75.645269,
+    "latitude": 29.494814,
+    "longitude": 75.633848,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1578,6 +1578,15 @@
     "city": "Karnal",
     "state": "Haryana",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6b553a34",
+    "name": "Igl Cng Pump Panipat",
+    "latitude": 29.485656,
+    "longitude": 76.972403,
+    "city": "Karnal",
+    "state": "Haryana",
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-fc0c77dd",
@@ -2053,51 +2062,6 @@
     "latitude": 28.262789,
     "longitude": 77.288327,
     "city": "Palwal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-994be9f6",
-    "name": "Assam Oil;Indian Oil",
-    "latitude": 29.329509,
-    "longitude": 76.985534,
-    "city": "Panipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a9d759e6",
-    "name": "Cng Station",
-    "latitude": 29.418435,
-    "longitude": 76.933341,
-    "city": "Panipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5d918f70",
-    "name": "Cng Station",
-    "latitude": 29.495958,
-    "longitude": 76.971809,
-    "city": "Panipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b0eef5cf",
-    "name": "Hindustan Petroleum",
-    "latitude": 29.438072,
-    "longitude": 76.969859,
-    "city": "Panipat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8710ff7c",
-    "name": "India Oil",
-    "latitude": 29.455626,
-    "longitude": 76.971509,
-    "city": "Panipat",
     "state": "Haryana",
     "source": "cgd_inferred"
   },

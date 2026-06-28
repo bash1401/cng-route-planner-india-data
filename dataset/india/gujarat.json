@@ -3480,10 +3480,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-5c4200cc",
+    "id": "cng-8280b082",
     "name": "Shree Dutt Petroleum",
-    "latitude": 20.766287,
-    "longitude": 72.981495,
+    "latitude": 20.766341,
+    "longitude": 72.981102,
     "city": "Navsari",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4164,10 +4164,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -5026,6 +5026,15 @@
     "city": "Vadodara",
     "state": "Gujarat",
     "source": "atgl"
+  },
+  {
+    "id": "cng-9f60cb1d",
+    "name": "Bharat Petroleum",
+    "latitude": 22.310643,
+    "longitude": 73.171475,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-db5085ee",
