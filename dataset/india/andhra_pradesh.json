@@ -18,15 +18,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-376798b0",
-    "name": "Bharat Petroleum",
-    "latitude": 15.592282,
-    "longitude": 80.034008,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-28094f2a",
     "name": "Bharat Petroleum",
     "latitude": 14.121213,
@@ -49,15 +40,6 @@
     "name": "Bharat Petroleum",
     "latitude": 15.407925,
     "longitude": 80.038911,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-599491cd",
-    "name": "Bharat Petroleum",
-    "latitude": 15.503958,
-    "longitude": 80.029791,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -94,24 +76,6 @@
     "name": "Bharat Petroleum",
     "latitude": 13.654645,
     "longitude": 78.947029,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7e854922",
-    "name": "Bharat Petroleum",
-    "latitude": 15.585642,
-    "longitude": 80.080144,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-b6d44323",
-    "name": "Bharat Petroleum",
-    "latitude": 15.523015,
-    "longitude": 80.047257,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -274,15 +238,6 @@
     "name": "Bharat Petroleum",
     "latitude": 15.338476,
     "longitude": 79.822804,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3ca6ef42",
-    "name": "Bharat Petroleum",
-    "latitude": 15.565938,
-    "longitude": 80.071299,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -666,24 +621,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-fc2d52c6",
-    "name": "Bharat Petroleum Bpcl- Sri Ankamma Thalli Filling Station",
-    "latitude": 15.545281,
-    "longitude": 80.116504,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-de537595",
-    "name": "Bharat Petroleum Kadapa",
-    "latitude": 14.476199,
-    "longitude": 78.822143,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5ef27900",
     "name": "Bharath Petroleum",
     "latitude": 16.580869,
@@ -733,15 +670,6 @@
     "name": "Essar",
     "latitude": 14.56128,
     "longitude": 78.722881,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7d7c61e9",
-    "name": "Essar",
-    "latitude": 14.428623,
-    "longitude": 78.804035,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -1089,15 +1017,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-3cdbe8d7",
-    "name": "Indian Oil",
-    "latitude": 15.471914,
-    "longitude": 80.048522,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b0e53465",
     "name": "Indian Oil",
     "latitude": 15.265136,
@@ -1192,15 +1111,6 @@
     "name": "Indian Oil",
     "latitude": 14.397648,
     "longitude": 79.017962,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ed47afc0",
-    "name": "Indian Oil",
-    "latitude": 14.418062,
-    "longitude": 78.941297,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -1314,15 +1224,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-236df1ab",
-    "name": "Indian Oil",
-    "latitude": 15.590338,
-    "longitude": 80.147104,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-bc9f795e",
     "name": "Indian Oil",
     "latitude": 15.220671,
@@ -1372,15 +1273,6 @@
     "name": "Indian Oil",
     "latitude": 13.575717,
     "longitude": 80.044183,
-    "city": "",
-    "state": "Andhra Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f4bfca40",
-    "name": "Indian Oil",
-    "latitude": 15.581539,
-    "longitude": 80.040754,
     "city": "",
     "state": "Andhra Pradesh",
     "source": "all_india_fuel"
@@ -2268,6 +2160,96 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-d666f06f",
+    "name": "Cng Station",
+    "latitude": 14.474926,
+    "longitude": 78.822214,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06b27fa5",
+    "name": "Cng Station",
+    "latitude": 14.480438,
+    "longitude": 78.820508,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cadd0cd8",
+    "name": "Cng Station",
+    "latitude": 14.481392,
+    "longitude": 78.774608,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4a890001",
+    "name": "Cng Station",
+    "latitude": 14.479763,
+    "longitude": 78.767829,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4a024ab0",
+    "name": "Cng Station",
+    "latitude": 14.41734,
+    "longitude": 78.944907,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-84819fe8",
+    "name": "Cng Station",
+    "latitude": 14.567542,
+    "longitude": 78.792127,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6b306c23",
+    "name": "Cng Station",
+    "latitude": 14.476288,
+    "longitude": 78.836324,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7d7c61e9",
+    "name": "Essar",
+    "latitude": 14.428623,
+    "longitude": 78.804035,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bdd8b7a1",
+    "name": "Hp",
+    "latitude": 14.415097,
+    "longitude": 78.800913,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ed47afc0",
+    "name": "Indian Oil",
+    "latitude": 14.418062,
+    "longitude": 78.941297,
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-0982680f",
     "name": "Bharat Petroleum",
     "latitude": 16.942534,
@@ -2705,6 +2687,186 @@
     "latitude": 14.457619,
     "longitude": 79.989895,
     "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-376798b0",
+    "name": "Bharat Petroleum",
+    "latitude": 15.592282,
+    "longitude": 80.034008,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-599491cd",
+    "name": "Bharat Petroleum",
+    "latitude": 15.503958,
+    "longitude": 80.029791,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7e854922",
+    "name": "Bharat Petroleum",
+    "latitude": 15.585642,
+    "longitude": 80.080144,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b6d44323",
+    "name": "Bharat Petroleum",
+    "latitude": 15.523015,
+    "longitude": 80.047257,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3ca6ef42",
+    "name": "Bharat Petroleum",
+    "latitude": 15.565938,
+    "longitude": 80.071299,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-fc2d52c6",
+    "name": "Bharat Petroleum Bpcl- Sri Ankamma Thalli Filling Station",
+    "latitude": 15.545281,
+    "longitude": 80.116504,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8888ce5d",
+    "name": "Bp",
+    "latitude": 15.596994,
+    "longitude": 80.032772,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2f6e9e18",
+    "name": "Cng Station",
+    "latitude": 15.51245,
+    "longitude": 80.041027,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-70575d5b",
+    "name": "Cng Station",
+    "latitude": 15.570697,
+    "longitude": 80.045445,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f098be7c",
+    "name": "Hindustan Petroleum",
+    "latitude": 15.535847,
+    "longitude": 80.049451,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-96f0a146",
+    "name": "Hp",
+    "latitude": 15.526874,
+    "longitude": 80.047333,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2642fa6d",
+    "name": "Hp",
+    "latitude": 15.500772,
+    "longitude": 80.027816,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e292cc54",
+    "name": "Hp",
+    "latitude": 15.51009,
+    "longitude": 80.046158,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0805d90c",
+    "name": "Hp Petrol Bunk",
+    "latitude": 15.545984,
+    "longitude": 80.108586,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5c14c832",
+    "name": "Hp Petrol Bunk",
+    "latitude": 15.551395,
+    "longitude": 80.066021,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-22b3424a",
+    "name": "Indian Oil",
+    "latitude": 15.528466,
+    "longitude": 80.04858,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3cdbe8d7",
+    "name": "Indian Oil",
+    "latitude": 15.471914,
+    "longitude": 80.048522,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-236df1ab",
+    "name": "Indian Oil",
+    "latitude": 15.590338,
+    "longitude": 80.147104,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f4bfca40",
+    "name": "Indian Oil",
+    "latitude": 15.581539,
+    "longitude": 80.040754,
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-39e3fcf8",
+    "name": "Petron",
+    "latitude": 15.489388,
+    "longitude": 80.048161,
+    "city": "Ongole",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
   },

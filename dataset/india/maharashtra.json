@@ -534,15 +534,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-d7ecde73",
-    "name": "Cng Station",
-    "latitude": 18.95157,
-    "longitude": 73.174373,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-f23dd5e1",
     "name": "Company Owned",
     "latitude": 20.79852,
@@ -565,15 +556,6 @@
     "name": "Ekira Petrol Pump",
     "latitude": 19.708306,
     "longitude": 74.143749,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-dc962ed3",
-    "name": "Essar",
-    "latitude": 15.648676,
-    "longitude": 80.015838,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -687,15 +669,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-a978b6e9",
-    "name": "Hindustan Petroleum",
-    "latitude": 19.022418,
-    "longitude": 73.099505,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-6974ae41",
     "name": "Hindustan Petroleum",
     "latitude": 18.608967,
@@ -793,15 +766,6 @@
     "city": "",
     "state": "Maharashtra",
     "source": "igl_mgl"
-  },
-  {
-    "id": "cng-15ff687d",
-    "name": "Indian Oil",
-    "latitude": 15.605548,
-    "longitude": 80.027706,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
   },
   {
     "id": "cng-cb617702",
@@ -3072,6 +3036,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-a978b6e9",
+    "name": "Cng Pump",
+    "latitude": 19.022418,
+    "longitude": 73.099505,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "source": "nominatim_grid"
+  },
+  {
     "id": "cng-c4aa66b9",
     "name": "Guru Nanak Petrol Pump",
     "latitude": 19.116142,
@@ -4854,6 +4827,60 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-412adb0b",
+    "name": "Cng Station",
+    "latitude": 15.635901,
+    "longitude": 80.1093,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5d59aceb",
+    "name": "Cng Station",
+    "latitude": 15.629879,
+    "longitude": 80.018211,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bccc5f38",
+    "name": "Cng Station",
+    "latitude": 15.605335,
+    "longitude": 80.092627,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-dc962ed3",
+    "name": "Essar",
+    "latitude": 15.648676,
+    "longitude": 80.015838,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d4a79242",
+    "name": "Hp",
+    "latitude": 15.624387,
+    "longitude": 80.020578,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-15ff687d",
+    "name": "Indian Oil",
+    "latitude": 15.605548,
+    "longitude": 80.027706,
+    "city": "Ongole",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-0b94548f",
     "name": "Cng",
     "latitude": 19.252359,
@@ -6087,6 +6114,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d7ecde73",
+    "name": "Cng Station",
+    "latitude": 18.95157,
+    "longitude": 73.174373,
+    "city": "Raigad/Navi Mumbai",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-60662efe",
     "name": "Cng Station",
     "latitude": 18.938204,
@@ -6574,10 +6610,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2a39bee7",
+    "id": "cng-67db5295",
     "name": "R K Petroleum",
-    "latitude": 19.07756,
-    "longitude": 73.003111,
+    "latitude": 19.076132,
+    "longitude": 73.003829,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"

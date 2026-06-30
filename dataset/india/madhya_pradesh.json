@@ -18,6 +18,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c8721e31",
+    "name": "Bharat Petroleum",
+    "latitude": 22.965968,
+    "longitude": 76.049364,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-45d3b121",
     "name": "Bharat Petroleum",
     "latitude": 23.633978,
@@ -121,6 +130,15 @@
     "name": "Bharat Petroleum",
     "latitude": 23.037811,
     "longitude": 76.747034,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-970075ed",
+    "name": "Bharat Petroleum",
+    "latitude": 22.944144,
+    "longitude": 76.067662,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -553,6 +571,15 @@
     "name": "Indian Oil",
     "latitude": 23.023228,
     "longitude": 76.645675,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9c5bb2fd",
+    "name": "Indian Oil",
+    "latitude": 22.970531,
+    "longitude": 76.109279,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -1431,6 +1458,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c5e3d6a9",
+    "name": "Nayara",
+    "latitude": 22.977931,
+    "longitude": 76.1867,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-63b9a873",
+    "name": "Nayara",
+    "latitude": 22.943277,
+    "longitude": 76.064044,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-cdf3bd98",
     "name": "Nayara",
     "latitude": 23.004122,
@@ -2178,24 +2223,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-c8721e31",
-    "name": "Bharat Petroleum",
-    "latitude": 22.965968,
-    "longitude": 76.049364,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-970075ed",
-    "name": "Bharat Petroleum",
-    "latitude": 22.944144,
-    "longitude": 76.067662,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-2976353c",
     "name": "Gail Gas Coco Ab Road",
     "latitude": 22.940333,
@@ -2203,42 +2230,6 @@
     "city": "Dewas",
     "state": "Madhya Pradesh",
     "source": "gail_pdf"
-  },
-  {
-    "id": "cng-883eb7b6",
-    "name": "Hindustan Petroleum",
-    "latitude": 22.948424,
-    "longitude": 76.072644,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c127b3e3",
-    "name": "Hindustan Petroleum",
-    "latitude": 22.987201,
-    "longitude": 76.086837,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6de51fd7",
-    "name": "Hindustan Petroleum",
-    "latitude": 22.971391,
-    "longitude": 76.149765,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9c5bb2fd",
-    "name": "Indian Oil",
-    "latitude": 22.970531,
-    "longitude": 76.109279,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-ebb147ec",
@@ -2257,24 +2248,6 @@
     "city": "Dewas",
     "state": "Madhya Pradesh",
     "source": "gail_pdf"
-  },
-  {
-    "id": "cng-c5e3d6a9",
-    "name": "Nayara",
-    "latitude": 22.977931,
-    "longitude": 76.1867,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-63b9a873",
-    "name": "Nayara",
-    "latitude": 22.943277,
-    "longitude": 76.064044,
-    "city": "Dewas",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-d72a2b30",
