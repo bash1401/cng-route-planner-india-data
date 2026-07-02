@@ -297,15 +297,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-c5d9580a",
-    "name": "Bharat Petroleum",
-    "latitude": 21.210492,
-    "longitude": 81.316265,
-    "city": "",
-    "state": "Chhattisgarh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-c3d669a8",
     "name": "Bharat Petroleum",
     "latitude": 23.75419,
@@ -864,74 +855,65 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f86a7577",
+    "id": "cng-c5d9580a",
+    "name": "Bharat Petroleum",
+    "latitude": 21.210492,
+    "longitude": 81.316265,
+    "city": "Durg/Bhilai",
+    "state": "Chhattisgarh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-eac5d0a1",
     "name": "Cng Station",
-    "latitude": 22.049995,
-    "longitude": 82.123463,
-    "city": "Bilaspur CG",
+    "latitude": 21.210532,
+    "longitude": 81.260017,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-7ac14bbf",
+    "id": "cng-b44fd929",
     "name": "Cng Station",
-    "latitude": 22.031483,
-    "longitude": 82.051511,
-    "city": "Bilaspur CG",
+    "latitude": 21.186756,
+    "longitude": 81.214657,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-780a9578",
-    "name": "Cng Station",
-    "latitude": 22.059398,
-    "longitude": 82.130375,
-    "city": "Bilaspur CG",
+    "id": "cng-dba9e5d5",
+    "name": "Hp Petrol Pump",
+    "latitude": 21.187078,
+    "longitude": 81.33781,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-73da632a",
-    "name": "Cng Station",
-    "latitude": 22.070777,
-    "longitude": 82.14295,
-    "city": "Bilaspur CG",
+    "id": "cng-3bb66e21",
+    "name": "Junwani Petrol Pump",
+    "latitude": 21.218187,
+    "longitude": 81.317566,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-ff218c48",
-    "name": "Cng Station",
-    "latitude": 22.065634,
-    "longitude": 82.135924,
-    "city": "Bilaspur CG",
+    "id": "cng-6e8b1534",
+    "name": "Petrol Pump",
+    "latitude": 21.198816,
+    "longitude": 81.287563,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b4094ae9",
-    "name": "Cng Station",
-    "latitude": 22.098025,
-    "longitude": 82.15931,
-    "city": "Bilaspur CG",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e961fb40",
-    "name": "Petrol Ofisi",
-    "latitude": 22.093003,
-    "longitude": 82.123757,
-    "city": "Bilaspur CG",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0f6d6c21",
-    "name": "Torwa Petrol Pump",
-    "latitude": 22.06728,
-    "longitude": 82.183321,
-    "city": "Bilaspur CG",
+    "id": "cng-1d6afb50",
+    "name": "Petrol Pump",
+    "latitude": 21.199122,
+    "longitude": 81.336317,
+    "city": "Durg/Bhilai",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
@@ -1436,15 +1418,6 @@
     "latitude": 18.101848,
     "longitude": 83.429462,
     "city": "Vizianagaram",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-06e6ddad",
-    "name": "Police Kalyaan Petrol Pump",
-    "latitude": 22.083558,
-    "longitude": 82.149502,
-    "city": "bilaspur",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },
