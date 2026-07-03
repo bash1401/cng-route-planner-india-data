@@ -9569,14 +9569,6 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 16.739285,
-    "longitude": 80.632439,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
     "latitude": 16.897093,
     "longitude": 80.644051,
     "city": "",
@@ -9595,14 +9587,6 @@
     "name": "Indian Oil",
     "latitude": 17.557236,
     "longitude": 80.618884,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 17.037373,
-    "longitude": 80.645747,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -10668,6 +10652,22 @@
     "latitude": 17.486783,
     "longitude": 78.566924,
     "city": "Secunderabad",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 16.739287,
+    "longitude": 80.632451,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 17.037381,
+    "longitude": 80.64563,
+    "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
   },
@@ -23648,6 +23648,22 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
+    "latitude": 28.836627,
+    "longitude": 77.093495,
+    "city": "Narela",
+    "state": "Delhi",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
+    "latitude": 28.83712,
+    "longitude": 77.095307,
+    "city": "Narela",
+    "state": "Delhi",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "World'S Highest Altitude Retail Pump",
     "latitude": 32.227631,
     "longitude": 78.069945,
@@ -34520,6 +34536,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 8.435829,
+    "longitude": 77.02506,
+    "city": "pallichal",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Bharat Petroleum",
     "latitude": 9.741747,
     "longitude": 76.362711,
@@ -36739,14 +36763,6 @@
     "name": "Bharat Petroleum",
     "latitude": 9.971077,
     "longitude": 76.298599,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 8.435834,
-    "longitude": 77.025012,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"

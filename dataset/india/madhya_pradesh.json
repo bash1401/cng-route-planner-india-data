@@ -981,6 +981,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6093a28c",
+    "name": "Indian Oil",
+    "latitude": 24.120455,
+    "longitude": 75.039221,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8c414889",
+    "name": "Indian Oil",
+    "latitude": 24.017799,
+    "longitude": 75.08364,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-6baccd68",
     "name": "Indian Oil",
     "latitude": 24.36525,
@@ -1480,6 +1498,15 @@
     "name": "Nayara",
     "latitude": 25.155296,
     "longitude": 75.333361,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-94bbd9d4",
+    "name": "Nayara",
+    "latitude": 24.12672,
+    "longitude": 75.037234,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -2327,6 +2354,24 @@
     "latitude": 22.357143,
     "longitude": 77.083351,
     "city": "Harda",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0b7fe7b",
+    "name": "Cng Station",
+    "latitude": 22.740579,
+    "longitude": 77.77346,
+    "city": "Hoshangabad",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-494006ce",
+    "name": "Cng Station",
+    "latitude": 22.664775,
+    "longitude": 77.783811,
+    "city": "Hoshangabad",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
   },
@@ -3546,42 +3591,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d0a545f2",
-    "name": "Hindustan Petroleum",
-    "latitude": 24.000561,
-    "longitude": 75.089686,
-    "city": "Mandsaur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6093a28c",
-    "name": "Indian Oil",
-    "latitude": 24.120455,
-    "longitude": 75.039221,
-    "city": "Mandsaur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8c414889",
-    "name": "Indian Oil",
-    "latitude": 24.017799,
-    "longitude": 75.08364,
-    "city": "Mandsaur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-94bbd9d4",
-    "name": "Nayara",
-    "latitude": 24.12672,
-    "longitude": 75.037234,
-    "city": "Mandsaur",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-f07ddc25",
     "name": "A M Indane",
     "latitude": 21.116745,
@@ -4075,6 +4084,15 @@
     "city": "Narmadapuram",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-523ed5f1",
+    "name": "Cng Station",
+    "latitude": 22.935998,
+    "longitude": 79.246821,
+    "city": "Narsimhapur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-81d2171e",
