@@ -981,24 +981,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-6093a28c",
-    "name": "Indian Oil",
-    "latitude": 24.120455,
-    "longitude": 75.039221,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-8c414889",
-    "name": "Indian Oil",
-    "latitude": 24.017799,
-    "longitude": 75.08364,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-6baccd68",
     "name": "Indian Oil",
     "latitude": 24.36525,
@@ -1498,15 +1480,6 @@
     "name": "Nayara",
     "latitude": 25.155296,
     "longitude": 75.333361,
-    "city": "",
-    "state": "Madhya Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-94bbd9d4",
-    "name": "Nayara",
-    "latitude": 24.12672,
-    "longitude": 75.037234,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -3510,10 +3483,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-dab80b7f",
+    "id": "cng-bd16f473",
     "name": "Varun Multicare Center",
-    "latitude": 22.701632,
-    "longitude": 75.913185,
+    "latitude": 22.701643,
+    "longitude": 75.913381,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -3587,6 +3560,42 @@
     "latitude": 23.842232,
     "longitude": 78.797878,
     "city": "MAKRONIYA",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0a545f2",
+    "name": "Hindustan Petroleum",
+    "latitude": 24.000561,
+    "longitude": 75.089686,
+    "city": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-6093a28c",
+    "name": "Indian Oil",
+    "latitude": 24.120455,
+    "longitude": 75.039221,
+    "city": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-8c414889",
+    "name": "Indian Oil",
+    "latitude": 24.017799,
+    "longitude": 75.08364,
+    "city": "Mandsaur",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-94bbd9d4",
+    "name": "Nayara",
+    "latitude": 24.12672,
+    "longitude": 75.037234,
+    "city": "Mandsaur",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
   },
