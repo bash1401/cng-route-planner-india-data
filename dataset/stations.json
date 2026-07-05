@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-bd6e037a",
+    "name": "Indian Oil",
+    "latitude": 12.008858,
+    "longitude": 92.9717,
+    "city": "",
+    "state": "Andaman and Nicobar Islands",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-770361e9",
     "name": "Indian Oil",
     "latitude": 11.645545,
@@ -13099,15 +13108,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-85511c90",
-    "name": "Gujarat Gas Cng Station",
-    "latitude": 21.750262,
-    "longitude": 72.133216,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-72a7f0a8",
     "name": "Indian Oil",
     "latitude": 22.620383,
@@ -13985,10 +13985,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-9a78cf62",
+    "id": "cng-0075425a",
     "name": "Sharada Petroleum Services",
-    "latitude": 23.112956,
-    "longitude": 72.591453,
+    "latitude": 23.112939,
+    "longitude": 72.59127,
     "city": "Ahmedabad",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -14784,6 +14784,15 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-85511c90",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 21.750262,
+    "longitude": 72.133216,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-e408b5d5",
@@ -17873,6 +17882,15 @@
     "source": "atgl"
   },
   {
+    "id": "cng-9f60cb1d",
+    "name": "Bharat Petroleum",
+    "latitude": 22.310643,
+    "longitude": 73.171475,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-db5085ee",
     "name": "Bp",
     "latitude": 22.310491,
@@ -18323,15 +18341,6 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-9f60cb1d",
-    "name": "Bharat Petroleum",
-    "latitude": 22.310643,
-    "longitude": 73.171475,
-    "city": "Vadodara ATGL",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-a93786c7",
     "name": "Bharat Petroleum",
     "latitude": 20.699381,
@@ -18634,6 +18643,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-d8c1c671",
+    "name": "Bharat Petroleum",
+    "latitude": 28.242069,
+    "longitude": 77.072127,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-7197ba90",
     "name": "Bharat Petroleum",
     "latitude": 28.339505,
@@ -18827,6 +18845,15 @@
     "name": "Indian Oil",
     "latitude": 28.373266,
     "longitude": 75.58819,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2cc81606",
+    "name": "Indian Oil",
+    "latitude": 28.244435,
+    "longitude": 77.072509,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -20299,105 +20326,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-403f1115",
-    "name": "Bharat Petroleum",
-    "latitude": 28.222828,
-    "longitude": 77.299543,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d8c1c671",
-    "name": "Bharat Petroleum",
-    "latitude": 28.242069,
-    "longitude": 77.072127,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5e80407c",
-    "name": "Cng Station",
-    "latitude": 28.207936,
-    "longitude": 77.189545,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1ae5d4b0",
-    "name": "Cng Station",
-    "latitude": 28.20092,
-    "longitude": 77.218515,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c94e1ecb",
-    "name": "Cng Station",
-    "latitude": 28.194951,
-    "longitude": 77.233665,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9a69af21",
-    "name": "Cng Station",
-    "latitude": 28.163221,
-    "longitude": 77.284844,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b28874c5",
-    "name": "Cng Station",
-    "latitude": 28.163795,
-    "longitude": 77.148843,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e99e5f6a",
-    "name": "Hp",
-    "latitude": 28.239093,
-    "longitude": 77.289742,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2cc81606",
-    "name": "Indian Oil",
-    "latitude": 28.244435,
-    "longitude": 77.072509,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fcf76dc9",
-    "name": "Indian Oil",
-    "latitude": 28.241917,
-    "longitude": 77.074387,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-dd3e3675",
-    "name": "Wsa_P6",
-    "latitude": 28.156233,
-    "longitude": 77.157164,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-ad75dbca",
     "name": "Bharat Petroleum",
     "latitude": 28.114232,
@@ -20416,10 +20344,37 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-403f1115",
+    "name": "Bharat Petroleum",
+    "latitude": 28.222828,
+    "longitude": 77.299543,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9a69af21",
+    "name": "Cng Station",
+    "latitude": 28.163221,
+    "longitude": 77.284844,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-3174d9f8",
     "name": "Essar",
     "latitude": 28.21509,
     "longitude": 77.303105,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e99e5f6a",
+    "name": "Hp",
+    "latitude": 28.239093,
+    "longitude": 77.289742,
     "city": "Palwal",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -33244,6 +33199,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6e3e5011",
+    "name": "Indian Oil",
+    "latitude": 10.787498,
+    "longitude": 75.977979,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ca825935",
     "name": "Indian Oil",
     "latitude": 9.371334,
@@ -40966,19 +40930,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-662c43bc",
+    "id": "cng-4ad204bd",
     "name": "Benzy Petroleum (Indian Oil Corporation)",
-    "latitude": 10.78216,
-    "longitude": 75.935564,
+    "latitude": 10.776574,
+    "longitude": 75.940226,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4ad204bd",
-    "name": "Benzy Petroleum (Indian Oil Corporation)",
-    "latitude": 10.776574,
-    "longitude": 75.940226,
+    "id": "cng-662c43bc",
+    "name": "Indian Oil",
+    "latitude": 10.78216,
+    "longitude": 75.935564,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -54479,10 +54443,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-fd1c8865",
+    "id": "cng-667b2350",
     "name": "R K Petroleum",
-    "latitude": 19.077235,
-    "longitude": 73.002816,
+    "latitude": 19.076301,
+    "longitude": 73.003768,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -89568,15 +89532,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -90279,6 +90234,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -90325,12 +90289,12 @@
   },
   {
     "id": "cng-7714a369",
-    "name": "Cng Pump Agra",
+    "name": "Cng Station",
     "latitude": 27.201655,
     "longitude": 78.027893,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "nominatim_grid"
+    "source": "atgl"
   },
   {
     "id": "cng-3c1d84e1",
@@ -91440,6 +91404,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-0507cb24",
+    "name": "Indian Oil",
+    "latitude": 26.849324,
+    "longitude": 81.006013,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1331bd74",
     "name": "Indian Oil",
     "latitude": 26.76802,
@@ -91966,6 +91939,15 @@
     "name": "Hp",
     "latitude": 25.426917,
     "longitude": 81.836144,
+    "city": "Prayagraj/Allahabad",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1ec00d8d",
+    "name": "Hp",
+    "latitude": 25.439902,
+    "longitude": 81.80782,
     "city": "Prayagraj/Allahabad",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

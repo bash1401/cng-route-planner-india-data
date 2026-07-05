@@ -7448,6 +7448,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Bharat Petroleum",
+    "latitude": 22.310643,
+    "longitude": 73.171475,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Fuel",
     "latitude": 21.658973,
     "longitude": 73.060193,
@@ -8188,14 +8196,6 @@
     "latitude": 23.7929,
     "longitude": 72.381641,
     "city": "Banaskantha",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 22.310643,
-    "longitude": 73.171475,
-    "city": "Vadodara ATGL",
     "state": "Gujarat",
     "source": "cgd_inferred"
   },
@@ -19091,6 +19091,14 @@
     "name": "Indian Oil",
     "latitude": 26.879557,
     "longitude": 80.951211,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 26.849324,
+    "longitude": 81.006013,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -46592,6 +46600,14 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Hp",
+    "latitude": 25.439902,
+    "longitude": 81.80782,
+    "city": "Prayagraj/Allahabad",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Petrol Pump",
     "latitude": 25.444027,
     "longitude": 81.858181,
@@ -51272,98 +51288,10 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 28.244435,
-    "longitude": 77.072509,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 28.241917,
-    "longitude": 77.074387,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.207936,
-    "longitude": 77.189545,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.20092,
-    "longitude": 77.218515,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.194951,
-    "longitude": 77.233665,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 28.163221,
     "longitude": 77.284844,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Wsa_P6",
-    "latitude": 28.156233,
-    "longitude": 77.157164,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.163795,
-    "longitude": 77.148843,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 28.222828,
-    "longitude": 77.299543,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 28.239093,
-    "longitude": 77.289742,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Adani Gas",
-    "latitude": 28.244158,
-    "longitude": 77.28947,
-    "city": "Nuh/Mewat",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 28.242069,
-    "longitude": 77.072127,
-    "city": "Nuh/Mewat",
+    "city": "Palwal",
     "state": "Haryana",
     "source": "cgd_inferred"
   },
@@ -51443,6 +51371,30 @@
     "name": "Indian Oil",
     "latitude": 28.217832,
     "longitude": 77.301987,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 28.222828,
+    "longitude": 77.299543,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 28.239093,
+    "longitude": 77.289742,
+    "city": "Palwal",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Adani Gas",
+    "latitude": 28.244158,
+    "longitude": 77.28947,
     "city": "Palwal",
     "state": "Haryana",
     "source": "cgd_inferred"
