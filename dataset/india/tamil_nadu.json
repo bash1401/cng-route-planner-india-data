@@ -4495,6 +4495,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-00fa5305",
+    "name": "Indian Oil",
+    "latitude": 11.212646,
+    "longitude": 77.441716,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c10204fc",
     "name": "Indian Oil",
     "latitude": 11.874881,
@@ -9085,15 +9094,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-f29ea242",
-    "name": "Indian Oil",
-    "latitude": 12.876408,
-    "longitude": 77.671648,
-    "city": "Bengaluru N",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-03b70bfe",
     "name": "Indian Oil",
     "latitude": 12.958493,
@@ -9458,6 +9458,15 @@
     "name": "Indian Oil",
     "latitude": 13.003024,
     "longitude": 77.682296,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f29ea242",
+    "name": "Indian Oil",
+    "latitude": 12.876445,
+    "longitude": 77.671645,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -10696,6 +10705,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-119a7100",
+    "name": "Cng Station",
+    "latitude": 12.995021,
+    "longitude": 77.596492,
+    "city": "Bengaluru South",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-5a5a7717",
     "name": "Bharat Petroleum",
     "latitude": 12.690463,
@@ -11092,10 +11110,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-c1c112c5",
+    "id": "cng-e20809d8",
     "name": "Hindustan Petroleum",
-    "latitude": 12.9545,
-    "longitude": 80.160347,
+    "latitude": 12.95461,
+    "longitude": 80.160368,
     "city": "Chennai Central",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -16047,33 +16065,6 @@
     "latitude": 13.569079,
     "longitude": 79.405279,
     "city": "Tirupati",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fda0e003",
-    "name": "Cng Station",
-    "latitude": 11.203109,
-    "longitude": 77.427271,
-    "city": "Tiruppur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-118b75be",
-    "name": "Hindustan Petroleum",
-    "latitude": 11.206974,
-    "longitude": 77.431171,
-    "city": "Tiruppur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-00fa5305",
-    "name": "Indian Oil",
-    "latitude": 11.212646,
-    "longitude": 77.441716,
-    "city": "Tiruppur",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },

@@ -5257,8 +5257,8 @@
   },
   {
     "name": "Hp",
-    "latitude": 18.974011,
-    "longitude": 72.813916,
+    "latitude": 18.974029,
+    "longitude": 72.813945,
     "city": "Mumbai City",
     "state": "Maharashtra",
     "source": "cgd_inferred"
@@ -8936,14 +8936,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 12.876408,
-    "longitude": 77.671648,
-    "city": "Bengaluru N",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Go Gas",
     "latitude": 12.936464,
     "longitude": 77.515906,
@@ -10843,6 +10835,14 @@
     "name": "Bharath Petroleum",
     "latitude": 12.925299,
     "longitude": 77.583941,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.876445,
+    "longitude": 77.671645,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -30969,8 +30969,8 @@
   },
   {
     "name": "Hindustan Petroleum",
-    "latitude": 12.9545,
-    "longitude": 80.160347,
+    "latitude": 12.95461,
+    "longitude": 80.160368,
     "city": "Chennai Central",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -33213,246 +33213,6 @@
     "longitude": 79.063823,
     "city": "Vellore",
     "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.147917,
-    "longitude": 77.345896,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.208111,
-    "longitude": 77.363427,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Petrol",
-    "latitude": 11.203196,
-    "longitude": 77.336049,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.199161,
-    "longitude": 77.41455,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Bunk",
-    "latitude": 11.194667,
-    "longitude": 77.29433,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hindustan Petroleum",
-    "latitude": 11.206974,
-    "longitude": 77.431171,
-    "city": "Tiruppur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.159848,
-    "longitude": 77.339842,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.169337,
-    "longitude": 77.30241,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Jio Bp",
-    "latitude": 11.15395,
-    "longitude": 77.309169,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.136826,
-    "longitude": 77.321659,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.126173,
-    "longitude": 77.329184,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.10647,
-    "longitude": 77.342279,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.084039,
-    "longitude": 77.35807,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.075174,
-    "longitude": 77.369246,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 11.067076,
-    "longitude": 77.381147,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 11.061054,
-    "longitude": 77.389045,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 11.081558,
-    "longitude": 77.367005,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.212646,
-    "longitude": 77.441716,
-    "city": "Tiruppur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.203109,
-    "longitude": 77.427271,
-    "city": "Tiruppur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 11.098277,
-    "longitude": 77.39444,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.100136,
-    "longitude": 77.382858,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 11.100201,
-    "longitude": 77.378862,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.103144,
-    "longitude": 77.364401,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 11.108769,
-    "longitude": 77.343451,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 11.117043,
-    "longitude": 77.334337,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 11.132348,
-    "longitude": 77.32638,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.140508,
-    "longitude": 77.315245,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 11.174638,
-    "longitude": 77.262283,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "இநதியன ஆயில பஙக",
-    "latitude": 11.185329,
-    "longitude": 77.2817,
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 11.096869,
-    "longitude": 77.355544,
-    "city": "Tiruppur",
-    "state": "Kerala",
     "source": "cgd_inferred"
   },
   {
@@ -37057,6 +36817,14 @@
   },
   {
     "name": "CNG Station",
+    "latitude": 20.911436,
+    "longitude": 77.764977,
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
     "latitude": 21.00952,
     "longitude": 77.700302,
     "city": "Amravati",
@@ -37629,6 +37397,14 @@
     "longitude": 78.608144,
     "city": "Wardha",
     "state": "Maharashtra",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 12.995021,
+    "longitude": 77.596492,
+    "city": "Bengaluru South",
+    "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
   {
@@ -40041,8 +39817,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 8.573676,
-    "longitude": 76.869853,
+    "latitude": 8.573693,
+    "longitude": 76.869851,
     "city": "Thiruvananthapuram",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -40211,6 +39987,14 @@
     "name": "Govind & Co.",
     "latitude": 8.497058,
     "longitude": 76.935803,
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Marine Fuels",
+    "latitude": 8.576131,
+    "longitude": 76.853234,
     "city": "Thiruvananthapuram",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -43224,166 +43008,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil Petrol",
-    "latitude": 12.509531,
-    "longitude": 74.986027,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.543514,
-    "longitude": 74.999844,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Badiadka Pertol Station",
-    "latitude": 12.5904,
-    "longitude": 75.073298,
-    "city": "Badiyadka (Badiadka)",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.458156,
-    "longitude": 75.059149,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.530617,
-    "longitude": 74.968968,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Expance Petroleum",
-    "latitude": 12.509531,
-    "longitude": 75.050788,
-    "city": "Chengala",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hindustan Petroleum",
-    "latitude": 12.503257,
-    "longitude": 74.992994,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 12.506297,
-    "longitude": 74.994031,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "T. A.Ahmed Petrol Pump",
-    "latitude": 12.509523,
-    "longitude": 74.995968,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 12.513075,
-    "longitude": 74.998763,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 12.515204,
-    "longitude": 75.007867,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 12.508938,
-    "longitude": 75.057833,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 12.541694,
-    "longitude": 75.071301,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 12.574936,
-    "longitude": 75.072986,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 12.578395,
-    "longitude": 75.073275,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hindustan Petroleum",
-    "latitude": 12.517944,
-    "longitude": 75.015006,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.456077,
-    "longitude": 75.015152,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Poinachi Petrol Pump",
-    "latitude": 12.468319,
-    "longitude": 75.058474,
-    "city": "POINACHI",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 12.506755,
-    "longitude": 75.093345,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 12.513616,
-    "longitude": 75.025494,
-    "city": "Kasaragod",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Tharayil Fuels -Bharat Petroleum Petrol Pump",
     "latitude": 9.243479,
     "longitude": 76.756494,
@@ -44260,182 +43884,6 @@
     "latitude": 16.350117,
     "longitude": 80.437523,
     "city": "Guntur",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.843999,
-    "longitude": 78.00984,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Chowrastha",
-    "latitude": 15.824463,
-    "longitude": 78.020883,
-    "city": "kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.772914,
-    "longitude": 78.057958,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.782609,
-    "longitude": 78.125394,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Reliance Petroleum",
-    "latitude": 15.803303,
-    "longitude": 78.046772,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "P. Bcpl Bunk",
-    "latitude": 15.822693,
-    "longitude": 78.040033,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Gorantla Fuels-Essar Fuel Station",
-    "latitude": 15.773892,
-    "longitude": 78.028317,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 15.829283,
-    "longitude": 78.041727,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bcpl",
-    "latitude": 15.838973,
-    "longitude": 78.039315,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 15.794426,
-    "longitude": 78.053049,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.8417,
-    "longitude": 78.032587,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.833675,
-    "longitude": 78.04755,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.796373,
-    "longitude": 78.034761,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 15.795946,
-    "longitude": 78.065732,
-    "city": "kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 15.796953,
-    "longitude": 78.081466,
-    "city": "kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.784474,
-    "longitude": 78.033083,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 15.833491,
-    "longitude": 78.049395,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 15.789826,
-    "longitude": 78.053475,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 15.817371,
-    "longitude": 78.025392,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.752962,
-    "longitude": 78.015003,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.818001,
-    "longitude": 78.02398,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 15.850717,
-    "longitude": 78.004567,
-    "city": "Kurnool",
     "state": "Telangana",
     "source": "cgd_inferred"
   },
@@ -47025,22 +46473,6 @@
   },
   {
     "name": "CNG Station",
-    "latitude": 26.82435,
-    "longitude": 79.002233,
-    "city": "Etawah",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.807302,
-    "longitude": 79.006336,
-    "city": "Etawah",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
     "latitude": 28.423676,
     "longitude": 77.804643,
     "city": "Bulandshahr",
@@ -47225,254 +46657,6 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 26.724132,
-    "longitude": 88.416184,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.717631,
-    "longitude": 88.420893,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.770264,
-    "longitude": 88.378503,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.65726,
-    "longitude": 88.415109,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.747307,
-    "longitude": 88.395225,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.756469,
-    "longitude": 88.44112,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.752047,
-    "longitude": 88.439358,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.686715,
-    "longitude": 88.416177,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.704252,
-    "longitude": 88.415963,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.689048,
-    "longitude": 88.414191,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.725512,
-    "longitude": 88.415195,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.719017,
-    "longitude": 88.425288,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.699395,
-    "longitude": 88.320187,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.687318,
-    "longitude": 88.391701,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.713972,
-    "longitude": 88.456711,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.730211,
-    "longitude": 88.431522,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.730527,
-    "longitude": 88.412334,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.732905,
-    "longitude": 88.412334,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.664128,
-    "longitude": 88.47188,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.691694,
-    "longitude": 88.462537,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.741334,
-    "longitude": 88.454566,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.759071,
-    "longitude": 88.418404,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.712301,
-    "longitude": 88.401822,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.676263,
-    "longitude": 88.368339,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.709574,
-    "longitude": 88.364876,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.723215,
-    "longitude": 88.38834,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.723318,
-    "longitude": 88.382582,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.722449,
-    "longitude": 88.38189,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.746992,
-    "longitude": 88.349099,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.790792,
-    "longitude": 88.36288,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.742244,
-    "longitude": 88.436267,
-    "city": "Siliguri",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
     "latitude": 22.029889,
     "longitude": 88.063122,
     "city": "Haldia",
@@ -47549,62 +46733,6 @@
     "longitude": 87.827624,
     "city": "Bardhaman",
     "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Caltax",
-    "latitude": 22.418586,
-    "longitude": 87.323992,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 22.429075,
-    "longitude": 87.338214,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 22.418555,
-    "longitude": 87.340009,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bp",
-    "latitude": 22.41874,
-    "longitude": 87.325087,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 22.417642,
-    "longitude": 87.324204,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 22.338573,
-    "longitude": 87.325822,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Atwal'S Petrol Pump",
-    "latitude": 22.354749,
-    "longitude": 87.33711,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
     "source": "cgd_inferred"
   },
   {
@@ -47856,11 +46984,11 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 24.69713,
-    "longitude": 84.960859,
-    "city": "Gaya",
-    "state": "Jharkhand",
+    "name": "Indian Oil",
+    "latitude": 26.145554,
+    "longitude": 85.908166,
+    "city": "Darbhanga",
+    "state": "Bihar",
     "source": "cgd_inferred"
   },
   {
@@ -47869,78 +46997,6 @@
     "longitude": 85.003184,
     "city": "Gaya",
     "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 24.791331,
-    "longitude": 84.992256,
-    "city": "Gaya",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.124665,
-    "longitude": 85.405232,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.121543,
-    "longitude": 85.381028,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.106324,
-    "longitude": 85.4207,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.104017,
-    "longitude": 85.388843,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.084613,
-    "longitude": 85.380897,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum Petrol Pump",
-    "latitude": 26.051727,
-    "longitude": 85.356848,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.139336,
-    "longitude": 85.356263,
-    "city": "Muzaffarpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.145554,
-    "longitude": 85.908166,
-    "city": "Darbhanga",
-    "state": "Bihar",
     "source": "cgd_inferred"
   },
   {
@@ -48045,222 +47101,6 @@
     "longitude": 85.25689,
     "city": "Hajipur",
     "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.271426,
-    "longitude": 72.976866,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.271573,
-    "longitude": 73.008305,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.289344,
-    "longitude": 73.029997,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.266962,
-    "longitude": 72.991119,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.282483,
-    "longitude": 73.010125,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.280362,
-    "longitude": 73.004745,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.278064,
-    "longitude": 72.998099,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.279652,
-    "longitude": 72.991372,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.274174,
-    "longitude": 73.004801,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.337619,
-    "longitude": 73.145665,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.334913,
-    "longitude": 73.137266,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.324758,
-    "longitude": 73.119426,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.315051,
-    "longitude": 73.097902,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.211121,
-    "longitude": 73.04241,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.284368,
-    "longitude": 73.038366,
-    "city": "jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.271972,
-    "longitude": 73.036697,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.279483,
-    "longitude": 73.037511,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.244668,
-    "longitude": 73.011337,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.310012,
-    "longitude": 73.038608,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.219676,
-    "longitude": 73.052003,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.380079,
-    "longitude": 73.065672,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.383493,
-    "longitude": 73.067094,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.372291,
-    "longitude": 73.06378,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 26.327191,
-    "longitude": 73.042857,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 26.333492,
-    "longitude": 73.047794,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Gas Station",
-    "latitude": 26.317613,
-    "longitude": 73.043527,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.271203,
-    "longitude": 73.036126,
-    "city": "Jodhpur",
-    "state": "Rajasthan",
     "source": "cgd_inferred"
   },
   {
@@ -48852,30 +47692,6 @@
     "latitude": 27.177182,
     "longitude": 73.669656,
     "city": "Nagaur",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 25.775186,
-    "longitude": 73.266729,
-    "city": "Pali",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 25.775039,
-    "longitude": 73.330453,
-    "city": "Pali",
-    "state": "Rajasthan",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 25.764385,
-    "longitude": 73.32528,
-    "city": "Pali",
     "state": "Rajasthan",
     "source": "cgd_inferred"
   },
@@ -50096,14 +48912,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 21.915562,
-    "longitude": 84.03505,
-    "city": "Jharsuguda",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 20.923459,
     "longitude": 85.146722,
@@ -51288,10 +50096,98 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 28.244435,
+    "longitude": 77.072509,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 28.241917,
+    "longitude": 77.074387,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.207936,
+    "longitude": 77.189545,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.20092,
+    "longitude": 77.218515,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.194951,
+    "longitude": 77.233665,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "CNG Station",
     "latitude": 28.163221,
     "longitude": 77.284844,
-    "city": "Palwal",
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Wsa_P6",
+    "latitude": 28.156233,
+    "longitude": 77.157164,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 28.163795,
+    "longitude": 77.148843,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 28.222828,
+    "longitude": 77.299543,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 28.239093,
+    "longitude": 77.289742,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Adani Gas",
+    "latitude": 28.244158,
+    "longitude": 77.28947,
+    "city": "Nuh/Mewat",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 28.242069,
+    "longitude": 77.072127,
+    "city": "Nuh/Mewat",
     "state": "Haryana",
     "source": "cgd_inferred"
   },
@@ -51371,30 +50267,6 @@
     "name": "Indian Oil",
     "latitude": 28.217832,
     "longitude": 77.301987,
-    "city": "Palwal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 28.222828,
-    "longitude": 77.299543,
-    "city": "Palwal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 28.239093,
-    "longitude": 77.289742,
-    "city": "Palwal",
-    "state": "Haryana",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Adani Gas",
-    "latitude": 28.244158,
-    "longitude": 77.28947,
     "city": "Palwal",
     "state": "Haryana",
     "source": "cgd_inferred"
@@ -54280,38 +53152,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Hp",
-    "latitude": 22.595843,
-    "longitude": 80.35924,
-    "city": "Mandla",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Reliance Petroleum",
-    "latitude": 22.607997,
-    "longitude": 80.370098,
-    "city": "Mandla",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Reliance",
-    "latitude": 22.613005,
-    "longitude": 80.369862,
-    "city": "Mandla",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Iocl Petrol Pump",
-    "latitude": 22.604545,
-    "longitude": 80.370462,
-    "city": "Mandla",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Bansal Pump",
     "latitude": 22.357143,
     "longitude": 77.083351,
@@ -54325,14 +53165,6 @@
     "longitude": 79.246821,
     "city": "Narsimhapur",
     "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp",
-    "latitude": 24.76764,
-    "longitude": 78.833305,
-    "city": "Tikamgarh",
-    "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },
   {

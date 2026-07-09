@@ -90,6 +90,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-d673d189",
+    "name": "Bharat Petroleum",
+    "latitude": 15.794426,
+    "longitude": 78.053049,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-9bad2004",
     "name": "Bharat Petroleum",
     "latitude": 14.453358,
@@ -573,6 +582,42 @@
     "name": "Indian Oil",
     "latitude": 14.004101,
     "longitude": 77.979487,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9ed98447",
+    "name": "Indian Oil",
+    "latitude": 15.829283,
+    "longitude": 78.041727,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7ff09547",
+    "name": "Indian Oil",
+    "latitude": 15.833491,
+    "longitude": 78.049395,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-bf2fa2ed",
+    "name": "Indian Oil",
+    "latitude": 15.789826,
+    "longitude": 78.053475,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7e54aabc",
+    "name": "Indian Oil",
+    "latitude": 15.817371,
+    "longitude": 78.025392,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -1520,8 +1565,7 @@
     "longitude": 74.093554,
     "city": "Ambawade S.W.",
     "state": "Karnataka",
-    "source": "osm_extra",
-    "operator": "Bharat Petroleum"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-67e57304",
@@ -3108,150 +3152,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e8647dde",
-    "name": "Bcpl",
-    "latitude": 15.838973,
-    "longitude": 78.039315,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d673d189",
-    "name": "Bharat Petroleum",
-    "latitude": 15.794426,
-    "longitude": 78.053049,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e508655c",
-    "name": "Cng Station",
-    "latitude": 15.843999,
-    "longitude": 78.00984,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-afb71da6",
-    "name": "Cng Station",
-    "latitude": 15.772914,
-    "longitude": 78.057958,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c97c6ea0",
-    "name": "Cng Station",
-    "latitude": 15.782609,
-    "longitude": 78.125394,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d861d0ba",
-    "name": "Cng Station",
-    "latitude": 15.8417,
-    "longitude": 78.032587,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ec38e74b",
-    "name": "Cng Station",
-    "latitude": 15.833675,
-    "longitude": 78.04755,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5cbba253",
-    "name": "Cng Station",
-    "latitude": 15.796373,
-    "longitude": 78.034761,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-97b7e53a",
-    "name": "Cng Station",
-    "latitude": 15.784474,
-    "longitude": 78.033083,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-adb37dc7",
-    "name": "Cng Station",
-    "latitude": 15.752962,
-    "longitude": 78.015003,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-64c1fe8a",
-    "name": "Gorantla Fuels-Essar Fuel Station",
-    "latitude": 15.773892,
-    "longitude": 78.028317,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9ed98447",
-    "name": "Indian Oil",
-    "latitude": 15.829283,
-    "longitude": 78.041727,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bf2fa2ed",
-    "name": "Indian Oil",
-    "latitude": 15.789826,
-    "longitude": 78.053475,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7e54aabc",
-    "name": "Indian Oil",
-    "latitude": 15.817371,
-    "longitude": 78.025392,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bfd7d945",
-    "name": "P. Bcpl Bunk",
-    "latitude": 15.822693,
-    "longitude": 78.040033,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f9c0cee2",
-    "name": "Reliance Petroleum",
-    "latitude": 15.803303,
-    "longitude": 78.046772,
-    "city": "Kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-99e6dea3",
     "name": "Bharat Petroleum",
     "latitude": 18.399108,
@@ -4410,16 +4310,7 @@
     "longitude": 78.065732,
     "city": "kurnool",
     "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-dedba9d9",
-    "name": "Chowrastha",
-    "latitude": 15.824463,
-    "longitude": 78.020883,
-    "city": "kurnool",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-a48daf10",
@@ -4428,7 +4319,7 @@
     "longitude": 78.081466,
     "city": "kurnool",
     "state": "Karnataka",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-c1ebe43b",
