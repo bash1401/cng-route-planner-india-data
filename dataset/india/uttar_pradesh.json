@@ -216,6 +216,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-c6b10cd2",
+    "name": "Gail India Ltd. Cng Station",
+    "latitude": 25.286496,
+    "longitude": 82.968651,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-ba4e0e37",
     "name": "Hpcl",
     "latitude": 24.809806,
@@ -1237,6 +1246,24 @@
     "name": "Cng Station",
     "latitude": 26.733025,
     "longitude": 79.106263,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d438bf21",
+    "name": "Cng Station",
+    "latitude": 26.82435,
+    "longitude": 79.002233,
+    "city": "Etawah",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-877e3a05",
+    "name": "Hp",
+    "latitude": 26.807302,
+    "longitude": 79.006336,
     "city": "Etawah",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -2889,6 +2916,15 @@
     "source": "gail_pdf"
   },
   {
+    "id": "cng-2cb69c7e",
+    "name": "Hp",
+    "latitude": 24.76764,
+    "longitude": 78.833305,
+    "city": "Tikamgarh",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-b4adff53",
     "name": "Cng Station",
     "latitude": 26.526335,
@@ -2968,15 +3004,6 @@
     "city": "Varanasi",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c6b10cd2",
-    "name": "Gail India Ltd. Cng Station",
-    "latitude": 25.286496,
-    "longitude": 82.968651,
-    "city": "Varanasi",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-4992c7db",
@@ -3097,12 +3124,12 @@
   },
   {
     "id": "cng-330fc50e",
-    "name": "सरसवती पेटरोल पंप एवं सी.एन.जी. फीलिंग",
+    "name": "Saraswati Petrol Pump And Cng Filling Station",
     "latitude": 25.26721,
     "longitude": 82.966091,
     "city": "Varanasi",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-6aa8cf90",

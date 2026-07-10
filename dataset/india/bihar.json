@@ -9,24 +9,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-1d3afda1",
-    "name": "Bharat Petroleum",
-    "latitude": 26.121543,
-    "longitude": 85.381028,
-    "city": "",
-    "state": "Bihar",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-d9a505de",
-    "name": "Bharat Petroleum",
-    "latitude": 26.106324,
-    "longitude": 85.4207,
-    "city": "",
-    "state": "Bihar",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-3d9e797d",
     "name": "Bharat Petroleum",
     "latitude": 25.51128,
@@ -450,15 +432,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-5ebdc891",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.124665,
-    "longitude": 85.405232,
-    "city": "",
-    "state": "Bihar",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-53eb676c",
     "name": "Indian Oil Petrol Pump",
     "latitude": 25.943151,
@@ -472,15 +445,6 @@
     "name": "Indian Oil Petrol Pump",
     "latitude": 25.893351,
     "longitude": 85.676239,
-    "city": "",
-    "state": "Bihar",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-d1b84d37",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 26.084613,
-    "longitude": 85.380897,
     "city": "",
     "state": "Bihar",
     "source": "all_india_fuel"
@@ -716,6 +680,69 @@
     "latitude": 26.652253,
     "longitude": 84.929536,
     "city": "Motihari",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1d3afda1",
+    "name": "Bharat Petroleum",
+    "latitude": 26.121543,
+    "longitude": 85.381028,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d9a505de",
+    "name": "Bharat Petroleum",
+    "latitude": 26.106324,
+    "longitude": 85.4207,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-44850dac",
+    "name": "Bharat Petroleum",
+    "latitude": 26.104017,
+    "longitude": 85.388843,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0f3d66dd",
+    "name": "Bharat Petroleum",
+    "latitude": 26.139336,
+    "longitude": 85.356263,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-0f3fa248",
+    "name": "Bharat Petroleum Petrol Pump",
+    "latitude": 26.051727,
+    "longitude": 85.356848,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5ebdc891",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 26.124665,
+    "longitude": 85.405232,
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d1b84d37",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 26.084613,
+    "longitude": 85.380897,
+    "city": "Muzaffarpur",
     "state": "Bihar",
     "source": "cgd_inferred"
   },
