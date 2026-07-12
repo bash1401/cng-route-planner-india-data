@@ -407,6 +407,15 @@
     "operator": "GAIL"
   },
   {
+    "id": "cng-6d8b657e",
+    "name": "Gangavesh Petrol Pump",
+    "latitude": 16.693355,
+    "longitude": 74.20407,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-a9cf152c",
     "name": "Indian Oil",
     "latitude": 13.638706,
@@ -1520,7 +1529,8 @@
     "longitude": 74.093554,
     "city": "Ambawade S.W.",
     "state": "Karnataka",
-    "source": "all_india_fuel"
+    "source": "osm_extra",
+    "operator": "Bharat Petroleum"
   },
   {
     "id": "cng-67e57304",
@@ -2927,141 +2937,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-6b096f64",
-    "name": "Bharat Gas Agency",
-    "latitude": 16.671335,
-    "longitude": 74.278669,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d42e8d84",
-    "name": "Bp",
-    "latitude": 16.652601,
-    "longitude": 74.271331,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9bd1f322",
-    "name": "Bp Petrol Pump",
-    "latitude": 16.742639,
-    "longitude": 74.282227,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8b4baee2",
-    "name": "Cng Station",
-    "latitude": 16.70465,
-    "longitude": 74.244152,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e9672ad3",
-    "name": "Cng Station",
-    "latitude": 16.704575,
-    "longitude": 74.241121,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-895c1882",
-    "name": "Cng Station",
-    "latitude": 16.799466,
-    "longitude": 74.284544,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d0342a9d",
-    "name": "Cng Station",
-    "latitude": 16.692043,
-    "longitude": 74.18109,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-162b0629",
-    "name": "Cng Station",
-    "latitude": 16.689701,
-    "longitude": 74.174219,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7bb9baf9",
-    "name": "Cng Station",
-    "latitude": 16.691675,
-    "longitude": 74.243779,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-108d5328",
-    "name": "Cng Station",
-    "latitude": 16.800344,
-    "longitude": 74.199033,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6d8b657e",
-    "name": "Gangavesh Petrol Pump",
-    "latitude": 16.693355,
-    "longitude": 74.20407,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-53ba4748",
-    "name": "Gas Stasion",
-    "latitude": 16.690738,
-    "longitude": 74.283197,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cc4ef3bc",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 16.7282,
-    "longitude": 74.282087,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fa2d800e",
-    "name": "Lpg Gas Station",
-    "latitude": 16.665069,
-    "longitude": 74.246411,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a0754eda",
-    "name": "Mahadev Shivram & Co.",
-    "latitude": 16.737122,
-    "longitude": 74.243931,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-ce886f0b",
     "name": "Shetkari Sahkari Tambakhu K.V. Sangh Petrol Pump",
     "latitude": 16.642869,
@@ -3069,15 +2944,6 @@
     "city": "Kolhapur",
     "state": "Karnataka",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-cff9bace",
-    "name": "Shetkari Sangh Petrol Pump",
-    "latitude": 16.70104,
-    "longitude": 74.25297,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-da075285",

@@ -4456,38 +4456,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Nayara",
-    "latitude": 32.085864,
-    "longitude": 76.584909,
-    "city": "Kangra",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 32.055121,
-    "longitude": 76.502633,
-    "city": "Kangra",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharath Petroleum",
-    "latitude": 32.034755,
-    "longitude": 76.496064,
-    "city": "Kangra",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharath Petroleum",
-    "latitude": 31.898418,
-    "longitude": 76.480196,
-    "city": "Kangra",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 31.825595,
     "longitude": 76.484295,
@@ -6024,7 +5992,7 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "CNG Station",
+    "name": "Hindustan Petroleum",
     "latitude": 19.16865,
     "longitude": 73.11572,
     "city": "Thane",
@@ -7912,54 +7880,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 20.545811,
-    "longitude": 72.958113,
-    "city": "Valsad",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 20.699381,
-    "longitude": 72.982705,
-    "city": "Valsad",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Gas Station",
-    "latitude": 20.511241,
-    "longitude": 72.944923,
-    "city": "Valsad",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petrol Pump",
-    "latitude": 20.625729,
-    "longitude": 72.997421,
-    "city": "Valsad",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Hp Petrol Pump",
-    "latitude": 20.626418,
-    "longitude": 73.01322,
-    "city": "Valsad",
-    "state": "Gujarat",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.589926,
-    "longitude": 72.952037,
-    "city": "Valsad",
-    "state": "Daman and Diu",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "CNG Station",
     "latitude": 22.812131,
     "longitude": 70.871893,
@@ -8160,9 +8080,25 @@
     "source": "cgd_inferred"
   },
   {
+    "name": "Bharat Petroleum",
+    "latitude": 20.545811,
+    "longitude": 72.958113,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
     "name": "Naresh Desai Cng Pump",
     "latitude": 20.321529,
     "longitude": 72.902689,
+    "city": "Vapi/Umbergaon",
+    "state": "Daman and Diu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp Gas Station",
+    "latitude": 20.511241,
+    "longitude": 72.944923,
     "city": "Vapi/Umbergaon",
     "state": "Daman and Diu",
     "source": "cgd_inferred"
@@ -8548,14 +8484,6 @@
     "latitude": 12.941632,
     "longitude": 77.564194,
     "city": "Bengaluru",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Petro / Gas Station",
-    "latitude": 12.960891,
-    "longitude": 77.510643,
-    "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
@@ -12755,6 +12683,14 @@
     "name": "CNG Station",
     "latitude": 12.91813,
     "longitude": 77.731899,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petro / Gas Station",
+    "latitude": 12.960855,
+    "longitude": 77.510628,
     "city": "Bengaluru N",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -17139,6 +17075,14 @@
     "name": "Hp",
     "latitude": 26.448523,
     "longitude": 80.296245,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 26.46272,
+    "longitude": 80.308746,
     "city": "Kanpur",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -23228,6 +23172,54 @@
     "latitude": 28.159067,
     "longitude": 73.378709,
     "city": "Bikaner",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 27.566033,
+    "longitude": 76.613746,
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 27.564334,
+    "longitude": 76.61405,
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 27.678833,
+    "longitude": 76.704435,
+    "city": "Alwar",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 27.58642,
+    "longitude": 76.61561,
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 27.507521,
+    "longitude": 76.601039,
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hanuman Circle Petrol Pump",
+    "latitude": 27.545234,
+    "longitude": 76.633844,
+    "city": "Alwar",
     "state": "Rajasthan",
     "source": "cgd_inferred"
   },
@@ -36672,150 +36664,6 @@
     "source": "cgd_inferred"
   },
   {
-    "name": "Bp",
-    "latitude": 16.652601,
-    "longitude": 74.271331,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Shetkari Sangh Petrol Pump",
-    "latitude": 16.70104,
-    "longitude": 74.25297,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.70465,
-    "longitude": 74.244152,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.704575,
-    "longitude": 74.241121,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.705365,
-    "longitude": 74.244975,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Mahadev Shivram & Co.",
-    "latitude": 16.737122,
-    "longitude": 74.243931,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Lpg Gas Station",
-    "latitude": 16.665069,
-    "longitude": 74.246411,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.799466,
-    "longitude": 74.284544,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Gas Stasion",
-    "latitude": 16.690738,
-    "longitude": 74.283197,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.692043,
-    "longitude": 74.18109,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.689701,
-    "longitude": 74.174219,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.691675,
-    "longitude": 74.243779,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 16.7282,
-    "longitude": 74.282087,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Korgaonkar Petrol Pump",
-    "latitude": 16.72866,
-    "longitude": 74.283136,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bp Petrol Pump",
-    "latitude": 16.742639,
-    "longitude": 74.282227,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Bharat Gas Agency",
-    "latitude": 16.671335,
-    "longitude": 74.278669,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "Gangavesh Petrol Pump",
-    "latitude": 16.693355,
-    "longitude": 74.20407,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 16.800344,
-    "longitude": 74.199033,
-    "city": "Kolhapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
     "name": "Police Kalyan Petrol Pump",
     "latitude": 20.931479,
     "longitude": 77.772068,
@@ -38133,6 +37981,78 @@
     "longitude": 74.510226,
     "city": "Belagavi/Belgaum",
     "state": "Karnataka",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.216068,
+    "longitude": 76.662131,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 12.200803,
+    "longitude": 76.664569,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.183086,
+    "longitude": 76.669198,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Shell",
+    "latitude": 12.245243,
+    "longitude": 76.659712,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 12.150224,
+    "longitude": 76.68207,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hp",
+    "latitude": 12.17331,
+    "longitude": 76.672545,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 12.181558,
+    "longitude": 76.66877,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.244272,
+    "longitude": 76.659812,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 12.168291,
+    "longitude": 76.794431,
+    "city": "Mysuru South",
+    "state": "Kerala",
     "source": "cgd_inferred"
   },
   {

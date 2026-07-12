@@ -2646,24 +2646,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-59041267",
-    "name": "Indian Oil",
-    "latitude": 12.216068,
-    "longitude": 76.662131,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-294dd99f",
-    "name": "Indian Oil",
-    "latitude": 12.183086,
-    "longitude": 76.669198,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-0ab67efd",
     "name": "Indian Oil",
     "latitude": 12.329156,
@@ -5485,15 +5467,6 @@
     "name": "Shell",
     "latitude": 11.82597,
     "longitude": 76.680743,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7fa5b3f4",
-    "name": "Shell",
-    "latitude": 12.245243,
-    "longitude": 76.659712,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -11282,6 +11255,69 @@
     "latitude": 12.392753,
     "longitude": 76.666958,
     "city": "Mysuru",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-bbb7d181",
+    "name": "Cng Station",
+    "latitude": 12.200803,
+    "longitude": 76.664569,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d71809f2",
+    "name": "Cng Station",
+    "latitude": 12.168291,
+    "longitude": 76.794431,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-96b7ddc6",
+    "name": "Hp",
+    "latitude": 12.150224,
+    "longitude": 76.68207,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-43cc65a2",
+    "name": "Hp",
+    "latitude": 12.17331,
+    "longitude": 76.672545,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-59041267",
+    "name": "Indian Oil",
+    "latitude": 12.216068,
+    "longitude": 76.662131,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-294dd99f",
+    "name": "Indian Oil",
+    "latitude": 12.183086,
+    "longitude": 76.669198,
+    "city": "Mysuru South",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7fa5b3f4",
+    "name": "Shell",
+    "latitude": 12.245243,
+    "longitude": 76.659712,
+    "city": "Mysuru South",
     "state": "Kerala",
     "source": "cgd_inferred"
   },
