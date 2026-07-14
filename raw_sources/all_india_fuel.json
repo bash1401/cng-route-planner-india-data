@@ -9577,14 +9577,6 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 16.739285,
-    "longitude": 80.632439,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
     "latitude": 16.897093,
     "longitude": 80.644051,
     "city": "",
@@ -9603,14 +9595,6 @@
     "name": "Indian Oil",
     "latitude": 17.557236,
     "longitude": 80.618884,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 17.037373,
-    "longitude": 80.645747,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -10676,6 +10660,22 @@
     "latitude": 17.486783,
     "longitude": 78.566924,
     "city": "Secunderabad",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 16.739287,
+    "longitude": 80.632451,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 17.037381,
+    "longitude": 80.64563,
+    "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
   },
@@ -56505,8 +56505,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 11.645545,
-    "longitude": 92.731122,
+    "latitude": 11.645753,
+    "longitude": 92.731052,
     "city": "",
     "state": "Andaman and Nicobar Islands",
     "source": "all_india_fuel"
