@@ -252,6 +252,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4d956d0f",
+    "name": "Bharat Petroleum",
+    "latitude": 11.728086,
+    "longitude": 75.539345,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-70ac998e",
     "name": "Bharat Petroleum",
     "latitude": 11.802556,
@@ -6786,6 +6795,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-6d6261ba",
+    "name": "Cng Gas Station Eachur",
+    "latitude": 11.90185,
+    "longitude": 75.443448,
+    "city": "Eachur",
+    "state": "Kerala",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-e3a88387",
     "name": "Bharat Petroleum",
     "latitude": 10.522923,
@@ -6811,6 +6829,15 @@
     "city": "Elavumthitta",
     "state": "Kerala",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4d2a9184",
+    "name": "Cng Gas Station",
+    "latitude": 11.895107,
+    "longitude": 75.410886,
+    "city": "Elayavoor",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e745ccde",
@@ -7038,15 +7065,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9942b5bb",
-    "name": "Bharat Petroleum",
-    "latitude": 11.901689,
-    "longitude": 75.443526,
-    "city": "Kannur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-7c2463c9",
     "name": "Bharat Petroleum",
     "latitude": 11.87284,
@@ -7081,6 +7099,15 @@
     "city": "Kannur",
     "state": "Kerala",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-34d13b7f",
+    "name": "Cng Gas Station Pallikunnu",
+    "latitude": 11.900206,
+    "longitude": 75.368197,
+    "city": "Kannur",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a18bd45f",
@@ -7330,15 +7357,6 @@
     "name": "Ns Petromart",
     "latitude": 11.876338,
     "longitude": 75.39949,
-    "city": "Kannur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b62bce45",
-    "name": "Petrol Station",
-    "latitude": 11.895225,
-    "longitude": 75.410892,
     "city": "Kannur",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10492,6 +10510,15 @@
     "city": "Mattannur",
     "state": "Kerala",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-1b876322",
+    "name": "Cng Gas Station",
+    "latitude": 11.931899,
+    "longitude": 75.579071,
+    "city": "Mattanur",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-42e7f9e1",

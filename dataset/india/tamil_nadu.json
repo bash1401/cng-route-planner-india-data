@@ -1981,7 +1981,7 @@
     "longitude": 80.047347,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cd009a79",
@@ -2033,6 +2033,15 @@
     "name": "Indian Oil",
     "latitude": 9.927171,
     "longitude": 78.099966,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-7384a65b",
+    "name": "Indian Oil",
+    "latitude": 12.265055,
+    "longitude": 79.683598,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm_allstations"
@@ -4490,15 +4499,6 @@
     "name": "Indian Oil",
     "latitude": 11.253607,
     "longitude": 78.158154,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7384a65b",
-    "name": "Indian Oil",
-    "latitude": 12.265055,
-    "longitude": 79.683598,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"

@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -220,6 +229,15 @@
     "name": "Gail India Ltd. Cng Station",
     "latitude": 25.286496,
     "longitude": 82.968651,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "osm_allstations"
@@ -711,15 +729,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -766,12 +775,12 @@
   },
   {
     "id": "cng-7714a369",
-    "name": "Cng Station",
+    "name": "Cng Pump Agra",
     "latitude": 27.201655,
     "longitude": 78.027893,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-3c1d84e1",
@@ -1720,12 +1729,12 @@
   },
   {
     "id": "cng-db754ab1",
-    "name": "Cng Station",
+    "name": "Cng Pump",
     "latitude": 26.910529,
     "longitude": 80.948698,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-8c2247b7",
@@ -1798,15 +1807,6 @@
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-faee9bec",
