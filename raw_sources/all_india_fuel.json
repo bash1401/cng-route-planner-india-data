@@ -15673,6 +15673,14 @@
   },
   {
     "name": "Indian Oil",
+    "latitude": 26.357578,
+    "longitude": 85.10414,
+    "city": "",
+    "state": "Bihar",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
     "latitude": 27.039272,
     "longitude": 88.263971,
     "city": "",
@@ -42144,6 +42152,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Baba Petrol Pump",
+    "latitude": 19.874075,
+    "longitude": 75.315842,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Cng",
     "latitude": 19.076587,
     "longitude": 72.877234,
@@ -42275,14 +42291,6 @@
     "name": "Sk Cng Gas Station",
     "latitude": 19.149027,
     "longitude": 72.839974,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Hp",
-    "latitude": 19.12805,
-    "longitude": 72.832203,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -42523,6 +42531,14 @@
     "name": "Shell",
     "latitude": 19.126521,
     "longitude": 72.921196,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.167885,
+    "longitude": 73.115832,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43308,6 +43324,14 @@
     "latitude": 19.841838,
     "longitude": 75.890354,
     "city": "Jalna",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Hp",
+    "latitude": 19.128147,
+    "longitude": 72.832216,
+    "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
   },
@@ -46624,10 +46648,10 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
+    "name": "Saksham",
     "latitude": 27.564334,
     "longitude": 76.61405,
-    "city": "Alwar",
+    "city": "",
     "state": "Rajasthan",
     "source": "all_india_fuel"
   },
@@ -47557,14 +47581,6 @@
     "longitude": 75.183281,
     "city": "",
     "state": "Rajasthan",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 27.49882,
-    "longitude": 77.66932,
-    "city": "",
-    "state": "Uttar Pradesh",
     "source": "all_india_fuel"
   },
   {
@@ -53701,6 +53717,14 @@
     "longitude": 77.956383,
     "city": "",
     "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 27.49882,
+    "longitude": 77.66932,
+    "city": "",
+    "state": "Uttar Pradesh",
     "source": "all_india_fuel"
   },
   {
