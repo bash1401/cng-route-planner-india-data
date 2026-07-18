@@ -395,8 +395,7 @@
     "longitude": 73.688949,
     "city": "",
     "state": "Maharashtra",
-    "source": "osm",
-    "address": "Maharashtra"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-24de9427",
@@ -460,8 +459,7 @@
     "longitude": 73.245559,
     "city": "",
     "state": "Maharashtra",
-    "source": "osm",
-    "address": "Maharashtra"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-868a03fc",
@@ -6630,10 +6628,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-1e60a01a",
+    "id": "cng-e55c13e2",
     "name": "R K Petroleum",
-    "latitude": 19.077317,
-    "longitude": 73.003269,
+    "latitude": 19.076124,
+    "longitude": 73.004065,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
