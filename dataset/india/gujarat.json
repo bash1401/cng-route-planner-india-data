@@ -279,15 +279,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-fc05e86a",
-    "name": "Cng Station",
-    "latitude": 23.161916,
-    "longitude": 72.588276,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-5fe3ed06",
     "name": "Cng Station Mother",
     "latitude": 23.568588,
@@ -2409,6 +2400,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-fc05e86a",
+    "name": "Cng Station",
+    "latitude": 23.161916,
+    "longitude": 72.588276,
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
     "id": "cng-de9e6c56",
     "name": "Cng Station",
     "latitude": 23.156471,
@@ -4164,10 +4164,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-bda05dc1",
+    "id": "cng-a68ed7a7",
     "name": "Ggl Ruturaj Cng Station",
-    "latitude": 21.459434,
-    "longitude": 73.153175,
+    "latitude": 21.459871,
+    "longitude": 73.153273,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"

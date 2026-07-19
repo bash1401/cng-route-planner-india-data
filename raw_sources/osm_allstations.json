@@ -2136,6 +2136,14 @@
     "source": "osm_allstations"
   },
   {
+    "name": "Mngl Cng Station",
+    "latitude": 18.630632,
+    "longitude": 73.742897,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "name": "Indraprastha Cng Gas Station Pump",
     "latitude": 28.575236,
     "longitude": 77.067756,
@@ -3149,14 +3157,6 @@
     "longitude": 73.191663,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Cng",
-    "latitude": 18.630737,
-    "longitude": 73.742847,
-    "city": "",
-    "state": "Maharashtra",
     "source": "osm_allstations"
   },
   {
@@ -4269,62 +4269,6 @@
     "longitude": 77.584251,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Mahanagar Gas Limited",
-    "latitude": 19.046782,
-    "longitude": 72.878713,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.525907,
-    "longitude": 77.190382,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.450267,
-    "longitude": 77.039658,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.456216,
-    "longitude": 77.046656,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Indraprastha Gas",
-    "latitude": 28.52089,
-    "longitude": 77.294862,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Indraprastha Gas Limited",
-    "latitude": 28.587339,
-    "longitude": 77.235539,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 28.722121,
-    "longitude": 77.061657,
-    "city": "New Delhi",
-    "state": "Delhi",
     "source": "osm_allstations"
   }
 ]
