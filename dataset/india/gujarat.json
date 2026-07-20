@@ -279,6 +279,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-fc05e86a",
+    "name": "Cng Station",
+    "latitude": 23.161916,
+    "longitude": 72.588276,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-5fe3ed06",
     "name": "Cng Station Mother",
     "latitude": 23.568588,
@@ -2400,15 +2409,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-fc05e86a",
-    "name": "Cng Station",
-    "latitude": 23.161916,
-    "longitude": 72.588276,
-    "city": "Gandhinagar",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
     "id": "cng-de9e6c56",
     "name": "Cng Station",
     "latitude": 23.156471,
@@ -2562,10 +2562,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2272e4bf",
+    "id": "cng-14a4eb28",
     "name": "Ratanpar Fuels",
-    "latitude": 22.334562,
-    "longitude": 70.815971,
+    "latitude": 22.328609,
+    "longitude": 70.815343,
     "city": "Gujarat",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -4245,10 +4245,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-90de7e18",
+    "id": "cng-5094783d",
     "name": "Hpcl Comco",
-    "latitude": 21.199894,
-    "longitude": 72.874218,
+    "latitude": 21.199824,
+    "longitude": 72.874122,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"

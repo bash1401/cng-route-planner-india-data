@@ -90,6 +90,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-77a01ec0",
+    "name": "Cng Station",
+    "latitude": 30.64012,
+    "longitude": 76.804981,
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-7ddd8396",
     "name": "Cng Station",
     "latitude": 30.716966,
@@ -574,14 +583,5 @@
     "city": "Mohali",
     "state": "Chandigarh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-77a01ec0",
-    "name": "Cng Pump Zirakpur",
-    "latitude": 30.64012,
-    "longitude": 76.804981,
-    "city": "Panchkula",
-    "state": "Chandigarh",
-    "source": "nominatim_grid"
   }
 ]
