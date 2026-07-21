@@ -243,6 +243,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-627eafbd",
+    "name": "Indian Oil",
+    "latitude": 24.828416,
+    "longitude": 92.799736,
+    "city": "",
+    "state": "Assam",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-0887f908",
     "name": "Indian Oil",
     "latitude": 26.407493,
@@ -256,6 +265,15 @@
     "name": "Indian Oil",
     "latitude": 26.421647,
     "longitude": 91.629979,
+    "city": "",
+    "state": "Assam",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9b933190",
+    "name": "Indian Oil",
+    "latitude": 24.929422,
+    "longitude": 92.766483,
     "city": "",
     "state": "Assam",
     "source": "all_india_fuel"
@@ -977,51 +995,6 @@
     "latitude": 24.858806,
     "longitude": 92.493324,
     "city": "Karimganj",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6ff899bc",
-    "name": "Cng Station",
-    "latitude": 24.788127,
-    "longitude": 92.794548,
-    "city": "Silchar",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b1a63731",
-    "name": "Cng Station",
-    "latitude": 24.791942,
-    "longitude": 92.792672,
-    "city": "Silchar",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1cc39ae2",
-    "name": "Cng Station",
-    "latitude": 24.830952,
-    "longitude": 92.792213,
-    "city": "Silchar",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-627eafbd",
-    "name": "Indian Oil",
-    "latitude": 24.828416,
-    "longitude": 92.799736,
-    "city": "Silchar",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9b933190",
-    "name": "Indian Oil",
-    "latitude": 24.929422,
-    "longitude": 92.766483,
-    "city": "Silchar",
     "state": "Assam",
     "source": "cgd_inferred"
   },

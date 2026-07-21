@@ -333,6 +333,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-152ae7d2",
+    "name": "Bharat Petroleum, Petrol Pump - City Fuels",
+    "latitude": 21.094157,
+    "longitude": 81.042692,
+    "city": "",
+    "state": "Chhattisgarh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-3f7d7239",
     "name": "Essar",
     "latitude": 17.974686,
@@ -1005,7 +1014,7 @@
     "longitude": 84.03505,
     "city": "Jharsuguda",
     "state": "Chhattisgarh",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-20f051a5",
@@ -1211,51 +1220,6 @@
     "latitude": 21.308663,
     "longitude": 81.636008,
     "city": "Raipur",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e138b116",
-    "name": "Abis Petrol Pump",
-    "latitude": 21.100454,
-    "longitude": 81.055807,
-    "city": "Rajnandgaon",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-152ae7d2",
-    "name": "Bharat Petroleum, Petrol Pump - City Fuels",
-    "latitude": 21.094157,
-    "longitude": 81.042692,
-    "city": "Rajnandgaon",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b52d862f",
-    "name": "Cng Station",
-    "latitude": 21.096811,
-    "longitude": 81.025658,
-    "city": "Rajnandgaon",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6ba3ab65",
-    "name": "Cng Station",
-    "latitude": 21.097406,
-    "longitude": 81.033846,
-    "city": "Rajnandgaon",
-    "state": "Chhattisgarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8a0a9744",
-    "name": "Mansuk Lal Petrol Pump",
-    "latitude": 21.09898,
-    "longitude": 81.045287,
-    "city": "Rajnandgaon",
     "state": "Chhattisgarh",
     "source": "cgd_inferred"
   },

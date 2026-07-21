@@ -90,6 +90,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-70d9d235",
+    "name": "Bharat Petroleum",
+    "latitude": 30.107455,
+    "longitude": 78.299813,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-52719804",
     "name": "Bharat Petroleum",
     "latitude": 29.288341,
@@ -423,10 +432,46 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-fd65aadd",
+    "name": "Indian Oil",
+    "latitude": 30.10236,
+    "longitude": 78.292675,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-40e40aa9",
+    "name": "Indian Oil",
+    "latitude": 30.125994,
+    "longitude": 78.31625,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-bfb7fa80",
+    "name": "Indian Oil",
+    "latitude": 30.132283,
+    "longitude": 78.385585,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ce5bd3f5",
     "name": "Indian Oil",
     "latitude": 29.598258,
     "longitude": 79.658546,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-28e90795",
+    "name": "Indian Oil",
+    "latitude": 30.114193,
+    "longitude": 78.284342,
     "city": "",
     "state": "Uttarakhand",
     "source": "all_india_fuel"
@@ -472,6 +517,15 @@
     "name": "Indian Oil",
     "latitude": 30.491189,
     "longitude": 79.48157,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d7311b27",
+    "name": "Indian Oil",
+    "latitude": 30.111989,
+    "longitude": 78.302736,
     "city": "",
     "state": "Uttarakhand",
     "source": "all_india_fuel"
@@ -1816,87 +1870,6 @@
     "city": "Muzaffarnagar",
     "state": "Uttarakhand",
     "source": "nominatim_grid"
-  },
-  {
-    "id": "cng-70d9d235",
-    "name": "Bharat Petroleum",
-    "latitude": 30.107455,
-    "longitude": 78.299813,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fb48786",
-    "name": "Bp;Jio",
-    "latitude": 30.120286,
-    "longitude": 78.289494,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0cab7d55",
-    "name": "Cng Station",
-    "latitude": 30.091495,
-    "longitude": 78.276081,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2a8884b8",
-    "name": "Cng Station",
-    "latitude": 30.116114,
-    "longitude": 78.285833,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d579bbc3",
-    "name": "Hp",
-    "latitude": 30.112428,
-    "longitude": 78.302684,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fd65aadd",
-    "name": "Indian Oil",
-    "latitude": 30.10236,
-    "longitude": 78.292675,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-40e40aa9",
-    "name": "Indian Oil",
-    "latitude": 30.125994,
-    "longitude": 78.31625,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bfb7fa80",
-    "name": "Indian Oil",
-    "latitude": 30.132283,
-    "longitude": 78.385585,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-28e90795",
-    "name": "Indian Oil",
-    "latitude": 30.114193,
-    "longitude": 78.284342,
-    "city": "Rishikesh",
-    "state": "Uttarakhand",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-6b6b8653",
