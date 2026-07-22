@@ -72,24 +72,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-18fabf31",
-    "name": "Cng Station",
-    "latitude": 28.623044,
-    "longitude": 77.311212,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-6c49c31c",
-    "name": "Cng Station",
-    "latitude": 28.625809,
-    "longitude": 77.314583,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-5f1996b5",
     "name": "Cng Station",
     "latitude": 28.521758,
@@ -166,6 +148,24 @@
     "name": "Cng Station",
     "latitude": 28.458053,
     "longitude": 77.047127,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-18fabf31",
+    "name": "Cng Station",
+    "latitude": 28.623044,
+    "longitude": 77.311212,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-6c49c31c",
+    "name": "Cng Station",
+    "latitude": 28.625809,
+    "longitude": 77.314583,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -333,33 +333,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-e0198941",
-    "name": "Igl",
-    "latitude": 28.629276,
-    "longitude": 77.321696,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-cbb4870d",
-    "name": "Igl",
-    "latitude": 28.629789,
-    "longitude": 77.312399,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-802259ca",
-    "name": "Igl",
-    "latitude": 28.666346,
-    "longitude": 77.307588,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-ff682424",
     "name": "Igl",
     "latitude": 28.572138,
@@ -423,6 +396,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-e0198941",
+    "name": "Igl",
+    "latitude": 28.629276,
+    "longitude": 77.321696,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-bc83aa2d",
     "name": "Igl",
     "latitude": 28.641776,
@@ -436,6 +418,15 @@
     "name": "Igl",
     "latitude": 28.537878,
     "longitude": 77.289798,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-cbb4870d",
+    "name": "Igl",
+    "latitude": 28.629789,
+    "longitude": 77.312399,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -481,6 +472,15 @@
     "name": "Igl",
     "latitude": 28.406072,
     "longitude": 77.043148,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-802259ca",
+    "name": "Igl",
+    "latitude": 28.666346,
+    "longitude": 77.307588,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -553,24 +553,6 @@
     "operator": "IGL"
   },
   {
-    "id": "cng-a7556e57",
-    "name": "Indian Oil",
-    "latitude": 28.624883,
-    "longitude": 77.305303,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-c490ce47",
-    "name": "Indian Oil",
-    "latitude": 28.585543,
-    "longitude": 77.309326,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-9fd59118",
     "name": "Indian Oil",
     "latitude": 28.504343,
@@ -616,6 +598,24 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-a7556e57",
+    "name": "Indian Oil",
+    "latitude": 28.624883,
+    "longitude": 77.305303,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-c490ce47",
+    "name": "Indian Oil",
+    "latitude": 28.585543,
+    "longitude": 77.309326,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-64fe66f9",
     "name": "Indraprastha Cng Gas Station Pump",
     "latitude": 28.575236,
@@ -629,15 +629,6 @@
     "name": "Indraprastha Gas",
     "latitude": 28.52089,
     "longitude": 77.294862,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-2c37b083",
-    "name": "Indraprastha Gas Limited",
-    "latitude": 28.686107,
-    "longitude": 77.330811,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -688,6 +679,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-2c37b083",
+    "name": "Indraprastha Gas Limited",
+    "latitude": 28.686107,
+    "longitude": 77.330811,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-520e4df1",
     "name": "Indraprastha Gas Limited",
     "latitude": 28.706513,
@@ -715,19 +715,19 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-86342c32",
+    "id": "cng-6a833784",
     "name": "Indraprastha Gas Limited Cng Station",
-    "latitude": 28.685884,
-    "longitude": 77.318648,
+    "latitude": 28.661908,
+    "longitude": 77.299923,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
   },
   {
-    "id": "cng-6a833784",
+    "id": "cng-86342c32",
     "name": "Indraprastha Gas Limited Cng Station",
-    "latitude": 28.661908,
-    "longitude": 77.299923,
+    "latitude": 28.685884,
+    "longitude": 77.318648,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"

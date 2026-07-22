@@ -27,6 +27,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-8bac7d58",
+    "name": "Bharat Petroleum",
+    "latitude": 22.338573,
+    "longitude": 87.325822,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8416f269",
     "name": "Bharat Petroleum",
     "latitude": 23.763085,
@@ -1391,42 +1400,6 @@
     "latitude": 22.772545,
     "longitude": 86.250093,
     "city": "Jamshedpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-37beb4c3",
-    "name": "Atwal'S Petrol Pump",
-    "latitude": 22.354749,
-    "longitude": 87.33711,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8bac7d58",
-    "name": "Bharat Petroleum",
-    "latitude": 22.338573,
-    "longitude": 87.325822,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-28dfb0a0",
-    "name": "Cng Station",
-    "latitude": 22.429075,
-    "longitude": 87.338214,
-    "city": "Kharagpur",
-    "state": "Jharkhand",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d335a5ee",
-    "name": "Cng Station",
-    "latitude": 22.418555,
-    "longitude": 87.340009,
-    "city": "Kharagpur",
     "state": "Jharkhand",
     "source": "cgd_inferred"
   },

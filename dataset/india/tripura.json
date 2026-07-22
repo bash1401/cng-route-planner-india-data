@@ -54,6 +54,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4e5e3f50",
+    "name": "Indian Oil",
+    "latitude": 23.608671,
+    "longitude": 91.823334,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-32f041b1",
     "name": "Intraco Cng Refining ইনটরাকো সিএনজি বিশোধক",
     "latitude": 23.339783,
@@ -97,6 +106,15 @@
     "city": "",
     "state": "Tripura",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-855bd213",
+    "name": "Pv Oil",
+    "latitude": 23.010672,
+    "longitude": 91.401174,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-da86c4e1",
@@ -223,5 +241,14 @@
     "city": "Sylhet",
     "state": "Tripura",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-91a5db21",
+    "name": "Indian Oil",
+    "latitude": 23.308271,
+    "longitude": 91.564641,
+    "city": "santirbazar",
+    "state": "Tripura",
+    "source": "all_india_fuel"
   }
 ]
