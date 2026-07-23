@@ -81,6 +81,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-53e1d7bb",
+    "name": "Bharat Petroleum",
+    "latitude": 26.947963,
+    "longitude": 78.957917,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-452951de",
     "name": "Bharat Petroleum",
     "latitude": 28.011004,
@@ -202,6 +211,15 @@
     "name": "Gail",
     "latitude": 25.324442,
     "longitude": 83.034502,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "osm_allstations"
@@ -472,6 +490,33 @@
     "name": "Indian Oil",
     "latitude": 27.209671,
     "longitude": 77.487357,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-17573bb7",
+    "name": "Indian Oil",
+    "latitude": 26.960576,
+    "longitude": 78.954292,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-f3136743",
+    "name": "Indian Oil",
+    "latitude": 26.987581,
+    "longitude": 78.944641,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-781c0488",
+    "name": "Indian Oil",
+    "latitude": 26.932891,
+    "longitude": 78.9629,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -1639,12 +1684,12 @@
   },
   {
     "id": "cng-db754ab1",
-    "name": "Cng Station",
+    "name": "Cng Pump",
     "latitude": 26.910529,
     "longitude": 80.948698,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-8c2247b7",
@@ -1717,15 +1762,6 @@
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-faee9bec",
