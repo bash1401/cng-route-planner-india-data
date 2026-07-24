@@ -216,15 +216,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-ba4e0e37",
     "name": "Hpcl",
     "latitude": 24.809806,
@@ -249,7 +240,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-010cef85",
@@ -481,15 +472,6 @@
     "name": "Indian Oil",
     "latitude": 27.013859,
     "longitude": 77.567377,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c9ea02b3",
-    "name": "Indian Oil",
-    "latitude": 27.209671,
-    "longitude": 77.487357,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -1179,11 +1161,92 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-7849affd",
+    "name": "Cng Station",
+    "latitude": 27.170862,
+    "longitude": 77.385297,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d000f6e2",
+    "name": "Cng Station",
+    "latitude": 27.26851,
+    "longitude": 77.50972,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-552fe39c",
+    "name": "Cng Station",
+    "latitude": 27.265766,
+    "longitude": 77.507351,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d55247fe",
+    "name": "Cng Station",
+    "latitude": 27.17675,
+    "longitude": 77.41256,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3bab6adf",
+    "name": "Cng Station",
+    "latitude": 27.168889,
+    "longitude": 77.367407,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-077ff23a",
+    "name": "Fuel Station",
+    "latitude": 27.176658,
+    "longitude": 77.40884,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c9ea02b3",
+    "name": "Indian Oil",
+    "latitude": 27.209671,
+    "longitude": 77.487357,
+    "city": "Bharatpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-56e8b1f0",
     "name": "Reliance Petrol Pump",
     "latitude": 26.556466,
     "longitude": 78.803606,
     "city": "Bhind",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-832926c1",
+    "name": "Cng Station",
+    "latitude": 28.423676,
+    "longitude": 77.804643,
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-36a98d58",
+    "name": "Sds Fuel Point",
+    "latitude": 28.400274,
+    "longitude": 77.971154,
+    "city": "Bulandshahr",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },
@@ -1584,15 +1647,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-26c1c373",
-    "name": "Cng Station",
-    "latitude": 28.343851,
-    "longitude": 77.841884,
-    "city": "Khurja",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-056637af",
     "name": "Bharat Petroleum",
     "latitude": 26.856771,
@@ -1684,12 +1738,12 @@
   },
   {
     "id": "cng-db754ab1",
-    "name": "Cng Pump",
+    "name": "Cng Station",
     "latitude": 26.910529,
     "longitude": 80.948698,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
-    "source": "nominatim_grid"
+    "source": "atgl"
   },
   {
     "id": "cng-8c2247b7",
@@ -1764,6 +1818,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-faee9bec",
     "name": "Hp",
     "latitude": 26.781554,
@@ -1831,15 +1894,6 @@
     "name": "Indian Oil",
     "latitude": 26.879557,
     "longitude": 80.951211,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0507cb24",
-    "name": "Indian Oil",
-    "latitude": 26.849324,
-    "longitude": 81.006013,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"

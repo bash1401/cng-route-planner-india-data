@@ -1,5 +1,23 @@
 [
   {
+    "id": "cng-5b7ac482",
+    "name": "Bharat Petroleum",
+    "latitude": 11.93077,
+    "longitude": 79.781537,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a5e3bc14",
+    "name": "Indian Oil",
+    "latitude": 11.931143,
+    "longitude": 79.776275,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f69a6e23",
     "name": "Bharat Petroleum",
     "latitude": 11.823738,
@@ -28,7 +46,7 @@
   },
   {
     "id": "cng-bda15d03",
-    "name": "Amudhasurabi - Pondicherry Cooperative Petrol Bunk",
+    "name": "Amudha Surabi Petrol Bunk",
     "latitude": 11.949903,
     "longitude": 79.814263,
     "city": "Puducherry",
@@ -49,15 +67,6 @@
     "name": "Bharat Petroleum",
     "latitude": 12.026085,
     "longitude": 79.861706,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4e262fdf",
-    "name": "Bharat Petroleum",
-    "latitude": 11.952622,
-    "longitude": 79.819052,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -103,15 +112,6 @@
     "name": "Bharat Petroleum",
     "latitude": 11.861332,
     "longitude": 79.792227,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5b7ac482",
-    "name": "Bharat Petroleum",
-    "latitude": 11.93077,
-    "longitude": 79.781537,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -333,15 +333,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a5e3bc14",
-    "name": "Indian Oil",
-    "latitude": 11.931143,
-    "longitude": 79.776275,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-b227d916",
     "name": "Indian Oil",
     "latitude": 11.939314,
@@ -418,6 +409,15 @@
     "name": "Indian Petrol Bunk",
     "latitude": 11.900061,
     "longitude": 79.752204,
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4e262fdf",
+    "name": "Petrol Bank",
+    "latitude": 11.952622,
+    "longitude": 79.819052,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
