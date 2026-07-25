@@ -81,6 +81,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6768b516",
+    "name": "Bharat Petroleum",
+    "latitude": 27.49882,
+    "longitude": 77.66932,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-53e1d7bb",
     "name": "Bharat Petroleum",
     "latitude": 26.947963,
@@ -720,6 +729,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-a46298e9",
+    "name": "Bharat Petroleum",
+    "latitude": 27.183407,
+    "longitude": 77.988922,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-53a81593",
     "name": "Bharat Petroleum",
     "latitude": 27.182437,
@@ -738,28 +756,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-281bce81",
-    "name": "Bharat Petroleum",
-    "latitude": 27.183444,
-    "longitude": 77.98896,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4c0dfbbb",
-    "name": "Bhartiya Petrolium Petrol Pump",
-    "latitude": 27.211638,
-    "longitude": 77.959989,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a41af176",
+    "id": "cng-3c9d13a9",
     "name": "Bodla Patrol Pump",
-    "latitude": 27.190275,
-    "longitude": 77.971209,
+    "latitude": 27.190387,
+    "longitude": 77.971237,
     "city": "Agra",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -810,6 +810,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-1e83dc84",
+    "name": "Cng Station",
+    "latitude": 27.196845,
+    "longitude": 78.00498,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-8b16d945",
     "name": "Cng Station",
     "latitude": 27.1969,
@@ -850,33 +859,6 @@
     "name": "Cng Station",
     "latitude": 27.231201,
     "longitude": 78.161066,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-912c4f96",
-    "name": "Cng Station",
-    "latitude": 27.211147,
-    "longitude": 78.003044,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7807cd46",
-    "name": "Cng Station",
-    "latitude": 27.217566,
-    "longitude": 77.945933,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1e83dc84",
-    "name": "Cng Station",
-    "latitude": 27.196817,
-    "longitude": 78.004974,
     "city": "Agra",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -963,10 +945,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-4ef84122",
+    "id": "cng-5ecb0783",
     "name": "Kargil Petrol Pump",
-    "latitude": 27.203616,
-    "longitude": 77.953948,
+    "latitude": 27.203588,
+    "longitude": 77.953986,
     "city": "Agra",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -1647,6 +1629,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-26c1c373",
+    "name": "Cng Station",
+    "latitude": 28.343851,
+    "longitude": 77.841884,
+    "city": "Khurja",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-056637af",
     "name": "Bharat Petroleum",
     "latitude": 26.856771,
@@ -1899,6 +1890,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-0507cb24",
+    "name": "Indian Oil",
+    "latitude": 26.849324,
+    "longitude": 81.006013,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-1331bd74",
     "name": "Indian Oil",
     "latitude": 26.76802,
@@ -2029,15 +2029,6 @@
     "name": "Bharat Petroleum",
     "latitude": 27.468274,
     "longitude": 77.660195,
-    "city": "Mathura-Vrindavan",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6768b516",
-    "name": "Bharat Petroleum",
-    "latitude": 27.49882,
-    "longitude": 77.66932,
     "city": "Mathura-Vrindavan",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -2923,15 +2914,6 @@
     "city": "TTZ ‐ Mathura, Vrindavan & Gowardhan",
     "state": "Uttar Pradesh",
     "source": "gail_pdf"
-  },
-  {
-    "id": "cng-2cb69c7e",
-    "name": "Hp",
-    "latitude": 24.76764,
-    "longitude": 78.833305,
-    "city": "Tikamgarh",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-b4adff53",

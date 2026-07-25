@@ -450,15 +450,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-67904115",
-    "name": "Nayara",
-    "latitude": 24.858806,
-    "longitude": 92.493324,
-    "city": "",
-    "state": "Assam",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-295fdd1c",
     "name": "Nitol Cng Filling Station, Gas Station",
     "latitude": 24.241734,
@@ -981,6 +972,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-67904115",
+    "name": "Nayara",
+    "latitude": 24.858806,
+    "longitude": 92.493324,
+    "city": "Karimganj",
+    "state": "Assam",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-6ff899bc",
     "name": "Cng Station",
     "latitude": 24.788127,
@@ -1130,6 +1130,15 @@
     "latitude": 26.622022,
     "longitude": 92.848972,
     "city": "Tezpur",
+    "state": "Assam",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-94688b8c",
+    "name": "মেসারস তালুকদার এল পি জি ফিলিং সটেশন",
+    "latitude": 24.867017,
+    "longitude": 92.390194,
+    "city": "Zakiganj",
     "state": "Assam",
     "source": "cgd_inferred"
   },

@@ -81,6 +81,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-5442302b",
+    "name": "Bharat Petroleum",
+    "latitude": 30.74498,
+    "longitude": 76.903405,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-88799832",
     "name": "Bharat Petroleum",
     "latitude": 30.32079,
@@ -103,15 +112,6 @@
     "name": "Bharat Petroleum",
     "latitude": 30.582978,
     "longitude": 74.830565,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-96a92cea",
-    "name": "Bharat Petroleum",
-    "latitude": 30.047349,
-    "longitude": 76.881213,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -553,6 +553,15 @@
     "name": "Indian Oil",
     "latitude": 30.251831,
     "longitude": 76.85379,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-843a2913",
+    "name": "Indian Oil",
+    "latitude": 30.751956,
+    "longitude": 76.905073,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -1021,15 +1030,6 @@
     "name": "Indian Oil",
     "latitude": 31.803311,
     "longitude": 75.368765,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-96d51bd7",
-    "name": "Indian Oil Corporation",
-    "latitude": 30.071423,
-    "longitude": 76.876653,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -2574,24 +2574,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e3ed899e",
-    "name": "Cng Station",
-    "latitude": 32.129598,
-    "longitude": 75.489169,
-    "city": "Gurdaspur",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0fe82961",
-    "name": "Cng Station",
-    "latitude": 32.126752,
-    "longitude": 75.489412,
-    "city": "Gurdaspur",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-df403276",
     "name": "Gurbaksh Rai Ram Prakash",
     "latitude": 31.903726,
@@ -3519,6 +3501,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-96a92cea",
+    "name": "Bharat Petroleum",
+    "latitude": 30.047349,
+    "longitude": 76.881213,
+    "city": "Kurukshetra",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-131cc7d5",
     "name": "Cng Station",
     "latitude": 29.974086,
@@ -3541,6 +3532,15 @@
     "name": "Hindustan Petroleum",
     "latitude": 30.015524,
     "longitude": 76.887606,
+    "city": "Kurukshetra",
+    "state": "Punjab",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-96d51bd7",
+    "name": "Indian Oil Corporation",
+    "latitude": 30.071423,
+    "longitude": 76.876653,
     "city": "Kurukshetra",
     "state": "Punjab",
     "source": "cgd_inferred"
@@ -4532,42 +4532,6 @@
     "latitude": 32.09284,
     "longitude": 76.576782,
     "city": "Palampur",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5442302b",
-    "name": "Bharat Petroleum",
-    "latitude": 30.74498,
-    "longitude": 76.903405,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-f46aeb03",
-    "name": "Cng Station",
-    "latitude": 30.781991,
-    "longitude": 76.911148,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fbf8f381",
-    "name": "Hp",
-    "latitude": 30.754638,
-    "longitude": 76.905308,
-    "city": "Panchkula",
-    "state": "Punjab",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-843a2913",
-    "name": "Indian Oil",
-    "latitude": 30.751956,
-    "longitude": 76.905073,
-    "city": "Panchkula",
     "state": "Punjab",
     "source": "cgd_inferred"
   },
