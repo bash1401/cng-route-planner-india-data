@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -249,7 +258,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-010cef85",
@@ -711,15 +720,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -766,12 +766,12 @@
   },
   {
     "id": "cng-7714a369",
-    "name": "Cng Station",
+    "name": "Cng Pump Agra",
     "latitude": 27.201655,
     "longitude": 78.027893,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-3c1d84e1",
@@ -2295,15 +2295,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1288ea89",
-    "name": "Hp Petrol Pump",
-    "latitude": 26.490057,
-    "longitude": 77.979344,
-    "city": "Morena",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-0153f86e",
     "name": "Hp Petrol Pump",
     "latitude": 25.987571,
@@ -2619,15 +2610,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-00b9df38",
-    "name": "Cng Station",
-    "latitude": 27.822567,
-    "longitude": 79.924937,
-    "city": "Shahjahanpur",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-3215e01b",
     "name": "Bharat Gas",
     "latitude": 27.572479,
@@ -2914,6 +2896,15 @@
     "city": "TTZ ‐ Mathura, Vrindavan & Gowardhan",
     "state": "Uttar Pradesh",
     "source": "gail_pdf"
+  },
+  {
+    "id": "cng-2cb69c7e",
+    "name": "Hp",
+    "latitude": 24.76764,
+    "longitude": 78.833305,
+    "city": "Tikamgarh",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-b4adff53",

@@ -162,6 +162,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-e913c6cc",
+    "name": "Bharat Petroleum",
+    "latitude": 13.934564,
+    "longitude": 75.546577,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c16637d1",
     "name": "Bharat Petroleum",
     "latitude": 14.009066,
@@ -364,6 +373,15 @@
     "name": "Bharat Petroleum",
     "latitude": 15.166858,
     "longitude": 76.366374,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-c70dd901",
+    "name": "Bhargavi Petrol / Gas Station",
+    "latitude": 13.940476,
+    "longitude": 75.549682,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -623,6 +641,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-720f8005",
+    "name": "Indian Oil",
+    "latitude": 13.947315,
+    "longitude": 75.563428,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-d76d4e8e",
     "name": "Indian Oil",
     "latitude": 13.489703,
@@ -663,6 +690,15 @@
     "name": "Indian Oil",
     "latitude": 14.773391,
     "longitude": 75.131136,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d71b435b",
+    "name": "Indian Oil",
+    "latitude": 13.91257,
+    "longitude": 75.576266,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -3772,249 +3808,6 @@
     "city": "Shirur Anantpal",
     "state": "Karnataka",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-e913c6cc",
-    "name": "Bharat Petroleum",
-    "latitude": 13.934564,
-    "longitude": 75.546577,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c70dd901",
-    "name": "Bhargavi Petrol / Gas Station",
-    "latitude": 13.940476,
-    "longitude": 75.549682,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2c4e2902",
-    "name": "Cng Station",
-    "latitude": 13.932055,
-    "longitude": 75.586825,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0589779c",
-    "name": "Cng Station",
-    "latitude": 13.950451,
-    "longitude": 75.558743,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6fa21ad9",
-    "name": "Cng Station",
-    "latitude": 13.916137,
-    "longitude": 75.564686,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c2ab58ea",
-    "name": "Cng Station",
-    "latitude": 13.887049,
-    "longitude": 75.644463,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-21a899a4",
-    "name": "Hindustan Petroleum",
-    "latitude": 13.919467,
-    "longitude": 75.566866,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d83e6f0f",
-    "name": "Hp",
-    "latitude": 13.9571,
-    "longitude": 75.520185,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-720f8005",
-    "name": "Indian Oil",
-    "latitude": 13.947315,
-    "longitude": 75.563428,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d71b435b",
-    "name": "Indian Oil",
-    "latitude": 13.91257,
-    "longitude": 75.576266,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-40fc70ee",
-    "name": "Petrol Pump",
-    "latitude": 13.930206,
-    "longitude": 75.568187,
-    "city": "Shivamogga",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-809fa5e0",
-    "name": "Bharat Petrol Pump",
-    "latitude": 17.632499,
-    "longitude": 75.910307,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-70c8bd10",
-    "name": "Bharat Petrol Pump",
-    "latitude": 17.621606,
-    "longitude": 75.933961,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e1e95abf",
-    "name": "Cng Station",
-    "latitude": 17.651971,
-    "longitude": 75.98701,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5ef23e12",
-    "name": "Cng Station",
-    "latitude": 17.673641,
-    "longitude": 75.923099,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-25ab6bde",
-    "name": "Cng Station",
-    "latitude": 17.671489,
-    "longitude": 75.933812,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3e46aba8",
-    "name": "Cng Station",
-    "latitude": 17.680896,
-    "longitude": 75.923781,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-40d04d5f",
-    "name": "Cng Station",
-    "latitude": 17.658869,
-    "longitude": 75.969907,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1e5ed486",
-    "name": "Cng Station",
-    "latitude": 17.709561,
-    "longitude": 75.997157,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-bc0c3978",
-    "name": "Cng Station",
-    "latitude": 17.708175,
-    "longitude": 75.993631,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-44fa8436",
-    "name": "Cng Station",
-    "latitude": 17.628173,
-    "longitude": 76.021068,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-23246c4a",
-    "name": "Essar Petrol Pump",
-    "latitude": 17.639206,
-    "longitude": 75.918427,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-27579517",
-    "name": "Hp Petrol Pump",
-    "latitude": 17.634403,
-    "longitude": 75.897502,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-0558c3ff",
-    "name": "Karigar Petrol Pump",
-    "latitude": 17.656779,
-    "longitude": 75.907059,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-acc5d5c7",
-    "name": "Naval Petrol Pump",
-    "latitude": 17.667352,
-    "longitude": 75.899468,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4e4656a2",
-    "name": "Petorl Pump",
-    "latitude": 17.604078,
-    "longitude": 75.949865,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-093591d8",
-    "name": "Petrol Pump",
-    "latitude": 17.658677,
-    "longitude": 75.90407,
-    "city": "Solapur",
-    "state": "Karnataka",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-6cedd8bf",

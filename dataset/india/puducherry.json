@@ -1,5 +1,23 @@
 [
   {
+    "id": "cng-5b7ac482",
+    "name": "Bharat Petroleum",
+    "latitude": 11.93077,
+    "longitude": 79.781537,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a5e3bc14",
+    "name": "Indian Oil",
+    "latitude": 11.931143,
+    "longitude": 79.776275,
+    "city": "",
+    "state": "Puducherry",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f69a6e23",
     "name": "Bharat Petroleum",
     "latitude": 11.823738,
@@ -103,15 +121,6 @@
     "name": "Bharat Petroleum",
     "latitude": 11.861332,
     "longitude": 79.792227,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5b7ac482",
-    "name": "Bharat Petroleum",
-    "latitude": 11.93077,
-    "longitude": 79.781537,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
@@ -328,15 +337,6 @@
     "name": "Indian Oil",
     "latitude": 11.941598,
     "longitude": 79.803359,
-    "city": "Puducherry",
-    "state": "Puducherry",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a5e3bc14",
-    "name": "Indian Oil",
-    "latitude": 11.931143,
-    "longitude": 79.776275,
     "city": "Puducherry",
     "state": "Puducherry",
     "source": "cgd_inferred"
