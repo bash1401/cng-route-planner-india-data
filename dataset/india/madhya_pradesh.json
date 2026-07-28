@@ -279,6 +279,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-12d28a45",
+    "name": "Cng Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -3006,10 +3015,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-af67618b",
+    "id": "cng-08903f16",
     "name": "Maa Renuka Filling Station",
-    "latitude": 22.724368,
-    "longitude": 75.922427,
+    "latitude": 22.725246,
+    "longitude": 75.923208,
     "city": "Indore",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -3555,10 +3564,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-50e8bfdf",
+    "id": "cng-8aa49e61",
     "name": "Varun Multicare Center",
-    "latitude": 22.702018,
-    "longitude": 75.912987,
+    "latitude": 22.70212,
+    "longitude": 75.913052,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
@@ -3724,15 +3733,6 @@
     "city": "Nagpur",
     "state": "Madhya Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-12d28a45",
-    "name": "Cng Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-1efce618",
@@ -3966,7 +3966,7 @@
     "longitude": 79.038446,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
-    "source": "atgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-627ea82d",
@@ -4581,10 +4581,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4c4f7c2d",
+    "id": "cng-eb3f5162",
     "name": "Arya Fuel Station",
-    "latitude": 23.16365,
-    "longitude": 75.762494,
+    "latitude": 23.166671,
+    "longitude": 75.765593,
     "city": "Ujjain",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"

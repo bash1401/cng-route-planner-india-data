@@ -105,6 +105,54 @@
   },
   {
     "name": "Cng Petrol Pump",
+    "latitude": 22.345042,
+    "longitude": 73.202483,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Cng Vadodara",
+    "latitude": 22.315289,
+    "longitude": 73.164874,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Cng Pump Bharat Petroleum",
+    "latitude": 22.234306,
+    "longitude": 73.188365,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Cng Pump",
+    "latitude": 22.379654,
+    "longitude": 73.191663,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Pioneer Petrol Pump",
+    "latitude": 22.328256,
+    "longitude": 73.262744,
+    "city": "vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Adani Cng",
+    "latitude": 22.379562,
+    "longitude": 73.155117,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Cng Petrol Pump",
     "latitude": 21.298809,
     "longitude": 72.953897,
     "city": "Surat",
@@ -173,22 +221,6 @@
     "longitude": 82.968651,
     "city": "Varanasi",
     "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
-    "name": "Indian Auto Gas",
-    "latitude": 21.18139,
-    "longitude": 79.038446,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
     "source": "atgl"
   },
   {
@@ -632,14 +664,6 @@
     "source": "atgl"
   },
   {
-    "name": "Cng",
-    "latitude": 18.630737,
-    "longitude": 73.742847,
-    "city": "Pune",
-    "state": "Maharashtra",
-    "source": "atgl"
-  },
-  {
     "name": "Indian Oil Petrol Cng Pump",
     "latitude": 18.569502,
     "longitude": 73.817207,
@@ -795,6 +819,14 @@
     "name": "Laxmi Petroleum (Bharat Petroleum)",
     "latitude": 18.577979,
     "longitude": 73.716079,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "atgl"
+  },
+  {
+    "name": "Mngl Cng Station",
+    "latitude": 18.630632,
+    "longitude": 73.742897,
     "city": "Pune",
     "state": "Maharashtra",
     "source": "atgl"
