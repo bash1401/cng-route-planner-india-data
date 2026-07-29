@@ -1,14 +1,5 @@
 [
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -54,6 +45,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6094d602",
+    "name": "Bharat Petroleum",
+    "latitude": 26.863498,
+    "longitude": 78.986067,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-fbe206e5",
     "name": "Bharat Petroleum",
     "latitude": 25.924142,
@@ -94,15 +94,6 @@
     "name": "Bharat Petroleum",
     "latitude": 26.947963,
     "longitude": 78.957917,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6094d602",
-    "name": "Bharat Petroleum",
-    "latitude": 26.863498,
-    "longitude": 78.986067,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -177,7 +168,8 @@
     "longitude": 81.333787,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
     "id": "cng-de44c5e1",
@@ -258,7 +250,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-010cef85",
@@ -738,6 +730,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -784,12 +785,12 @@
   },
   {
     "id": "cng-7714a369",
-    "name": "Cng Pump Agra",
+    "name": "Cng Station",
     "latitude": 27.201655,
     "longitude": 78.027893,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "nominatim_grid"
+    "source": "atgl"
   },
   {
     "id": "cng-3c1d84e1",

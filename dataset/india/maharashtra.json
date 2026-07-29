@@ -395,7 +395,8 @@
     "longitude": 73.688949,
     "city": "",
     "state": "Maharashtra",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Maharashtra"
   },
   {
     "id": "cng-24de9427",
@@ -459,7 +460,8 @@
     "longitude": 73.245559,
     "city": "",
     "state": "Maharashtra",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Maharashtra"
   },
   {
     "id": "cng-868a03fc",
@@ -5337,7 +5339,7 @@
     "longitude": 73.75749,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-b342032b",
@@ -5463,7 +5465,7 @@
     "longitude": 73.785145,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-0cad6fe5",
@@ -5859,7 +5861,7 @@
     "longitude": 73.898661,
     "city": "Pune",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-2ecd3aa3",
@@ -6814,7 +6816,7 @@
     "longitude": 73.975254,
     "city": "Wagholi",
     "state": "Maharashtra",
-    "source": "igl_mgl"
+    "source": "atgl"
   },
   {
     "id": "cng-00731d74",

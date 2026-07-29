@@ -56,17 +56,17 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Adani Cng Station",
-    "latitude": 28.400755,
-    "longitude": 77.374226,
+    "name": "Adani Cng Gas Station",
+    "latitude": 28.399032,
+    "longitude": 77.350329,
     "city": "Greater Noida",
     "state": "Haryana",
     "source": "nominatim_grid"
   },
   {
-    "name": "Adani Cng Gas Station",
-    "latitude": 28.399032,
-    "longitude": 77.350329,
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
     "city": "Greater Noida",
     "state": "Haryana",
     "source": "nominatim_grid"
@@ -128,17 +128,17 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
-    "latitude": 28.837134,
-    "longitude": 77.095311,
+    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
+    "latitude": 28.836609,
+    "longitude": 77.093415,
     "city": "Sonipat",
     "state": "Delhi",
     "source": "nominatim_grid"
   },
   {
-    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
-    "latitude": 28.836609,
-    "longitude": 77.093415,
+    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
+    "latitude": 28.837134,
+    "longitude": 77.095311,
     "city": "Sonipat",
     "state": "Delhi",
     "source": "nominatim_grid"
@@ -417,16 +417,16 @@
   },
   {
     "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.284186,
-    "longitude": 70.769197,
+    "latitude": 22.258577,
+    "longitude": 70.704029,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "nominatim_grid"
   },
   {
     "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.258577,
-    "longitude": 70.704029,
+    "latitude": 22.284186,
+    "longitude": 70.769197,
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "nominatim_grid"
@@ -581,6 +581,14 @@
     "longitude": 74.812042,
     "city": "Mangaluru",
     "state": "Karnataka",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Gcc Bio-Cng Plant, Chetpet",
+    "latitude": 13.074932,
+    "longitude": 80.251006,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
     "source": "nominatim_grid"
   },
   {
