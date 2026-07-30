@@ -60,8 +60,7 @@
     "longitude": 76.294488,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c1bceb30",
@@ -3385,6 +3384,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-3016941a",
+    "name": "Indian Oil",
+    "latitude": 11.194081,
+    "longitude": 76.243634,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-721c0421",
     "name": "Indian Oil",
     "latitude": 11.111253,
@@ -4528,15 +4536,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-6e3e5011",
-    "name": "Indian Oil",
-    "latitude": 10.787498,
-    "longitude": 75.977979,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-ca825935",
     "name": "Indian Oil",
     "latitude": 9.371334,
@@ -4633,9 +4632,7 @@
     "longitude": 76.809615,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala",
-    "operator": "Adani"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-f4259cf7",
@@ -4860,8 +4857,7 @@
     "longitude": 76.32123,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-8befdafe",
@@ -5329,8 +5325,7 @@
     "longitude": 76.370154,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-11347e76",
@@ -7061,6 +7056,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-6d6261ba",
+    "name": "Cng Gas Station Eachur",
+    "latitude": 11.90185,
+    "longitude": 75.443448,
+    "city": "Eachur",
+    "state": "Kerala",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-e3a88387",
     "name": "Bharat Petroleum",
     "latitude": 10.522923,
@@ -7086,6 +7090,15 @@
     "city": "Elavumthitta",
     "state": "Kerala",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4d2a9184",
+    "name": "Cng Gas Station",
+    "latitude": 11.895107,
+    "longitude": 75.410886,
+    "city": "Elayavoor",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e745ccde",
@@ -7313,15 +7326,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9942b5bb",
-    "name": "Bharat Petroleum",
-    "latitude": 11.901689,
-    "longitude": 75.443526,
-    "city": "Kannur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-7c2463c9",
     "name": "Bharat Petroleum",
     "latitude": 11.87284,
@@ -7364,7 +7368,7 @@
     "longitude": 75.368197,
     "city": "Kannur",
     "state": "Kerala",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a18bd45f",
@@ -7614,15 +7618,6 @@
     "name": "Ns Petromart",
     "latitude": 11.876338,
     "longitude": 75.39949,
-    "city": "Kannur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b62bce45",
-    "name": "Petrol Station",
-    "latitude": 11.895225,
-    "longitude": 75.410892,
     "city": "Kannur",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10631,7 +10626,7 @@
     "longitude": 75.579071,
     "city": "Mattanur",
     "state": "Kerala",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-42e7f9e1",
@@ -11885,19 +11880,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4ad204bd",
+    "id": "cng-662c43bc",
     "name": "Benzy Petroleum (Indian Oil Corporation)",
-    "latitude": 10.776574,
-    "longitude": 75.940226,
+    "latitude": 10.78216,
+    "longitude": 75.935564,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-662c43bc",
-    "name": "Indian Oil",
-    "latitude": 10.78216,
-    "longitude": 75.935564,
+    "id": "cng-4ad204bd",
+    "name": "Benzy Petroleum (Indian Oil Corporation)",
+    "latitude": 10.776574,
+    "longitude": 75.940226,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -13510,15 +13505,6 @@
     "latitude": 10.928606,
     "longitude": 76.026273,
     "city": "Vettichira",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3016941a",
-    "name": "Indian Oil",
-    "latitude": 11.194081,
-    "longitude": 76.243634,
-    "city": "Wandoor",
     "state": "Kerala",
     "source": "all_india_fuel"
   },

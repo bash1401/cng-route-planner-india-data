@@ -587,15 +587,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-c490ce47",
-    "name": "Indian Oil",
-    "latitude": 28.585527,
-    "longitude": 77.309298,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-a248fc58",
     "name": "Indian Oil",
     "latitude": 28.545093,
@@ -636,6 +627,15 @@
     "name": "Indian Oil",
     "latitude": 28.624883,
     "longitude": 77.305303,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
+    "id": "cng-c490ce47",
+    "name": "Indian Oil",
+    "latitude": 28.585543,
+    "longitude": 77.309326,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -3185,7 +3185,7 @@
     "longitude": 77.093495,
     "city": "Narela",
     "state": "Delhi",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-aedcc58c",

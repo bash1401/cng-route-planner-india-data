@@ -60,7 +60,7 @@
     "longitude": 90.02321,
     "city": "",
     "state": "Meghalaya",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-0446bf44",
@@ -258,7 +258,7 @@
     "longitude": 91.389189,
     "city": "Sunamganj Sylhet Hwy",
     "state": "Meghalaya",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-bd937343",
@@ -267,6 +267,6 @@
     "longitude": 91.390259,
     "city": "Sunamganj-Sylhet Hwy",
     "state": "Meghalaya",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   }
 ]
