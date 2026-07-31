@@ -18,6 +18,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-9be78ad5",
+    "name": "Bharat Petroleum",
+    "latitude": 28.606048,
+    "longitude": 77.300107,
+    "city": "",
+    "state": "Delhi",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-44810f27",
     "name": "Capt. Anuj Sharma Gas Station",
     "latitude": 28.600907,
@@ -286,24 +295,6 @@
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
-  },
-  {
-    "id": "cng-bd59d6a1",
-    "name": "Cng Station",
-    "latitude": 28.450267,
-    "longitude": 77.039658,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-9651c665",
-    "name": "Cng Station",
-    "latitude": 28.456216,
-    "longitude": 77.046656,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
   },
   {
     "id": "cng-cb5efeff",
@@ -587,6 +578,15 @@
     "source": "igl_mgl"
   },
   {
+    "id": "cng-c490ce47",
+    "name": "Indian Oil",
+    "latitude": 28.585527,
+    "longitude": 77.309298,
+    "city": "",
+    "state": "Delhi",
+    "source": "igl_mgl"
+  },
+  {
     "id": "cng-a248fc58",
     "name": "Indian Oil",
     "latitude": 28.545093,
@@ -627,15 +627,6 @@
     "name": "Indian Oil",
     "latitude": 28.624883,
     "longitude": 77.305303,
-    "city": "",
-    "state": "Delhi",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-c490ce47",
-    "name": "Indian Oil",
-    "latitude": 28.585543,
-    "longitude": 77.309326,
     "city": "",
     "state": "Delhi",
     "source": "igl_mgl"
@@ -1703,6 +1694,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-bd59d6a1",
+    "name": "Hcg",
+    "latitude": 28.450267,
+    "longitude": 77.039658,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-46f41156",
     "name": "Hindustan Petroleum",
     "latitude": 28.874747,
@@ -2139,6 +2139,15 @@
     "name": "Ibp Limited",
     "latitude": 28.756121,
     "longitude": 77.147976,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-57bfa14b",
+    "name": "Ibp Petrol Pump",
+    "latitude": 28.45579,
+    "longitude": 77.046332,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
@@ -3185,7 +3194,7 @@
     "longitude": 77.093495,
     "city": "Narela",
     "state": "Delhi",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-aedcc58c",

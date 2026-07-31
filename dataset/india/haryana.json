@@ -1,23 +1,5 @@
 [
   {
-    "id": "cng-2f1afbae",
-    "name": "Adani Cng Gas Station",
-    "latitude": 28.399023,
-    "longitude": 77.350323,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-f4a99d6a",
-    "name": "Adani Cng Station",
-    "latitude": 28.400755,
-    "longitude": 77.374226,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
     "id": "cng-a62efa97",
     "name": "Adani Gas",
     "latitude": 27.944461,
@@ -266,6 +248,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-0a2f5669",
+    "name": "Bharat Petroleum",
+    "latitude": 30.106279,
+    "longitude": 77.073116,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-1bccb44c",
     "name": "Bharat Petroleum",
     "latitude": 28.956467,
@@ -320,28 +311,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-0a2f5669",
-    "name": "Bharat Petroleum",
-    "latitude": 30.106279,
-    "longitude": 77.073116,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-868658bf",
     "name": "Cng Station",
     "latitude": 28.732903,
     "longitude": 77.558978,
-    "city": "",
-    "state": "Haryana",
-    "source": "igl_mgl"
-  },
-  {
-    "id": "cng-0ad47272",
-    "name": "Cng Station",
-    "latitude": 28.397792,
-    "longitude": 76.932488,
     "city": "",
     "state": "Haryana",
     "source": "igl_mgl"
@@ -354,6 +327,15 @@
     "city": "",
     "state": "Haryana",
     "source": "igl_mgl"
+  },
+  {
+    "id": "cng-0ad47272",
+    "name": "Cng Station",
+    "latitude": 28.397792,
+    "longitude": 76.932488,
+    "city": "",
+    "state": "Haryana",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a1e0ef4f",
@@ -398,7 +380,7 @@
     "longitude": 77.066279,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e7731d4e",
@@ -549,24 +531,6 @@
     "name": "Indian Oil",
     "latitude": 28.794449,
     "longitude": 76.616148,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-43d2117e",
-    "name": "Indian Oil",
-    "latitude": 29.707468,
-    "longitude": 77.544656,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-51f1fbbd",
-    "name": "Indian Oil",
-    "latitude": 29.708036,
-    "longitude": 77.53454,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -788,15 +752,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-a9071220",
-    "name": "Indian Oil",
-    "latitude": 28.267927,
-    "longitude": 76.14075,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8eb6d134",
     "name": "Indian Oil",
     "latitude": 29.710646,
@@ -810,6 +765,15 @@
     "name": "Indian Oil",
     "latitude": 29.720275,
     "longitude": 77.425814,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-af22265c",
+    "name": "Indian Oil",
+    "latitude": 28.318728,
+    "longitude": 77.551736,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -977,10 +941,28 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-af22265c",
+    "id": "cng-d52f3820",
     "name": "Indian Oil",
-    "latitude": 28.318728,
-    "longitude": 77.551736,
+    "latitude": 28.268019,
+    "longitude": 76.140822,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-51f1fbbd",
+    "name": "Indian Oil",
+    "latitude": 29.708006,
+    "longitude": 77.534545,
+    "city": "",
+    "state": "Haryana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-3e9af9f1",
+    "name": "Indian Oil",
+    "latitude": 29.707413,
+    "longitude": 77.544646,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1049,19 +1031,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d35354eb",
+    "id": "cng-fe5eadee",
     "name": "Nayara",
-    "latitude": 28.699418,
-    "longitude": 77.445093,
+    "latitude": 30.117528,
+    "longitude": 77.082162,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-fe5eadee",
+    "id": "cng-d35354eb",
     "name": "Nayara",
-    "latitude": 30.117528,
-    "longitude": 77.082162,
+    "latitude": 28.699418,
+    "longitude": 77.445093,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1184,6 +1166,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-2f1afbae",
+    "name": "Adani Cng Gas Station",
+    "latitude": 28.399023,
+    "longitude": 77.350323,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
+    "id": "cng-f4a99d6a",
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
     "id": "cng-58596898",
     "name": "Cng Station",
     "latitude": 28.389926,
@@ -1247,10 +1247,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
