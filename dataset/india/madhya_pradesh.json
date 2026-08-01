@@ -279,13 +279,22 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-ad091358",
-    "name": "Bharat Petrolium",
-    "latitude": 22.746128,
-    "longitude": 75.893793,
+    "id": "cng-d77587d6",
+    "name": "Bharat Petroleum",
+    "latitude": 25.42299,
+    "longitude": 75.651026,
     "city": "",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-41934df1",
+    "name": "Bharat Petroleum",
+    "latitude": 25.284241,
+    "longitude": 75.754234,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-16535ffe",
@@ -337,6 +346,15 @@
     "name": "Indian Oil",
     "latitude": 22.708857,
     "longitude": 77.912046,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-e11fac8d",
+    "name": "Indian Oil",
+    "latitude": 26.872674,
+    "longitude": 75.820837,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "osm_allstations"
@@ -1044,6 +1062,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-87597f8a",
+    "name": "Indian Oil",
+    "latitude": 25.250497,
+    "longitude": 75.778398,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-c3e09c2a",
+    "name": "Indian Oil",
+    "latitude": 25.328354,
+    "longitude": 75.716917,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-6355006e",
     "name": "Indian Oil",
     "latitude": 26.7397,
@@ -1561,6 +1597,15 @@
     "name": "Nayara",
     "latitude": 24.457438,
     "longitude": 74.924423,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7db9e93b",
+    "name": "Nayara",
+    "latitude": 25.357684,
+    "longitude": 75.684481,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
@@ -2454,7 +2499,7 @@
     "longitude": 75.873126,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-0dc29fa9",
@@ -2526,7 +2571,16 @@
     "longitude": 75.841069,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
+  },
+  {
+    "id": "cng-ad091358",
+    "name": "Cng Station",
+    "latitude": 22.746128,
+    "longitude": 75.893793,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "atgl"
   },
   {
     "id": "cng-991eab8d",
@@ -2616,7 +2670,7 @@
     "longitude": 75.903345,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-3994b235",
@@ -2625,7 +2679,7 @@
     "longitude": 75.877801,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-250456fd",
@@ -2670,7 +2724,7 @@
     "longitude": 75.884285,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-7cea480a",
@@ -2679,7 +2733,7 @@
     "longitude": 75.860244,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-e09b2603",
@@ -2688,7 +2742,7 @@
     "longitude": 75.829621,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-47549cb5",
@@ -2742,7 +2796,7 @@
     "longitude": 75.872283,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-7a365171",
@@ -2751,7 +2805,7 @@
     "longitude": 75.844265,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-b71d9953",
@@ -2778,7 +2832,7 @@
     "longitude": 75.890762,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-c7007643",
@@ -2787,7 +2841,7 @@
     "longitude": 75.902501,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-927210f7",
@@ -2994,7 +3048,7 @@
     "longitude": 75.902582,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-6c1b0338",
@@ -3021,7 +3075,7 @@
     "longitude": 75.861174,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-7355b76c",
@@ -3066,7 +3120,7 @@
     "longitude": 75.846771,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-e39d8d26",
@@ -3075,7 +3129,7 @@
     "longitude": 75.911322,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-5fc7f6b2",
@@ -3111,7 +3165,7 @@
     "longitude": 75.825561,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-103a2bf4",
@@ -3138,7 +3192,7 @@
     "longitude": 75.887981,
     "city": "Indore",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "atgl"
   },
   {
     "id": "cng-32de1084",
@@ -3393,15 +3447,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e11fac8d",
-    "name": "Indian Oil",
-    "latitude": 26.872674,
-    "longitude": 75.820837,
-    "city": "Jaipur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-612b6f43",
     "name": "Indian Oil",
     "latitude": 26.846049,
@@ -3555,10 +3600,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-8aa49e61",
+    "id": "cng-3f300f00",
     "name": "Varun Multicare Center",
-    "latitude": 22.70212,
-    "longitude": 75.913052,
+    "latitude": 22.702107,
+    "longitude": 75.91286,
     "city": "Jhabua",
     "state": "Madhya Pradesh",
     "source": "gujarat_gas"
