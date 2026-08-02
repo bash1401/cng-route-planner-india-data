@@ -1,109 +1,5 @@
 [
   {
-    "name": "Adani Cng Gas Station",
-    "latitude": 23.011445,
-    "longitude": 72.586437,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Adani",
-    "latitude": 23.013519,
-    "longitude": 72.564403,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "CNG Station",
-    "latitude": 23.057951,
-    "longitude": 72.643162,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Petrol Pump",
-    "latitude": 23.052345,
-    "longitude": 72.631946,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Petrol Cng Pump",
-    "latitude": 23.021968,
-    "longitude": 72.650824,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Bharat Petroleum",
-    "latitude": 23.040089,
-    "longitude": 72.57813,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Gas Station",
-    "latitude": 23.084673,
-    "longitude": 72.686259,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Stattion",
-    "latitude": 22.935932,
-    "longitude": 72.49878,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng And Petrol Pump",
-    "latitude": 23.028945,
-    "longitude": 72.673433,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Station",
-    "latitude": 23.161916,
-    "longitude": 72.588276,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Indian Oil Cng N Petrol",
-    "latitude": 23.029281,
-    "longitude": 72.475028,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Cng Petrol Pump",
-    "latitude": 23.026704,
-    "longitude": 72.526047,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "name": "Adani Cng Station",
-    "latitude": 22.999159,
-    "longitude": 72.603628,
-    "city": "Ahmedabad",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
     "name": "Cng Petrol Pump",
     "latitude": 22.345042,
     "longitude": 73.202483,
@@ -148,6 +44,14 @@
     "latitude": 22.379562,
     "longitude": 73.155117,
     "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "name": "Cng Station",
+    "latitude": 23.161916,
+    "longitude": 72.588276,
+    "city": "Gandhinagar",
     "state": "Gujarat",
     "source": "atgl"
   },
@@ -360,14 +264,6 @@
     "source": "atgl"
   },
   {
-    "name": "H.S. Road Carrier Petrol Pump",
-    "latitude": 22.678499,
-    "longitude": 75.877801,
-    "city": "Indore",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "name": "Madhur Fuel Station",
     "latitude": 22.681914,
     "longitude": 75.861174,
@@ -400,11 +296,51 @@
     "source": "atgl"
   },
   {
-    "name": "CNG Station",
-    "latitude": 30.64012,
-    "longitude": 76.804981,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
+    "name": "Adani Cng Station",
+    "latitude": 28.400755,
+    "longitude": 77.374226,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
+    "name": "Hp",
+    "latitude": 28.494525,
+    "longitude": 77.303591,
+    "city": "Faridabad",
+    "state": "Delhi",
+    "source": "atgl"
+  },
+  {
+    "name": "Igl",
+    "latitude": 28.547714,
+    "longitude": 77.255391,
+    "city": "Faridabad",
+    "state": "Delhi",
+    "source": "atgl"
+  },
+  {
+    "name": "Indraprastha Gas Limited Cng Station",
+    "latitude": 28.525984,
+    "longitude": 77.37028,
+    "city": "Faridabad",
+    "state": "Haryana",
+    "source": "atgl"
+  },
+  {
+    "name": "Igl",
+    "latitude": 28.53093,
+    "longitude": 77.232248,
+    "city": "Faridabad",
+    "state": "Delhi",
+    "source": "atgl"
+  },
+  {
+    "name": "Adani Cng Gas Station",
+    "latitude": 28.399023,
+    "longitude": 77.350323,
+    "city": "Faridabad",
+    "state": "Haryana",
     "source": "atgl"
   },
   {
@@ -648,6 +584,14 @@
     "source": "atgl"
   },
   {
+    "name": "Cng",
+    "latitude": 18.630737,
+    "longitude": 73.742847,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "source": "atgl"
+  },
+  {
     "name": "Indian Oil Petrol Cng Pump",
     "latitude": 18.569502,
     "longitude": 73.817207,
@@ -808,11 +752,19 @@
     "source": "atgl"
   },
   {
-    "name": "Mngl Cng Station",
-    "latitude": 18.630632,
-    "longitude": 73.742897,
-    "city": "Pune",
-    "state": "Maharashtra",
+    "name": "Indian Oil",
+    "latitude": 27.042715,
+    "longitude": 75.760486,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "atgl"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 26.872674,
+    "longitude": 75.820837,
+    "city": "Jaipur",
+    "state": "Madhya Pradesh",
     "source": "atgl"
   }
 ]
