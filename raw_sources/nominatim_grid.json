@@ -48,22 +48,6 @@
     "source": "nominatim_grid"
   },
   {
-    "name": "Igl Cng Pump(Narela Dsiidc",
-    "latitude": 28.836609,
-    "longitude": 77.093415,
-    "city": "Delhi",
-    "state": "Delhi",
-    "source": "nominatim_grid"
-  },
-  {
-    "name": "Igl Cng Pump (Narela Dsiidc",
-    "latitude": 28.837134,
-    "longitude": 77.095311,
-    "city": "Delhi",
-    "state": "Delhi",
-    "source": "nominatim_grid"
-  },
-  {
     "name": "Indraprastha Gas Limited Cng Station",
     "latitude": 28.685835,
     "longitude": 77.3185,
@@ -141,6 +125,22 @@
     "longitude": 76.972403,
     "city": "Karnal",
     "state": "Haryana",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
+    "latitude": 28.836609,
+    "longitude": 77.093415,
+    "city": "Sonipat",
+    "state": "Delhi",
+    "source": "nominatim_grid"
+  },
+  {
+    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
+    "latitude": 28.837134,
+    "longitude": 77.095311,
+    "city": "Sonipat",
+    "state": "Delhi",
     "source": "nominatim_grid"
   },
   {

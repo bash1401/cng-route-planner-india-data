@@ -180,15 +180,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-6f382a87",
-    "name": "Bharat Petroleum",
-    "latitude": 31.272344,
-    "longitude": 76.711248,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5794b6b8",
     "name": "Bharat Petroleum",
     "latitude": 31.373548,
@@ -211,6 +202,15 @@
     "name": "Bharat Petroleum",
     "latitude": 31.639931,
     "longitude": 74.792154,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6f382a87",
+    "name": "Bharat Petroleum",
+    "latitude": 31.272344,
+    "longitude": 76.711248,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -936,15 +936,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f4e6d255",
-    "name": "Indian Oil",
-    "latitude": 32.493113,
-    "longitude": 75.924608,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-2660a50a",
     "name": "Indian Oil",
     "latitude": 31.775342,
@@ -1021,6 +1012,15 @@
     "name": "Indian Oil",
     "latitude": 31.108155,
     "longitude": 74.976938,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-f4e6d255",
+    "name": "Indian Oil",
+    "latitude": 32.493113,
+    "longitude": 75.924608,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"

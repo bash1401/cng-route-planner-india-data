@@ -756,10 +756,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-5c3d3e36",
+    "id": "cng-d5698cfb",
     "name": "Bharat Petroleum",
-    "latitude": 13.059356,
-    "longitude": 77.64897,
+    "latitude": 13.059329,
+    "longitude": 77.648943,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4409,6 +4409,15 @@
     "name": "Indian Oil",
     "latitude": 12.512366,
     "longitude": 80.160883,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b3f88dea",
+    "name": "Indian Oil",
+    "latitude": 12.991878,
+    "longitude": 79.985796,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
