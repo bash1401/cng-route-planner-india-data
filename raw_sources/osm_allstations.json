@@ -32,6 +32,14 @@
     "source": "osm_allstations"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 28.585527,
+    "longitude": 77.309298,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
     "name": "Kedari Petrol Pump",
     "latitude": 18.486548,
     "longitude": 73.898661,
@@ -592,6 +600,14 @@
     "source": "osm_allstations"
   },
   {
+    "name": "H.S. Road Carrier Petrol Pump",
+    "latitude": 22.678499,
+    "longitude": 75.877801,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "name": "Madhur Fuel Station",
     "latitude": 22.681914,
     "longitude": 75.861174,
@@ -747,6 +763,14 @@
     "name": "Sk Cng Gas Station",
     "latitude": 19.149027,
     "longitude": 72.839974,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Hp",
+    "latitude": 19.12805,
+    "longitude": 72.832203,
     "city": "",
     "state": "Maharashtra",
     "source": "osm_allstations"
@@ -1096,30 +1120,6 @@
     "source": "osm_allstations"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 12.265055,
-    "longitude": 79.683598,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Hp",
-    "latitude": 22.996737,
-    "longitude": 88.394974,
-    "city": "",
-    "state": "West Bengal",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Igl",
-    "latitude": 28.569575,
-    "longitude": 77.200998,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
     "name": "Mahanagar Gas",
     "latitude": 18.985254,
     "longitude": 72.830855,
@@ -1377,8 +1377,8 @@
   },
   {
     "name": "Jio-Bp",
-    "latitude": 20.176303,
-    "longitude": 85.640083,
+    "latitude": 20.176353,
+    "longitude": 85.640104,
     "city": "Khordha",
     "state": "Odisha",
     "source": "osm_allstations"
@@ -1658,7 +1658,7 @@
   {
     "name": "Gail",
     "latitude": 13.154663,
-    "longitude": 77.685096,
+    "longitude": 77.685089,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm_allstations"
@@ -2099,54 +2099,6 @@
     "name": "Laxmi Petroleum (Bharat Petroleum)",
     "latitude": 18.577979,
     "longitude": 73.716079,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 28.585543,
-    "longitude": 77.309326,
-    "city": "",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Hp",
-    "latitude": 19.128147,
-    "longitude": 72.832216,
-    "city": "",
-    "state": "Maharashtra",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
-    "latitude": 28.836627,
-    "longitude": 77.093495,
-    "city": "Narela",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
-    "latitude": 28.83712,
-    "longitude": 77.095307,
-    "city": "Narela",
-    "state": "Delhi",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Hindustan Petroleum",
-    "latitude": 12.831553,
-    "longitude": 80.047347,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Mngl Cng Station",
-    "latitude": 18.630632,
-    "longitude": 73.742897,
     "city": "",
     "state": "Maharashtra",
     "source": "osm_allstations"
@@ -4144,6 +4096,30 @@
     "source": "osm_allstations"
   },
   {
+    "name": "Igl Cng Pump(Narela Dsiidc,Delhi)",
+    "latitude": 28.836627,
+    "longitude": 77.093495,
+    "city": "Narela",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Igl Cng Pump (Narela Dsiidc, Delhi)",
+    "latitude": 28.83712,
+    "longitude": 77.095307,
+    "city": "Narela",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Mngl Cng Station",
+    "latitude": 18.630632,
+    "longitude": 73.742897,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "osm_allstations"
+  },
+  {
     "name": "Indraprastha Gas Limited",
     "latitude": 28.584878,
     "longitude": 77.260221,
@@ -4249,14 +4225,6 @@
   },
   {
     "name": "Igl",
-    "latitude": 27.768944,
-    "longitude": 77.465862,
-    "city": "",
-    "state": "Haryana",
-    "source": "osm_allstations"
-  },
-  {
-    "name": "Igl",
     "latitude": 28.580591,
     "longitude": 77.179592,
     "city": "",
@@ -4307,6 +4275,22 @@
     "name": "CNG Station",
     "latitude": 28.456216,
     "longitude": 77.046656,
+    "city": "",
+    "state": "Delhi",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Igl",
+    "latitude": 27.768944,
+    "longitude": 77.465862,
+    "city": "",
+    "state": "Haryana",
+    "source": "osm_allstations"
+  },
+  {
+    "name": "Igl",
+    "latitude": 28.569575,
+    "longitude": 77.200998,
     "city": "",
     "state": "Delhi",
     "source": "osm_allstations"

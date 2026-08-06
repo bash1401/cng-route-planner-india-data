@@ -180,6 +180,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-6f382a87",
+    "name": "Bharat Petroleum",
+    "latitude": 31.272344,
+    "longitude": 76.711248,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-5794b6b8",
     "name": "Bharat Petroleum",
     "latitude": 31.373548,
@@ -202,15 +211,6 @@
     "name": "Bharat Petroleum",
     "latitude": 31.639931,
     "longitude": 74.792154,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-6f382a87",
-    "name": "Bharat Petroleum",
-    "latitude": 31.272344,
-    "longitude": 76.711248,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -936,6 +936,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-f4e6d255",
+    "name": "Indian Oil",
+    "latitude": 32.493113,
+    "longitude": 75.924608,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2660a50a",
     "name": "Indian Oil",
     "latitude": 31.775342,
@@ -1012,15 +1021,6 @@
     "name": "Indian Oil",
     "latitude": 31.108155,
     "longitude": 74.976938,
-    "city": "",
-    "state": "Punjab",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f4e6d255",
-    "name": "Indian Oil",
-    "latitude": 32.493113,
-    "longitude": 75.924608,
     "city": "",
     "state": "Punjab",
     "source": "all_india_fuel"
@@ -1359,6 +1359,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-83c48db6",
+    "name": "سی این جی",
+    "latitude": 32.324784,
+    "longitude": 74.341395,
+    "city": "",
+    "state": "Punjab",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-57daef27",
     "name": "ماڈل سی این جی",
     "latitude": 32.504508,
@@ -1692,10 +1701,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-15424d53",
+    "id": "cng-fe702c96",
     "name": "Dillon Hp Auto Fuels",
-    "latitude": 31.637364,
-    "longitude": 74.876701,
+    "latitude": 31.637392,
+    "longitude": 74.876795,
     "city": "Amritsar",
     "state": "Punjab",
     "source": "gujarat_gas"
