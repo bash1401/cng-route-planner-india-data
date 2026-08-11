@@ -333,6 +333,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-efbcb249",
+    "name": "Bharat Petroleum",
+    "latitude": 26.338767,
+    "longitude": 88.800714,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-5f744b2c",
     "name": "Bogra Cng Filling Station",
     "latitude": 24.882523,
@@ -2241,10 +2250,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-1dacd33e",
-    "name": "Indian Oil Fuel Station",
-    "latitude": 26.3642,
-    "longitude": 88.906424,
+    "id": "cng-5f4e0138",
+    "name": "Indian Oil",
+    "latitude": 26.364315,
+    "longitude": 88.906479,
     "city": "Mekliganj",
     "state": "West Bengal",
     "source": "all_india_fuel"
