@@ -263,6 +263,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-fc7f1bd1",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 23.183543,
+    "longitude": 72.687681,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-72a7f0a8",
     "name": "Indian Oil",
     "latitude": 22.620383,
@@ -4533,10 +4542,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9478522c",
+    "id": "cng-6f4a9a1c",
     "name": "Iocl Coco Boon Gasoline (Shantilal & Sons)",
-    "latitude": 21.182074,
-    "longitude": 72.81919,
+    "latitude": 21.1822,
+    "longitude": 72.819265,
     "city": "Surat",
     "state": "Gujarat",
     "source": "gujarat_gas"

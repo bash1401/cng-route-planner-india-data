@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -225,6 +234,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-ba4e0e37",
     "name": "Hpcl",
     "latitude": 24.809806,
@@ -249,7 +267,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-010cef85",
@@ -729,15 +747,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -783,13 +792,13 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-7714a369",
-    "name": "Cng Station",
-    "latitude": 27.201655,
-    "longitude": 78.027893,
+    "id": "cng-8fb38bb1",
+    "name": "Cng Pump Agra",
+    "latitude": 27.201594,
+    "longitude": 78.027833,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-3c1d84e1",
@@ -1747,12 +1756,12 @@
   },
   {
     "id": "cng-db754ab1",
-    "name": "Cng Station",
+    "name": "Cng Pump",
     "latitude": 26.910529,
     "longitude": 80.948698,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-8c2247b7",
@@ -1825,15 +1834,6 @@
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-faee9bec",

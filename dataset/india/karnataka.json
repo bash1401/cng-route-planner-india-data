@@ -333,15 +333,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7af4639e",
-    "name": "Bharat Petroleum",
-    "latitude": 15.893877,
-    "longitude": 75.699598,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-8dd9d974",
     "name": "Bharat Petroleum",
     "latitude": 16.584063,
@@ -355,6 +346,42 @@
     "name": "Bharat Petroleum",
     "latitude": 15.73072,
     "longitude": 75.975387,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5d140a97",
+    "name": "Bharat Petroleum",
+    "latitude": 15.167503,
+    "longitude": 75.140639,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ab994e4e",
+    "name": "Bharat Petroleum",
+    "latitude": 15.308823,
+    "longitude": 76.475259,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-917fa96b",
+    "name": "Bharat Petroleum",
+    "latitude": 15.166858,
+    "longitude": 76.366374,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7af4639e",
+    "name": "Bharat Petroleum",
+    "latitude": 15.893877,
+    "longitude": 75.699598,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -414,15 +441,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-5d140a97",
-    "name": "Bharat Petroleum",
-    "latitude": 15.167503,
-    "longitude": 75.140639,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-40c3996a",
     "name": "Bharat Petroleum",
     "latitude": 16.342395,
@@ -445,24 +463,6 @@
     "name": "Bharat Petroleum",
     "latitude": 17.290333,
     "longitude": 75.8165,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ab994e4e",
-    "name": "Bharat Petroleum",
-    "latitude": 15.308823,
-    "longitude": 76.475259,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-917fa96b",
-    "name": "Bharat Petroleum",
-    "latitude": 15.166858,
-    "longitude": 76.366374,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -1145,15 +1145,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-15b8fbd6",
-    "name": "Indian Oil",
-    "latitude": 15.621869,
-    "longitude": 76.018036,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-446993e4",
     "name": "Indian Oil",
     "latitude": 15.766794,
@@ -1244,10 +1235,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7a06b48f",
+    "id": "cng-96188eaa",
     "name": "Indian Oil",
-    "latitude": 15.903564,
-    "longitude": 75.69058,
+    "latitude": 15.903899,
+    "longitude": 75.690322,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -1257,6 +1248,96 @@
     "name": "Indian Oil",
     "latitude": 17.558034,
     "longitude": 74.24586,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-079678f2",
+    "name": "Indian Oil",
+    "latitude": 18.301573,
+    "longitude": 74.101761,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b8a186c1",
+    "name": "Indian Oil",
+    "latitude": 15.690937,
+    "longitude": 74.363618,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-90433fbd",
+    "name": "Indian Oil",
+    "latitude": 15.277246,
+    "longitude": 75.146367,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d027b0c9",
+    "name": "Indian Oil",
+    "latitude": 15.163723,
+    "longitude": 76.365568,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-75772a60",
+    "name": "Indian Oil",
+    "latitude": 15.435358,
+    "longitude": 76.534906,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-186c2837",
+    "name": "Indian Oil",
+    "latitude": 15.267258,
+    "longitude": 76.347543,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-3e673b89",
+    "name": "Indian Oil",
+    "latitude": 15.281331,
+    "longitude": 76.41933,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-f79629f5",
+    "name": "Indian Oil",
+    "latitude": 17.828,
+    "longitude": 76.703179,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5a91ad88",
+    "name": "Indian Oil",
+    "latitude": 15.272287,
+    "longitude": 76.372543,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-15b8fbd6",
+    "name": "Indian Oil",
+    "latitude": 15.621869,
+    "longitude": 76.018036,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -1334,33 +1415,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-079678f2",
-    "name": "Indian Oil",
-    "latitude": 18.301573,
-    "longitude": 74.101761,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-b8a186c1",
-    "name": "Indian Oil",
-    "latitude": 15.690937,
-    "longitude": 74.363618,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-90433fbd",
-    "name": "Indian Oil",
-    "latitude": 15.277246,
-    "longitude": 75.146367,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-a37c69b0",
     "name": "Indian Oil",
     "latitude": 16.706207,
@@ -1374,60 +1428,6 @@
     "name": "Indian Oil",
     "latitude": 17.127289,
     "longitude": 75.785659,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-d027b0c9",
-    "name": "Indian Oil",
-    "latitude": 15.163723,
-    "longitude": 76.365568,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-75772a60",
-    "name": "Indian Oil",
-    "latitude": 15.435358,
-    "longitude": 76.534906,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-186c2837",
-    "name": "Indian Oil",
-    "latitude": 15.267258,
-    "longitude": 76.347543,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3e673b89",
-    "name": "Indian Oil",
-    "latitude": 15.281331,
-    "longitude": 76.41933,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-f79629f5",
-    "name": "Indian Oil",
-    "latitude": 17.828,
-    "longitude": 76.703179,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-5a91ad88",
-    "name": "Indian Oil",
-    "latitude": 15.272287,
-    "longitude": 76.372543,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -1761,15 +1761,6 @@
     "name": "Sri Shankar Service Station",
     "latitude": 13.845604,
     "longitude": 75.691622,
-    "city": "",
-    "state": "Karnataka",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-95ad80cf",
-    "name": "Think Gas",
-    "latitude": 15.341222,
-    "longitude": 76.187244,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"

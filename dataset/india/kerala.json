@@ -4743,15 +4743,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7cdb1048",
-    "name": "Indian Oil Corporation",
-    "latitude": 11.204411,
-    "longitude": 76.966248,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-1603af6a",
     "name": "Indian Oil Corporation",
     "latitude": 11.175216,
@@ -6439,15 +6430,6 @@
     "name": "Bharat Petrolium",
     "latitude": 11.043213,
     "longitude": 76.984892,
-    "city": "Coimbatore",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-8a7e5c17",
-    "name": "Bharath Petroleum",
-    "latitude": 11.113359,
-    "longitude": 76.935314,
     "city": "Coimbatore",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -13597,6 +13579,24 @@
     "city": "coimbatore",
     "state": "Kerala",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7cdb1048",
+    "name": "Indian Oil Corporation",
+    "latitude": 11.204411,
+    "longitude": 76.966248,
+    "city": "coimbatore",
+    "state": "Kerala",
+    "source": "osm_allstations"
+  },
+  {
+    "id": "cng-21f53008",
+    "name": "Indian Oil Corporation",
+    "latitude": 11.112384,
+    "longitude": 76.936262,
+    "city": "coimbatore",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-cd2c5e63",
