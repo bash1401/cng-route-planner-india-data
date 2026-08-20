@@ -198,15 +198,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-74642d48",
-    "name": "Bharat Petroleum",
-    "latitude": 16.862203,
-    "longitude": 79.554563,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-223ce7ae",
     "name": "Bharat Petroleum",
     "latitude": 16.541576,
@@ -1116,15 +1107,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-2bfba9a2",
-    "name": "Indian Oil",
-    "latitude": 16.997564,
-    "longitude": 79.64645,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9796d136",
     "name": "Indian Oil",
     "latitude": 16.449035,
@@ -1210,42 +1192,6 @@
     "name": "Indian Oil",
     "latitude": 16.828222,
     "longitude": 79.606811,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-06ac28d2",
-    "name": "Indian Oil",
-    "latitude": 16.90264,
-    "longitude": 79.546228,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-5de9e439",
-    "name": "Indian Oil",
-    "latitude": 16.850274,
-    "longitude": 79.599141,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-14f9ffc9",
-    "name": "Indian Oil",
-    "latitude": 16.858337,
-    "longitude": 79.579272,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2f9c6908",
-    "name": "Indian Oil",
-    "latitude": 16.88046,
-    "longitude": 79.554957,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1485,15 +1431,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-ec8ab012",
-    "name": "Indian Oil",
-    "latitude": 16.739285,
-    "longitude": 80.632439,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-980d5025",
     "name": "Indian Oil",
     "latitude": 16.897093,
@@ -1516,15 +1453,6 @@
     "name": "Indian Oil",
     "latitude": 17.557236,
     "longitude": 80.618884,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3869b3ea",
-    "name": "Indian Oil",
-    "latitude": 17.037373,
-    "longitude": 80.645747,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1570,6 +1498,15 @@
     "name": "Indian Oil",
     "latitude": 16.976765,
     "longitude": 80.523004,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-2e680f8d",
+    "name": "Indian Oil",
+    "latitude": 17.837897,
+    "longitude": 78.696044,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1674,6 +1611,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-97d00414",
+    "name": "Indian Oil",
+    "latitude": 19.823248,
+    "longitude": 79.984676,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-db1389f5",
     "name": "Indian Oil",
     "latitude": 17.199743,
@@ -1741,6 +1687,24 @@
     "name": "Indian Oil",
     "latitude": 18.341886,
     "longitude": 79.356769,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e2e1aa6b",
+    "name": "Indian Oil",
+    "latitude": 16.739287,
+    "longitude": 80.632451,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-75f8199e",
+    "name": "Indian Oil",
+    "latitude": 17.037381,
+    "longitude": 80.64563,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -1935,24 +1899,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-97d00414",
-    "name": "Indian Oil",
-    "latitude": 19.823248,
-    "longitude": 79.984676,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-2e680f8d",
-    "name": "Indian Oil",
-    "latitude": 17.837897,
-    "longitude": 78.696044,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-3d7780b2",
     "name": "Indian Oil Corporation Limited",
     "latitude": 17.599142,
@@ -2007,19 +1953,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9073e308",
+    "id": "cng-8e84b914",
     "name": "Indian Oil Petrol Bunk",
-    "latitude": 17.116285,
-    "longitude": 80.796269,
+    "latitude": 18.608879,
+    "longitude": 79.37857,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-8e84b914",
+    "id": "cng-9073e308",
     "name": "Indian Oil Petrol Bunk",
-    "latitude": 18.608879,
-    "longitude": 79.37857,
+    "latitude": 17.116285,
+    "longitude": 80.796269,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -2907,10 +2853,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a196baa8",
+    "id": "cng-ac7055ad",
     "name": "Nayara",
-    "latitude": 16.284579,
-    "longitude": 80.406979,
+    "latitude": 16.28449,
+    "longitude": 80.406927,
     "city": "Guntur",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -3915,6 +3861,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-755e38b1",
+    "name": "Cng Station",
+    "latitude": 17.390899,
+    "longitude": 78.604925,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-d76e21b7",
     "name": "Cng Station",
     "latitude": 17.317598,
@@ -3980,8 +3935,8 @@
   {
     "id": "cng-363af9f5",
     "name": "Cng Station",
-    "latitude": 17.444337,
-    "longitude": 78.354181,
+    "latitude": 17.444325,
+    "longitude": 78.354213,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -4077,6 +4032,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-da762294",
+    "name": "Hindustan Petroleum",
+    "latitude": 17.396812,
+    "longitude": 78.423568,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-3b384f50",
     "name": "Hindustan Petroleum",
     "latitude": 17.367591,
@@ -4099,6 +4063,15 @@
     "name": "Hindustan Petroleum",
     "latitude": 17.298056,
     "longitude": 78.584234,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cb88d5a1",
+    "name": "Hindustan Petroleum Corporation Limited",
+    "latitude": 17.437697,
+    "longitude": 78.365554,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -4135,15 +4108,6 @@
     "name": "Hp",
     "latitude": 17.46636,
     "longitude": 78.505196,
-    "city": "Hyderabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-da762294",
-    "name": "Hp",
-    "latitude": 17.396812,
-    "longitude": 78.423568,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -4378,6 +4342,15 @@
     "name": "Hp",
     "latitude": 17.429874,
     "longitude": 78.422691,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-61cbfdcf",
+    "name": "Hp",
+    "latitude": 17.417695,
+    "longitude": 78.37022,
     "city": "Hyderabad",
     "state": "Telangana",
     "source": "cgd_inferred"
@@ -5859,6 +5832,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-4b4f5b6a",
+    "name": "Cng Station",
+    "latitude": 15.87388,
+    "longitude": 78.015476,
+    "city": "Kurnool",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-cd0e007f",
     "name": "Cng Station",
     "latitude": 16.679469,
@@ -5936,6 +5918,96 @@
     "latitude": 16.748405,
     "longitude": 77.987901,
     "city": "Mahbubnagar",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-64fdbce2",
+    "name": "Bharat",
+    "latitude": 16.905775,
+    "longitude": 79.541723,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-74642d48",
+    "name": "Bharat Petroleum",
+    "latitude": 16.862203,
+    "longitude": 79.554563,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1a0229bf",
+    "name": "Bp",
+    "latitude": 16.922478,
+    "longitude": 79.533056,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-69d931d6",
+    "name": "Cng Station",
+    "latitude": 16.861617,
+    "longitude": 79.5807,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2bfba9a2",
+    "name": "Indian Oil",
+    "latitude": 16.997564,
+    "longitude": 79.64645,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-06ac28d2",
+    "name": "Indian Oil",
+    "latitude": 16.90264,
+    "longitude": 79.546228,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5de9e439",
+    "name": "Indian Oil",
+    "latitude": 16.850274,
+    "longitude": 79.599141,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14f9ffc9",
+    "name": "Indian Oil",
+    "latitude": 16.858337,
+    "longitude": 79.579272,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2f9c6908",
+    "name": "Indian Oil",
+    "latitude": 16.88046,
+    "longitude": 79.554957,
+    "city": "Miryalaguda",
+    "state": "Telangana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-30f70b73",
+    "name": "Reliance Petrolium",
+    "latitude": 16.859684,
+    "longitude": 79.557442,
+    "city": "Miryalaguda",
     "state": "Telangana",
     "source": "cgd_inferred"
   },
@@ -6243,7 +6315,7 @@
     "longitude": 78.566924,
     "city": "Secunderabad",
     "state": "Telangana",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-6ad47bde",

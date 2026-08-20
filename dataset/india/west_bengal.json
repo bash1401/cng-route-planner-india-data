@@ -126,15 +126,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-cdebe567",
-    "name": "Bharat Petroleum",
-    "latitude": 22.97129,
-    "longitude": 88.43258,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-32ce347e",
     "name": "Bharat Petroleum",
     "latitude": 22.189376,
@@ -1480,6 +1471,15 @@
     "name": "Bharat Petroleum",
     "latitude": 23.043212,
     "longitude": 88.536604,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-cdebe567",
+    "name": "Bharat Petroleum",
+    "latitude": 22.97129,
+    "longitude": 88.43258,
     "city": "Kalyani/Nadia",
     "state": "West Bengal",
     "source": "cgd_inferred"

@@ -18,15 +18,6 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-9be78ad5",
-    "name": "Bharat Petroleum",
-    "latitude": 28.606048,
-    "longitude": 77.300107,
-    "city": "",
-    "state": "Delhi",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-44810f27",
     "name": "Capt. Anuj Sharma Gas Station",
     "latitude": 28.600907,
@@ -1190,6 +1181,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9be78ad5",
+    "name": "Bharat Petroleum",
+    "latitude": 28.606048,
+    "longitude": 77.300107,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-772c5731",
     "name": "Bharat Petroleum, Petrol Pump -Nahar Fuels",
     "latitude": 28.483721,
@@ -1329,15 +1329,6 @@
     "name": "Cng Station",
     "latitude": 28.438379,
     "longitude": 77.089616,
-    "city": "Delhi",
-    "state": "Delhi",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9afdd6c6",
-    "name": "Cng Station",
-    "latitude": 28.593777,
-    "longitude": 77.077812,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
@@ -1815,6 +1806,15 @@
     "name": "Hindustan Petroleum",
     "latitude": 28.622955,
     "longitude": 77.11057,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3b34a9dd",
+    "name": "Hindustan Petroleum",
+    "latitude": 28.690355,
+    "longitude": 77.153624,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
@@ -2549,10 +2549,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-5263f49a",
+    "id": "cng-5146854c",
     "name": "Indian Oil",
-    "latitude": 28.702795,
-    "longitude": 77.192866,
+    "latitude": 28.702815,
+    "longitude": 77.192844,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
@@ -3138,6 +3138,15 @@
     "name": "Sher Service Station",
     "latitude": 28.610508,
     "longitude": 77.094601,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1df991a2",
+    "name": "Shiv Petrol Station",
+    "latitude": 28.593803,
+    "longitude": 77.077881,
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
