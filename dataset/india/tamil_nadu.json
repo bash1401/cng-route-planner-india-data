@@ -1912,8 +1912,8 @@
   {
     "id": "cng-458c4548",
     "name": "Gail Gas",
-    "latitude": 13.040554,
-    "longitude": 77.61859,
+    "latitude": 13.040566,
+    "longitude": 77.618612,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm_allstations"
@@ -2843,6 +2843,15 @@
     "name": "Indian Oil",
     "latitude": 12.817,
     "longitude": 77.691198,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-855601c0",
+    "name": "Indian Oil",
+    "latitude": 12.908777,
+    "longitude": 77.538723,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"

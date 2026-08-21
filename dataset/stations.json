@@ -6588,6 +6588,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e754f0c9",
+    "name": "Indian Oil Fuel Filling Station Service Road (Citco Petrol & Cng Station)",
+    "latitude": 30.692696,
+    "longitude": 76.802197,
+    "city": "",
+    "state": "Chandigarh",
+    "source": "wikidata"
+  },
+  {
     "id": "cng-cbdc8a58",
     "name": "Bharat Petroleum",
     "latitude": 30.723344,
@@ -7078,15 +7087,6 @@
     "name": "Indian Oil",
     "latitude": 30.687751,
     "longitude": 76.825078,
-    "city": "Chandigarh",
-    "state": "Chandigarh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a69148e0",
-    "name": "Indian Oil",
-    "latitude": 30.692757,
-    "longitude": 76.802294,
     "city": "Chandigarh",
     "state": "Chandigarh",
     "source": "cgd_inferred"
@@ -19849,10 +19849,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -54812,10 +54812,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-9d969e70",
+    "id": "cng-a6826ad2",
     "name": "R K Petroleum",
-    "latitude": 19.076382,
-    "longitude": 73.004457,
+    "latitude": 19.077952,
+    "longitude": 73.003543,
     "city": "Thane",
     "state": "Maharashtra",
     "source": "gujarat_gas"
@@ -67250,8 +67250,8 @@
   {
     "id": "cng-458c4548",
     "name": "Gail Gas",
-    "latitude": 13.040554,
-    "longitude": 77.61859,
+    "latitude": 13.040566,
+    "longitude": 77.618612,
     "city": "",
     "state": "Tamil Nadu",
     "source": "osm_allstations"
@@ -68181,6 +68181,15 @@
     "name": "Indian Oil",
     "latitude": 12.817,
     "longitude": 77.691198,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-855601c0",
+    "name": "Indian Oil",
+    "latitude": 12.908777,
+    "longitude": 77.538723,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
