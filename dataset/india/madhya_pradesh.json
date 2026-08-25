@@ -765,6 +765,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-23556737",
+    "name": "Indian Oil",
+    "latitude": 22.058613,
+    "longitude": 78.959439,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-183c6f4c",
     "name": "Indian Oil",
     "latitude": 21.368434,
@@ -2133,15 +2142,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-23556737",
-    "name": "Indian Oil",
-    "latitude": 22.058613,
-    "longitude": 78.959439,
-    "city": "Chhindwara",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-bfd164e4",
     "name": "Bharat Petroleum",
     "latitude": 24.942685,
@@ -2356,15 +2356,6 @@
     "city": "Ghudachandra ji",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-186d7383",
-    "name": "Bansal Pump",
-    "latitude": 22.357143,
-    "longitude": 77.083351,
-    "city": "Harda",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-d0b7fe7b",

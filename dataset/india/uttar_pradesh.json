@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -240,7 +249,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-010cef85",
@@ -720,15 +729,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "Agra",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -784,12 +784,12 @@
   },
   {
     "id": "cng-8fb38bb1",
-    "name": "Cng Station",
-    "latitude": 27.20156,
-    "longitude": 78.027828,
+    "name": "Cng Pump Agra",
+    "latitude": 27.201594,
+    "longitude": 78.027833,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-3c1d84e1",
@@ -1593,6 +1593,51 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-267f6c5b",
+    "name": "Bharat Petroleum",
+    "latitude": 26.363372,
+    "longitude": 80.432722,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ab225154",
+    "name": "Bharat Petroleum",
+    "latitude": 26.462654,
+    "longitude": 80.309244,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-98daa447",
+    "name": "Hinustan Perol",
+    "latitude": 26.464089,
+    "longitude": 80.307784,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3f7a9960",
+    "name": "Hp",
+    "latitude": 26.448523,
+    "longitude": 80.296245,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c2d57b02",
+    "name": "Hp",
+    "latitude": 26.496577,
+    "longitude": 80.267924,
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-01bd895c",
     "name": "Indian Oil",
     "latitude": 26.511033,
@@ -1602,56 +1647,11 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-267f6c5b",
-    "name": "Bharat Petroleum",
-    "latitude": 26.363372,
-    "longitude": 80.432722,
-    "city": "Kanpur CUGL",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-ab225154",
-    "name": "Bharat Petroleum",
-    "latitude": 26.462654,
-    "longitude": 80.309244,
-    "city": "Kanpur CUGL",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-98daa447",
-    "name": "Hinustan Perol",
-    "latitude": 26.464089,
-    "longitude": 80.307784,
-    "city": "Kanpur CUGL",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3f7a9960",
-    "name": "Hp",
-    "latitude": 26.448523,
-    "longitude": 80.296245,
-    "city": "Kanpur CUGL",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-c2d57b02",
-    "name": "Hp",
-    "latitude": 26.496577,
-    "longitude": 80.267924,
-    "city": "Kanpur CUGL",
-    "state": "Uttar Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-b7d0acc7",
     "name": "Indian Oil Petrol Pump",
     "latitude": 26.423631,
     "longitude": 80.320016,
-    "city": "Kanpur CUGL",
+    "city": "Kanpur",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },
@@ -1660,7 +1660,7 @@
     "name": "Indian Oil Petrol Pump",
     "latitude": 26.474675,
     "longitude": 80.343905,
-    "city": "Kanpur CUGL",
+    "city": "Kanpur",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },
@@ -1669,7 +1669,7 @@
     "name": "Petrol Pump",
     "latitude": 26.486388,
     "longitude": 80.339393,
-    "city": "Kanpur CUGL",
+    "city": "Kanpur",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
   },

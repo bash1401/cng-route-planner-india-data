@@ -1344,14 +1344,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 12.958493,
-    "longitude": 77.517335,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Shell",
     "latitude": 13.775012,
     "longitude": 76.83839,
@@ -5809,8 +5801,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.941359,
-    "longitude": 79.176747,
+    "latitude": 12.941361,
+    "longitude": 79.176707,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6449,8 +6441,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 13.001582,
-    "longitude": 77.63151,
+    "latitude": 13.001575,
+    "longitude": 77.631513,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -7443,6 +7435,22 @@
     "name": "Indian Oil",
     "latitude": 12.908777,
     "longitude": 77.538723,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.90771,
+    "longitude": 79.131609,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.958321,
+    "longitude": 77.517385,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -16747,6 +16755,14 @@
     "name": "Indian Oil",
     "latitude": 22.269921,
     "longitude": 70.741599,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bhakti Fuels",
+    "latitude": 21.740122,
+    "longitude": 70.487293,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -30000,6 +30016,54 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 15.354206,
+    "longitude": 75.172018,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 15.404833,
+    "longitude": 75.612263,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 15.393832,
+    "longitude": 75.651602,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 15.346255,
+    "longitude": 76.230339,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 15.417612,
+    "longitude": 75.429051,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Shell",
+    "latitude": 15.351076,
+    "longitude": 75.116418,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Mali Petrolium",
     "latitude": 16.66006,
     "longitude": 74.361977,
@@ -30112,6 +30176,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Nayara",
+    "latitude": 15.401105,
+    "longitude": 75.64543,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Vaishnavi Fuels",
     "latitude": 15.507127,
     "longitude": 76.265896,
@@ -30219,6 +30291,14 @@
     "name": "Indian Oil",
     "latitude": 15.272287,
     "longitude": 76.372543,
+    "city": "",
+    "state": "Karnataka",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 15.304429,
+    "longitude": 76.318856,
     "city": "",
     "state": "Karnataka",
     "source": "all_india_fuel"
@@ -55552,14 +55632,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Hp",
-    "latitude": 22.935461,
-    "longitude": 87.69512,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 22.97129,
     "longitude": 88.43258,
@@ -56868,6 +56940,14 @@
     "latitude": 26.364315,
     "longitude": 88.906479,
     "city": "Mekliganj",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Hp",
+    "latitude": 22.935467,
+    "longitude": 87.695127,
+    "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
   },
