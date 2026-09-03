@@ -1,14 +1,5 @@
 [
   {
-    "id": "cng-f0908c1a",
-    "name": "Bharat Petroleum",
-    "latitude": 13.038605,
-    "longitude": 80.133002,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-32972084",
     "name": "Bharat Petroleum",
     "latitude": 13.031147,
@@ -148,15 +139,6 @@
     "name": "Bharat Petroleum",
     "latitude": 12.995098,
     "longitude": 80.090188,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ea0b7e13",
-    "name": "Bharat Petroleum",
-    "latitude": 13.01585,
-    "longitude": 80.103167,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -508,15 +490,6 @@
     "name": "Bharat Petroleum",
     "latitude": 12.304939,
     "longitude": 78.208081,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-91c83fc1",
-    "name": "Bharat Petroleum",
-    "latitude": 12.581557,
-    "longitude": 78.15754,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -1647,15 +1620,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9562f8f0",
-    "name": "Bharat Petroleum Petrol Pump",
-    "latitude": 13.020278,
-    "longitude": 80.130008,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-862b085a",
     "name": "Bharat Petroleum Petrol Pump , Kas Petroleum",
     "latitude": 12.068328,
@@ -2074,15 +2038,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-2949bd88",
-    "name": "Indian Oil",
-    "latitude": 13.040299,
-    "longitude": 80.130411,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-5adce783",
     "name": "Indian Oil",
     "latitude": 13.171505,
@@ -2308,28 +2263,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f85204c2",
-    "name": "Indian Oil",
-    "latitude": 13.045568,
-    "longitude": 80.072545,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-104fa71f",
     "name": "Indian Oil",
     "latitude": 12.818548,
     "longitude": 80.077302,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a8201078",
-    "name": "Indian Oil",
-    "latitude": 13.01336,
-    "longitude": 80.102469,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -5201,15 +5138,6 @@
     "name": "Nayara",
     "latitude": 13.324082,
     "longitude": 79.071787,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c0336ec3",
-    "name": "Nayara",
-    "latitude": 13.047471,
-    "longitude": 80.077735,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -8365,6 +8293,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-542c2dca",
+    "name": "Cng Station",
+    "latitude": 12.910521,
+    "longitude": 77.572671,
+    "city": "Bengaluru N",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-5af61e9c",
     "name": "Devaraj Enterprises",
     "latitude": 12.923409,
@@ -11119,6 +11056,24 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e09e843d",
+    "name": "Bharat Petroleum",
+    "latitude": 13.075074,
+    "longitude": 80.230854,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-14424690",
+    "name": "Bharat Petroleum Pump Station Ayanavaram",
+    "latitude": 13.09795,
+    "longitude": 80.238517,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-c9784c18",
     "name": "Bp",
     "latitude": 13.011626,
@@ -11524,6 +11479,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-9954de67",
+    "name": "Nayara Energy",
+    "latitude": 13.092808,
+    "longitude": 80.232084,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-de9e83cc",
     "name": "Shanthi Petrol Station",
     "latitude": 12.993549,
@@ -11578,10 +11542,28 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-b16a56a3",
+    "name": "Supergas",
+    "latitude": 13.070381,
+    "longitude": 80.203997,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-777b8070",
     "name": "Total Gas Station",
     "latitude": 12.964264,
     "longitude": 80.211501,
+    "city": "Chennai Central",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-47e3ae6b",
+    "name": "Trugaz Auto Lpg",
+    "latitude": 13.072536,
+    "longitude": 80.202099,
     "city": "Chennai Central",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -11731,15 +11713,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e09e843d",
-    "name": "Bharat Petroleum",
-    "latitude": 13.075074,
-    "longitude": 80.230854,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-4351efab",
     "name": "Bharat Petroleum",
     "latitude": 13.132443,
@@ -11762,15 +11735,6 @@
     "name": "Bharat Petroleum Petrol Station",
     "latitude": 13.050456,
     "longitude": 80.25642,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-14424690",
-    "name": "Bharat Petroleum Pump Station Ayanavaram",
-    "latitude": 13.09795,
-    "longitude": 80.238517,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -12289,15 +12253,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-9954de67",
-    "name": "Nayara Energy",
-    "latitude": 13.092808,
-    "longitude": 80.232084,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-7c15f78c",
     "name": "Shell",
     "latitude": 13.089323,
@@ -12343,28 +12298,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b16a56a3",
-    "name": "Supergas",
-    "latitude": 13.070381,
-    "longitude": 80.203997,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-4d5b1400",
     "name": "Total",
     "latitude": 13.077386,
     "longitude": 80.210712,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-47e3ae6b",
-    "name": "Trugaz Auto Lpg",
-    "latitude": 13.072536,
-    "longitude": 80.202099,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
@@ -12753,6 +12690,141 @@
     "latitude": 12.954988,
     "longitude": 80.142933,
     "city": "Chennai South",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f0908c1a",
+    "name": "Bharat Petroleum",
+    "latitude": 13.038605,
+    "longitude": 80.133002,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ea0b7e13",
+    "name": "Bharat Petroleum",
+    "latitude": 13.01585,
+    "longitude": 80.103167,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9562f8f0",
+    "name": "Bharat Petroleum Petrol Pump",
+    "latitude": 13.020278,
+    "longitude": 80.130008,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b7dc6bb0",
+    "name": "Cng Station",
+    "latitude": 13.038305,
+    "longitude": 80.052527,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-32e67764",
+    "name": "Cng Station",
+    "latitude": 13.15884,
+    "longitude": 80.060681,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-3f668438",
+    "name": "Cng Station",
+    "latitude": 13.087115,
+    "longitude": 80.063602,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-57434e51",
+    "name": "Hindustan Petroleum",
+    "latitude": 13.042189,
+    "longitude": 80.123776,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c25a1042",
+    "name": "Hp",
+    "latitude": 13.046592,
+    "longitude": 80.119773,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b5fb1e26",
+    "name": "Hp",
+    "latitude": 13.165587,
+    "longitude": 80.065417,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-4760db9a",
+    "name": "Hp",
+    "latitude": 13.045549,
+    "longitude": 80.071954,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2949bd88",
+    "name": "Indian Oil",
+    "latitude": 13.040299,
+    "longitude": 80.130411,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-075a1988",
+    "name": "Indian Oil",
+    "latitude": 13.212495,
+    "longitude": 80.085009,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a8201078",
+    "name": "Indian Oil",
+    "latitude": 13.01336,
+    "longitude": 80.102469,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c0336ec3",
+    "name": "Nayara",
+    "latitude": 13.047471,
+    "longitude": 80.077735,
+    "city": "Chennai West",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d5637100",
+    "name": "Reliance",
+    "latitude": 13.11911,
+    "longitude": 80.087918,
+    "city": "Chennai West",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"
   },
@@ -16141,15 +16213,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-32e67764",
-    "name": "Cng Station",
-    "latitude": 13.15884,
-    "longitude": 80.060681,
-    "city": "Tiruvallur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c290a482",
     "name": "Cng Station",
     "latitude": 13.125293,
@@ -16168,37 +16231,10 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-b5fb1e26",
-    "name": "Hp",
-    "latitude": 13.165587,
-    "longitude": 80.065417,
-    "city": "Tiruvallur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-075a1988",
-    "name": "Indian Oil",
-    "latitude": 13.212495,
-    "longitude": 80.085009,
-    "city": "Tiruvallur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c94615df",
     "name": "Indian Oil",
     "latitude": 13.262407,
     "longitude": 80.024666,
-    "city": "Tiruvallur",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d5637100",
-    "name": "Reliance",
-    "latitude": 13.11911,
-    "longitude": 80.087918,
     "city": "Tiruvallur",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

@@ -63,6 +63,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-72fa7da7",
+    "name": "Bharat Petroleum, Petrol Pump -Yadav Fuel Centre",
+    "latitude": 27.311385,
+    "longitude": 83.722787,
+    "city": "",
+    "state": "Bihar",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ee8a660b",
     "name": "Essar",
     "latitude": 25.914503,
@@ -256,6 +265,15 @@
     "name": "Indian Oil",
     "latitude": 26.357578,
     "longitude": 85.10414,
+    "city": "",
+    "state": "Bihar",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5ca939f9",
+    "name": "Indian Oil",
+    "latitude": 27.30739,
+    "longitude": 83.718725,
     "city": "",
     "state": "Bihar",
     "source": "all_india_fuel"
@@ -572,15 +590,6 @@
     "latitude": 26.79939,
     "longitude": 83.376402,
     "city": "Gorakhpur",
-    "state": "Bihar",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6afa0837",
-    "name": "Bharat Petroleum",
-    "latitude": 25.766611,
-    "longitude": 85.264675,
-    "city": "Hajipur",
     "state": "Bihar",
     "source": "cgd_inferred"
   },

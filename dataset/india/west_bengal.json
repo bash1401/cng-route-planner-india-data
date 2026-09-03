@@ -540,6 +540,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-c1e7cc56",
+    "name": "Indian Oil",
+    "latitude": 22.967823,
+    "longitude": 88.389176,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2990884c",
     "name": "Indian Oil",
     "latitude": 22.407604,
@@ -1485,6 +1494,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-4f74a661",
+    "name": "Bharat Petroleum",
+    "latitude": 22.963861,
+    "longitude": 88.42526,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-6d0c8d3d",
     "name": "Cng Station",
     "latitude": 22.91953,
@@ -1507,6 +1525,15 @@
     "name": "Indian Oil",
     "latitude": 22.941476,
     "longitude": 88.637145,
+    "city": "Kalyani/Nadia",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a13cc479",
+    "name": "Indian Oil",
+    "latitude": 22.964812,
+    "longitude": 88.429219,
     "city": "Kalyani/Nadia",
     "state": "West Bengal",
     "source": "cgd_inferred"
