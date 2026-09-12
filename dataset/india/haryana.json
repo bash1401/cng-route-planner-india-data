@@ -410,28 +410,10 @@
     "source": "igl_mgl"
   },
   {
-    "id": "cng-c7359a1f",
-    "name": "Indian Oil",
-    "latitude": 28.381893,
-    "longitude": 76.967266,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-b7a665e2",
     "name": "Indian Oil",
     "latitude": 28.373266,
     "longitude": 75.58819,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-40fee9c1",
-    "name": "Indian Oil",
-    "latitude": 28.365193,
-    "longitude": 77.059622,
     "city": "",
     "state": "Haryana",
     "source": "all_india_fuel"
@@ -1004,15 +986,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-b9748c68",
-    "name": "Petrol Pump Indian Oil",
-    "latitude": 28.392661,
-    "longitude": 76.978319,
-    "city": "",
-    "state": "Haryana",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-d2f3fb36",
     "name": "Shaheed Shyodanaram Fuel Station",
     "latitude": 27.680984,
@@ -1184,10 +1157,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-2dedcfa8",
+    "id": "cng-590edcd4",
     "name": "Reliable Petro",
-    "latitude": 29.494814,
-    "longitude": 75.633848,
+    "latitude": 29.510679,
+    "longitude": 75.645269,
     "city": "Fatehabad",
     "state": "Haryana",
     "source": "gujarat_gas"
@@ -1333,6 +1306,78 @@
     "latitude": 28.512908,
     "longitude": 77.475651,
     "city": "Greater Noida",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-231eb9ac",
+    "name": "Cng Station",
+    "latitude": 28.375398,
+    "longitude": 76.954846,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-c7359a1f",
+    "name": "Indian Oil",
+    "latitude": 28.381893,
+    "longitude": 76.967266,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-40fee9c1",
+    "name": "Indian Oil",
+    "latitude": 28.365193,
+    "longitude": 77.059622,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-9f9de525",
+    "name": "Petrol Pump",
+    "latitude": 28.376215,
+    "longitude": 76.956786,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b9748c68",
+    "name": "Petrol Pump Indian Oil",
+    "latitude": 28.392661,
+    "longitude": 76.978319,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-823dc225",
+    "name": "Petrol Pump Maitri Motors",
+    "latitude": 28.367599,
+    "longitude": 76.942313,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-edcdfeb9",
+    "name": "Vijay Petrol Pump",
+    "latitude": 28.398625,
+    "longitude": 76.929525,
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-da6d14c1",
+    "name": "Nain Singh Tyagi Filling Station",
+    "latitude": 28.39266,
+    "longitude": 77.061877,
+    "city": "Gurugram",
     "state": "Haryana",
     "source": "cgd_inferred"
   },
@@ -1692,6 +1737,33 @@
     "name": "Cng Station",
     "latitude": 28.119515,
     "longitude": 76.115355,
+    "city": "Narnaul",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2180f4d2",
+    "name": "Cng Station",
+    "latitude": 28.140117,
+    "longitude": 76.157278,
+    "city": "Narnaul",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-10c8195e",
+    "name": "Cng Station",
+    "latitude": 28.160306,
+    "longitude": 76.123608,
+    "city": "Narnaul",
+    "state": "Haryana",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-178a1a0f",
+    "name": "Cng Station",
+    "latitude": 28.096321,
+    "longitude": 76.22785,
     "city": "Narnaul",
     "state": "Haryana",
     "source": "cgd_inferred"

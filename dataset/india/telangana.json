@@ -1080,6 +1080,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-2eec9c94",
+    "name": "Indian Oil",
+    "latitude": 19.762407,
+    "longitude": 78.563905,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-bbfd69ac",
     "name": "Indian Oil",
     "latitude": 18.281362,
@@ -2176,78 +2185,6 @@
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-a254c244",
-    "name": "Bharat Petrol Pump",
-    "latitude": 19.741175,
-    "longitude": 78.547483,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cac2025b",
-    "name": "Cng Station",
-    "latitude": 19.767049,
-    "longitude": 78.565204,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9b3a3e62",
-    "name": "Cng Station",
-    "latitude": 19.721754,
-    "longitude": 78.540545,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2eec9c94",
-    "name": "Indian Oil",
-    "latitude": 19.762407,
-    "longitude": 78.563905,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-7cc1e10c",
-    "name": "Ioc Petrol Pump",
-    "latitude": 19.72719,
-    "longitude": 78.541924,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-94dfdb11",
-    "name": "Nike Gas",
-    "latitude": 19.685591,
-    "longitude": 78.545973,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5827b472",
-    "name": "Tirumala Gas Station",
-    "latitude": 19.658946,
-    "longitude": 78.524128,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-298646f9",
-    "name": "Vimal Gas Agency",
-    "latitude": 19.682722,
-    "longitude": 78.544085,
-    "city": "Adilabad",
-    "state": "Telangana",
-    "source": "cgd_inferred"
   },
   {
     "id": "cng-3d9c6dfa",
@@ -5827,15 +5764,6 @@
     "name": "Cng Station",
     "latitude": 15.850717,
     "longitude": 78.004567,
-    "city": "Kurnool",
-    "state": "Telangana",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4b4f5b6a",
-    "name": "Cng Station",
-    "latitude": 15.87388,
-    "longitude": 78.015476,
     "city": "Kurnool",
     "state": "Telangana",
     "source": "cgd_inferred"

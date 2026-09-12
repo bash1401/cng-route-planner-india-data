@@ -159,7 +159,8 @@
     "longitude": 81.333787,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
     "id": "cng-de44c5e1",
@@ -594,24 +595,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-dc19e264",
-    "name": "Indian Oil",
-    "latitude": 28.408046,
-    "longitude": 79.459142,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ba8ad998",
-    "name": "Indian Oil",
-    "latitude": 28.34823,
-    "longitude": 79.424063,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-d05b1bf7",
     "name": "Indian Oil",
     "latitude": 28.267342,
@@ -738,6 +721,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-b3828dbe",
+    "name": "Bharat Petrol Pump",
+    "latitude": 27.190281,
+    "longitude": 77.959956,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-e7c4f0c5",
     "name": "Bharat Petroleum",
     "latitude": 27.218283,
@@ -823,6 +815,33 @@
     "name": "Cng Station",
     "latitude": 27.169686,
     "longitude": 77.964828,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d0a0764c",
+    "name": "Cng Station",
+    "latitude": 27.202963,
+    "longitude": 78.041174,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a07bd465",
+    "name": "Cng Station",
+    "latitude": 27.198932,
+    "longitude": 77.991667,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a29faaee",
+    "name": "Cng Station",
+    "latitude": 27.17814,
+    "longitude": 77.980821,
     "city": "Agra",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -931,6 +950,15 @@
     "name": "Cng Station",
     "latitude": 27.196817,
     "longitude": 78.004974,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2834ec3e",
+    "name": "Essare Petrol Pump",
+    "latitude": 27.208308,
+    "longitude": 78.014261,
     "city": "Agra",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
@@ -1195,6 +1223,24 @@
     "city": "Banda",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-dc19e264",
+    "name": "Indian Oil",
+    "latitude": 28.408046,
+    "longitude": 79.459142,
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-ba8ad998",
+    "name": "Indian Oil",
+    "latitude": 28.34823,
+    "longitude": 79.424063,
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-7849affd",

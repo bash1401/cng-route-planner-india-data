@@ -333,6 +333,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-24ce61e4",
+    "name": "Gupta Fuels",
+    "latitude": 21.298416,
+    "longitude": 76.191143,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-684d2c64",
     "name": "Indian Oil",
     "latitude": 22.708857,
@@ -2367,24 +2376,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-d0b7fe7b",
-    "name": "Cng Station",
-    "latitude": 22.740579,
-    "longitude": 77.77346,
-    "city": "Hoshangabad",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-494006ce",
-    "name": "Cng Station",
-    "latitude": 22.664775,
-    "longitude": 77.783811,
-    "city": "Hoshangabad",
-    "state": "Madhya Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-d9c803ae",
     "name": "Bhadoriya Fuel Station",
     "latitude": 22.703242,
@@ -4319,6 +4310,15 @@
     "city": "Raisen, Shajapur & Sehore",
     "state": "Madhya Pradesh",
     "source": "gail_pdf"
+  },
+  {
+    "id": "cng-5db9c2bb",
+    "name": "Cng Station",
+    "latitude": 23.369629,
+    "longitude": 75.054672,
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-95cbe0ee",

@@ -4425,7 +4425,7 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.972476,
+    "latitude": 12.972471,
     "longitude": 77.619866,
     "city": "",
     "state": "Tamil Nadu",
@@ -5937,8 +5937,8 @@
   },
   {
     "name": "Shell",
-    "latitude": 12.953579,
-    "longitude": 77.567242,
+    "latitude": 12.953573,
+    "longitude": 77.567239,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -28856,14 +28856,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 12.503777,
-    "longitude": 78.031186,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 12.446549,
     "longitude": 76.589466,
@@ -29475,6 +29467,14 @@
     "name": "Bharat Petroleum",
     "latitude": 13.403177,
     "longitude": 76.625293,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.503772,
+    "longitude": 78.031238,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -34632,7 +34632,7 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
+    "name": "Ksrtc Indian Oil",
     "latitude": 9.499784,
     "longitude": 76.346591,
     "city": "",
@@ -39179,6 +39179,14 @@
     "name": "Bharat Petroleum",
     "latitude": 23.253157,
     "longitude": 77.425872,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Gupta Fuels",
+    "latitude": 21.298416,
+    "longitude": 76.191143,
     "city": "",
     "state": "Madhya Pradesh",
     "source": "all_india_fuel"
