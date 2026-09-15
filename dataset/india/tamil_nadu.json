@@ -10948,6 +10948,15 @@
     "source": "nominatim_grid"
   },
   {
+    "id": "cng-2a8184ab",
+    "name": "Bharat Petroleum",
+    "latitude": 13.118484,
+    "longitude": 80.14989,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-69428303",
     "name": "Bharat Petroleum",
     "latitude": 13.082056,
@@ -12050,15 +12059,6 @@
     "name": "Hp Fuel Station",
     "latitude": 13.087562,
     "longitude": 80.194793,
-    "city": "Chennai North",
-    "state": "Tamil Nadu",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-2a8184ab",
-    "name": "Hp Fuel Station",
-    "latitude": 13.118464,
-    "longitude": 80.149918,
     "city": "Chennai North",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

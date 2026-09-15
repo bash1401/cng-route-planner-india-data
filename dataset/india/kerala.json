@@ -60,8 +60,7 @@
     "longitude": 76.294488,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c1bceb30",
@@ -4633,9 +4632,7 @@
     "longitude": 76.809615,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala",
-    "operator": "Adani"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-f4259cf7",
@@ -4869,8 +4866,7 @@
     "longitude": 76.32123,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-8befdafe",
@@ -5338,8 +5334,7 @@
     "longitude": 76.370154,
     "city": "",
     "state": "Kerala",
-    "source": "osm",
-    "address": "Kerala"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-11347e76",
@@ -6824,7 +6819,7 @@
     "longitude": 75.443448,
     "city": "Eachur",
     "state": "Kerala",
-    "source": "cgd_inferred"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e3a88387",
@@ -6852,6 +6847,15 @@
     "city": "Elavumthitta",
     "state": "Kerala",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4d2a9184",
+    "name": "Cng Gas Station",
+    "latitude": 11.895107,
+    "longitude": 75.410886,
+    "city": "Elayavoor",
+    "state": "Kerala",
+    "source": "osm_allstations"
   },
   {
     "id": "cng-e745ccde",
@@ -7121,7 +7125,7 @@
     "longitude": 75.368197,
     "city": "Kannur",
     "state": "Kerala",
-    "source": "cgd_inferred"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-a18bd45f",
@@ -7371,15 +7375,6 @@
     "name": "Ns Petromart",
     "latitude": 11.876338,
     "longitude": 75.39949,
-    "city": "Kannur",
-    "state": "Kerala",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-b62bce45",
-    "name": "Petrol Station",
-    "latitude": 11.895225,
-    "longitude": 75.410892,
     "city": "Kannur",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -9893,7 +9888,7 @@
     "longitude": 75.579071,
     "city": "Mattanur",
     "state": "Kerala",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-42e7f9e1",
@@ -11189,7 +11184,7 @@
     "longitude": 75.350774,
     "city": "Pappinisseri",
     "state": "Kerala",
-    "source": "cgd_inferred"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-18fe2649",
@@ -11432,7 +11427,7 @@
     "longitude": 75.277412,
     "city": "Pazhayangadi",
     "state": "Kerala",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-25c7cbe0",
