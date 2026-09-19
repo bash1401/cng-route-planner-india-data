@@ -3555,15 +3555,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-61222d3f",
-    "name": "Petrol",
-    "latitude": 17.691141,
-    "longitude": 83.227902,
-    "city": "VISAKHAPATNAM",
-    "state": "Andhra Pradesh",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-584ef55a",
     "name": "Bharat Petroleum",
     "latitude": 17.68389,
@@ -3676,6 +3667,15 @@
     "name": "Cng Station",
     "latitude": 17.731942,
     "longitude": 83.340887,
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-61222d3f",
+    "name": "Essar",
+    "latitude": 17.691085,
+    "longitude": 83.227897,
     "city": "Visakhapatnam",
     "state": "Andhra Pradesh",
     "source": "cgd_inferred"
