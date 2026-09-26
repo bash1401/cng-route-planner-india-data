@@ -45,6 +45,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cdb4aa06",
+    "name": "Bharat Petroleum",
+    "latitude": 20.263594,
+    "longitude": 85.834594,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-5e4d4d88",
     "name": "Bharat Petroleum",
     "latitude": 20.656612,
@@ -126,10 +135,28 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-1dc5db2a",
+    "name": "Bharat Petroleum",
+    "latitude": 20.254934,
+    "longitude": 85.787211,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-77f8382e",
     "name": "Bharat Petroleum",
     "latitude": 19.347124,
     "longitude": 84.957944,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-55bbb81d",
+    "name": "Bharat Petroleum",
+    "latitude": 20.32594,
+    "longitude": 85.820108,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -239,10 +266,64 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-a1f63fdb",
+    "name": "Indian Oil",
+    "latitude": 20.285559,
+    "longitude": 85.8102,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-457b1421",
+    "name": "Indian Oil",
+    "latitude": 20.2964,
+    "longitude": 85.859793,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-b9a1583f",
     "name": "Indian Oil",
     "latitude": 19.950212,
     "longitude": 85.417084,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-acca1c24",
+    "name": "Indian Oil",
+    "latitude": 20.285389,
+    "longitude": 85.843071,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-07b7d3fb",
+    "name": "Indian Oil",
+    "latitude": 20.249678,
+    "longitude": 85.841344,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d9e2012d",
+    "name": "Indian Oil",
+    "latitude": 20.363916,
+    "longitude": 85.829201,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-19f46080",
+    "name": "Indian Oil",
+    "latitude": 20.26934,
+    "longitude": 85.820725,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -297,6 +378,15 @@
     "name": "Indian Oil",
     "latitude": 20.312541,
     "longitude": 86.304531,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5e2892a7",
+    "name": "Indian Oil",
+    "latitude": 20.329841,
+    "longitude": 85.920825,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -383,10 +473,37 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-453f8dd1",
+    "name": "Indian Oil",
+    "latitude": 20.243693,
+    "longitude": 85.768955,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c77344d9",
     "name": "Indian Oil",
     "latitude": 20.066774,
     "longitude": 85.550071,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6eb415f4",
+    "name": "Indian Oil",
+    "latitude": 20.232344,
+    "longitude": 85.742148,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-636bfae9",
+    "name": "Indian Oil",
+    "latitude": 20.354193,
+    "longitude": 85.889616,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -432,6 +549,15 @@
     "name": "Indian Oil",
     "latitude": 19.35089,
     "longitude": 84.973851,
+    "city": "",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-9ecd6362",
+    "name": "Indian Oil",
+    "latitude": 20.24533,
+    "longitude": 85.778642,
     "city": "",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -681,256 +807,13 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-cdb4aa06",
-    "name": "Bharat Petroleum",
-    "latitude": 20.263594,
-    "longitude": 85.834594,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6b192859",
-    "name": "Bharat Petroleum",
-    "latitude": 20.295823,
-    "longitude": 85.84154,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-3c27ed90",
-    "name": "Bharat Petroleum",
-    "latitude": 20.288637,
-    "longitude": 85.814587,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1d9b5e30",
-    "name": "Bharat Petroleum",
-    "latitude": 20.337593,
-    "longitude": 85.882842,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-c215ce90",
     "name": "Bharat Petroleum",
     "latitude": 20.27588,
     "longitude": 85.763567,
     "city": "Bhubaneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-1dc5db2a",
-    "name": "Bharat Petroleum",
-    "latitude": 20.254934,
-    "longitude": 85.787211,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-55bbb81d",
-    "name": "Bharat Petroleum",
-    "latitude": 20.32594,
-    "longitude": 85.820108,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5943db5f",
-    "name": "Cng Station",
-    "latitude": 20.272055,
-    "longitude": 85.781985,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-df532393",
-    "name": "Cng Station",
-    "latitude": 20.276945,
-    "longitude": 85.795457,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-fe3fcecc",
-    "name": "Hindustan Petroleum",
-    "latitude": 20.298011,
-    "longitude": 85.861362,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-02f46fd8",
-    "name": "Hindustan Petroleum",
-    "latitude": 20.276703,
-    "longitude": 85.801904,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-645eeec7",
-    "name": "Hindustan Petroleum",
-    "latitude": 20.334343,
-    "longitude": 85.883185,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-063c9db8",
-    "name": "Hindustan Petroleum",
-    "latitude": 20.347853,
-    "longitude": 85.886329,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-796f6cff",
-    "name": "Hp",
-    "latitude": 20.276584,
-    "longitude": 85.843827,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e62942eb",
-    "name": "Hp Petrol Pump Sri Sri Filling Station",
-    "latitude": 20.377494,
-    "longitude": 85.829133,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-252b6aaf",
-    "name": "Hp Petrol Pump,Trishna Filling Station",
-    "latitude": 20.35508,
-    "longitude": 85.827722,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9fa86623",
-    "name": "Independent",
-    "latitude": 20.348662,
-    "longitude": 85.824864,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a1f63fdb",
-    "name": "Indian Oil",
-    "latitude": 20.285559,
-    "longitude": 85.8102,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-457b1421",
-    "name": "Indian Oil",
-    "latitude": 20.2964,
-    "longitude": 85.859793,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-acca1c24",
-    "name": "Indian Oil",
-    "latitude": 20.285389,
-    "longitude": 85.843071,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-07b7d3fb",
-    "name": "Indian Oil",
-    "latitude": 20.249678,
-    "longitude": 85.841344,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d9e2012d",
-    "name": "Indian Oil",
-    "latitude": 20.363916,
-    "longitude": 85.829201,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-19f46080",
-    "name": "Indian Oil",
-    "latitude": 20.26934,
-    "longitude": 85.820725,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-5e2892a7",
-    "name": "Indian Oil",
-    "latitude": 20.329841,
-    "longitude": 85.920825,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6eb415f4",
-    "name": "Indian Oil",
-    "latitude": 20.232344,
-    "longitude": 85.742148,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-636bfae9",
-    "name": "Indian Oil",
-    "latitude": 20.354193,
-    "longitude": 85.889616,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9ecd6362",
-    "name": "Indian Oil",
-    "latitude": 20.24533,
-    "longitude": 85.778642,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-032799ee",
-    "name": "Khandagiri",
-    "latitude": 20.265397,
-    "longitude": 85.792386,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-ad792881",
@@ -939,25 +822,7 @@
     "longitude": 85.844816,
     "city": "Bhubaneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-00014d10",
-    "name": "Petrolimex",
-    "latitude": 20.2438,
-    "longitude": 85.767636,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-e9dfe9d9",
-    "name": "Sai Krupa Filling Station",
-    "latitude": 20.35043,
-    "longitude": 85.900923,
-    "city": "Bhubaneswar",
-    "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-b98c5b55",
@@ -966,7 +831,7 @@
     "longitude": 85.852073,
     "city": "Bhubaneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9f6081b1",
@@ -985,7 +850,7 @@
     "longitude": 85.841238,
     "city": "Bhubaneswar Municipal Corporation",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-86004b94",
@@ -994,7 +859,7 @@
     "longitude": 85.85162,
     "city": "Bhubneswar",
     "state": "Odisha",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-152c2dbb",

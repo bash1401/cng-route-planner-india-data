@@ -126,6 +126,24 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-cdebe567",
+    "name": "Bharat Petroleum",
+    "latitude": 22.97129,
+    "longitude": 88.43258,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4f74a661",
+    "name": "Bharat Petroleum",
+    "latitude": 22.963861,
+    "longitude": 88.42526,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-32ce347e",
     "name": "Bharat Petroleum",
     "latitude": 22.189376,
@@ -414,15 +432,6 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-3385822c",
-    "name": "Indian Oil",
-    "latitude": 21.49707,
-    "longitude": 86.659906,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-ccbd7d98",
     "name": "Indian Oil",
     "latitude": 23.434244,
@@ -535,6 +544,24 @@
     "name": "Indian Oil",
     "latitude": 21.623297,
     "longitude": 87.522773,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-3385822c",
+    "name": "Indian Oil",
+    "latitude": 21.49707,
+    "longitude": 86.659906,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-a13cc479",
+    "name": "Indian Oil",
+    "latitude": 22.964812,
+    "longitude": 88.429219,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -679,6 +706,15 @@
     "name": "Indian Oil",
     "latitude": 22.705144,
     "longitude": 87.846375,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-accd0fc7",
+    "name": "Indian Oil",
+    "latitude": 23.267158,
+    "longitude": 87.827624,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -1298,8 +1334,8 @@
   {
     "id": "cng-9b087b5c",
     "name": "Shah Sultan Cng Auto Mobel",
-    "latitude": 24.944632,
-    "longitude": 89.346647,
+    "latitude": 24.944595,
+    "longitude": 89.346622,
     "city": "",
     "state": "West Bengal",
     "source": "osm_allstations"
@@ -1356,25 +1392,7 @@
     "longitude": 87.868781,
     "city": "Bardhaman",
     "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-d3bb5cdf",
-    "name": "Hp",
-    "latitude": 23.237103,
-    "longitude": 87.866497,
-    "city": "Bardhaman",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-accd0fc7",
-    "name": "Indian Oil",
-    "latitude": 23.267158,
-    "longitude": 87.827624,
-    "city": "Bardhaman",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9d9b14af",
@@ -1393,6 +1411,15 @@
     "city": "Bogra",
     "state": "West Bengal",
     "source": "osm_allstations"
+  },
+  {
+    "id": "cng-b726a9c3",
+    "name": "Chitra Petrolpump",
+    "latitude": 23.669041,
+    "longitude": 87.693809,
+    "city": "Bolpur",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-a2729ea7",
@@ -1476,28 +1503,19 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-61e7e0b6",
+    "name": "Near Sodepur Computer Repair",
+    "latitude": 22.712937,
+    "longitude": 88.374359,
+    "city": "Howrah",
+    "state": "West Bengal",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-6f054486",
     "name": "Bharat Petroleum",
     "latitude": 23.043212,
     "longitude": 88.536604,
-    "city": "Kalyani/Nadia",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-cdebe567",
-    "name": "Bharat Petroleum",
-    "latitude": 22.97129,
-    "longitude": 88.43258,
-    "city": "Kalyani/Nadia",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-4f74a661",
-    "name": "Bharat Petroleum",
-    "latitude": 22.963861,
-    "longitude": 88.42526,
     "city": "Kalyani/Nadia",
     "state": "West Bengal",
     "source": "cgd_inferred"
@@ -1525,15 +1543,6 @@
     "name": "Indian Oil",
     "latitude": 22.941476,
     "longitude": 88.637145,
-    "city": "Kalyani/Nadia",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-a13cc479",
-    "name": "Indian Oil",
-    "latitude": 22.964812,
-    "longitude": 88.429219,
     "city": "Kalyani/Nadia",
     "state": "West Bengal",
     "source": "cgd_inferred"
@@ -2245,15 +2254,6 @@
     "name": "Lake Auto Service Station",
     "latitude": 22.513332,
     "longitude": 88.352794,
-    "city": "Kolkata",
-    "state": "West Bengal",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-61e7e0b6",
-    "name": "Near Sodepur Computer Repair",
-    "latitude": 22.712937,
-    "longitude": 88.374359,
     "city": "Kolkata",
     "state": "West Bengal",
     "source": "cgd_inferred"
