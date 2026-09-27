@@ -1278,15 +1278,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f6fe3182",
-    "name": "Bharat Petroleum",
-    "latitude": 9.65712,
-    "longitude": 76.337466,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-07d70e0c",
     "name": "Bharat Petroleum",
     "latitude": 9.69174,
@@ -3294,15 +3285,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-3016941a",
-    "name": "Indian Oil",
-    "latitude": 11.194081,
-    "longitude": 76.243634,
-    "city": "",
-    "state": "Kerala",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-721c0421",
     "name": "Indian Oil",
     "latitude": 11.111253,
@@ -4106,8 +4088,8 @@
   {
     "id": "cng-6bea4a93",
     "name": "Indian Oil",
-    "latitude": 9.006278,
-    "longitude": 76.781708,
+    "latitude": 9.006253,
+    "longitude": 76.781694,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -4558,6 +4540,15 @@
     "name": "Indian Oil",
     "latitude": 9.892062,
     "longitude": 76.706962,
+    "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6e3e5011",
+    "name": "Indian Oil",
+    "latitude": 10.787498,
+    "longitude": 75.977979,
     "city": "",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -12114,19 +12105,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-662c43bc",
+    "id": "cng-4ad204bd",
     "name": "Benzy Petroleum (Indian Oil Corporation)",
-    "latitude": 10.78216,
-    "longitude": 75.935564,
+    "latitude": 10.776574,
+    "longitude": 75.940226,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4ad204bd",
-    "name": "Benzy Petroleum (Indian Oil Corporation)",
-    "latitude": 10.776574,
-    "longitude": 75.940226,
+    "id": "cng-662c43bc",
+    "name": "Indian Oil",
+    "latitude": 10.78216,
+    "longitude": 75.935564,
     "city": "Ponnani",
     "state": "Kerala",
     "source": "all_india_fuel"
@@ -13280,6 +13271,15 @@
     "latitude": 10.928606,
     "longitude": 76.026273,
     "city": "Vettichira",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-3016941a",
+    "name": "Indian Oil",
+    "latitude": 11.194081,
+    "longitude": 76.243634,
+    "city": "Wandoor",
     "state": "Kerala",
     "source": "all_india_fuel"
   },

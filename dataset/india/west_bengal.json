@@ -432,6 +432,15 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-3385822c",
+    "name": "Indian Oil",
+    "latitude": 21.49707,
+    "longitude": 86.659906,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ccbd7d98",
     "name": "Indian Oil",
     "latitude": 23.434244,
@@ -544,15 +553,6 @@
     "name": "Indian Oil",
     "latitude": 21.623297,
     "longitude": 87.522773,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3385822c",
-    "name": "Indian Oil",
-    "latitude": 21.49707,
-    "longitude": 86.659906,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
