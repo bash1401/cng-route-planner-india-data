@@ -1,5 +1,14 @@
 [
   {
+    "id": "cng-4cf40a7d",
+    "name": "Bharat Petroleum",
+    "latitude": 31.810855,
+    "longitude": 77.183394,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-ae07333d",
     "name": "Bharat Petroleum",
     "latitude": 30.49363,
@@ -27,82 +36,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-4cf40a7d",
-    "name": "Bharat Petroleum",
-    "latitude": 31.810855,
-    "longitude": 77.183394,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-dc7f8feb",
     "name": "Bharat Petroleum Petrol Pump",
     "latitude": 30.494714,
     "longitude": 77.122568,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-957c5533",
-    "name": "Indian Oil",
-    "latitude": 30.557372,
-    "longitude": 77.292464,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-96dbc40b",
-    "name": "Indian Oil",
-    "latitude": 30.449795,
-    "longitude": 77.038085,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7fe79e93",
-    "name": "Indian Oil",
-    "latitude": 30.90254,
-    "longitude": 77.017756,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-969a0f7c",
-    "name": "Indian Oil",
-    "latitude": 30.86462,
-    "longitude": 77.001184,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-802bbe58",
-    "name": "Indian Oil",
-    "latitude": 30.912659,
-    "longitude": 77.097117,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-4e05c880",
-    "name": "Indian Oil",
-    "latitude": 30.838165,
-    "longitude": 76.988698,
-    "city": "",
-    "state": "Himachal Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-7c87e2e6",
-    "name": "Indian Oil",
-    "latitude": 30.898362,
-    "longitude": 77.011163,
     "city": "",
     "state": "Himachal Pradesh",
     "source": "all_india_fuel"
@@ -148,6 +85,15 @@
     "name": "Indian Oil",
     "latitude": 32.09613,
     "longitude": 77.132526,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-957c5533",
+    "name": "Indian Oil",
+    "latitude": 30.557372,
+    "longitude": 77.292464,
     "city": "",
     "state": "Himachal Pradesh",
     "source": "all_india_fuel"
@@ -234,10 +180,64 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-96dbc40b",
+    "name": "Indian Oil",
+    "latitude": 30.449795,
+    "longitude": 77.038085,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7fe79e93",
+    "name": "Indian Oil",
+    "latitude": 30.90254,
+    "longitude": 77.017756,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-969a0f7c",
+    "name": "Indian Oil",
+    "latitude": 30.86462,
+    "longitude": 77.001184,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-802bbe58",
+    "name": "Indian Oil",
+    "latitude": 30.912659,
+    "longitude": 77.097117,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-83778236",
     "name": "Indian Oil",
     "latitude": 30.981475,
     "longitude": 77.108842,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4e05c880",
+    "name": "Indian Oil",
+    "latitude": 30.838165,
+    "longitude": 76.988698,
+    "city": "",
+    "state": "Himachal Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7c87e2e6",
+    "name": "Indian Oil",
+    "latitude": 30.898362,
+    "longitude": 77.011163,
     "city": "",
     "state": "Himachal Pradesh",
     "source": "all_india_fuel"

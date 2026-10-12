@@ -9,15 +9,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-002c88a5",
-    "name": "Baxidih Petrol Pump",
-    "latitude": 23.483755,
-    "longitude": 85.573179,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-6188b9bb",
     "name": "Bharat Petroleum",
     "latitude": 24.748867,
@@ -58,15 +49,6 @@
     "name": "Bharat Petroleum",
     "latitude": 23.788653,
     "longitude": 86.414249,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-353405cb",
-    "name": "Bharat Petroleum",
-    "latitude": 23.48738,
-    "longitude": 85.55185,
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
@@ -135,15 +117,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-69ec1562",
-    "name": "Bp",
-    "latitude": 22.41874,
-    "longitude": 87.325087,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-023ceecc",
     "name": "City Fuels",
     "latitude": 23.83378,
@@ -162,6 +135,16 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-69ec1562",
+    "name": "Cng Station",
+    "latitude": 22.41874,
+    "longitude": 87.325087,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "osm",
+    "address": "Jharkhand"
+  },
+  {
     "id": "cng-a9f94b16",
     "name": "Dhanbad Station Petrol Pump",
     "latitude": 23.793065,
@@ -177,7 +160,8 @@
     "longitude": 86.18418,
     "city": "",
     "state": "Jharkhand",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Jharkhand"
   },
   {
     "id": "cng-72ac277d",
@@ -252,6 +236,33 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-ca955efc",
+    "name": "Indian Oil",
+    "latitude": 22.2581,
+    "longitude": 85.808167,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-92271930",
+    "name": "Indian Oil",
+    "latitude": 22.371424,
+    "longitude": 86.776693,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4e8fc608",
+    "name": "Indian Oil",
+    "latitude": 21.991274,
+    "longitude": 87.116832,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-017a749d",
     "name": "Indian Oil",
     "latitude": 22.976003,
@@ -265,15 +276,6 @@
     "name": "Indian Oil",
     "latitude": 23.205195,
     "longitude": 87.070006,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-ca955efc",
-    "name": "Indian Oil",
-    "latitude": 22.2581,
-    "longitude": 85.808167,
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
@@ -342,15 +344,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-92271930",
-    "name": "Indian Oil",
-    "latitude": 22.371424,
-    "longitude": 86.776693,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-9b67f4ec",
     "name": "Indian Oil",
     "latitude": 23.768086,
@@ -387,37 +380,10 @@
     "source": "osm_allstations"
   },
   {
-    "id": "cng-d9cb02d0",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 22.67866,
-    "longitude": 85.616357,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-b5a1b47a",
-    "name": "Jai Hind Filling Station",
-    "latitude": 23.542222,
-    "longitude": 85.734012,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-06ec1077",
     "name": "Kamdhenu",
     "latitude": 23.782737,
     "longitude": 86.41594,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-918eed03",
-    "name": "Kamdhenu Fuelx",
-    "latitude": 23.542903,
-    "longitude": 85.737697,
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"

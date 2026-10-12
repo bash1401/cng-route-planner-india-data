@@ -9,19 +9,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-22a8f902",
+    "id": "cng-d693370a",
     "name": "Bharat Petroleum",
-    "latitude": 29.704007,
-    "longitude": 77.593991,
+    "latitude": 30.433072,
+    "longitude": 77.756091,
     "city": "",
     "state": "Uttarakhand",
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-d693370a",
+    "id": "cng-22a8f902",
     "name": "Bharat Petroleum",
-    "latitude": 30.433072,
-    "longitude": 77.756091,
+    "latitude": 29.704007,
+    "longitude": 77.593991,
     "city": "",
     "state": "Uttarakhand",
     "source": "all_india_fuel"
@@ -177,7 +177,8 @@
     "longitude": 79.399639,
     "city": "",
     "state": "Uttarakhand",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttarakhand"
   },
   {
     "id": "cng-7c30ac73",
@@ -337,6 +338,15 @@
     "name": "Indian Oil",
     "latitude": 30.18823,
     "longitude": 78.203553,
+    "city": "",
+    "state": "Uttarakhand",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-b7607537",
+    "name": "Indian Oil",
+    "latitude": 29.460935,
+    "longitude": 77.711951,
     "city": "",
     "state": "Uttarakhand",
     "source": "all_india_fuel"

@@ -1226,15 +1226,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-a1f0afad",
-    "name": "Bp",
-    "latitude": 28.639698,
-    "longitude": 77.293589,
-    "city": "Delhi",
-    "state": "Delhi",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-326e6328",
     "name": "Bpcl Petrol Pump",
     "latitude": 28.658118,
@@ -2988,6 +2979,15 @@
     "city": "Delhi",
     "state": "Delhi",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-a1f0afad",
+    "name": "Indian Oil Vikas Marg",
+    "latitude": 28.639698,
+    "longitude": 77.293589,
+    "city": "Delhi",
+    "state": "Delhi",
+    "source": "igl_mgl"
   },
   {
     "id": "cng-ae760fc9",

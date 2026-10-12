@@ -1,21 +1,12 @@
 [
   {
-    "id": "cng-238f9f19",
-    "name": "Adani Cng",
-    "latitude": 22.379562,
-    "longitude": 73.155117,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-8055ee01",
     "name": "Ahmad Cng",
     "latitude": 24.655383,
     "longitude": 68.822868,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-d264843f",
@@ -24,7 +15,16 @@
     "longitude": 70.487293,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-6389537c",
+    "name": "Bharat Gas",
+    "latitude": 23.215253,
+    "longitude": 73.137631,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-73904109",
@@ -33,7 +33,8 @@
     "longitude": 72.443245,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-38782b88",
@@ -90,13 +91,23 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-9cae3af2",
+    "name": "Bharat Petroleum",
+    "latitude": 23.213861,
+    "longitude": 73.166909,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-672bb13f",
     "name": "Bharat Petroleum Cng",
     "latitude": 23.279637,
     "longitude": 72.440781,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "sh-41, Gujarat"
   },
   {
     "id": "cng-d2eb9c9a",
@@ -105,7 +116,8 @@
     "longitude": 72.408946,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Ahmedabad Palanpur State Highway SH41, Gujarat"
   },
   {
     "id": "cng-c5d5c7ae",
@@ -132,7 +144,8 @@
     "longitude": 71.723137,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "NH-41, Gujarat"
   },
   {
     "id": "cng-63e2e943",
@@ -141,7 +154,8 @@
     "longitude": 71.717619,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-560e170c",
@@ -150,7 +164,8 @@
     "longitude": 73.052773,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-eff29627",
@@ -159,7 +174,8 @@
     "longitude": 71.085541,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "National Highway 8A, Gujarat"
   },
   {
     "id": "cng-09bd614e",
@@ -168,7 +184,8 @@
     "longitude": 72.52955,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-150189f1",
@@ -177,7 +194,8 @@
     "longitude": 73.160338,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-9eae16fa",
@@ -186,16 +204,28 @@
     "longitude": 72.206306,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
-    "id": "cng-f87a3470",
-    "name": "Cng Petrol Pump",
-    "latitude": 22.345042,
-    "longitude": 73.202483,
+    "id": "cng-6c82eeb7",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.284186,
+    "longitude": 70.769197,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
+  },
+  {
+    "id": "cng-26b24f40",
+    "name": "Cng Indian Oil Petrol Pump",
+    "latitude": 22.258577,
+    "longitude": 70.704029,
+    "city": "",
+    "state": "Gujarat",
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-751fd0a8",
@@ -204,25 +234,8 @@
     "longitude": 71.815088,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-c203b59c",
-    "name": "Cng Pump",
-    "latitude": 22.379654,
-    "longitude": 73.191663,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-9b229bc6",
-    "name": "Cng Pump Bharat Petroleum",
-    "latitude": 22.234306,
-    "longitude": 73.188365,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-345d2128",
@@ -231,7 +244,8 @@
     "longitude": 72.928869,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-862cddda",
@@ -240,7 +254,8 @@
     "longitude": 70.362812,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-5fe3ed06",
@@ -249,16 +264,8 @@
     "longitude": 72.35461,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-5f7eef1d",
-    "name": "Cng Vadodara",
-    "latitude": 22.315289,
-    "longitude": 73.164874,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Bechraji road, Gujarat"
   },
   {
     "id": "cng-3805978b",
@@ -287,7 +294,9 @@
     "longitude": 71.797888,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "lakhtar road, Gujarat",
+    "operator": "Gujarat Gas"
   },
   {
     "id": "cng-97c644dd",
@@ -296,7 +305,9 @@
     "longitude": 71.605548,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat",
+    "operator": "Gujarat Gas"
   },
   {
     "id": "cng-7cd8a6e6",
@@ -305,16 +316,9 @@
     "longitude": 70.859745,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-85511c90",
-    "name": "Gujarat Gas Cng Station",
-    "latitude": 21.750262,
-    "longitude": 72.133216,
-    "city": "",
-    "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat",
+    "operator": "Gujarat Gas"
   },
   {
     "id": "cng-72a7f0a8",
@@ -323,7 +327,8 @@
     "longitude": 70.522228,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-77a3fb50",
@@ -332,7 +337,8 @@
     "longitude": 72.457682,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-99f0ce2a",
@@ -614,19 +620,37 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-8e7bb9b3",
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 21.353993,
-    "longitude": 72.029194,
+    "id": "cng-7c004de2",
+    "name": "Indian Oil",
+    "latitude": 23.223675,
+    "longitude": 73.20168,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-21f2815d",
+    "name": "Indian Oil",
+    "latitude": 23.209071,
+    "longitude": 73.039624,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-b65862b7",
     "name": "Indian Oil Petrol Pump",
     "latitude": 20.809967,
     "longitude": 70.688688,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8e7bb9b3",
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 21.353993,
+    "longitude": 72.029194,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -683,7 +707,8 @@
     "longitude": 72.36706,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat"
   },
   {
     "id": "cng-d09bdb92",
@@ -704,13 +729,41 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-1badf038",
+    "name": "Nayara Energy",
+    "latitude": 23.201679,
+    "longitude": 72.995322,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-98ba2970",
+    "name": "Nayara Energy",
+    "latitude": 23.244387,
+    "longitude": 72.892363,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-ce0ed8c9",
+    "name": "Nayra Energy",
+    "latitude": 23.221086,
+    "longitude": 73.187022,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-f4e4d37a",
     "name": "Pashabhai B Patel Petrol N Cng",
     "latitude": 23.587755,
     "longitude": 72.377049,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Ahmedabad Palanpur State Highway SH41, Gujarat"
   },
   {
     "id": "cng-5a71e9b7",
@@ -737,7 +790,7 @@
     "longitude": 72.876884,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-d05aeac5",
@@ -755,7 +808,9 @@
     "longitude": 72.965692,
     "city": "",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Gujarat",
+    "operator": "Sabarmati"
   },
   {
     "id": "cng-109160f2",
@@ -773,6 +828,15 @@
     "name": "Shell Express",
     "latitude": 24.652408,
     "longitude": 68.507593,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-d753655a",
+    "name": "Shree Sai Petroleum Kadjodara",
+    "latitude": 23.180305,
+    "longitude": 72.938544,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -1713,7 +1777,8 @@
     "longitude": 70.549784,
     "city": "At Lalpur ,Sub Dist Dhrol ,Dist Jamnagar",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Dhrol To Tankara State Highway, At Lalpur ,Sub Dist Dhrol ,Dist Jamnagar, Gujarat"
   },
   {
     "id": "cng-8692eab6",
@@ -2020,6 +2085,15 @@
     "city": "Bhavnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
+  },
+  {
+    "id": "cng-85511c90",
+    "name": "Gujarat Gas Cng Station",
+    "latitude": 21.750262,
+    "longitude": 72.133216,
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-e408b5d5",
@@ -2352,7 +2426,8 @@
     "longitude": 70.419145,
     "city": "Dhrol",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Dhrol, Gujarat"
   },
   {
     "id": "cng-01c2c8f1",
@@ -2940,10 +3015,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-6099bce1",
+    "id": "cng-2c782008",
     "name": "Priya Petroleum",
-    "latitude": 22.477516,
-    "longitude": 70.061118,
+    "latitude": 22.477484,
+    "longitude": 70.061196,
     "city": "Jamnagar",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3027,7 +3102,8 @@
     "longitude": 73.462009,
     "city": "Kalol",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kalol, Gujarat"
   },
   {
     "id": "cng-e332a4f4",
@@ -3642,10 +3718,10 @@
     "source": "gujarat_gas"
   },
   {
-    "id": "cng-b6f9e2e8",
+    "id": "cng-23500ca1",
     "name": "Niraj Automobiles",
-    "latitude": 20.63596,
-    "longitude": 73.099054,
+    "latitude": 20.638018,
+    "longitude": 73.098846,
     "city": "Navsari",
     "state": "Gujarat",
     "source": "gujarat_gas"
@@ -3883,24 +3959,6 @@
     "city": "Rajkot",
     "state": "Gujarat",
     "source": "gujarat_gas"
-  },
-  {
-    "id": "cng-6c82eeb7",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.284186,
-    "longitude": 70.769197,
-    "city": "Rajkot",
-    "state": "Gujarat",
-    "source": "atgl"
-  },
-  {
-    "id": "cng-26b24f40",
-    "name": "Cng Indian Oil Petrol Pump",
-    "latitude": 22.258577,
-    "longitude": 70.704029,
-    "city": "Rajkot",
-    "state": "Gujarat",
-    "source": "atgl"
   },
   {
     "id": "cng-ffa5f4ed",
@@ -5034,7 +5092,8 @@
     "longitude": 70.752164,
     "city": "Tankara",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Rajkot To Morbi Highway, Tankara, Gujarat"
   },
   {
     "id": "cng-fddd1607",
@@ -5208,6 +5267,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-238f9f19",
+    "name": "Adani Cng",
+    "latitude": 22.379562,
+    "longitude": 73.155117,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
     "id": "cng-9f60cb1d",
     "name": "Bharat Petroleum",
     "latitude": 22.310643,
@@ -5233,6 +5301,33 @@
     "city": "Vadodara",
     "state": "Gujarat",
     "source": "nominatim_grid"
+  },
+  {
+    "id": "cng-f87a3470",
+    "name": "Cng Petrol Pump",
+    "latitude": 22.345042,
+    "longitude": 73.202483,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "id": "cng-c203b59c",
+    "name": "Cng Pump",
+    "latitude": 22.379654,
+    "longitude": 73.191663,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
+  },
+  {
+    "id": "cng-9b229bc6",
+    "name": "Cng Pump Bharat Petroleum",
+    "latitude": 22.234306,
+    "longitude": 73.188365,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-bab98833",
@@ -5269,6 +5364,15 @@
     "city": "Vadodara",
     "state": "Gujarat",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-5f7eef1d",
+    "name": "Cng Vadodara",
+    "latitude": 22.315289,
+    "longitude": 73.164874,
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "source": "atgl"
   },
   {
     "id": "cng-b5c512ea",
@@ -5718,6 +5822,6 @@
     "longitude": 73.262744,
     "city": "vadodara",
     "state": "Gujarat",
-    "source": "osm_allstations"
+    "source": "atgl"
   }
 ]

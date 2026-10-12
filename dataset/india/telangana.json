@@ -6,7 +6,8 @@
     "longitude": 78.508904,
     "city": "",
     "state": "Telangana",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Telangana"
   },
   {
     "id": "cng-a0afdb80",
@@ -690,7 +691,8 @@
     "longitude": 78.470062,
     "city": "",
     "state": "Telangana",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Telangana"
   },
   {
     "id": "cng-2f679870",
@@ -1102,6 +1104,15 @@
     "name": "Indian Oil",
     "latitude": 17.586181,
     "longitude": 78.097424,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-35575d86",
+    "name": "Indian Oil",
+    "latitude": 16.427185,
+    "longitude": 80.5769,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -7287,7 +7298,8 @@
     "longitude": 77.176431,
     "city": "kandhar",
     "state": "Telangana",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "kandhar, Telangana"
   },
   {
     "id": "cng-a80754e6",

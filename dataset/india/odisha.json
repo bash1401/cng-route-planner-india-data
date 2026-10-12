@@ -168,7 +168,9 @@
     "longitude": 85.820261,
     "city": "",
     "state": "Odisha",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Odisha",
+    "operator": "GAIL"
   },
   {
     "id": "cng-126d466e",
@@ -191,16 +193,6 @@
     "source": "osm",
     "address": "Odisha",
     "operator": "GAIL"
-  },
-  {
-    "id": "cng-9eabe65d",
-    "name": "Hp",
-    "latitude": 20.178594,
-    "longitude": 85.857932,
-    "city": "",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Hindustan Petroleum"
   },
   {
     "id": "cng-f8d30b35",
@@ -563,16 +555,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7c08fe39",
-    "name": "Jay Auto Center",
-    "latitude": 20.19386,
-    "longitude": 85.860064,
-    "city": "",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Bharat Petroleum"
-  },
-  {
     "id": "cng-b5356ca9",
     "name": "Marshaghai Filling Station",
     "latitude": 20.488087,
@@ -840,8 +822,7 @@
     "longitude": 85.844542,
     "city": "Bhubaneswar Municipal Corporation",
     "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Indian Oil"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-027adb07",
@@ -887,16 +868,6 @@
     "city": "Charichhaka",
     "state": "Odisha",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-c1ae1fcf",
-    "name": "Dhabaleswar Filling Station",
-    "latitude": 20.550833,
-    "longitude": 86.329324,
-    "city": "Chhata",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Private"
   },
   {
     "id": "cng-3ed85f95",
@@ -1214,13 +1185,14 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-c504138f",
+    "id": "cng-7ce6d36c",
     "name": "Jio-Bp",
-    "latitude": 20.176303,
-    "longitude": 85.640083,
+    "latitude": 20.176353,
+    "longitude": 85.640104,
     "city": "Khordha",
     "state": "Odisha",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Industrial Area, Khurdha Bypass Road, Khordha, Odisha"
   },
   {
     "id": "cng-1dcbdab8",
@@ -1286,16 +1258,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-fc52ce93",
-    "name": "Reliance Petrol Pump",
-    "latitude": 20.068132,
-    "longitude": 85.986846,
-    "city": "Nimapada",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Reliance"
-  },
-  {
     "id": "cng-cb2233a6",
     "name": "Parija Fuels",
     "latitude": 20.061721,
@@ -1314,20 +1276,19 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-e0353eda",
-    "name": "Bharat Petroleum",
-    "latitude": 20.320867,
-    "longitude": 86.550183,
-    "city": "Paradeep",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Private"
-  },
-  {
     "id": "cng-8572fa25",
     "name": "Bharat Petroleum",
     "latitude": 20.305419,
     "longitude": 86.637894,
+    "city": "Paradeep",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e0353eda",
+    "name": "Bharat Petroleum",
+    "latitude": 20.320867,
+    "longitude": 86.550183,
     "city": "Paradeep",
     "state": "Odisha",
     "source": "all_india_fuel"
@@ -1358,16 +1319,6 @@
     "city": "Paradeep",
     "state": "Odisha",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-3df4335d",
-    "name": "Private Cng Station",
-    "latitude": 20.30881,
-    "longitude": 86.630486,
-    "city": "Paradeep",
-    "state": "Odisha",
-    "source": "osm_extra",
-    "operator": "Private"
   },
   {
     "id": "cng-3048f8a7",
@@ -1554,6 +1505,15 @@
     "name": "Indian Oil",
     "latitude": 19.715438,
     "longitude": 85.51566,
+    "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-7c08fe39",
+    "name": "Jay Auto Center",
+    "latitude": 20.19386,
+    "longitude": 85.860064,
     "city": "Puri",
     "state": "Odisha",
     "source": "all_india_fuel"

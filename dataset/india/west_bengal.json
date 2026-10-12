@@ -6,7 +6,7 @@
     "longitude": 89.586564,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-5b76e207",
@@ -15,7 +15,7 @@
     "longitude": 89.81107,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-bafcf849",
@@ -24,7 +24,7 @@
     "longitude": 89.579147,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-63443ee0",
@@ -33,7 +33,7 @@
     "longitude": 89.347236,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0ad4e59c",
@@ -42,7 +42,7 @@
     "longitude": 88.958349,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-21f04689",
@@ -139,6 +139,24 @@
     "name": "Bharat Petroleum",
     "latitude": 22.963861,
     "longitude": 88.42526,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-93e0a999",
+    "name": "Bharat Petroleum",
+    "latitude": 22.823027,
+    "longitude": 88.405496,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-4774e23d",
+    "name": "Bharat Petroleum",
+    "latitude": 22.674521,
+    "longitude": 88.413536,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -366,7 +384,7 @@
     "longitude": 89.354949,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-36b49d8a",
@@ -375,7 +393,7 @@
     "longitude": 89.600734,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-0e61ace6",
@@ -384,25 +402,7 @@
     "longitude": 89.386667,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-510f9579",
-    "name": "Cng Station",
-    "latitude": 24.874605,
-    "longitude": 89.368603,
-    "city": "",
-    "state": "West Bengal",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-89632264",
-    "name": "Cng Station",
-    "latitude": 22.93556,
-    "longitude": 87.695138,
-    "city": "",
-    "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-4135ca3b",
@@ -411,7 +411,7 @@
     "longitude": 89.389712,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-996c89d8",
@@ -420,7 +420,7 @@
     "longitude": 89.352663,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-714d0d71",
@@ -429,7 +429,16 @@
     "longitude": 88.394974,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-22b91b15",
+    "name": "Hp",
+    "latitude": 22.935467,
+    "longitude": 87.695127,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-3385822c",
@@ -571,6 +580,33 @@
     "name": "Indian Oil",
     "latitude": 22.967823,
     "longitude": 88.389176,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-472c47c6",
+    "name": "Indian Oil",
+    "latitude": 22.726328,
+    "longitude": 88.404562,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-e500a0ba",
+    "name": "Indian Oil",
+    "latitude": 22.786835,
+    "longitude": 88.390878,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-75b1b8cf",
+    "name": "Indian Oil",
+    "latitude": 22.80923,
+    "longitude": 88.40098,
     "city": "",
     "state": "West Bengal",
     "source": "all_india_fuel"
@@ -1221,7 +1257,7 @@
     "longitude": 89.392933,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-8295f42d",
@@ -1230,7 +1266,7 @@
     "longitude": 89.691175,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-b37e35d2",
@@ -1239,7 +1275,7 @@
     "longitude": 89.34991,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-fa1b0b1e",
@@ -1248,7 +1284,7 @@
     "longitude": 89.863532,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-5efbb917",
@@ -1257,7 +1293,7 @@
     "longitude": 89.351714,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-63038231",
@@ -1266,7 +1302,7 @@
     "longitude": 89.372227,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-d9240753",
@@ -1284,7 +1320,7 @@
     "longitude": 88.760424,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-a405c78c",
@@ -1293,7 +1329,7 @@
     "longitude": 89.38633,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-10fe49e7",
@@ -1302,7 +1338,7 @@
     "longitude": 89.359944,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-af8baa5f",
@@ -1311,7 +1347,7 @@
     "longitude": 89.055178,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-c816c173",
@@ -1320,7 +1356,7 @@
     "longitude": 89.347595,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-f7833269",
@@ -1329,7 +1365,7 @@
     "longitude": 89.358987,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9b087b5c",
@@ -1338,7 +1374,7 @@
     "longitude": 89.346622,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-92a90958",
@@ -1347,7 +1383,34 @@
     "longitude": 89.350661,
     "city": "",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-675bebb4",
+    "name": "Balasore Highway Service",
+    "latitude": 21.552834,
+    "longitude": 86.961073,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-831f92a3",
+    "name": "Binayak Filling Station",
+    "latitude": 21.661403,
+    "longitude": 87.063529,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-32ca06a8",
+    "name": "Doshi Automobiles",
+    "latitude": 21.513255,
+    "longitude": 86.893346,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-bb6c69ef",
@@ -1368,6 +1431,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-1bd9ac22",
+    "name": "Indian Oil",
+    "latitude": 21.453169,
+    "longitude": 86.865227,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-6f61d86f",
     "name": "Indian Oil Petrol Bunk",
     "latitude": 21.505041,
@@ -1377,6 +1449,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-d37e6831",
+    "name": "Parameswar Kisan Seva Kendra",
+    "latitude": 21.467444,
+    "longitude": 86.881226,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-78a08732",
     "name": "Petrol Pump",
     "latitude": 21.4926,
@@ -1384,6 +1465,33 @@
     "city": "Balasore",
     "state": "West Bengal",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-d193cced",
+    "name": "Satyam Shivam Filling Station",
+    "latitude": 21.549881,
+    "longitude": 86.944278,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0cd11f7a",
+    "name": "Shivam Petroleum",
+    "latitude": 21.657269,
+    "longitude": 87.06206,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-8663c3c7",
+    "name": "Shree Energy Point",
+    "latitude": 21.574805,
+    "longitude": 87.007037,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9af8f0a9",
@@ -1401,7 +1509,7 @@
     "longitude": 89.385046,
     "city": "Bogra",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-bfa89434",
@@ -1410,7 +1518,7 @@
     "longitude": 89.388595,
     "city": "Bogra",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-b726a9c3",
@@ -1510,6 +1618,24 @@
     "city": "Howrah",
     "state": "West Bengal",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-1e647241",
+    "name": "Gayatri Filling Station",
+    "latitude": 21.800637,
+    "longitude": 87.243878,
+    "city": "Jaleswar",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-5259d1c2",
+    "name": "Gopal Jew Filling Station",
+    "latitude": 21.777828,
+    "longitude": 87.210579,
+    "city": "Jaleswar",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-6f054486",
@@ -2322,13 +2448,31 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-4aca651c",
+    "name": "Pritiraj Services",
+    "latitude": 21.740679,
+    "longitude": 87.144549,
+    "city": "Rajghat",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-27d4b816",
+    "name": "Shreeram Filling Station",
+    "latitude": 21.594118,
+    "longitude": 87.020842,
+    "city": "Rupsa",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-c78bb42a",
     "name": "Assort Cng Refueling Station",
     "latitude": 24.019374,
     "longitude": 89.251914,
     "city": "Salgaria",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-706bde3c",
@@ -2598,6 +2742,6 @@
     "longitude": 89.679345,
     "city": "Sirajganj",
     "state": "West Bengal",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   }
 ]

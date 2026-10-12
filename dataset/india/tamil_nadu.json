@@ -1680,7 +1680,18 @@
     "longitude": 77.600462,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
+  },
+  {
+    "id": "cng-33d92ae8",
+    "name": "Cng Station",
+    "latitude": 13.165368,
+    "longitude": 77.628968,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-0bb25b96",
@@ -1881,31 +1892,37 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-7020f496",
-    "name": "Gail",
-    "latitude": 13.057551,
-    "longitude": 77.546644,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-beef8f1f",
-    "name": "Gail",
-    "latitude": 12.871422,
-    "longitude": 77.58346,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-3e095180",
     "name": "Gail Cng",
     "latitude": 12.873365,
     "longitude": 77.540406,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
+  },
+  {
+    "id": "cng-7020f496",
+    "name": "Gail Cng Station",
+    "latitude": 13.057551,
+    "longitude": 77.546644,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
+  },
+  {
+    "id": "cng-beef8f1f",
+    "name": "Gail Cng Station",
+    "latitude": 12.871422,
+    "longitude": 77.58346,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
   },
   {
     "id": "cng-4cde4465",
@@ -1930,11 +1947,13 @@
   {
     "id": "cng-458c4548",
     "name": "Gail Gas",
-    "latitude": 13.040566,
-    "longitude": 77.618612,
+    "latitude": 13.040554,
+    "longitude": 77.61859,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
   },
   {
     "id": "cng-b1562bdd",
@@ -1943,7 +1962,9 @@
     "longitude": 77.746957,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
   },
   {
     "id": "cng-ef96edf1",
@@ -1963,7 +1984,9 @@
     "longitude": 77.641431,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu",
+    "operator": "GAIL"
   },
   {
     "id": "cng-8a7bd1e2",
@@ -1972,7 +1995,8 @@
     "longitude": 77.596215,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-ad7de595",
@@ -1990,7 +2014,8 @@
     "longitude": 80.138717,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-1ade6916",
@@ -1999,7 +2024,7 @@
     "longitude": 80.047347,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-cd009a79",
@@ -2026,7 +2051,8 @@
     "longitude": 77.745369,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-37051d52",
@@ -2035,7 +2061,8 @@
     "longitude": 77.618989,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-3368ef63",
@@ -2044,7 +2071,8 @@
     "longitude": 78.681486,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-65531870",
@@ -2053,16 +2081,8 @@
     "longitude": 78.099966,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-7384a65b",
-    "name": "Indian Oil",
-    "latitude": 12.265055,
-    "longitude": 79.683598,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-3cc1df01",
@@ -2906,6 +2926,15 @@
     "name": "Indian Oil",
     "latitude": 12.817,
     "longitude": 77.691198,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-0e4c0fcf",
+    "name": "Indian Oil",
+    "latitude": 13.255971,
+    "longitude": 77.709603,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4567,6 +4596,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-7384a65b",
+    "name": "Indian Oil",
+    "latitude": 12.265055,
+    "longitude": 79.683598,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-8045abcb",
     "name": "Indian Oil",
     "latitude": 11.07643,
@@ -5161,15 +5199,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-33d92ae8",
-    "name": "Jio Bp",
-    "latitude": 13.165368,
-    "longitude": 77.628968,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-5f816c8d",
     "name": "Jwala Petrol Pump",
     "latitude": 12.955585,
@@ -5617,7 +5646,8 @@
     "longitude": 77.640766,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-e00e0953",
@@ -5806,7 +5836,8 @@
     "longitude": 77.600434,
     "city": "",
     "state": "Tamil Nadu",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Tamil Nadu"
   },
   {
     "id": "cng-1259281a",
@@ -11101,19 +11132,19 @@
     "source": "nominatim_grid"
   },
   {
-    "id": "cng-2a8184ab",
-    "name": "Bharat Petroleum",
-    "latitude": 13.118484,
-    "longitude": 80.14989,
-    "city": "Chennai",
-    "state": "Tamil Nadu",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-69428303",
     "name": "Bharat Petroleum",
     "latitude": 13.082056,
     "longitude": 80.167735,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-2a8184ab",
+    "name": "Bharat Petroleum",
+    "latitude": 13.118484,
+    "longitude": 80.14989,
     "city": "Chennai",
     "state": "Tamil Nadu",
     "source": "cgd_inferred"

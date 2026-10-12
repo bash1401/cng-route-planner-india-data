@@ -6,7 +6,8 @@
     "longitude": 76.550967,
     "city": "",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Karnataka"
   },
   {
     "id": "cng-80c7a876",
@@ -15,7 +16,8 @@
     "longitude": 76.558271,
     "city": "",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Karnataka"
   },
   {
     "id": "cng-c081502e",
@@ -1745,7 +1747,8 @@
     "longitude": 75.922763,
     "city": "",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Karnataka"
   },
   {
     "id": "cng-f41dee41",
@@ -1826,7 +1829,8 @@
     "longitude": 76.360751,
     "city": "",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Karnataka"
   },
   {
     "id": "cng-6a00e91a",
@@ -1871,7 +1875,8 @@
     "longitude": 76.310748,
     "city": "",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Karnataka"
   },
   {
     "id": "cng-6336dbd0",
@@ -1880,8 +1885,7 @@
     "longitude": 74.093554,
     "city": "Ambawade S.W.",
     "state": "Karnataka",
-    "source": "osm_extra",
-    "operator": "Bharat Petroleum"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-67e57304",
@@ -4509,7 +4513,8 @@
     "longitude": 74.374403,
     "city": "Supe",
     "state": "Karnataka",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Songaon Shendre Road, Supe, Karnataka"
   },
   {
     "id": "cng-cc68087d",
