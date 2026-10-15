@@ -1,11 +1,29 @@
 [
   {
+    "id": "cng-f7f4ac61",
+    "name": "Cng Station",
+    "latitude": 23.735031,
+    "longitude": 92.839223,
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-402d6f99",
     "name": "Indian Oil",
     "latitude": 23.72616,
     "longitude": 92.718567,
-    "city": "",
+    "city": "Aizawl",
     "state": "Mizoram",
-    "source": "all_india_fuel"
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-e1e7daf1",
+    "name": "Petrol Pump",
+    "latitude": 23.793898,
+    "longitude": 92.669093,
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "source": "cgd_inferred"
   }
 ]

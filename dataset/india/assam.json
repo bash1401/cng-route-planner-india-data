@@ -126,15 +126,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-f3cbe2a7",
-    "name": "Bharat Petroleum",
-    "latitude": 26.116122,
-    "longitude": 91.786956,
-    "city": "",
-    "state": "Assam",
-    "source": "all_india_fuel"
-  },
-  {
     "id": "cng-1eb8a701",
     "name": "Chowdhury Cng Filling Station চৌধুরী সিএনজি ফিলিং সটেশন",
     "latitude": 24.46819,
@@ -357,7 +348,7 @@
     "longitude": 89.95002,
     "city": "",
     "state": "Assam",
-    "source": "all_india_fuel"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-0209edd3",
@@ -639,15 +630,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-06b17e91",
-    "name": "Cng Station",
-    "latitude": 26.127117,
-    "longitude": 90.569513,
-    "city": "Goalpara",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
     "id": "cng-6ed8b4bd",
     "name": "Assam Oil",
     "latitude": 26.227571,
@@ -661,6 +643,15 @@
     "name": "Bharat Petroleum",
     "latitude": 26.112156,
     "longitude": 91.745933,
+    "city": "Guwahati",
+    "state": "Assam",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-f3cbe2a7",
+    "name": "Bharat Petroleum",
+    "latitude": 26.116122,
+    "longitude": 91.786956,
     "city": "Guwahati",
     "state": "Assam",
     "source": "cgd_inferred"
@@ -715,15 +706,6 @@
     "name": "Cng Station",
     "latitude": 26.120689,
     "longitude": 91.798104,
-    "city": "Guwahati",
-    "state": "Assam",
-    "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-55bd971f",
-    "name": "Cng Station",
-    "latitude": 26.173939,
-    "longitude": 91.772538,
     "city": "Guwahati",
     "state": "Assam",
     "source": "cgd_inferred"
@@ -886,6 +868,15 @@
     "name": "Indian Oil",
     "latitude": 26.173234,
     "longitude": 91.777406,
+    "city": "Guwahati",
+    "state": "Assam",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-55bd971f",
+    "name": "Indian Oil",
+    "latitude": 26.173939,
+    "longitude": 91.772538,
     "city": "Guwahati",
     "state": "Assam",
     "source": "cgd_inferred"
