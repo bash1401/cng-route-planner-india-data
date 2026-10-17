@@ -73,14 +73,6 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 13.034771,
-    "longitude": 80.210956,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
     "latitude": 13.023111,
     "longitude": 80.206358,
     "city": "",
@@ -91,6 +83,14 @@
     "name": "Bp",
     "latitude": 13.011274,
     "longitude": 80.222923,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.025934,
+    "longitude": 80.175303,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -307,6 +307,14 @@
     "name": "Bharat Petroleum",
     "latitude": 13.031147,
     "longitude": 80.035529,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "V.S.V. Agency",
+    "latitude": 12.977097,
+    "longitude": 80.251105,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -800,14 +808,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Shell",
-    "latitude": 12.922353,
-    "longitude": 80.151278,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 12.922908,
     "longitude": 80.150878,
@@ -1011,14 +1011,6 @@
     "name": "Bharat Petroleum",
     "latitude": 13.037865,
     "longitude": 80.191897,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Shell Gas Station",
-    "latitude": 12.985679,
-    "longitude": 77.480059,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -1347,14 +1339,6 @@
     "name": "Bharat Petroleum",
     "latitude": 12.995187,
     "longitude": 77.521945,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 12.958493,
-    "longitude": 77.517335,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -2363,14 +2347,6 @@
     "name": "Indian Oil",
     "latitude": 16.270771,
     "longitude": 80.468217,
-    "city": "",
-    "state": "Telangana",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Nayara",
-    "latitude": 16.284579,
-    "longitude": 80.406979,
     "city": "",
     "state": "Telangana",
     "source": "all_india_fuel"
@@ -4184,6 +4160,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Indian Oil",
+    "latitude": 12.900915,
+    "longitude": 77.487573,
+    "city": "Bangalore",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Hindustan Petroleum",
     "latitude": 12.94348,
     "longitude": 80.138717,
@@ -4217,8 +4201,8 @@
   },
   {
     "name": "Shell",
-    "latitude": 12.956573,
-    "longitude": 77.731461,
+    "latitude": 12.956574,
+    "longitude": 77.731466,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4441,7 +4425,7 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.972476,
+    "latitude": 12.972471,
     "longitude": 77.619866,
     "city": "",
     "state": "Tamil Nadu",
@@ -4473,8 +4457,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 13.189104,
-    "longitude": 77.645465,
+    "latitude": 13.189108,
+    "longitude": 77.645429,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4513,8 +4497,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 12.925665,
-    "longitude": 77.600117,
+    "latitude": 12.925661,
+    "longitude": 77.600102,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4584,6 +4568,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Petronas Cng",
+    "latitude": 12.985864,
+    "longitude": 77.479792,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Indian Oil",
     "latitude": 13.116979,
     "longitude": 80.19818,
@@ -4612,6 +4604,14 @@
     "latitude": 12.975666,
     "longitude": 80.192909,
     "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.118484,
+    "longitude": 80.14989,
+    "city": "Chennai",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
   },
@@ -4825,8 +4825,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.941168,
-    "longitude": 77.695771,
+    "latitude": 12.941145,
+    "longitude": 77.695805,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -4929,7 +4929,7 @@
   },
   {
     "name": "Shell",
-    "latitude": 12.949625,
+    "latitude": 12.949608,
     "longitude": 77.592863,
     "city": "",
     "state": "Tamil Nadu",
@@ -5521,16 +5521,16 @@
   },
   {
     "name": "Shell",
-    "latitude": 12.908914,
-    "longitude": 77.644061,
+    "latitude": 12.908911,
+    "longitude": 77.644039,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.907318,
-    "longitude": 77.644804,
+    "latitude": 12.907324,
+    "longitude": 77.644826,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -5809,8 +5809,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.941359,
-    "longitude": 79.176747,
+    "latitude": 12.941361,
+    "longitude": 79.176707,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -5945,8 +5945,8 @@
   },
   {
     "name": "Shell",
-    "latitude": 12.953579,
-    "longitude": 77.567242,
+    "latitude": 12.953573,
+    "longitude": 77.567239,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6097,8 +6097,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.876445,
-    "longitude": 77.671645,
+    "latitude": 12.876372,
+    "longitude": 77.671607,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6337,8 +6337,8 @@
   },
   {
     "name": "Gail Gas",
-    "latitude": 13.040554,
-    "longitude": 77.61859,
+    "latitude": 13.040566,
+    "longitude": 77.618612,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6449,8 +6449,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 13.001582,
-    "longitude": 77.63151,
+    "latitude": 13.001575,
+    "longitude": 77.631513,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6649,8 +6649,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 13.059356,
-    "longitude": 77.64897,
+    "latitude": 13.059329,
+    "longitude": 77.648943,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6849,8 +6849,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.959112,
-    "longitude": 77.555799,
+    "latitude": 12.959085,
+    "longitude": 77.555817,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -6945,8 +6945,8 @@
   },
   {
     "name": "Indian Oil Petrol Bunk",
-    "latitude": 12.928489,
-    "longitude": 77.600807,
+    "latitude": 12.928483,
+    "longitude": 77.60081,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -7019,14 +7019,6 @@
     "name": "Shell",
     "latitude": 12.883558,
     "longitude": 77.642889,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Nayara - Kanakapura Road",
-    "latitude": 12.874572,
-    "longitude": 77.542367,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -7265,8 +7257,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 12.84318,
-    "longitude": 80.169751,
+    "latitude": 12.843134,
+    "longitude": 80.169738,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -7395,6 +7387,102 @@
     "name": "Hindustan Petroleum",
     "latitude": 12.831553,
     "longitude": 80.047347,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Shell",
+    "latitude": 12.832219,
+    "longitude": 80.046581,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum - Shree Lpk Petro Park",
+    "latitude": 12.834003,
+    "longitude": 80.048728,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Nayara",
+    "latitude": 16.28449,
+    "longitude": 80.406927,
+    "city": "",
+    "state": "Telangana",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil Petrol Pump",
+    "latitude": 13.004124,
+    "longitude": 79.130323,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Nayara - Kanakapura Road",
+    "latitude": 12.874559,
+    "longitude": 77.542361,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.023835,
+    "longitude": 77.485285,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.908777,
+    "longitude": 77.538723,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.90771,
+    "longitude": 79.131609,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.958321,
+    "longitude": 77.517385,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.906429,
+    "longitude": 77.632651,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.255971,
+    "longitude": 77.709603,
+    "city": "",
+    "state": "Tamil Nadu",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.265151,
+    "longitude": 77.718203,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -15141,6 +15229,22 @@
     "longitude": 90.39576,
     "city": "",
     "state": "Assam",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 25.562605,
+    "longitude": 91.853429,
+    "city": "",
+    "state": "Meghalaya",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 25.565653,
+    "longitude": 91.855002,
+    "city": "",
+    "state": "Meghalaya",
     "source": "all_india_fuel"
   },
   {
@@ -29297,14 +29401,6 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.900915,
-    "longitude": 77.487573,
-    "city": "Bangalore",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
     "latitude": 12.570224,
     "longitude": 78.173958,
     "city": "",
@@ -29697,48 +29793,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 13.023835,
-    "longitude": 77.485285,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 12.908777,
-    "longitude": 77.538723,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
     "latitude": 12.503772,
     "longitude": 78.031238,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 12.906429,
-    "longitude": 77.632651,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 13.255971,
-    "longitude": 77.709603,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 13.265151,
-    "longitude": 77.718203,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -33700,6 +33756,14 @@
     "latitude": 10.772707,
     "longitude": 76.376103,
     "city": "",
+    "state": "Kerala",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "E.P Petroleum-Lakkidi",
+    "latitude": 10.772605,
+    "longitude": 76.424812,
+    "city": "Ottappalam",
     "state": "Kerala",
     "source": "all_india_fuel"
   },
@@ -43057,8 +43121,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 20.537969,
-    "longitude": 75.749544,
+    "latitude": 20.538,
+    "longitude": 75.749579,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43091,6 +43155,14 @@
     "name": "Indian Oil",
     "latitude": 19.124254,
     "longitude": 72.915074,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.873111,
+    "longitude": 75.369969,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43173,14 +43245,6 @@
     "longitude": 72.862833,
     "city": "",
     "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 21.203772,
-    "longitude": 72.839015,
-    "city": "Surat",
-    "state": "Gujarat",
     "source": "all_india_fuel"
   },
   {
@@ -43369,8 +43433,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 19.884187,
-    "longitude": 75.290782,
+    "latitude": 19.88389,
+    "longitude": 75.291121,
     "city": "Chhatrapati Sambhajinagar (Aurangabad)",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43457,8 +43521,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 19.908029,
-    "longitude": 75.245718,
+    "latitude": 19.908165,
+    "longitude": 75.245768,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43488,7 +43552,7 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
+    "name": "Bharat Petroleum",
     "latitude": 19.862198,
     "longitude": 75.44538,
     "city": "",
@@ -43512,6 +43576,14 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Bharat Petroleum",
+    "latitude": 19.866054,
+    "longitude": 75.533058,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Indian Oil",
     "latitude": 19.869155,
     "longitude": 75.39951,
@@ -43529,8 +43601,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 19.865425,
-    "longitude": 75.421084,
+    "latitude": 19.865406,
+    "longitude": 75.421105,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43593,8 +43665,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 19.866408,
-    "longitude": 75.529926,
+    "latitude": 19.866542,
+    "longitude": 75.529904,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43609,8 +43681,8 @@
   },
   {
     "name": "Bharat Petroleum",
-    "latitude": 19.869322,
-    "longitude": 75.607134,
+    "latitude": 19.869371,
+    "longitude": 75.607217,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -43704,9 +43776,161 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Nayara",
+    "latitude": 19.288502,
+    "longitude": 75.736618,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.836162,
+    "longitude": 75.884913,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Indian Oil",
-    "latitude": 19.875075,
-    "longitude": 75.356501,
+    "latitude": 19.841049,
+    "longitude": 75.416447,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.869142,
+    "longitude": 75.553087,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.867395,
+    "longitude": 75.485152,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.855669,
+    "longitude": 75.899512,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.871216,
+    "longitude": 75.812566,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.870789,
+    "longitude": 75.807095,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.875125,
+    "longitude": 75.356786,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Essar",
+    "latitude": 20.374864,
+    "longitude": 75.669746,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.908998,
+    "longitude": 75.354434,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.107389,
+    "longitude": 75.451763,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.066467,
+    "longitude": 75.408199,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 20.092349,
+    "longitude": 75.429486,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 20.100133,
+    "longitude": 75.441814,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.251571,
+    "longitude": 75.618855,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.38144,
+    "longitude": 75.674483,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 20.291689,
+    "longitude": 75.650492,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.818744,
+    "longitude": 75.87492,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 19.886748,
+    "longitude": 75.908553,
     "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
@@ -44256,6 +44480,22 @@
     "source": "all_india_fuel"
   },
   {
+    "name": "Indianoil Petrol Pump",
+    "latitude": 19.267783,
+    "longitude": 73.1318,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 19.279667,
+    "longitude": 73.144419,
+    "city": "",
+    "state": "Maharashtra",
+    "source": "all_india_fuel"
+  },
+  {
     "name": "Indian Oil",
     "latitude": 21.090063,
     "longitude": 79.054171,
@@ -44739,7 +44979,7 @@
     "name": "Indian Oil",
     "latitude": 20.99087,
     "longitude": 77.755273,
-    "city": "",
+    "city": "Amravati",
     "state": "Maharashtra",
     "source": "all_india_fuel"
   },
@@ -45996,6 +46236,166 @@
     "latitude": 19.715438,
     "longitude": 85.51566,
     "city": "Puri",
+    "state": "Odisha",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 21.49707,
+    "longitude": 86.659906,
+    "city": "",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Gayatri Filling Station",
+    "latitude": 21.800637,
+    "longitude": 87.243878,
+    "city": "Jaleswar",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Gopal Jew Filling Station",
+    "latitude": 21.777828,
+    "longitude": 87.210579,
+    "city": "Jaleswar",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Pritiraj Services",
+    "latitude": 21.740679,
+    "longitude": 87.144549,
+    "city": "Rajghat",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Binayak Filling Station",
+    "latitude": 21.661403,
+    "longitude": 87.063529,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Shivam Petroleum",
+    "latitude": 21.657269,
+    "longitude": 87.06206,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Laxminarayan Filling Station",
+    "latitude": 21.657019,
+    "longitude": 87.060714,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Shreeram Filling Station",
+    "latitude": 21.594118,
+    "longitude": 87.020842,
+    "city": "Rupsa",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Shree Energy Point",
+    "latitude": 21.574805,
+    "longitude": 87.007037,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Balasore Highway Service",
+    "latitude": 21.552834,
+    "longitude": 86.961073,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 21.553898,
+    "longitude": 86.961595,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Satyam Shivam Filling Station",
+    "latitude": 21.549881,
+    "longitude": 86.944278,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Doshi Automobiles",
+    "latitude": 21.513255,
+    "longitude": 86.893346,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 21.453169,
+    "longitude": 86.865227,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Parameswar Kisan Seva Kendra",
+    "latitude": 21.467444,
+    "longitude": 86.881226,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Pradhan Kisan Seva Kendra",
+    "latitude": 21.536634,
+    "longitude": 86.927491,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 21.535132,
+    "longitude": 86.924086,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Jay Guru Filling Station",
+    "latitude": 21.517936,
+    "longitude": 86.925265,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Soren Filling Station",
+    "latitude": 21.440374,
+    "longitude": 86.848387,
+    "city": "Balasore",
+    "state": "West Bengal",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Megha Fules",
+    "latitude": 21.425303,
+    "longitude": 86.829816,
+    "city": "Sergarh",
     "state": "Odisha",
     "source": "all_india_fuel"
   },
@@ -49200,14 +49600,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 13.025934,
-    "longitude": 80.175303,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Amudhasurabi - Pondicherry Cooperative Petrol Bunk",
     "latitude": 11.949903,
     "longitude": 79.814263,
@@ -49243,14 +49635,6 @@
     "name": "Indian Oil",
     "latitude": 10.006901,
     "longitude": 77.473024,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "V.S.V. Agency",
-    "latitude": 12.977097,
-    "longitude": 80.251105,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -52808,14 +53192,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 13.118484,
-    "longitude": 80.14989,
-    "city": "Chennai",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 8.335786,
     "longitude": 77.865005,
@@ -53944,35 +54320,171 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Shell",
-    "latitude": 12.832219,
-    "longitude": 80.046581,
+    "name": "Indian Oil",
+    "latitude": 23.845124,
+    "longitude": 91.28375,
     "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum - Shree Lpk Petro Park",
-    "latitude": 12.834003,
-    "longitude": 80.048728,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil Petrol Pump",
-    "latitude": 13.004124,
-    "longitude": 79.130323,
-    "city": "",
-    "state": "Tamil Nadu",
+    "state": "Tripura",
     "source": "all_india_fuel"
   },
   {
     "name": "Indian Oil",
-    "latitude": 12.90771,
-    "longitude": 79.131609,
+    "latitude": 23.308271,
+    "longitude": 91.564641,
+    "city": "santirbazar",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "S Rahman Filling And Cng Station এস রহমান ফিলিং এনড সিএনজি সটেশন",
+    "latitude": 23.06165,
+    "longitude": 91.361939,
     "city": "",
-    "state": "Tamil Nadu",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Universal Cng Filling Station ইউনিভারসাল সিএনজি ফিলিং সটেশন",
+    "latitude": 23.080097,
+    "longitude": 91.354668,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 23.845665,
+    "longitude": 91.282725,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 23.608671,
+    "longitude": 91.823334,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Bhuyan & Haque Cng ভূঁইযা এনড হক সি এন জি",
+    "latitude": 23.436771,
+    "longitude": 91.152701,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "River View Cng & Filling Station",
+    "latitude": 23.424796,
+    "longitude": 91.161076,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Nurul Islam Hazari Cng & Filling Station নুরুল ইসলাম হাজারী সিএনজি ও ফিলিং সটেশনে",
+    "latitude": 23.416976,
+    "longitude": 91.176679,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Advance Cng Filling Station এযাডভানস সি এন জি ফিলিং সটেশন",
+    "latitude": 23.411264,
+    "longitude": 91.202946,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Taj Cng Filling Station",
+    "latitude": 23.404338,
+    "longitude": 91.216366,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Miah Bazar Cng Filling Station মিযা বাজার সিএনজি ফিলিং সটেশনে",
+    "latitude": 23.345391,
+    "longitude": 91.26284,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Intraco Cng Refining ইনটরাকো সিএনজি বিশোধক",
+    "latitude": 23.339783,
+    "longitude": 91.266926,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Cheora Cng Filling Station Ltd",
+    "latitude": 23.168624,
+    "longitude": 91.321625,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Premier Fuel Filling And Cng Station পরিমিযার জবালানি ভরতি এবং সিএনজি সটেশন",
+    "latitude": 23.101629,
+    "longitude": 91.343593,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Cng",
+    "latitude": 23.03342,
+    "longitude": 91.366051,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Prime Cng Station পরাইম সিএনজি সটেশন",
+    "latitude": 23.025313,
+    "longitude": 91.365747,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Hazi Nazir Ahmed Cng Filling Station হাজী নাজির আহমেদ সিএনজি ফিলিং সটেশনে",
+    "latitude": 23.006503,
+    "longitude": 91.385538,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Star Line Cng Station",
+    "latitude": 22.989426,
+    "longitude": 91.408856,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Pv Oil",
+    "latitude": 23.010672,
+    "longitude": 91.401174,
+    "city": "",
+    "state": "Tripura",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 27.1612,
+    "longitude": 77.936137,
+    "city": "",
+    "state": "Uttar Pradesh",
     "source": "all_india_fuel"
   },
   {
@@ -53980,38 +54492,6 @@
     "latitude": 27.048453,
     "longitude": 80.528184,
     "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 26.947963,
-    "longitude": 78.957917,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.960576,
-    "longitude": 78.954292,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.987581,
-    "longitude": 78.944641,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 26.932891,
-    "longitude": 78.9629,
-    "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
   },
@@ -54041,8 +54521,8 @@
   },
   {
     "name": "Indian Oil",
-    "latitude": 25.540843,
-    "longitude": 83.187058,
+    "latitude": 25.540994,
+    "longitude": 83.187028,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -54211,6 +54691,14 @@
     "name": "Indian Oil",
     "latitude": 26.890586,
     "longitude": 80.953884,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "CNG Station",
+    "latitude": 25.30119,
+    "longitude": 83.039604,
     "city": "",
     "state": "Uttar Pradesh",
     "source": "all_india_fuel"
@@ -55696,14 +56184,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Indian Oil",
-    "latitude": 21.49707,
-    "longitude": 86.659906,
-    "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 22.97129,
     "longitude": 88.43258,
@@ -55744,54 +56224,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Gayatri Filling Station",
-    "latitude": 21.800637,
-    "longitude": 87.243878,
-    "city": "Jaleswar",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Gopal Jew Filling Station",
-    "latitude": 21.777828,
-    "longitude": 87.210579,
-    "city": "Jaleswar",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Pritiraj Services",
-    "latitude": 21.740679,
-    "longitude": 87.144549,
-    "city": "Rajghat",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Binayak Filling Station",
-    "latitude": 21.661403,
-    "longitude": 87.063529,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Shivam Petroleum",
-    "latitude": 21.657269,
-    "longitude": 87.06206,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Laxminarayan Filling Station",
-    "latitude": 21.657019,
-    "longitude": 87.060714,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 22.726328,
     "longitude": 88.404562,
@@ -55824,106 +56256,10 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Shreeram Filling Station",
-    "latitude": 21.594118,
-    "longitude": 87.020842,
-    "city": "Rupsa",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Shree Energy Point",
-    "latitude": 21.574805,
-    "longitude": 87.007037,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Balasore Highway Service",
-    "latitude": 21.552834,
-    "longitude": 86.961073,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 21.553898,
-    "longitude": 86.961595,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Satyam Shivam Filling Station",
-    "latitude": 21.549881,
-    "longitude": 86.944278,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Bharat Petroleum",
     "latitude": 22.674521,
     "longitude": 88.413536,
     "city": "",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Doshi Automobiles",
-    "latitude": 21.513255,
-    "longitude": 86.893346,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 21.453169,
-    "longitude": 86.865227,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Parameswar Kisan Seva Kendra",
-    "latitude": 21.467444,
-    "longitude": 86.881226,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Pradhan Kisan Seva Kendra",
-    "latitude": 21.536634,
-    "longitude": 86.927491,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 21.535132,
-    "longitude": 86.924086,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Jay Guru Filling Station",
-    "latitude": 21.517936,
-    "longitude": 86.925265,
-    "city": "Balasore",
-    "state": "West Bengal",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Soren Filling Station",
-    "latitude": 21.440374,
-    "longitude": 86.848387,
-    "city": "Balasore",
     "state": "West Bengal",
     "source": "all_india_fuel"
   },

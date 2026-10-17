@@ -360,10 +360,10 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-868658bf",
+    "id": "cng-6b553a34",
     "name": "Cng Station",
-    "latitude": 28.732903,
-    "longitude": 77.558978,
+    "latitude": 29.485656,
+    "longitude": 76.972403,
     "city": "",
     "state": "Haryana",
     "source": "igl_mgl"
@@ -393,7 +393,7 @@
     "longitude": 76.993431,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-3174d9f8",
@@ -411,7 +411,7 @@
     "longitude": 77.372681,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d788af5c",
@@ -420,7 +420,7 @@
     "longitude": 77.485078,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-1f44bfa7",
@@ -1062,13 +1062,23 @@
     "source": "osm_allstations"
   },
   {
+    "id": "cng-868658bf",
+    "name": "Indraprastha Gas Limited",
+    "latitude": 28.732903,
+    "longitude": 77.558978,
+    "city": "",
+    "state": "Haryana",
+    "source": "osm_allstations"
+  },
+  {
     "id": "cng-5338e871",
     "name": "Indraprastha Gas Limited Cng Station",
     "latitude": 28.525984,
     "longitude": 77.37028,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm",
+    "address": "Haryana"
   },
   {
     "id": "cng-b0db9af5",
@@ -1077,7 +1087,7 @@
     "longitude": 77.004395,
     "city": "",
     "state": "Haryana",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-28edfc87",
@@ -1167,7 +1177,7 @@
     "longitude": 77.584251,
     "city": "",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-d63dfac3",
@@ -1347,7 +1357,7 @@
     "longitude": 77.444915,
     "city": "GREATER NOIDA",
     "state": "Haryana",
-    "source": "igl_mgl"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-c5aa6802",
@@ -1672,15 +1682,6 @@
     "city": "Jhajjar",
     "state": "Haryana",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-6b553a34",
-    "name": "Igl Cng Pump Panipat",
-    "latitude": 29.485656,
-    "longitude": 76.972403,
-    "city": "Karnal",
-    "state": "Haryana",
-    "source": "nominatim_grid"
   },
   {
     "id": "cng-1df67311",
