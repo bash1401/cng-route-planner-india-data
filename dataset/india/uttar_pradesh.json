@@ -1,14 +1,5 @@
 [
   {
-    "id": "cng-e7c4f0c5",
-    "name": "Bharat Petroleum",
-    "latitude": 27.218283,
-    "longitude": 78.099432,
-    "city": "",
-    "state": "Uttar Pradesh",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-9c37d12b",
     "name": "Bharat Petroleum",
     "latitude": 26.629889,
@@ -171,6 +162,15 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-53e1d7bb",
+    "name": "Bharat Petroleum",
+    "latitude": 26.947963,
+    "longitude": 78.957917,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-0dfed702",
     "name": "Bharat Petroleum",
     "latitude": 25.283387,
@@ -258,8 +258,7 @@
     "longitude": 81.333787,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm",
-    "address": "Uttar Pradesh"
+    "source": "osm_allstations"
   },
   {
     "id": "cng-de44c5e1",
@@ -349,7 +348,7 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "igl_mgl"
   },
   {
     "id": "cng-010cef85",
@@ -721,6 +720,33 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-17573bb7",
+    "name": "Indian Oil",
+    "latitude": 26.960576,
+    "longitude": 78.954292,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-f3136743",
+    "name": "Indian Oil",
+    "latitude": 26.987581,
+    "longitude": 78.944641,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-781c0488",
+    "name": "Indian Oil",
+    "latitude": 26.932891,
+    "longitude": 78.9629,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "all_india_fuel"
+  },
+  {
     "id": "cng-2d81c30f",
     "name": "Indian Oil",
     "latitude": 25.541722,
@@ -1009,6 +1035,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-e7c4f0c5",
+    "name": "Bharat Petroleum",
+    "latitude": 27.218283,
+    "longitude": 78.099432,
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "source": "atgl"
+  },
+  {
     "id": "cng-627413c5",
     "name": "Bharat Petroleum",
     "latitude": 27.155993,
@@ -1064,12 +1099,12 @@
   },
   {
     "id": "cng-8fb38bb1",
-    "name": "Cng Pump Agra",
-    "latitude": 27.201594,
-    "longitude": 78.027833,
+    "name": "Cng Station",
+    "latitude": 27.20156,
+    "longitude": 78.027828,
     "city": "Agra",
     "state": "Uttar Pradesh",
-    "source": "nominatim_grid"
+    "source": "atgl"
   },
   {
     "id": "cng-3c1d84e1",
