@@ -1,5 +1,16 @@
 [
   {
+    "id": "cng-fb8b1d37",
+    "name": "Adani Cng Station",
+    "latitude": 23.454226,
+    "longitude": 87.471064,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "osm",
+    "address": "Jharkhand",
+    "operator": "Adani"
+  },
+  {
     "id": "cng-8ca21814",
     "name": "Balaji Fuel Station",
     "latitude": 23.823051,
@@ -243,15 +254,6 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-69ec1562",
-    "name": "Bp",
-    "latitude": 22.41874,
-    "longitude": 87.325087,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-023ceecc",
     "name": "City Fuels",
     "latitude": 23.83378,
@@ -268,6 +270,16 @@
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
+  },
+  {
+    "id": "cng-69ec1562",
+    "name": "Cng Station",
+    "latitude": 22.41874,
+    "longitude": 87.325087,
+    "city": "",
+    "state": "Jharkhand",
+    "source": "osm",
+    "address": "Jharkhand"
   },
   {
     "id": "cng-a9f94b16",
@@ -294,7 +306,8 @@
     "longitude": 86.18418,
     "city": "",
     "state": "Jharkhand",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Jharkhand"
   },
   {
     "id": "cng-72ac277d",
@@ -637,15 +650,6 @@
     "city": "",
     "state": "Jharkhand",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-fb8b1d37",
-    "name": "Indian Oil Adani Gas",
-    "latitude": 23.454226,
-    "longitude": 87.471064,
-    "city": "",
-    "state": "Jharkhand",
-    "source": "osm_allstations"
   },
   {
     "id": "cng-d9cb02d0",

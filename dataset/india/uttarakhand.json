@@ -186,7 +186,9 @@
     "longitude": 77.700106,
     "city": "",
     "state": "Uttarakhand",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttarakhand",
+    "operator": "IGL"
   },
   {
     "id": "cng-b29b6fa1",
@@ -195,7 +197,8 @@
     "longitude": 79.399639,
     "city": "",
     "state": "Uttarakhand",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttarakhand"
   },
   {
     "id": "cng-7c30ac73",

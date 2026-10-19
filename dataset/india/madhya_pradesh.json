@@ -378,6 +378,16 @@
     "source": "all_india_fuel"
   },
   {
+    "id": "cng-12d28a45",
+    "name": "Cng Station",
+    "latitude": 21.177865,
+    "longitude": 79.125278,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm",
+    "address": "Madhya Pradesh"
+  },
+  {
     "id": "cng-16535ffe",
     "name": "Durgesh Petrolium( Nayara)",
     "latitude": 21.246989,
@@ -438,7 +448,18 @@
     "longitude": 77.912046,
     "city": "",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Madhya Pradesh"
+  },
+  {
+    "id": "cng-e11fac8d",
+    "name": "Indian Oil",
+    "latitude": 26.872674,
+    "longitude": 75.820837,
+    "city": "",
+    "state": "Madhya Pradesh",
+    "source": "osm",
+    "address": "Madhya Pradesh"
   },
   {
     "id": "cng-19beaaf3",
@@ -1329,7 +1350,8 @@
     "longitude": 74.347347,
     "city": "",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Madhya Pradesh"
   },
   {
     "id": "cng-bbc0b3b3",
@@ -1851,7 +1873,8 @@
     "longitude": 77.896989,
     "city": "",
     "state": "Madhya Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Madhya Pradesh"
   },
   {
     "id": "cng-11612642",
@@ -3493,15 +3516,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-e11fac8d",
-    "name": "Indian Oil",
-    "latitude": 26.872674,
-    "longitude": 75.820837,
-    "city": "Jaipur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-612b6f43",
     "name": "Indian Oil",
     "latitude": 26.846049,
@@ -3682,22 +3696,14 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-12d28a45",
-    "name": "Cng Station",
-    "latitude": 21.177865,
-    "longitude": 79.125278,
-    "city": "Nagpur",
-    "state": "Madhya Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-a5b67b4f",
     "name": "Indian Auto Gas",
     "latitude": 21.18139,
     "longitude": 79.038446,
     "city": "Nagpur",
     "state": "Madhya Pradesh",
-    "source": "atgl"
+    "source": "osm",
+    "address": "Katol Road, Nagpur, Madhya Pradesh"
   },
   {
     "id": "cng-f2e3cf18",

@@ -920,14 +920,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Shell",
-    "latitude": 12.956963,
-    "longitude": 77.549187,
-    "city": "",
-    "state": "Tamil Nadu",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 13.32771,
     "longitude": 76.736167,
@@ -6897,8 +6889,8 @@
   },
   {
     "name": "Gail Cng",
-    "latitude": 12.873365,
-    "longitude": 77.540406,
+    "latitude": 12.873364,
+    "longitude": 77.540414,
     "city": "",
     "state": "Tamil Nadu",
     "source": "all_india_fuel"
@@ -18571,6 +18563,14 @@
     "name": "Bharat Petroleum",
     "latitude": 23.213861,
     "longitude": 73.166909,
+    "city": "",
+    "state": "Gujarat",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 24.580246,
+    "longitude": 73.697338,
     "city": "",
     "state": "Gujarat",
     "source": "all_india_fuel"
@@ -44736,14 +44736,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Bharat Petroleum",
-    "latitude": 21.001483,
-    "longitude": 77.80564,
-    "city": "Amravati",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Essar Petrol Pump",
     "latitude": 20.212544,
     "longitude": 78.997968,
@@ -44995,7 +44987,7 @@
     "name": "Indian Oil",
     "latitude": 20.99087,
     "longitude": 77.755273,
-    "city": "Amravati",
+    "city": "",
     "state": "Maharashtra",
     "source": "all_india_fuel"
   },
@@ -45180,38 +45172,6 @@
     "latitude": 20.220063,
     "longitude": 79.018915,
     "city": "",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.680207,
-    "longitude": 77.013963,
-    "city": "Akola",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Bharat Petroleum",
-    "latitude": 20.679017,
-    "longitude": 77.013919,
-    "city": "Akola",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.696871,
-    "longitude": 77.002073,
-    "city": "Akola",
-    "state": "Maharashtra",
-    "source": "all_india_fuel"
-  },
-  {
-    "name": "Indian Oil",
-    "latitude": 20.67143,
-    "longitude": 77.018146,
-    "city": "Akola",
     "state": "Maharashtra",
     "source": "all_india_fuel"
   },
@@ -58040,14 +58000,6 @@
     "source": "all_india_fuel"
   },
   {
-    "name": "Petrol Pump",
-    "latitude": 34.541556,
-    "longitude": 76.150975,
-    "city": "",
-    "state": "Ladakh",
-    "source": "all_india_fuel"
-  },
-  {
     "name": "Indian Oil",
     "latitude": 34.539765,
     "longitude": 74.299138,
@@ -58115,6 +58067,14 @@
     "name": "Karu Fuel Station.",
     "latitude": 33.94603,
     "longitude": 77.727175,
+    "city": "",
+    "state": "Ladakh",
+    "source": "all_india_fuel"
+  },
+  {
+    "name": "Petrol Pump",
+    "latitude": 34.541556,
+    "longitude": 76.150975,
     "city": "",
     "state": "Ladakh",
     "source": "all_india_fuel"

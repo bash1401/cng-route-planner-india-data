@@ -141,7 +141,9 @@
     "longitude": 85.820261,
     "city": "",
     "state": "Odisha",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Odisha",
+    "operator": "GAIL"
   },
   {
     "id": "cng-126d466e",
@@ -1318,13 +1320,14 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-c504138f",
+    "id": "cng-7ce6d36c",
     "name": "Jio-Bp",
-    "latitude": 20.176303,
-    "longitude": 85.640083,
+    "latitude": 20.176353,
+    "longitude": 85.640104,
     "city": "Khordha",
     "state": "Odisha",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Industrial Area, Khurdha Bypass Road, Khordha, Odisha"
   },
   {
     "id": "cng-1dcbdab8",

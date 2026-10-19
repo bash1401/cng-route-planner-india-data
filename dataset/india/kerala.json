@@ -60,7 +60,8 @@
     "longitude": 76.294488,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-c1bceb30",
@@ -78,7 +79,8 @@
     "longitude": 76.271444,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-cb4f456f",
@@ -2400,7 +2402,7 @@
     "longitude": 76.507742,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-8713b20d",
@@ -2436,7 +2438,8 @@
     "longitude": 76.248041,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-cccbdba4",
@@ -2445,7 +2448,8 @@
     "longitude": 76.33074,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-d0d58864",
@@ -5046,7 +5050,9 @@
     "longitude": 76.809615,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala",
+    "operator": "Adani"
   },
   {
     "id": "cng-f4259cf7",
@@ -5325,7 +5331,8 @@
     "longitude": 76.32123,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-8befdafe",
@@ -5361,7 +5368,8 @@
     "longitude": 76.339168,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-22b8bbf5",
@@ -5811,7 +5819,8 @@
     "longitude": 76.370154,
     "city": "",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Kerala"
   },
   {
     "id": "cng-11347e76",
@@ -6984,6 +6993,15 @@
     "source": "cgd_inferred"
   },
   {
+    "id": "cng-8a7e5c17",
+    "name": "Bharath Petroleum",
+    "latitude": 11.113359,
+    "longitude": 76.935314,
+    "city": "Coimbatore",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
     "id": "cng-db7e09dc",
     "name": "Bp",
     "latitude": 11.012646,
@@ -7575,7 +7593,7 @@
     "longitude": 75.443448,
     "city": "Eachur",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-e3a88387",
@@ -7603,15 +7621,6 @@
     "city": "Elavumthitta",
     "state": "Kerala",
     "source": "all_india_fuel"
-  },
-  {
-    "id": "cng-4d2a9184",
-    "name": "Cng Gas Station",
-    "latitude": 11.895107,
-    "longitude": 75.410886,
-    "city": "Elayavoor",
-    "state": "Kerala",
-    "source": "osm_allstations"
   },
   {
     "id": "cng-e745ccde",
@@ -7890,7 +7899,7 @@
     "longitude": 75.368197,
     "city": "Kannur",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-a18bd45f",
@@ -8140,6 +8149,15 @@
     "name": "Ns Petromart",
     "latitude": 11.876338,
     "longitude": 75.39949,
+    "city": "Kannur",
+    "state": "Kerala",
+    "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-b62bce45",
+    "name": "Petrol Station",
+    "latitude": 11.895225,
+    "longitude": 75.410892,
     "city": "Kannur",
     "state": "Kerala",
     "source": "cgd_inferred"
@@ -10212,7 +10230,7 @@
     "longitude": 75.579071,
     "city": "Mattanur",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-42e7f9e1",
@@ -11517,7 +11535,7 @@
     "longitude": 75.350774,
     "city": "Pappinisseri",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "cgd_inferred"
   },
   {
     "id": "cng-18fe2649",
@@ -11760,7 +11778,7 @@
     "longitude": 75.277412,
     "city": "Pazhayangadi",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-25c7cbe0",
@@ -12354,7 +12372,8 @@
     "longitude": 76.721274,
     "city": "Varkala",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Varkala - Parippally - Madathara Road, Varkala, Kerala"
   },
   {
     "id": "cng-e076cea8",
@@ -12474,24 +12493,6 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-7cdb1048",
-    "name": "Indian Oil Corporation",
-    "latitude": 11.204411,
-    "longitude": 76.966248,
-    "city": "coimbatore",
-    "state": "Kerala",
-    "source": "osm_allstations"
-  },
-  {
-    "id": "cng-21f53008",
-    "name": "Indian Oil Corporation",
-    "latitude": 11.112384,
-    "longitude": 76.936262,
-    "city": "coimbatore",
-    "state": "Kerala",
-    "source": "osm_allstations"
-  },
-  {
     "id": "cng-cd2c5e63",
     "name": "Indian Oil Corporation",
     "latitude": 11.07617,
@@ -12499,6 +12500,15 @@
     "city": "coimbatore",
     "state": "Kerala",
     "source": "cgd_inferred"
+  },
+  {
+    "id": "cng-7cdb1048",
+    "name": "Indian Oil Corporation",
+    "latitude": 11.204411,
+    "longitude": 76.966248,
+    "city": "coimbatore",
+    "state": "Kerala",
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-7dfef9ca",
@@ -12759,7 +12769,8 @@
     "longitude": 77.109331,
     "city": "vellayamkudi",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Adimali - Kumily Highway, vellayamkudi, Kerala"
   },
   {
     "id": "cng-8b1a7e1b",
@@ -12804,6 +12815,7 @@
     "longitude": 76.577181,
     "city": "മുവാറ്റുപുഴ",
     "state": "Kerala",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "എംസി റോഡ്, വെള്ളൂർകുന്നം, മുവാറ്റുപുഴ, Kerala"
   }
 ]

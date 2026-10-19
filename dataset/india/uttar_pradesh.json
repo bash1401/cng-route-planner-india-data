@@ -258,16 +258,17 @@
     "longitude": 81.333787,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
-    "id": "cng-de44c5e1",
+    "id": "cng-7caf2f1b",
     "name": "Cng Station",
-    "latitude": 28.388263,
-    "longitude": 79.437774,
+    "latitude": 25.30119,
+    "longitude": 83.039604,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "all_india_fuel"
   },
   {
     "id": "cng-9278fe6c",
@@ -315,13 +316,25 @@
     "source": "all_india_fuel"
   },
   {
-    "id": "cng-9f5611b8",
-    "name": "Gail",
-    "latitude": 25.324442,
-    "longitude": 83.034502,
+    "id": "cng-c6b10cd2",
+    "name": "Gail India Ltd. Cng Station",
+    "latitude": 25.286496,
+    "longitude": 82.968651,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh",
+    "operator": "GAIL"
+  },
+  {
+    "id": "cng-9dd3a2fd",
+    "name": "Hp",
+    "latitude": 26.936769,
+    "longitude": 80.980863,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
     "id": "cng-ba4e0e37",
@@ -348,7 +361,20 @@
     "longitude": 77.610141,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "igl_mgl"
+    "source": "osm",
+    "address": "Uttar Pradesh",
+    "operator": "IGL"
+  },
+  {
+    "id": "cng-aeacd7e8",
+    "name": "Igl-Cng Station",
+    "latitude": 28.446122,
+    "longitude": 77.543288,
+    "city": "",
+    "state": "Uttar Pradesh",
+    "source": "osm",
+    "address": "Uttar Pradesh",
+    "operator": "IGL"
   },
   {
     "id": "cng-010cef85",
@@ -357,7 +383,8 @@
     "longitude": 79.435676,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
     "id": "cng-bfeae735",
@@ -366,7 +393,8 @@
     "longitude": 79.43336,
     "city": "",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Uttar Pradesh"
   },
   {
     "id": "cng-957f75f9",
@@ -2107,12 +2135,12 @@
   },
   {
     "id": "cng-db754ab1",
-    "name": "Cng Station",
+    "name": "Cng Pump",
     "latitude": 26.910529,
     "longitude": 80.948698,
     "city": "Lucknow",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-8c2247b7",
@@ -2185,15 +2213,6 @@
     "city": "Lucknow",
     "state": "Uttar Pradesh",
     "source": "cgd_inferred"
-  },
-  {
-    "id": "cng-9dd3a2fd",
-    "name": "Hp",
-    "latitude": 26.936769,
-    "longitude": 80.980863,
-    "city": "Lucknow",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
   },
   {
     "id": "cng-faee9bec",
@@ -2544,7 +2563,8 @@
     "longitude": 81.255182,
     "city": "Raebareli",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Lucknow Road, Raebareli, Uttar Pradesh"
   },
   {
     "id": "cng-a7944781",
@@ -2553,7 +2573,8 @@
     "longitude": 81.292618,
     "city": "Rewa",
     "state": "Uttar Pradesh",
-    "source": "osm_allstations"
+    "source": "osm",
+    "address": "Old Bus Stand Road, Rewa, Uttar Pradesh"
   },
   {
     "id": "cng-f3dbc157",
@@ -2880,31 +2901,13 @@
     "source": "cgd_inferred"
   },
   {
-    "id": "cng-7caf2f1b",
-    "name": "Cng Station",
-    "latitude": 25.30119,
-    "longitude": 83.039604,
-    "city": "Varanasi",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
-    "id": "cng-c6b10cd2",
-    "name": "Gail India Ltd. Cng Station",
-    "latitude": 25.286496,
-    "longitude": 82.968651,
-    "city": "Varanasi",
-    "state": "Uttar Pradesh",
-    "source": "atgl"
-  },
-  {
     "id": "cng-330fc50e",
-    "name": "सरसवती पेटरोल पंप एवं सी.एन.जी. फीलिंग",
+    "name": "Saraswati Petrol Pump And Cng Filling Station",
     "latitude": 25.26721,
     "longitude": 82.966091,
     "city": "Varanasi",
     "state": "Uttar Pradesh",
-    "source": "atgl"
+    "source": "nominatim_grid"
   },
   {
     "id": "cng-6aa8cf90",
